@@ -11,3 +11,7 @@ Add the contents of this repo to a `/.claude` folder in the root of your Obsidia
 - [Obsidian Flavored Markdown](https://help.obsidian.md/obsidian-flavored-markdown) `.md`
 - [Obsidian Bases](https://help.obsidian.md/bases/syntax) `.base`
 - [JSON Canvas](https://jsoncanvas.org/) `.canvas`
+
+### Entity linking and knowledge graph building
+
+- **Entity Linking** - Automatically create and link to markdown files for entities (people, terms, concepts, artifacts, organizations). Builds a connected knowledge graph using Obsidian wikilinks and structured directories.

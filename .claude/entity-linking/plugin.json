@@ -1,0 +1,20 @@
+{
+  "name": "entity-linking",
+  "version": "1.0.0",
+  "description": "Automatically create and link to markdown files for entities (people, terms, concepts, artifacts, organizations). Builds a connected knowledge graph using Obsidian wikilinks.",
+  "author": {
+    "name": "Custom Skill"
+  },
+  "license": "MIT",
+  "keywords": [
+    "obsidian",
+    "entities",
+    "knowledge-graph",
+    "linking",
+    "people",
+    "concepts",
+    "terms",
+    "zettelkasten",
+    "pkm"
+  ]
+}
