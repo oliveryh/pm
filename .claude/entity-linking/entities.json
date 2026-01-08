@@ -1,0 +1,170 @@
+{
+  "entity_types": [
+    {
+      "type": "person",
+      "directory": "People",
+      "description": "Individuals, authors, historical figures, colleagues",
+      "template": {
+        "frontmatter": {
+          "entity_type": "person",
+          "tags": ["people"],
+          "role": "",
+          "organization": ""
+        },
+        "sections": [
+          "## Overview",
+          "## Background",
+          "- **Role**:",
+          "- **Organization**:",
+          "- **Expertise**:",
+          "## Related Notes",
+          "## Key Contributions",
+          "## References"
+        ]
+      }
+    },
+    {
+      "type": "concept",
+      "directory": "Concepts",
+      "description": "Ideas, theories, principles, methodologies",
+      "template": {
+        "frontmatter": {
+          "entity_type": "concept",
+          "tags": ["concepts"],
+          "domain": ""
+        },
+        "sections": [
+          "## Definition",
+          "## Key Ideas",
+          "## Examples",
+          "## Related Concepts",
+          "## Applications",
+          "## References"
+        ]
+      }
+    },
+    {
+      "type": "term",
+      "directory": "Terms",
+      "description": "Technical terms, definitions, vocabulary",
+      "template": {
+        "frontmatter": {
+          "entity_type": "term",
+          "tags": ["terms", "definitions"],
+          "domain": ""
+        },
+        "sections": [
+          "## Definition",
+          "## Usage",
+          "## Examples",
+          "## Related Terms",
+          "## References"
+        ]
+      }
+    },
+    {
+      "type": "organization",
+      "directory": "Organizations",
+      "description": "Companies, institutions, groups, teams",
+      "template": {
+        "frontmatter": {
+          "entity_type": "organization",
+          "tags": ["organizations"],
+          "type": ""
+        },
+        "sections": [
+          "## Overview",
+          "## Key Information",
+          "- **Type**:",
+          "- **Industry**:",
+          "- **Founded**:",
+          "- **Website**:",
+          "## Related People",
+          "## Projects/Products",
+          "## References"
+        ]
+      }
+    },
+    {
+      "type": "artifact",
+      "directory": "Artifacts",
+      "description": "Books, papers, projects, products, tools",
+      "template": {
+        "frontmatter": {
+          "entity_type": "artifact",
+          "tags": ["artifacts"],
+          "type": "",
+          "author": "",
+          "published": ""
+        },
+        "sections": [
+          "## Overview",
+          "## Key Information",
+          "- **Type**:",
+          "- **Author**:",
+          "- **Published**:",
+          "- **URL/Source**:",
+          "## Summary",
+          "## Key Concepts",
+          "## Related Artifacts",
+          "## References"
+        ]
+      }
+    },
+    {
+      "type": "location",
+      "directory": "Locations",
+      "description": "Places, cities, venues, sites",
+      "template": {
+        "frontmatter": {
+          "entity_type": "location",
+          "tags": ["locations"],
+          "type": ""
+        },
+        "sections": [
+          "## Overview",
+          "## Key Information",
+          "- **Type**:",
+          "- **Region/Country**:",
+          "## Significance",
+          "## Related Entities",
+          "## References"
+        ]
+      }
+    },
+    {
+      "type": "event",
+      "directory": "Events",
+      "description": "Conferences, meetings, historical events",
+      "template": {
+        "frontmatter": {
+          "entity_type": "event",
+          "tags": ["events"],
+          "date": "",
+          "location": ""
+        },
+        "sections": [
+          "## Overview",
+          "## Key Information",
+          "- **Date**:",
+          "- **Location**:",
+          "- **Organizer**:",
+          "## Participants",
+          "## Key Outcomes",
+          "## Related Notes",
+          "## References"
+        ]
+      }
+    }
+  ],
+  "naming_conventions": {
+    "case": "title",
+    "separator": "space",
+    "description": "Use title case with spaces (e.g., 'Martin Fowler.md')"
+  },
+  "linking_strategy": {
+    "first_mention": true,
+    "avoid_over_linking": true,
+    "bidirectional": true
+  }
+}
