@@ -1,0 +1,1 @@
+- [Disaster Lessons by Anoop Dixith](https://anoopdixith.com/disasters)

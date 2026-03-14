@@ -1,0 +1,2 @@
+- [Intro | Putting the "You" in CPU](https://cpu.land/)
+- [A brief history of computers — LessWrong](https://www.lesswrong.com/posts/vfRpzyGsikujm9ujj/a-brief-history-of-computers)

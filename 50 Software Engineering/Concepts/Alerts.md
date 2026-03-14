@@ -1,0 +1,1 @@
+- [Change Detection IO](https://github.com/dgtlmoon/changedetection.io) - Use this to detect changes in HTML or JSON. Could be used to detect estate agent website changes, ticket sales etc.

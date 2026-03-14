@@ -1,0 +1,3 @@
+- [How to Learn Nix](https://ianthehenry.com/posts/how-to-learn-nix)
+- [Why I use Nix and make(1) to develop](https://gluer.org/blog/2023/developing-with-nix-and-make/)
+- [NixOS: A personal post-mortem | Nathan Kim](https://nathan-kim.org/writing/nixos-post-mortem)

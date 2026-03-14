@@ -1,0 +1,11 @@
+- https://d2lang.com/
+- Graphviz
+- [[Mermaid JS]]
+- https://github.com/nielsvanspauwen/pystructurizr
+- [DAGitty - drawing and analyzing causal diagrams (DAGs)](https://dagitty.net/)
+- https://monodraw.helftone.com/
+- D3JS
+	- https://www.fullstackpython.com/d3-js.html
+- Cytoscape
+	- https://js.cytoscape.org
+	- https://blog.js.cytoscape.org/2020/05/11/layouts/

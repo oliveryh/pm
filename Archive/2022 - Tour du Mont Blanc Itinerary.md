@@ -1,0 +1,13 @@
+- Aug 10 — Flew London Heathrow → Geneva, transferred to Chamonix. Unknown accommodation.
+ - Aug 11 — Gîte Les Méandres
+ - Aug 12 — Gîte Les Mélèzes (Les Contamines-Montjoie)
+ - Aug 13 — Refuge des Mottets
+ - Aug 14 — Rifugio Maison Vieille
+ - Aug 15 — Rifugio Giorgio Bertone
+ - Aug 16 — Hotel Restaurant Lavachey
+ - Aug 17 — Maya Joie, L'auberge
+ - Aug 18 — Auberge Gîte Bon Abri
+ - Aug 19 — Auberge du Mont Blanc (Trient)
+ - Aug 20 — Le Dahu (Argentière)
+ - Aug 21–22 — Heliopic Hotel & Spa (Chamonix)
+ - Aug 23 — Flew Geneva → London Heathrow

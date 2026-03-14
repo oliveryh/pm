@@ -1,0 +1,2 @@
+- [Introducing Arquero / UW Interactive Data Lab / Observable](https://observablehq.com/@uwdata/introducing-arquero)
+- [DTL - Data Transformation Language!](https://getdtl.org/)

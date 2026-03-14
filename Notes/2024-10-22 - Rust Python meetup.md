@@ -1,0 +1,3 @@
+- grimp used by Kraken
+- Use of dis to check operations when running python
+- Interestingly, the pydantic founder said that Rich was likely an example of a library that is seriously limited by its use of python when interacting with a low level interface like ncurses and suggested it could benefit from a rewrite in Rust

@@ -1,0 +1,3 @@
+ - [Photogrammetry-Guide (mikeroyal) (624 ★)](https://github.com/mikeroyal/Photogrammetry-Guide) - Photogrammetry Guide. Learn all about the process of obtaining measurements and 3D models from photos. Creating topographic maps, meshes, or point clouds based on the real-world.
+ - Possibly could use ControlNet
+ - [Creating Isometric RPG Game Backgrounds](https://talesofsyn.com/posts/creating-isometric-rpg-game-backgrounds)

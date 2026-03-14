@@ -1,0 +1,31 @@
+- [reflex (reflex-dev) (15.7k ★)](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
+- Video of migration from React to htmx
+- Possibly learning how to create prompts for GPT-4 and seeing what applications there are in my own life
+- Try out Motion Canvas tool
+- [Open sourcing Cody](https://about.sourcegraph.com/blog/open-sourcing-cody)
+- https://www.quadratichq.com/
+- https://support.google.com/docs/answer/12935277
+- Helix Editor - a bit like Lazy Vim / Neovim but has some things set up in advance
+- Datasette Enrich Plugin
+- [Console Ninja for Vue](https://www.youtube.com/watch?v=bmKDT-yG2eE&list=PLMk4eMXzMeNIcsmOgC88J8YRRBTrBC0Ho&index=29)
+- [Supertone Shift](https://product.supertone.ai/shift)
+- DuckDB
+- DHH interview on Lex Friedman
+- Upgrade Obsidian plugin
+- Convex or Zero Rocicorp experiment
+- Reading Data intensive apps book
+- Raycast scripts
+- Gaussian splatting (https://li-yuetao.github.io/ActiveSplat/)
+- [Algorithms Textbook](http://jeffe.cs.illinois.edu/teaching/algorithms/)
+- https://tldraw-present.netlify.app/ - Example of an extension of tldraw deployed to netlify
+- Try out github spark - the v0 / val.town alternative
+- Try out https://github.com/github/gh-copilot?
+- https://www.val.town
+- Thymer - An IDE for markdown notes
+- https://www.inkdrop.app/
+- Timeguesser
+- Begleri toy
+- https://kolorize.cc/
+- Check to see what Google take out has on me
+
+![[Pasted image 20240622162856.png]]

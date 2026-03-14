@@ -1,0 +1,1 @@
+Peter Wang talks about "Status Games" in one of [Lex Fridman's](https://podcasts.google.com/feed/aHR0cHM6Ly9sZXhmcmlkbWFuLmNvbS9mZWVkL3BvZGNhc3Qv/episode/aHR0cHM6Ly9sZXhmcmlkbWFuLmNvbS8_cD00ODcy?ep=14) podcasts. The taking part of these games (like wanting the latest sneakers) is destroying the world.

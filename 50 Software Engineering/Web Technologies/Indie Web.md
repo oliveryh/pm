@@ -1,0 +1,7 @@
+- [1MB Club: A collection of web pages weighing in less than 1MB](https://1mb.club)
+- [Ask HN: How do you find the weird parts of the web? | Hacker News](https://news.ycombinator.com/item?id=32804832)
+- [CrowdView](https://crowdview.ai/) - Forum Search Engine
+- [Neal.fun](https://neal.fun/)
+- [BlogScroll - Personal Blog & Site Directory](https://blogscroll.com/)
+- [omg.lol - A lovable web page and email address, just for you](http://omg.lol)
+- http://100r.co/

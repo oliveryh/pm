@@ -1,0 +1,7 @@
+- [BAM - bamboo clothing](https://bambooclothing.co.uk/)
+- [Uniqlo - Lifewear](https://www.uniqlo.com/uk/en/home/) (Update: Quite disappointed with the quality of their underwear)
+- [Patagonia - Outdoor clothing and gear](http://eu.patagonia.com/gb/en/home/)
+- [Finisterre - Sustainable clothing](https://finisterre.com/pages/mens-home)
+- [ETHCS - Vegan clothing](https://ethcs.com/)
+- [MeUndis - Feel good underwear for men and women](https://www.meundies.com/)
+- Lucy & Yak

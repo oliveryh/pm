@@ -1,0 +1,9 @@
+- Fin x Linear
+	- chatprd - Produce plans for tasks
+		- Apparently they also have a good podcast
+	- Follow granola on twitter to find out about their events
+	- Met with Chris working at Intercom
+		- Said that they use ML to scrape CS conversations relating to particular category of query to pull out what the process looks like without having to get someone to write it down
+	- Met a few people
+		- Chris from Fin
+		- Nicko (Follows granola on Twitter)

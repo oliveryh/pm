@@ -1,0 +1,7 @@
+- [OR8 Design](https://www.or8design.com/) - ICK and TB recommended this
+- [Mike Lynch Cartoons: How to Cartoon Book: "Points on Cartooning" by George Carlson (1937)](http://mikelynchcartoons.blogspot.com/2023/04/how-to-cartoon-book-points-on.html)
+- [Illustrations of the Natural Orders of Plants - C82: Works of Nicholas Rougeux](https://www.c82.net/work/?id=373)
+- [Unique Art Prints & Streetwear Apparel by Boring Friends](https://boringfriends.ca/)
+- [The Art Coach](https://www.youtube.com/@The_Art_Coach)
+- [Benjamin Paper](https://www.youtube.com/@BenjionPaper)
+- Frit pattern is another name for dither when applied to glass 

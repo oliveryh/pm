@@ -1,0 +1,19 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Collections/Books")
+        - file.name != "Books"
+        - file.name != "Books.base"
+        - "!completed.isEmpty()"
+    order:
+      - file.name
+      - author
+      - completed
+      - rating
+    sort:
+      - property: completed
+        direction: DESC
+      - property: rating
+        direction: DESC
