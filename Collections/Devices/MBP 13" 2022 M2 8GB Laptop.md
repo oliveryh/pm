@@ -1,0 +1,1 @@
+- [ ] Check laptop is wiped

@@ -1,0 +1,5 @@
+Syncs::[[MBP 13" 2020 i5 16GB Laptop]]
+Syncs::[[MBP 13" 2022 M2 8GB Laptop]]
+Syncs::[[iPad Pro]]
+Input::[[Collections/Accounts/Spotify|Spotify]]
+Input::[[Collections/Accounts/GitHub|GitHub]]
