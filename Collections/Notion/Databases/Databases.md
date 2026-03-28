@@ -57,20 +57,7 @@ const { createButton } = this.app.plugins.plugins["buttons"];
 createButton({ app, el: this.container, args: { name: "🔄 Sync Notion Databases" }, clickOverride: { click: clickHandler, params: [] }, });
 ```
 
-```dataviewjs
-dv.table(
-	["Title", "Created", "Last Edited", "Deleted"],
-	dv.pages('"Collections/Notion/Databases"')
-		.sort(t => t.last_edited_time, 'desc')
-	    .where(t => t.file.name != "Databases")
-	    .map(t => [
-		    dv.el('a', t.file.name, { attr: { href: t.url }}),
-		    new Date(t.created_time).toISOString().split('T')[0],
-		    new Date(t.last_edited_time).toISOString().split('T')[0],
-		    t.deleted ? ":RiDeleteBin5Line:" : "",
-		])
-    )
-```
+![[Notion Databases.base]]
 
 # Database Use cases
 

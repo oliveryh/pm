@@ -27,18 +27,7 @@ const { createButton } = this.app.plugins.plugins["buttons"];
 createButton({ app, el: this.container, args: { name: "🔄 Sync Apps" }, clickOverride: { click: clickHandler, params: [] }, });
 ```
 
-```dataviewjs
-dv.table(
-	["Name", "Deleted"],
-	dv.pages('"Collections/iPhone/Apps"')
-	    .where(t => t.file.name != "Apps")
-	    .sort(t => t.file.name)
-	    .map(t => [
-		    dv.el('a', t.file.name, { attr: { href: `obsidian://show-plugin?id=${t.id}` }}),
-		    t.deleted ? ":RiDeleteBin5Line:" : "",
-		])
-    )
-```
+![[Apps.base]]
 # Reference
 
 ## Process to get app CSV

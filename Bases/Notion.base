@@ -1,0 +1,14 @@
+filters:
+  and:
+    - file.inFolder("Collections/Notion")
+    - file.name != "Notion"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - url
+      - created_time
+    sort:
+      - property: created_time
+        direction: DESC

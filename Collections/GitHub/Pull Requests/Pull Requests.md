@@ -72,18 +72,7 @@ const { createButton } = this.app.plugins.plugins["buttons"];
 createButton({ app, el: this.container, args: { name: "🔄 Sync Assigned PRs" }, clickOverride: { click: clickHandler, params: [] }, });
 ```
 
-```dataview
-TABLE WITHOUT ID
-	choice(isDraft, "📝", "") AS "Draft",
-	number AS "Number",
-	repoNameWithOwner AS "Repo",
-	elink(url, title) AS "Title",
-	dateformat(createdAt, "yyyy-MM-dd") AS "Created Date",
-	reviewDecision
-FROM "Collections/GitHub/Pull Requests"
-SORT number DESC
-WHERE file.name != "Pull Requests"
-```
+![[GitHub Pull Requests.base]]
 - [ ] Add open pull requests as dynamic list
 - [ ] Display approval status
 - [ ] Display time since raised

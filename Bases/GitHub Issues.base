@@ -1,0 +1,17 @@
+filters:
+  and:
+    - file.inFolder("Collections/GitHub/Issues")
+    - file.name != "Issues"
+formulas:
+  state_icon: if(state == "CLOSED", "✅", "")
+properties:
+  formula.state_icon:
+    displayName: State
+views:
+  - type: table
+    name: Table
+    order:
+      - number
+      - title
+      - formula.state_icon
+      - url

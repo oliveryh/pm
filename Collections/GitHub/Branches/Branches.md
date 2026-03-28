@@ -72,13 +72,7 @@ const { createButton } = this.app.plugins.plugins["buttons"];
 createButton({ app, el: this.container, args: { name: "🔄 Sync My Branches" }, clickOverride: { click: clickHandler, params: [] }, });
 ```
 
-```dataview
-TABLE WITHOUT ID
-	elink(url, title) AS "Title"
-FROM "Collections/GitHub/Branches"
-SORT file.name ASC
-WHERE file.name != "Branches"
-```
+![[GitHub Branches.base]]
 
 - [x] Add pagination to GitHub requests
 - [ ] Warn of this being an expensive request

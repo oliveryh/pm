@@ -1,0 +1,14 @@
+filters:
+  and:
+    - file.inFolder("Collections/iPhone/Apps")
+    - file.name != "Apps"
+
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - deleted
+    sort:
+      - property: file.name
+        direction: ASC

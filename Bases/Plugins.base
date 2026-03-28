@@ -1,0 +1,15 @@
+filters:
+  and:
+    - file.inFolder("Collections/Obsidian/Plugins")
+    - file.name != "Plugins"
+
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - active
+      - deleted
+    sort:
+      - property: file.name
+        direction: ASC

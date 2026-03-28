@@ -1,0 +1,13 @@
+filters:
+  and:
+    - file.inFolder("Collections/GitHub/Branches")
+    - file.name != "Branches"
+views:
+  - type: table
+    name: Table
+    order:
+      - title
+      - url
+    sort:
+      - property: file.name
+        direction: ASC

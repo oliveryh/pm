@@ -75,19 +75,7 @@ createButton({ app, el: this.container, args: { name: "🔄 Sync Repos" }, click
 ```
 
 
-```dataview
-TABLE WITHOUT ID
-	elink(url, name) AS "Name",
-	choice(isArchived, "📦", "") AS "Archived",
-	choice(isPrivate, "🔒", "") AS "Private",
-	dateformat(createdAt, "yyyy-MM-dd") AS "Created Date",
-	issueCount,
-	stargazerCount AS ⭐,
-	choice(deleted, "🗑️", "") AS "Deleted"
-FROM "Collections/GitHub/Repos"
-SORT isArchived ASC, isPrivate ASC, issueCount DESC
-WHERE file.name != "Repos"
-```
+![[GitHub Repos.base]]
 
 # Tasks
 

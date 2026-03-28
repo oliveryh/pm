@@ -30,16 +30,4 @@ const { createButton } = this.app.plugins.plugins["buttons"];
 createButton({ app, el: this.container, args: { name: "🔄 Sync Plugins" }, clickOverride: { click: clickHandler, params: [] }, });
 ```
 
-```dataviewjs
-dv.table(
-	["Name", "Active", "Deleted"],
-	dv.pages('"Collections/Obsidian/Plugins"')
-	    .where(t => t.file.name != "Plugins")
-	    .sort(t => t.file.name)
-	    .map(t => [
-		    dv.el('a', t.file.name, { attr: { href: `obsidian://show-plugin?id=${t.id}` }}),
-		    t.active ? ":LiCheckCircle2:" : "",
-		    t.deleted ? ":RiDeleteBin5Line:" : "",
-		])
-    )
-```
+![[Plugins.base]]

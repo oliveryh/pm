@@ -1,0 +1,26 @@
+filters:
+  and:
+    - file.inFolder("Collections/GitHub/Pull Requests")
+    - file.name != "Pull Requests"
+formulas:
+  draft_icon: if(isDraft, "📝", "")
+  created_date: if(createdAt, date(createdAt).format("YYYY-MM-DD"), "")
+properties:
+  formula.draft_icon:
+    displayName: Draft
+  formula.created_date:
+    displayName: Created Date
+views:
+  - type: table
+    name: Table
+    order:
+      - formula.draft_icon
+      - number
+      - repoNameWithOwner
+      - title
+      - url
+      - formula.created_date
+      - reviewDecision
+    sort:
+      - property: number
+        direction: DESC

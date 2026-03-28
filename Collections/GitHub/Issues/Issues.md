@@ -61,29 +61,7 @@ const { createButton } = this.app.plugins.plugins["buttons"];
 createButton({ app, el: this.container, args: { name: "🔄 Sync Assigned Issues" }, clickOverride: { click: clickHandler, params: [] }, });
 ```
 
-```dataviewjs
-const {createButton} = app.plugins.plugins["buttons"]
-
-const copyLinkToClipboard = (t) => {
-	const htmlLink = `[#${t.number} - ${t.title}](${t.url})`
-	return () => { navigator.clipboard.writeText(htmlLink) }
-}
-
-dv.table(
-	["Title", "State", ""],
-	dv.pages('"Collections/GitHub/Issues"')
-	    .where(t => t.file.name != "Issues")
-	    .map(t => [
-		    `#${t.number} - ${t.title}`,
-		    t.state === 'CLOSED' ? ":LiCheckCircle2:" : "",
-		    createButton({
-			    app,
-			    el: this.container,
-			    args: { name: "📋 Copy Link" },
-			    clickOverride: { click: copyLinkToClipboard(t), params: [] }, })
-		])
-    )
-```
+![[GitHub Issues.base]]
 - [x] Add button to copy to markdown
 - [x] Click may be getting overridden as the last row
 - [ ] Add org/repo reference in table

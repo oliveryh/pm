@@ -1,0 +1,39 @@
+filters:
+  and:
+    - file.inFolder("Collections/GitHub/Repos")
+    - file.name != "Repos"
+formulas:
+  archived_icon: if(isArchived, "📦", "")
+  private_icon: if(isPrivate, "🔒", "")
+  created_date: if(createdAt, date(createdAt).format("YYYY-MM-DD"), "")
+  deleted_icon: if(deleted, "🗑️", "")
+properties:
+  formula.archived_icon:
+    displayName: Archived
+  formula.private_icon:
+    displayName: Private
+  formula.created_date:
+    displayName: Created Date
+  formula.deleted_icon:
+    displayName: Deleted
+  stargazerCount:
+    displayName: ⭐
+views:
+  - type: table
+    name: Table
+    order:
+      - name
+      - url
+      - formula.archived_icon
+      - formula.private_icon
+      - formula.created_date
+      - issueCount
+      - stargazerCount
+      - formula.deleted_icon
+    sort:
+      - property: isArchived
+        direction: ASC
+      - property: isPrivate
+        direction: ASC
+      - property: issueCount
+        direction: DESC
