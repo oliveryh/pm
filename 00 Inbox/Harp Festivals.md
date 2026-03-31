@@ -1,0 +1,20 @@
+- First/Second Stickers
+- Folder to put music copies in
+- Post-it notes
+- Pens
+- Blue Tac
+- Signs
+	- Use other door
+	- Please do not enter between performances
+	- Practice Room (1, 2, 3)
+	- Toilet
+- Certificates
+- Mark Sheets
+- Admission tickets
+	- Competitor
+	- General Admission
+- Wifi Password
+- Programme
+	- Suggest no recording
+	- Don't video adjudicator/adjudication
+- Check day of the week Camac can visit out of Sat/Sun so they have a better chance of sending a representative

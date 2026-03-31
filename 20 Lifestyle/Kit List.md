@@ -26,3 +26,5 @@
 - Keep cup
 - Notebook
 - Earphones
+- Padlock
+- Face cream
