@@ -41,11 +41,7 @@ There are sync scripts that generally do the following
 
 ## Design Patterns
 
-I've explored a few basic design patterns
-
-- [[Random Fact]] - Demonstrating displaying content based on an external API fetch
-- [[Refuse Collection]] - Demonstrating JS affecting content without any external fetching
-- [[Button Test]] - Demonstrates a basic button
+I've explored a few basic design patterns in [[2025 - DataviewJS]]
 
 # Future Changes
 
@@ -57,7 +53,7 @@ There are some future changes that could be worked on
 	- [x] iPhone apps
 	- [x] Notion pages
 	- [ ] Apple Podcasts
-	- [ ] Twitter saved items
+	- [x] Twitter saved items
 	- [ ] Discord channels
 - [ ] Try out Datacore with [example vault](https://forum.obsidian.md/t/starter-vault-things-3-full-featured-datacore-task-management-system-zettelkasten-lookup-para-structure/87754)
 - [ ] Extract useful functionality from [here](https://discord.com/channels/1219902517304098836/1248851796810530816/1385726838223147058)

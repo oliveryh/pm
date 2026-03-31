@@ -16,3 +16,4 @@ There are all these maintenance costs associated with all this, and I'm getting 
 - [codex-autorunner (Git-on-my-level) (14 ★)](https://github.com/Git-on-my-level/codex-autorunner) 
 - [my-personal-ai-assistant-clawdbot-seneca - AIXplore - Tech Articles](https://ai.rundatarun.io/Practical+Applications/my-personal-ai-assistant-clawdbot-seneca)
 - [Every, ▶ *Claude Code Can Be Your Second Brain*, (2025)](https://youtu.be/8V9tZwgjiRs)
+- https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Claude+Code+Tips+and+Best+Practices

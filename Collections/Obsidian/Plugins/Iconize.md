@@ -1,6 +1,6 @@
 ---
 id: obsidian-icon-folder
-active: true
+active: false
 deleted: false
 ---
 - Unmaintained since March 2025

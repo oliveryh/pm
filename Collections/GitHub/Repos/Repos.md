@@ -80,7 +80,6 @@ createButton({ app, el: this.container, args: { name: "🔄 Sync Repos" }, click
 # Tasks
 
 - [x] Add soft deletion
-- [ ] Sync Repos button is broken
 # Log
 
 ## 2025-12-19

@@ -2,7 +2,6 @@ filters:
   and:
     - file.inFolder("Collections/iPhone/Apps")
     - file.name != "Apps"
-
 views:
   - type: table
     name: Table

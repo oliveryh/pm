@@ -22,11 +22,11 @@ views:
   - type: table
     name: Table
     order:
+      - formula.created_date
       - name
       - url
       - formula.archived_icon
       - formula.private_icon
-      - formula.created_date
       - issueCount
       - stargazerCount
       - formula.deleted_icon
@@ -37,3 +37,6 @@ views:
         direction: ASC
       - property: issueCount
         direction: DESC
+    columnSize:
+      note.url: 116
+      note.issueCount: 125

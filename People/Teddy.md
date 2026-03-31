@@ -13,6 +13,11 @@ Teddy is a cat.
 
 # Log
 
+## 2026-03-30
+
+- Teddy vomited up grass today
+- He also got into a fight with another cat and had a claw lodged in the fur in his head. I could see any blood, but I should keep an eye on it
+
 ## 2026-03-25
 
 - Feeder appears to dispense 7g per unit
@@ -29,3 +34,26 @@ Teddy is a cat.
 - Tracking collar only pings when near other phones, so would sometimes go quiet for 10-20 minutes
 - Sound notification doesn't work unless you're very nearby
 - Still wailing quite a lot today, most likely because he's hungry
+
+## 2026-03-09
+
+Visited the vet
+
+Cat flu Leukimia jabs 
+
+- Weight is good
+	- Recommend 40-45g dry + 2 wet sachets per day
+- Teeth health may not be great
+	- Suggest some dental sticks for cats
+- Plucking stomach
+- Potential allergies for cats
+	- Flea bits
+	- Food
+		- Fixing this usually entails a 8 week restricted food trial
+	- Environmental allergens
+- Scratch post prefer vertical post
+- They cleared his anal gland during the visit
+- Hills TD
+- They gave Teddy a flea and worm treatment and showed us how to administer it
+	- Needs to be on the head but not too high so it can easily be wiped off
+	- Shouldn't stroke him for a few hours after treatment

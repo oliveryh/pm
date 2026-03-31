@@ -1,6 +1,6 @@
 ---
 id: readwise-official
-active: true
+active: false
 deleted: false
 ---
 Syncs::[[Readwise Reader]]

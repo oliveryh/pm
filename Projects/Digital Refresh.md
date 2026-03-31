@@ -27,28 +27,49 @@ Some things to avoid too:
 		- [ ] Books could be consolidated with Collection notes
 - [ ] Plugins
 	- [x] Go through each plugin and either delete from Second Brain or transfer to pm
+	- [ ] Recreate extended graph view again
 - [ ] Appearance
 	- [ ] Theme
-- [ ] Improve
-	- [ ] Replace Dataview with Obsidian Bases where possible and if it looks better
-- [ ] Tear Down
-	- [ ] Set up a 1 way sync between this vault and a GitHub repo
-		- Possibly using the headless sync mode and a GitHub action
-	- [ ] Remove mobile
-		- [ ] Second Brain vault
-		- [x] Working Copy app
-		- [x] Apple shortcuts
+- [x] Improve
+	- [x] Replace Dataview with Obsidian Bases where possible and if it looks better
+- [x] Remove mobile
+	- [x] Second Brain vault
+	- [x] Working Copy app
+	- [x] Apple shortcuts
 - [ ] GitHub Repo
 	- [x] Restore changes after commit `45d287e`
-	- [ ] Set up a 1 way sync between this and a GitHub repo
-	- [ ] Rewrite history in `second-brain` repo
-		- [ ] Group commits into days
-		- [ ] Remove files that were accidentally committed
-		- [ ] Ensure commit dates don't change
-- [ ] Johny Decimal naming
+	- [x] Rewrite history in `second-brain` repo
+		- [x] Group commits into days
+		- [x] Remove files that were accidentally committed (Ensure commit dates don't change)
+	- [x] Keep second-brain repo relatively up to date with `pm` after making changes
+	- [ ] Set up a 1 way sync between pm synced files and second-brain repo
 - [x] Collections
 	- [x] Migrate to pm
+- [ ] Notion to Obsidian migration
+	- [ ] Rename full dates with YYYY-MM-DD and possibly install plugin to do @today handle etc.
+	- [ ] Remove links from [[2023 - Goodreads Books]]
+	- [ ] Import using [official data loader](https://obsidian.md/help/import/notion) for remainder of the notes
+	- [ ] Work out how to save Claude dotfiles correctly
 
+
+# Migration Candidates
+
+There are some key places I store data that I’d like to consolidate into Obsidian if possible
+
+- Notion
+- Piclo Obsidian repo
+- Google Drive
+	- Google Docs
+	- Google Sheets
+	- Other files
+- iCloud Files
+- Dropbox
+- External storage (SSDs, SD cards)
+
+There are some places this may not be suitable
+
+- Large files
+- Long term vault. Files that I want to keep but won’t be regularly viewing
 # Flow of Data
 
 ```mermaid
@@ -58,6 +79,16 @@ graph LR
 	gd[Google Drive] --> iCloud
 ```
 # Log
+
+## 2026-03-31
+
+- Transferred Archived files from Notion
+- Process was clunky with Claude Code, so I'll probably use the standard loader for the remainder of the files
+
+## 2026-03-30
+
+- Migrated Notion archive export into the vault: created 27 notes in `Archive/` with clean `YYYY - Name` filenames, stripping Notion hashes and "(Archived @...)" suffixes
+- Added pagination to the Notion Pages sync script (`Pages.md`) to fetch beyond the 100-result API limit
 
 ## 2026-03-25
 

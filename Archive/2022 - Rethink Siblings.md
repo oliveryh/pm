@@ -77,5 +77,5 @@
 
 ## Tasks
 
-- [ ] https://www.futurelearn.com/courses/caring-psychosis-schizophrenia
+- https://www.futurelearn.com/courses/caring-psychosis-schizophrenia
 - [ ] Other people have suggested counciling / private therapy
