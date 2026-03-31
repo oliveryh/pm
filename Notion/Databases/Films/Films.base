@@ -1,0 +1,26 @@
+filters:
+  and:
+    - note["base"] == link("Films.base")
+properties:
+  file.name:
+    displayName: Title
+  Director:
+    displayName: Director
+  Year of Release:
+    displayName: Year of Release
+  Genre:
+    displayName: Genre
+  Keywords:
+    displayName: Keywords
+  Synopsis:
+    displayName: Synopsis
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Director
+      - Year of Release
+      - Genre
+      - Keywords
+      - Synopsis

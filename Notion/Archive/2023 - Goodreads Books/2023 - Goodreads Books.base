@@ -1,0 +1,26 @@
+filters:
+  and:
+    - note["base"] == link("2023 - Goodreads Books.base")
+properties:
+  file.name:
+    displayName: Title
+  Goodreads Score:
+    displayName: Goodreads Score
+  Created:
+    displayName: Created
+  Year:
+    displayName: Year
+  Author:
+    displayName: Author
+  Date Added:
+    displayName: Date Added
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Goodreads Score
+      - Created
+      - Year
+      - Author
+      - Date Added

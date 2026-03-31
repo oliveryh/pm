@@ -1,0 +1,49 @@
+# New database
+
+filters:
+  and:
+    - note["base"] == link("New database.base")
+formulas:
+  Chance %: '((100 * note["Places #"]) / note["Applicants #"]).floor()'
+properties:
+  file.name:
+    displayName: Degree
+  Shortlisted:
+    displayName: Shortlisted
+  Course Link:
+    displayName: Course Link
+  "Applicants #":
+    displayName: "Applicants #"
+  Funding (E):
+    displayName: Funding (E)
+  "Uni #":
+    displayName: "Uni #"
+  University:
+    displayName: University
+  "Places #":
+    displayName: "Places #"
+  Status:
+    displayName: Status
+  Open (E):
+    displayName: Open (E)
+  Deadline (E):
+    displayName: Deadline (E)
+  Cost:
+    displayName: Cost
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Shortlisted
+      - Course Link
+      - "Applicants #"
+      - Funding (E)
+      - "Uni #"
+      - University
+      - "Places #"
+      - Status
+      - Open (E)
+      - Deadline (E)
+      - Cost
+      - formula.Chance %

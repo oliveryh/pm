@@ -15,13 +15,22 @@ const clickHandler = async () => {
 		Authorization: `Bearer ${token}`, "Notion-Version": "2022-06-28", "Content-Type": "application/json",
 	};
 
-	const response = await request({
-		url: `https://api.notion.com/v1/search`, method: "POST", headers: requestHeaders, body: JSON.stringify(body),
-	});
+	let allResults = [];
+	let hasMore = true;
+	let startCursor = undefined;
+	while (hasMore) {
+		const bodyWithCursor = startCursor ? { ...body, start_cursor: startCursor } : body;
+		const response = await request({
+			url: `https://api.notion.com/v1/search`, method: "POST", headers: requestHeaders, body: JSON.stringify(bodyWithCursor),
+		});
+		const data = JSON.parse(response);
+		allResults = allResults.concat(data.results);
+		hasMore = data.has_more;
+		startCursor = data.next_cursor;
+	}
 
-	const data = JSON.parse(response);
 	let createdFiles = new Set()
-	for (const result of data.results) {
+	for (const result of allResults) {
 		const url = result.url
 		const created_time = result.created_time
 		const last_edited_time = result.last_edited_time
@@ -32,6 +41,7 @@ const clickHandler = async () => {
 		const name = title
 			.replaceAll('/', '-')
 			.replaceAll(':', '-')
+		console.log("name", name)
 		const path = `${folder}/${name}.md`
 		if (title) {
 			createdFiles.add(path)

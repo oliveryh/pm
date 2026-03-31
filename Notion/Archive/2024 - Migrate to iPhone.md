@@ -1,0 +1,59 @@
+---
+
+---
+# Phone Apps Uninstalled
+- Geocaching
+- Everfit
+- CityMapper
+- BBC Sounds
+- Bearable
+- AnkiDroid
+- Accubattery
+- OutdoorActive
+- Niagara Launcher
+- NHS Covid-19
+- Refill
+- MyFitnessPlan
+- Whicons
+- WOMAD UK
+- Before Launcher
+- Indistractable (Launcher)
+- Shop
+- StreetComplete - [https://www.openstreetmap.org/user/oliveryh](https://www.openstreetmap.org/user/oliveryh)
+- HumanForest
+- Trello
+- TicketSwap
+- InoReader
+- GitHub
+- Brave Browser
+- MyAPK
+- PlayTomic
+- FourSquare
+- Journey
+- TooGoodToGo
+- Xbox
+- Uber
+- Waze
+- Komoot
+- App lock
+- Trash Nothing
+- Camscanner
+- VM Connect
+- Zip Car
+- Signal
+- Cross Print
+- NHS App
+- Just eat
+- TPLink Tether
+- LG ThinQ
+- Deliveroo
+- myGP
+- Dropbox
+- TFL Oyster
+- Google Meet
+- Google Translate
+- BOSE Connect
+- Magic Stamp
+- Mindspace
+- Notion
+

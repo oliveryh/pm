@@ -1,0 +1,37 @@
+# Job Candidates
+
+filters:
+  and:
+    - note["base"] == link("Job Candidates.base")
+properties:
+  file.name:
+    displayName: Name
+  Job Title:
+    displayName: Job Title
+  Location:
+    displayName: Location
+  Careers Page:
+    displayName: Careers Page
+  Recruiter:
+    displayName: Recruiter
+  Column:
+    displayName: Column
+  Date Applied:
+    displayName: Date Applied
+  Skills:
+    displayName: Skills
+  Job Link:
+    displayName: Job Link
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Job Title
+      - Location
+      - Careers Page
+      - Recruiter
+      - Column
+      - Date Applied
+      - Skills
+      - Job Link

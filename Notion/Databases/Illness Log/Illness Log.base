@@ -1,0 +1,25 @@
+# Illness Log
+
+filters:
+  and:
+    - note["base"] == link("Illness Log.base")
+properties:
+  file.name:
+    displayName: Ailment
+  Date:
+    displayName: Date
+  Insurance Claim No#:
+    displayName: Insurance Claim No#
+  Status:
+    displayName: Status
+  Insurance Company:
+    displayName: Insurance Company
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Date
+      - Insurance Claim No#
+      - Status
+      - Insurance Company

@@ -1,0 +1,25 @@
+# Example of Strengths
+
+filters:
+  and:
+    - note["base"] == link("Example of Strengths.base")
+properties:
+  file.name:
+    displayName: Example
+  Impact:
+    displayName: Impact
+  Quick Summary:
+    displayName: Quick Summary
+  Status:
+    displayName: Status
+  Signal Areas:
+    displayName: Signal Areas
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Impact
+      - Quick Summary
+      - Status
+      - Signal Areas
