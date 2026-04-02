@@ -10,10 +10,10 @@ Vitality Status: Silver
 
 # Audit Process
 
-- [ ] Sign in
-- [ ] Check that personal information is up to date
-- [ ] Check that any payments associated with the account are as expected
-- [ ] Other actions (clearing old assets within the platform)
+- Sign in
+- Check that personal information is up to date
+- Check that any payments associated with the account are as expected
+- Other actions (clearing old assets within the platform)
 
 # Points
 
