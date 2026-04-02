@@ -45,8 +45,8 @@ cover: "[[Media/2025 - Buy a House.jpeg]]"
 ##  2024-07-09
 
 - Received two documents shortly after moving in
-[[55-avon-street_completion_statement 1.pdf]]
-[[55-avon-street_declaration-of-trust 1.pdf]]
+![[55-avon-street_completion_statement 1.pdf]]
+![[55-avon-street_declaration-of-trust 1.pdf]]
 - Declaration of trust has been sent using the free-post letter
 - [ ] There is also a survey to optionally fill in by going to [https://app.law-league.com/feedback/stephenrimmer](https://app.law-league.com/feedback/stephenrimmer)
 
@@ -108,7 +108,7 @@ cover: "[[Media/2025 - Buy a House.jpeg]]"
 
 - Obtained a building insurance cost calculation from BCIS
     - My estimate comes to ~80m² but the listing had the total area as 103m². I'll go with the higher estimate first. This comes to £300k. Going with the lower floor area estimate brings this down to £257k.
-[[ABI_RebuildCalculator-18286915 1.pdf|Rebuild Calculator Cost]]
+![[ABI_RebuildCalculator-18286915 1.pdf|Rebuild Calculator Cost]]
 
 ##  2024-03-06
 
@@ -120,9 +120,9 @@ cover: "[[Media/2025 - Buy a House.jpeg]]"
 - Roy Bridge (Solicitor) Sent us an email detailing
     - The Land Registry entry
     - Details about what’s included in the sale (fixtures, etc.)
-[[55 Avon Street plan.pdf]]
-[[55 Avon Street plan (1).pdf]]
-[[Yerbury-Hodgson TA10.pdf]]
+![[55 Avon Street plan.pdf]]
+![[55 Avon Street plan (1).pdf]]
+![[Yerbury-Hodgson TA10.pdf]]
 
 ##  2024-02-20
 
@@ -158,7 +158,7 @@ cover: "[[Media/2025 - Buy a House.jpeg]]"
 
 ##  2024-01-29  - Change Mortgage to New Rate
 
-[[Mortgage Offer - 4.34%.pdf]]
+![[Mortgage Offer - 4.34%.pdf]]
 - I spoke to Dominic and we agreed to re-issue the mortgage at the lower rate
 - There would have only been a risk in doing so if my credit rating had massively dropped since the last mortgage was issued
 - I mentioned the Home Buyers Report
@@ -176,7 +176,7 @@ cover: "[[Media/2025 - Buy a House.jpeg]]"
 
 ##  2024-01-20  - RICS Level 2 Homebuyers Report Questionnaire
 
-[[RICSLEVEL2_WVal_V4_January2024 1.pdf]]
+![[RICSLEVEL2_WVal_V4_January2024 1.pdf]]
 - Received a text to complete a questionnaire
 - Terms and conditions
 
@@ -201,7 +201,7 @@ As of  2024-01-20  there is no confirmation / indication that he’s done that
 ##  2024-01-12  - Mortgage Deed
 
 - A mortgage deed was sent by Stephen Rimmer.
-[[stephen-rimmer-mortgage-deed-explanation 1.pdf]]
+![[stephen-rimmer-mortgage-deed-explanation 1.pdf]]
 
 ### Notes
 
@@ -226,7 +226,7 @@ As of  2024-01-20  there is no confirmation / indication that he’s done that
 
 - Completed First-Time Buyer Declaration forms, Proof of Funds Statement and sent alongside Passports and Bank Statement to Roy Bridge via email
 - Completed and signed forms and sent to Sovereign Financial
-[[sovereign-financial-planning_client-agreement 1.pdf]]
+![[sovereign-financial-planning_client-agreement 1.pdf]]
 
 ##  2023-12-19
 

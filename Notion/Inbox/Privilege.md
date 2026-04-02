@@ -32,7 +32,7 @@ Policy Number: 3219595950
 
 ##  2025-05-04
 
-[[2025_privilege_building-insurance-renewal.pdf]]
+![[2025_privilege_building-insurance-renewal.pdf]]
 - Home insurance renewal came through
 - Increase from £212.80 to £224.79
 - No action needed now for this to automatically renew

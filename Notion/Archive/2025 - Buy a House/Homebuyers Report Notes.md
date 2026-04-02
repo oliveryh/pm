@@ -2,7 +2,7 @@
 
 ---
 
-[[Home Buyer Report CW-170609.pdf]]
+![[Home Buyer Report CW-170609.pdf]]
 
 # Notes
 

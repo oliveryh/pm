@@ -6,7 +6,7 @@ Status: In Progress
 Insurance Company: Vitality
 ---
 
-[[Ascenti - Onward Recommendation Letter.pdf]]
+![[Ascenti - Onward Recommendation Letter.pdf]]
 
 # Log
 
@@ -14,7 +14,7 @@ Insurance Company: Vitality
 
 - Final session with Ruth for the time being
 - Decided to freeze account for 6 months and do regular maintenance exercises
-[[OliverExercises.pdf]]
+![[OliverExercises.pdf]]
 
 ##  2025-09-30
 
@@ -89,7 +89,7 @@ I also received an email from Ruth with instructions
 > 7. Try and desensitize area using ice and mindset
 >
 > Good luck and see you in 2 weeks.
-> [[OliverY.pdf]]
+> ![[OliverY.pdf]]
 > [Login](https://patient-portal-v2.wibbi.com/resources)
 
  2025-06-25
@@ -98,7 +98,7 @@ Received summary from Consultant about diagnosis
 
 ##  2025-06-24
 
-[[Spire Medical Phyisotherapy Referral.pdf]]
+![[Spire Medical Phyisotherapy Referral.pdf]]
 - Had a back and forth with my health insurance company and Spire medical Centre to understand if they’d cover the physio therapy that I was referred to from the consultant
 - The name of the specific physiotherapist was Ruth Harrison (maiden name Elvis)
 - As long as the sessions are billed as a department then Vitality said they’d cover £35 per session
@@ -124,7 +124,7 @@ Received summary from Consultant about diagnosis
 
 ##  2025-04-28  - Orthpedic Cosultant Meeting #1
 
-[[Spire Parkway Hospital - Cosultant Meeting 1.pdf]]
+![[Spire Parkway Hospital - Cosultant Meeting 1.pdf]]
 - Saw Mr Tarek El Gamal about ankle
 - Received a standing X-Ray
 

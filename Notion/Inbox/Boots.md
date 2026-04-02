@@ -23,8 +23,8 @@
     - Recommended using a heat compress
     - Then rubbing eye
 
-[[OY-H OCT LE.pdf]]
-[[OY-H OCT RE.pdf]]
+![[OY-H OCT LE.pdf]]
+![[OY-H OCT RE.pdf]]
 ![[CamScanner_20-09-2025_18.51.pdf]]
 
 ##  2024-04-14

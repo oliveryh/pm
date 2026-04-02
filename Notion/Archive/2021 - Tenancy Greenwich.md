@@ -4,7 +4,7 @@
 
 # Tenancy Agreement
 
-[[Tenancy_Agreement_2a_greenwich_south_street_london_se10_8ty 1.pdf]]
+![[Tenancy_Agreement_2a_greenwich_south_street_london_se10_8ty 1.pdf]]
 
 # Payment History
 

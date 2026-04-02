@@ -7,7 +7,7 @@ Company:
 No# Interviews: 0
 Application Status: In progress
 ---
-[[Kraken - Senior Software Engineer - Utilities.pdf]]
+![[Kraken - Senior Software Engineer - Utilities.pdf]]
 
 # Log
 

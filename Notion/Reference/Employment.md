@@ -6,17 +6,17 @@
 
 ## Share Options
 
-[[Oliver Yerbury-Hodgson - Option agreement - March 2022 1.pdf|60 Share options]]
-[[Oliver Yerbury-Hodgson - Option agreement - December 2023 1.pdf|22 Addition share options issued after promotion]]
-[[Piclo's Employee Share options - July 2023 1.pdf|Explanation of Share Options]]
-[[OYH - Option_Surrender - Complete_with_Docusign - 9 April 2025 1.pdf|Surrender of 22 share options issued in 2023]]
-[[OYH - Share_Option_Agreement - Complete_with_Docusign - 9 April 2025 1.pdf|New agreement for 22 share options issued at lower strike price]]
+![[Oliver Yerbury-Hodgson - Option agreement - March 2022 1.pdf|60 Share options]]
+![[Oliver Yerbury-Hodgson - Option agreement - December 2023 1.pdf|22 Addition share options issued after promotion]]
+![[Piclo's Employee Share options - July 2023 1.pdf|Explanation of Share Options]]
+![[OYH - Option_Surrender - Complete_with_Docusign - 9 April 2025 1.pdf|Surrender of 22 share options issued in 2023]]
+![[OYH - Share_Option_Agreement - Complete_with_Docusign - 9 April 2025 1.pdf|New agreement for 22 share options issued at lower strike price]]
 
 # Updates
 
 ##  2025-07-15  - Received P11D Document
 
-[[p11ds__2__page_32 1.pdf]]
+![[p11ds__2__page_32 1.pdf]]
 
 ##  2025-04-14  - Calibration and Bonuses update
 

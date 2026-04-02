@@ -171,7 +171,7 @@ Sent to Sovereign Financial Planning today
 
 - Received confirmation from the our solicitors that the property has been registered
 
-[[55 Avon Street - Land Registry - Title Number WK394904.pdf 1.pdf]]
+![[55 Avon Street - Land Registry - Title Number WK394904.pdf 1.pdf]]
 
 ##  2025-02-09
 
@@ -226,13 +226,13 @@ Sent to Sovereign Financial Planning today
 
 ## MoreSpace4u
 
-[[Invoice INV-0435 1.pdf]]
+![[Invoice INV-0435 1.pdf]]
 - Payment made for £5,000 on  2025-04-22
 
 ## Sam Ward Electrical
 
-[[Invoice INV-0188 1.pdf]]
+![[Invoice INV-0188 1.pdf]]
 - Payment made for £680 on  2025-04-22
 
-[[Building Regulations Compliance Certificate 1.pdf]]
-[[Electrical Installation Certificate - 1259900001393 1.pdf]]
+![[Building Regulations Compliance Certificate 1.pdf]]
+![[Electrical Installation Certificate - 1259900001393 1.pdf]]

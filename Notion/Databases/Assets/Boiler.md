@@ -22,7 +22,7 @@ Notes: ""
 
 ##  2024-11-05
 
-[[2024-11-05_boiler-warning-notice.pdf]]
+![[2024-11-05_boiler-warning-notice.pdf]]
 - Bosch engineer visited
 - Left us with an “At Risk - Danger Do Not Use” notice
 - Fault Descriptions

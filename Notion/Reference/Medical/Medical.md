@@ -37,7 +37,7 @@
 
 ##  2025-03-21  - Health Assessment
 
-[[Bluecrest Wellness - Health Assessment 1.pdf]]
+![[Bluecrest Wellness - Health Assessment 1.pdf]]
 - HDL Cholesterol: 0.8 (0.9-2.3 is preferred level)
 
 ##  2025-02-01  - Male Hormone Test
@@ -48,7 +48,7 @@
     - Everything else in Optimal range
 
 Password: DDMMYY
-[[RE00221851_Male Hormones_Results_Report 1.pdf]]
+![[RE00221851_Male Hormones_Results_Report 1.pdf]]
 
 ##  2019-09-10  - Health Assessment
 

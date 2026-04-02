@@ -89,7 +89,7 @@ Call with Jon Gould
 
 # Timelines
 
-[[OYH - Redundancy Package Letter - Nov 2025 1.pdf]]
+![[OYH - Redundancy Package Letter - Nov 2025 1.pdf]]
 - Payment due November Payroll:  2025-11-28
     - Pro rata November salary: £2,678.27 (estimate)
     - Pro rata PILOH: 3 days £927.09 (estimate)

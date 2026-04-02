@@ -65,7 +65,7 @@
 - Signed the following documents
     - Key Scan
     - Handover Declaration
-[[CamScanner 09-11-2023 14.06.pdf]]
+![[CamScanner 09-11-2023 14.06.pdf]]
 
 # Standing Orders
 
