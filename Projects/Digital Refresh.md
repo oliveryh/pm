@@ -81,6 +81,13 @@ graph LR
 
 # Log
 
+## 2026-04-02
+
+- Imported markdown using standard Notion loader for Obsidian to import files
+- Formatted with preferred spacing using Lint plugin
+- Converted PDF file references to embeds using Claude Code
+- Replaced references to subpage markdown files with in-line versions that respect heading level using Claude Code
+
 ## 2026-03-31
 
 - Transferred Archived files from Notion
