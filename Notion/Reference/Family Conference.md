@@ -1,8 +1,11 @@
 ---
 
 ---
+
 # Log
+
 ##  2026-01-21  - Second chat with Fiona
+
 - 20th Feb filing date for Fiona
 - Home sitting / errands
 - SGO support for parents
@@ -15,6 +18,7 @@
 - Disruptive attachment?
 
 ##  2026-01-05  - Chat with Fiona
+
 - Fiona is carrying out a “Kinship Assessment” and will submit her findings in February
 - Parents going through Reg24 assessment = Temporary approval to care for Loki for 16 weeks
 - Care proceeding in 26 weeks
@@ -36,8 +40,8 @@
 - I asked Fiona “What would be the fallback position should we become guardians - SGO or adoption?”
 - [ ] I need to talk to Chloe about this
 
-
 ## Family Conference
+
 - What Support can we offer Diana before and after the birth of the baby? (Practical?
 Emotional? Financial?)
     - Practical

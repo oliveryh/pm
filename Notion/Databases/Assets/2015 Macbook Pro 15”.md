@@ -3,7 +3,9 @@ base: "[[Assets.base]]"
 Status: Regular Usage
 Notes: ""
 ---
+
 # Set Up
+
 - Software
     - Google Chrome
     - Homebrew
@@ -14,11 +16,13 @@ Notes: ""
     - pyenv (Requires Homebrew)
         - Install from [https://formulae.brew.sh/formula/pyenv](https://formulae.brew.sh/formula/pyenv)
         - Adding the following to `~/.zshrc`
+
 ```bash
 # pyenv
 eval "$(pyenv init --path)"
 eval "$(pyenv init -)"
 ```
+
     - Obsidian
     - Rectangle
         - Install from [https://rectangleapp.com/](https://rectangleapp.com/)
@@ -55,41 +59,51 @@ eval "$(pyenv init -)"
         - Scroll & Zoom
             - Set Trackpad direction to “Reverse” or Not-”Natural”
 
-
 # Log
-##  2025-01-05  
+
+##  2025-01-05
+
 - Ran `brew upgrade`
 
-##  2024-12-15  
+##  2024-12-15
+
 - Uninstalled `arc`
 
-##  2024-05-07  
+##  2024-05-07
+
 - Removed Chrome
     - Plugins
         - Property Log - jccihedpilhidcbkconacnalppdeecno
 - Configured Arc Browser
 
-##  2024-04-14  
+##  2024-04-14
+
 - Installed Arc Browser
 
-##  2024-02-24  
+##  2024-02-24
+
 - Installed [shottr](https://shottr.cc/)
 
-##  2024-02-11  
+##  2024-02-11
+
 - Installed `gron`
 
-##  2024-02-08  
+##  2024-02-08
+
 - Installed tmuxinator
 
-##  2024-01-07  
+##  2024-01-07
+
 - Installed hugo
 - Installed nvm
 
-##  2023-10-21  
+##  2023-10-21
+
 - Installed Obsidian
 - Install oh-my-zsh
 
-##  2023-10-09  
+##  2023-10-09
+
 - Installed the following
     - Homebrew
     - iTerm2 (Via Homebrew)

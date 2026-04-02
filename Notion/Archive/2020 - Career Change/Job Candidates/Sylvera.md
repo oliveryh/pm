@@ -16,7 +16,9 @@ Skills:
   - PostgreSQL
 Job Link: https://apply.workable.com/sylvera/j/00FE42B103/
 ---
+
 # Job Description
+
 Description
 📍 Location: London / Remote possible for right candidate
 ⏰ Start Date: ASAP. End date: Flexible
@@ -41,6 +43,7 @@ delighting and increasing the success of our users.
 - Architecting, building, testing, and releasing product-facing features.
 
 ### Requirements
+
 **What do I need?** ❓
 - Knowledge of Javascript & Python
 - Comfortable designing and owning a RESTful API that will serve our product and integrations into 3rd party products.
@@ -69,11 +72,16 @@ Sylvera is an equal opportunity employer: we value diversity. We do not
 discriminate on the basis of race, religion, colour, national origin,
 gender, sexual orientation, age, marital status, veteran status, or
 disability status.
+
 ### Benefits
+
 **Compensation**
 £50-£65k p.a. 0-1% Equity. Dependent on experience.
 You also get paid to save the world which is nice.
 NO AGENCIES THANKS
+
 # Timeline
+
 ##  2020-05-17  - Applied
+
 Applied for the role online - Just needed CV

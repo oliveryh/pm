@@ -10,6 +10,8 @@ Chance %: 6
 Open (E): 2020-09-01
 Deadline (E): 2021-01-01
 ---
+
 # Notes
+
 - Requires 2000 word written essay
 - 

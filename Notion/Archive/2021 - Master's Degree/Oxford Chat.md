@@ -1,10 +1,13 @@
 ---
 
 ---
+
 # Assessment
+
 - Masters are examined by take-home coursework
 
 # Course Comments
+
 - Concurrency
     - Largely theory based
     - Write toy language
@@ -42,6 +45,7 @@
     - Deep Learning
 
 # Tips
+
 - Consider an engineering masters
 - Applied Courses
     - Machine Learning

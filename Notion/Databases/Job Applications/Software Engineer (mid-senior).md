@@ -8,7 +8,9 @@ No# Interviews: 0
 Job Link: https://apply.workable.com/axle-energy/j/B8E6A33668/
 Application Status: Rejected
 ---
-# Log
-##  2025-11-19  
-- Submitted an application via workable application link
 
+# Log
+
+##  2025-11-19
+
+- Submitted an application via workable application link

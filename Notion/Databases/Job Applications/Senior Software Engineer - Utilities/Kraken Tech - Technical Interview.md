@@ -1,12 +1,15 @@
 ---
 
 ---
+
 # Interview Info
+
 - Interview is with
     - Ed Burroughes (Senior Software Engineer)
     - Glen Kirkup (Senior Software Engineer)
 
 # Interview Topics
+
 - Discuss technical challenge
     - Topics from technical challenge
         - SFTP
@@ -49,12 +52,13 @@ files to be uploaded via the web
 
 - [ ] [https://www.youtube.com/watch?v=yBX89xUmnyk](https://www.youtube.com/watch?v=yBX89xUmnyk)
 
-
 # General Tips
+
 - Demonstrate evidence based decision making
 - Outline trade-offs of various choices
 
 # Code Review
+
 - Python concepts
     - Be able to explain what the difference between a Generator, Iterator, Iterable is
 - Memory Usage
@@ -101,8 +105,6 @@ Next topics
 - How might you scale that API
 - Exception handling and logging
     - Anticipated and Unanticipated exceptions
-
-
 - Domain modelling
 - Avoiding the use of model forms
 - Be able to explain what the difference between a Generator, Iterator, Iterable is
@@ -110,9 +112,10 @@ Next topics
 - Python basics
 - Polymorphism and Encapsulation
 
-
 # Questions
+
 ## Team Ops
+
 - Do you operate in agile (sprints, retrospectives, backlogs etc.)
 - The role mentions skills in AWS, Hashicorp
     - Is infrastructure-as-code ownership shared with backend engineers, or is there a dedicated platform team?
@@ -124,6 +127,7 @@ Next topics
 - What’s it like when you’re in the office together, how do you collaborate?
 
 ## Business
+
 - The job ad mentions quite a few different topics: Customer Information Systems (CIS), billing, meter data management, CRM, and AI-driven communications
     - What would you say you’re mostly spending your day-to-day doing?
 - The ad mentions you’re in a growth phase
@@ -131,8 +135,6 @@ Next topics
     - Do you find yourself leaning heavily on the domain model that already exists or are you largely working on greenfield work
 - Charlotte mentioned you were involved in client demos and you talk about a “customer-first culture”
     - What does that interaction look like. Are you interacting directly with clients or generally interacting through designers
-
-
 - Handling faults?
 - Spa Days to address tech debt
 - Agile methodology
@@ -165,33 +167,36 @@ Next topics
     - Use of `yield`
         - yield is a keyword that turns a function into a **generator function**. Instead of returning a value and terminating, it **pauses** execution and returns a value, then **resumes** from that point on the next iteration.
 
-
-
-
 # **Key Changes: CLI → Multi-Customer REST API**
+
 ## **Core Infrastructure**
+
 - **Add Customer model** + add customer_id FK to FlowFile and MeterReading
 - **Migrate SQLite → PostgreSQL** (concurrent writes)
 - **Add Celery + Redis** (async background processing)
 - **Add S3/GCS** (file storage)
 
 ## **API Endpoints (Django REST Framework)**
+
 - POST /api/v1/flow-files/ - upload file, return job_id
 - GET /api/v1/flow-files/{job_id}/status/ - check status
 - GET /api/v1/meter-readings/ - query readings
 
 ## **Security & Reliability**
+
 - **API key/JWT authentication** per customer
 - **Rate limiting** per customer
 - **Idempotency keys** (prevent duplicate processing)
 - **File validation** (size, type, malware scan)
 
 ## **Scalability**
+
 - **Database indexes** on (customer_id, mpan, reading_datetime)
 - **Table partitioning** by time period
 - **Monitoring & logging** (metrics, structured logs, alerts)
 
 ## **Processing Flow**
+
 `Upload → S3 → Queue Task → Return job_id
               ↓
          Celery Worker → Parse → Store with customer_id`

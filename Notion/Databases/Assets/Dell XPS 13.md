@@ -4,8 +4,11 @@ Period Owned: 2015-01-01 to 2023-03-26
 Status: Archived
 Notes: ""
 ---
+
 # Log
-##  2022-12-30 
+
+##  2022-12-30
+
 Installed 22.04 LTS Pop OS on Dell XPS 13. This was largely due to not using the Windows partition and regularly getting issues with memory limitations that could have been due to having Ubuntu dual booted.
 
 In order to install the required software, I largely used the  https://github.com/oliveryh/battlestation  repository. However there are some exceptions / general notes:

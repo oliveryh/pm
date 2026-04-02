@@ -1,9 +1,11 @@
 ---
 
 ---
-> I'm keen to arrange a call with you to learn more about your background and what you’re looking for in your next role? I can also tell you more about us and the role. 
+
+> I'm keen to arrange a call with you to learn more about your background and what you’re looking for in your next role? I can also tell you more about us and the role.
 
 ## Questions for Kraken
+
 - The role mentions that React / Redux would be a bonus. What percentage of backend/frontend would you say the role is?
 - What is the compensation range for the role? (I think I mentioned £80k-£95k on my initial application)
 - What does the remainder of the interview process look like?
@@ -11,6 +13,7 @@
 - How does the team collaborate?
 
 ## Examples
+
 - Domain modelling
 - Customer-first
     - Customer Research
@@ -42,6 +45,7 @@
 - AI-Driven feature
 
 ## Questions for me
+
 - Kraken Culture
     - Random Awesomeness - Bringing out your personality
     - Trust driven
@@ -72,6 +76,7 @@
     - Optimise energy use (Water leaks, charging time etc.)
 
 ## What experience do I have?
+
 - Python
     - Worked with python in various capacities
     - University - ML Principles
@@ -107,6 +112,7 @@
 - NGINX: high-performance web server, reverse proxy, load balancer, and HTTP cache
 
 ## Who am I?
+
 - Tackling deep technical challenges in data analytics
     - Enjoy deep diving into the vertical stack of an issue
     - Example: Debugging GPUs
@@ -116,9 +122,10 @@
 - Are driven by a passion to create amazing user experiences
     - Always approached a problem with empathy and human centric design
 - Are comfortable working autonomously and taking responsibility for the delivery of large technical projects
-    - Enjoy working autonomously but regularly 
+    - Enjoy working autonomously but regularly
 
 ## What am I looking for in my next role?
+
 - More technical role
     - Deep dive into technical topics
     - Also have an opportunity to learn/share with others

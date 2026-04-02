@@ -12,11 +12,15 @@ Skills:
   - SQL
 Job Link: https://jobs.lever.co/joinzoe/cdac96eb-408b-482e-8c82-3bb71502c11c
 ---
+
 # Timeline
+
 ##  2020-06-29  - Applied
+
 - Applied using portal, wrote short cover letter paragraph
 
 # Job Description
+
 We are combining science, large
 scale data and machine learning to tell you what to eat based on your
 unique metabolism. We’re leading the world’s largest ongoing nutritional research project in collaboration with scientists from leading
@@ -33,13 +37,16 @@ doctors and scientists at Kings College London, Guys and St Thomas'
 Hospital and our talented development team. This app is contributing to
 advance vital research on COVID-19 and helping our nation track it's
 spread.
+
 ### Key Responsibilities
+
 - Build and maintain systems supporting our Mobile Apps, Internal Services and upcoming product releases.
 - Develop reliable and flexible data processing pipelines that can rapidly evolve to handle new technologies and modelling techniques
 - Work alongside our Data Scientists to improve their research workflow and access to automation.
 - Be an active contributor to the evolution of our architecture, tools and processes.
 
 ### Must Have
+
 - Experience writing **clean code** and doing **TDD **with languages like **Python, Go, Java, Typescript, C#,** or similar
 - Experience building complex APIs with **microservices **oriented architecture, ideally running on **Kubernetes**
 - An understanding of Distributed Computing and the trade-offs between
@@ -55,6 +62,7 @@ As such, we prefer a “technology agnostic” mindset that’s aimed to get
 the job done - whatever tool is required.
 
 ### Nice to Have
+
 - Bridge Data Science and Engineering by building a shared understanding and reconciling approaches.
 - Experience working closely with data scientists as end-users.
 - Experience with Python machine learning libraries.
@@ -67,6 +75,7 @@ attending meet-ups, speaking at events or generally contributing to the
 world of OSS is a huge plus!
 
 ### What we can offer
+
 - Competitive Salary & Share Options
 - The opportunity to make the world healthier, and have fun learning about cutting-edge science across biology and genomics
 - Active contribution against the fight with COVID19 and the opportunity to save lives

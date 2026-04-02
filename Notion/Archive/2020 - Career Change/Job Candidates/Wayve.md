@@ -11,9 +11,13 @@ Skills:
   - Python
 Job Link: https://boards.greenhouse.io/wayve/jobs/4127864002
 ---
+
 # Timeline
+
 ##  2020-06-18  - Applied on Greenhouse
+
 # Description
+
 **WHO ARE WE?**
 We’re building artificial intelligence capable of complex
 driving using end-to-end deep learning; one which can scale across

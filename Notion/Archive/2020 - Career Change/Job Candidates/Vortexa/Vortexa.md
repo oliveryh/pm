@@ -15,7 +15,9 @@ Recruiter: |-
 Column: Rejected after interview
 Skills: []
 ---
+
 # Examples
+
 GENUS
 - JupyterLab
 - ML
@@ -41,6 +43,7 @@ SOR
 - Fault tolerant systems
 
 # Listing
+
 <!-- Column 1 -->
 The Challenge...
 Ingesting hundreds of rich data points per second from many vastly different external sources, moving terabytes of data while processing it in real-time, running complex and complicated prediction and forecasting AI models while coupling their output into a hybrid human-machine data refinement process and presenting the result through a nimble low-latency SaaS solution used by customers around the globe is no small feat of science and engineering. This processing requires a highly reliable, stable, fault-tolerant infrastructure and data pipelines that can withstand multiple and varied uses and abuses by data analysts, data scientists, industry experts, and the end-users.
@@ -49,7 +52,7 @@ Ingesting hundreds of rich data points per second from many vastly different ext
 
 
 
-The Predictions and Market Modelling Team are responsible for generating high-value forecasts that enrich our data products. We have built a wide variety of data processing pipelines including state of the art Machine Learning models to predict the operations of the >10,000 tankers tracked by our system, which have enabled us to provide the most accurate and comprehensive view of global oil and gas flows. We take pride in applying cutting-edge research to the real-world problems in a robust, long-lasting and maintainable way. The quality of our data is continuously benchmarked and assessed by experienced market and data analysts to ensure the quality of our predictions. We use a wide variety of technologies like Python/Numpy/sklearn/Tensorflow/Pandas, Java/Kotlin/Scala, Airflow, Apache Kafka and Kafka Streams, Elastic Search, Kubernetes, Jupyter, and AWS services like AWS Sagemaker, MSK, RDS, Athena and others. 
+The Predictions and Market Modelling Team are responsible for generating high-value forecasts that enrich our data products. We have built a wide variety of data processing pipelines including state of the art Machine Learning models to predict the operations of the >10,000 tankers tracked by our system, which have enabled us to provide the most accurate and comprehensive view of global oil and gas flows. We take pride in applying cutting-edge research to the real-world problems in a robust, long-lasting and maintainable way. The quality of our data is continuously benchmarked and assessed by experienced market and data analysts to ensure the quality of our predictions. We use a wide variety of technologies like Python/Numpy/sklearn/Tensorflow/Pandas, Java/Kotlin/Scala, Airflow, Apache Kafka and Kafka Streams, Elastic Search, Kubernetes, Jupyter, and AWS services like AWS Sagemaker, MSK, RDS, Athena and others.
 
 You'll be instrumental in designing, implementing and testing code that allows historically niche research to be elevated to the real-world scale. Working with data scientists, analysts, engineers and experts, you'll help bridge the gap between scientific experiments and commercial products by ensuring 100% uptime and bulletproof fault-tolerance of every component of the infrastructure. In addition to this, you'll work closely with team members to implement best practices in our key technologies.
 
@@ -99,31 +102,37 @@ in commodity trading
 collaborative achievement
 
 # Interview Preparation
+
 ## Technical
+
 ### Rust
+
 - Strongly typed language
 - Works well for processing large amounts of data
 - Rust allows you to pick between storing memory on the stack or the heap and determines at compile time when memory is no longer needed.
-- Without garbage collection constantly running, rust projects 
+- Without garbage collection constantly running, rust projects
 
 ### Kafka
+
 - Stream Processing
     - Given a sequence of data (stream), a series of operations (kernel functions) are applied to each element in the stream.
 - When is Stream Processing useful
     - Compute Intensity
     - Data Parallelism - If the same function is applied to all records of a stream and a number of records can be processed simultaneously without waiting for the results from previously records
-    - Data Locality 
+    - Data Locality
 
 ### Spark
+
 - PySpark Context
     - Connects to a network port on your computer to connect to a sparkContext object in the JVM (Spark)
 - Py4J
     - Python for Java
 - Why might PySpark be slow compared to Spark
-    - Since python communicates via a network port to Scala it uses **Inter-Process Communication** 
+    - Since python communicates via a network port to Scala it uses **Inter-Process Communication**
     - It needs to serialize the data and pass via a temporary file or special server (network socket)
 
 ### A* Search Algorithm
+
 - Minimizes $f(n) = g(n) + h(n)$
     - $n$ is the next node in the path
     - $g(n)$ is the cost of the path from the start node to $n$
@@ -132,11 +141,14 @@ collaborative achievement
     - Never overestimates the cost of reaching a goal
 
 ### Apache Arrow
+
 - Language independent columnar memory format for flat or hierarchical data
 - Support zero-copy reads for fast data access without serialization overhead
 
 ### Pandas
+
 ### Numpy
+
 - Library to work with n-dimensional arrays
 - Why is numpy faster than lists?
     - Numpy arrays are stored in one continuous place as opposed to python lists
@@ -151,14 +163,15 @@ collaborative achievement
     - Numpy has a highly readable syntax
 
 ### Design Patterns
+
 - Adapter Pattern
     - Wrapper between two objects
     - Catches call for one object and transforms them to a format and interface recognizable by the second format
 - Bridge
     - Decouple and abstraction from it's implementation so they can work separately
 
-
 ### Python
+
 - What is the python programming language and it's benefits
     - OOP
     - Threads
@@ -194,6 +207,7 @@ collaborative achievement
     - Allows you to carry out common cleanup methods that are often required in particular contexts like opening/closing files
 
 ## Object Oriented Programming
+
 - Inheritance
     - 
 - Polymorphism
@@ -203,17 +217,20 @@ collaborative achievement
 - Encapsulation
 
 ### OS Kernel
+
 - Core of operating system that has complete control over everything in the system
 - Portion of the OS code that is always resident in memory
 
 ### Numba
+
 - Translates python code to optimized Machine Code at runtime
 - JIT Compiler
     - 
 
-
 ## Experience
+
 ### Distributed Pricing
+
 - Scala
 - Savings using Scala to reduce the need for Serialization/Deserialization
 - Managed technical team of 6 people
@@ -221,15 +238,19 @@ collaborative achievement
 - Implemented CI/CD automated testing build process
 
 ### Rage GPU
-- Determined how to setup a GPU on RedHat linux 
+
+- Determined how to setup a GPU on RedHat linux
 
 # Company
+
 ## Benefits
+
 - I've communicated that I earn £70k inc. Bonus
 - They can provide £70-75k base salary with a £10-25k option in equity
 - Private healthcare
 
 ## Team
+
 - Building up 3 pods made up of 3 DS / 3 DE / 3 SE
 - Data Engineer
     - Performance and Operations
@@ -242,16 +263,16 @@ collaborative achievement
     - Airflow and Kafka Useful
     - Kubernetes
 
-
 ## Interviews
+
 - [x] #1 - Andrew Good (Head of Recruitment)
 - [x] #2 - Gustavo (Lead of Predictions and Market Modelling)
 - [ ] #3 - Coding interview with Christof/Radu
 - [x] #4 - Take home challenge
 - [ ] #5 - Talk with Kit
 
-
 # Topics to Revise
+
 - What quality assurance might you have on a regression model
 - How might you detect model drift in a model
 - Basic data science and statistics (regularisation, normalisation, bias etc.)
@@ -262,12 +283,16 @@ collaborative achievement
 - [https://www.youtube.com/watch?v=sw85SCv847Y](https://www.youtube.com/watch?v=sw85SCv847Y)
 
 # Case Study Interviews
+
 [https://workera.ai/resources/machine-learning-case-study-interview/](https://workera.ai/resources/machine-learning-case-study-interview/)
+
 ## Outline
+
 - [ ] AI Project Lifecycle
 - [ ] List out AI problems faced by the company at the moment
 
 ## Framework
+
 ASPER Framework
 - **Ask** - Ask questions to uncover (hidden) details about the question
 - **Suppose** - State assumptions
@@ -279,6 +304,7 @@ ASPER Framework
 - **Recap** - Summarise your solution and express how the problem might also be extended
 
 ## Interview Tips
+
 - Avoid clear-cut statements
 
 [[Vortexa Case Studies]]

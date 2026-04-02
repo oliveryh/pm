@@ -1,8 +1,11 @@
 ---
 
 ---
+
 # Guide
+
 ## Outline Prompt
+
 - Why you want to pursue a postgraduate qualification
 - Why you feel you can successfully transition from undergraduate to postgraduate study
 - Why you want to study at this university and this particular course
@@ -25,17 +28,20 @@
 academic suitability for the course, but if you have relevant work experience or extra-curricular activities that provide further evidence of your interest or ability then include them too. Your non-academic achievements might also provide evidence of project management, resilience, effective communication and so on.
 - Where the course might lead you
     - You don’t need to have a detailed career plan, but you do need to show how this course fits in with your general aspirations.
-    -  Are you intending to continue on to a PhD?
+    - Are you intending to continue on to a PhD?
     - Do you have a broad interest in contributing to a particular issue or field, e.g. social enterprise, public policy, human rights, sustainability?
     - Or do you have a more specific goal in mind?
     - How will your chosen course help you to achieve
 your goals?
 
 ## Closing paragraph
+
 Use your closing paragraph to summarise your application, return to
 any themes you introduced at the beginning, and to restate your
 enthusiasm for the course.
+
 ## Remember
+
 - Tailor every application
 - Be professional
 - Be enthusiastic
@@ -44,6 +50,7 @@ enthusiasm for the course.
 - Always check spelling and grammar before sending
 
 ## Avoid
+
 - Negative language
 - Lying
 - Rambling
@@ -52,6 +59,7 @@ enthusiasm for the course.
 - Clichés
 
 # Outline
+
 - Why you want to pursue a postgraduate qualification
     - Understand the core of technologies that will drive positive change into the challenges that face us in the 21st century
 - Why you feel you can successfully transition from undergraduate to postgraduate study
@@ -71,7 +79,7 @@ enthusiasm for the course.
     - How did you become interested in this area? Why does it continue to fascinate you?
         - From a small age it was clear that with a computer and the knowledge to communicate with it, the power to solve problems or create things was limitless, almost magical.
     - What have you done within your degree or outside of your study to fuel this interest?
-        - I've continued to explore the edges of the computer science landscape, taking part in coding competitions and understanding the importance of latency, created my own website to understand user interaction and front end web development 
+        - I've continued to explore the edges of the computer science landscape, taking part in coding competitions and understanding the importance of latency, created my own website to understand user interaction and front end web development
     - Would the course provide a step towards a longer-term goal?
         - My long term goal is to contribute to an area of industry that is making use of the theory and practical application of topics explored in this course to make the world a better place. In particular the use of smart farming and smart cities to cope with the growing population and changing climate.
 - Why you have chosen this specific course and institution
@@ -89,7 +97,7 @@ enthusiasm for the course.
     - Consider the subjects you studied at undergraduate level; your relevant skills (technical, language, computing, research methods); independent study or research; prior (relevant) experience; academic awards and other achievements. The focus here is likely to be on your academic suitability for the course, but if you have relevant work experience or extra-curricular activities that provide further evidence of your interest or ability then include them too. Your non-academic achievements might also provide evidence of project management, resilience, effective communication and so on.
 - Where the course might lead you
     - You don’t need to have a detailed career plan, but you do need to show how this course fits in with your general aspirations.
-    -  Are you intending to continue on to a PhD?
+    - Are you intending to continue on to a PhD?
         - At this stage I don't intend to continue on to a PhD
     - Do you have a broad interest in contributing to a particular issue or field, e.g. social enterprise, public policy, human rights, sustainability?
         - Sustainability
@@ -108,7 +116,7 @@ enthusiasm for the course.
 From the very beginning of my experience with computers, it was clear to me that, if one spoke the computer's language effectively, the power to solve one's problems or to create things felt limitless, almost magical. What started as a tool to build basic websites, or solve code ciphers in Microsoft Excel growing up, has become an integral part of my education, my career, and my own passion projects.
 I received an award for the highest final-year performance in my graduating class, giving me a great sense of achievement when completing my degree at Warwick University. The Discrete Mathematics (joint Computer Science and Mathematics) BSc begins with a grounding in core mathematical principles and the theory of computational complexity and optimisation. This culminates in the final year, where it was necessary to combine the applied teachings of modules with topics such as Machine Learning and computational parallelism with the foundations in statistics I'd learnt during the Mathematics portion of the degree. The dissertation I produced explored the use of Classifier Chains to populate missing attributes from personal calendar events. With positive results in performance against alternative Machine Learning models we'd studied, this too was recognised, receiving the highest graded dissertation in my cohort. This gave me confidence that my ability to communicate effectively and produce research of value had been proven at a bachelor’s level.
 Apart from the purely academic side, I attended multiple events that explored topics such as the use of Computer Science in medicine, as well as taking part in a department run hackathon, where I was able to get hands-on experience with the Raspberry Pi. The advancements and applications of the "Internet of Things" began to grab my attention.
-After graduating, during my three-year career at Credit Suisse, I have created a machine learning platform for my colleagues to perform their daily investigations, combining user interfaces, big data and Python libraries, and GPU compute capabilities into a single application. Not only has this experience allowed me to understand the high-level architecture such a platform would require, I take pride in the fact that I was able to understand the low-level implementations as well. For example, why the GPU module hadn't loaded into the kernel; a question that drove me to delve into the operating system level operations. 
+After graduating, during my three-year career at Credit Suisse, I have created a machine learning platform for my colleagues to perform their daily investigations, combining user interfaces, big data and Python libraries, and GPU compute capabilities into a single application. Not only has this experience allowed me to understand the high-level architecture such a platform would require, I take pride in the fact that I was able to understand the low-level implementations as well. For example, why the GPU module hadn't loaded into the kernel; a question that drove me to delve into the operating system level operations.
 I now want to take the software engineering techniques I've developed, and build on the theory behind these modern hardware capabilities to explore how they might contribute to my keen interest in sustainability. Recently the area of agriculture technology, and the use of computer vision and sensors to monitor crops and increase yield, has demonstrated to me how viable technology can be in achieving the goal of reducing our global impact and addressing food shortages or waste. In addition to limiting the use of the Earth’s resources, we must manage the growing population. Predicting COVID outbreak areas using web-scraping and Natural Language Processing demonstrates another way in which technological advancements are improving our well-being and safety while reducing our impact on the Earth.
 This course has elements of the machine learning topics I have expressed an interest in, but more importantly, the modules such as concurrent algorithms and data structures, and database systems implementation would provide a foundation in how to implement these concepts in a scalable, secure, and efficient manner. In addition to this, the Oxford Internet Institute offers access to interdisciplinary expertise in social data science, useful in assessing the impacts of the growing population, should the technology around sustainability be the area of study I go on to research at Oxford.
 In the modern world, the set of challenges are vast and complex, and the adoption of these technological solutions are often met with concerns from the public about data privacy, and issues with scalability. I believe that an education at Oxford helps foster the analytical rigour required to produce not only good insight, but also to be able to communicate this effectively and convince others of the value of one's work. I continue to have moments where I am in awe at the applications of this discipline and it is for this reason that I'd like to apply for the Advanced Computer Science MSc at Oxford.

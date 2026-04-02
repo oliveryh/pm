@@ -8,7 +8,9 @@
 - [x] Plan transport to/from airport
 
 # Kit List
+
 ## Accessories
+
 - [x] sunglasses
 - [x] ear plugs
 - [x] eye mask
@@ -19,6 +21,7 @@
 - [x] belt
 
 ## Technology
+
 - [x] EU adaptors x 2
 - [x] nook e-reader
 - [x] mobile phone (+ charger)
@@ -27,6 +30,7 @@
 - [x] external battery
 
 ## Clothing
+
 - [x] underwear
 - [x] socks
 - [x] rain/goretex jacket
@@ -42,6 +46,7 @@
 - [x] flipflops
 
 ## Cycling Accessories
+
 - [x] biking gloves
 - [x] bike GPS
 - [x] bike GPS holder
@@ -50,12 +55,14 @@
 - [x] bike multi-tool
 
 ## Important Documents
+
 - [x] passport
 - [x] driving license
 - [x] house keys
 - [x] debit cards
 
 ## Toiletries
+
 - [x] toothbrush
 - [x] toothpaste
 - [x] suncream
@@ -75,6 +82,7 @@ Things to do
 - [x] Buy CCK gift
 
 # Lessons Learnt
+
 - Don't forget to get travel insurance
 - Make sure to pre-load all the necessary maps on GPS and phone
 - Make sure you have the right cables for the devices you have
@@ -92,6 +100,7 @@ Things to do
 - Make sure to bring the original USB charger as ports that are available in the public are likely to be this one
 
 # Passport details
+
 - Dad’s passport number: 123382282
 - Dad getting to Gatwick at 3pm roughly
 - Bag measurement: 68 x 48 x 27

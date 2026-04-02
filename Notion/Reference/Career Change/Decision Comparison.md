@@ -1,6 +1,7 @@
 ---
 
 ---
+
 | Topic                | YunoJuno                                               | Kraken                       |
 | -------------------- | ------------------------------------------------------ | ---------------------------- |
 | Base Pay             | 80,000                                                 | 82,500                       |
@@ -33,4 +34,3 @@ Pros of YunoJuno
 Cons of YunoJuno
 - VP of People said “It’s busy”
 - Darian also talked about keeping DORA metrics high
-

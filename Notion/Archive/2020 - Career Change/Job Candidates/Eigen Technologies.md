@@ -14,14 +14,19 @@ Skills:
   - Natural Language Processing
 Job Link: https://boards.greenhouse.io/eigentechnologies/jobs/4776594002
 ---
+
 # Timeline
+
 ##  2020-06-29  - Applied
+
 - Applied on Greenhouse without a cover letter
 
 ##  2020-07-01  - Canned Rejection
+
 - "Not fit for our engineering role"
 
 # Job Description
+
 at Eigen Technologies
 [(View all jobs)](https://boards.greenhouse.io/eigentechnologies)
 London
@@ -86,14 +91,14 @@ are then transformed into usable products by the Engineering teams.
 Product Engineering is focused on
 building our core product offering, while Solutions Engineering works
 with clients to deliver bespoke projects and integrations.
-Apply for this Job* Required  
+Apply for this Job* Required
 First Name *Last Name *Email *Phone *
 Resume/CV * [Attach](https://boards.greenhouse.io/eigentechnologies/jobs/4776594002#)[Dropbox](https://boards.greenhouse.io/eigentechnologies/jobs/4776594002#)[Google Drive](https://boards.greenhouse.io/eigentechnologies/jobs/4776594002#)[Paste](https://boards.greenhouse.io/eigentechnologies/jobs/4776594002#)
 Cover Letter [Attach](https://boards.greenhouse.io/eigentechnologies/jobs/4776594002#)[Dropbox](https://boards.greenhouse.io/eigentechnologies/jobs/4776594002#)[Google Drive](https://boards.greenhouse.io/eigentechnologies/jobs/4776594002#)[Paste](https://boards.greenhouse.io/eigentechnologies/jobs/4776594002#)
-LinkedIn Profile 
-Website 
+LinkedIn Profile
+Website
 GDPR * By submitting your application to Eigen Technologies you acknowledge that your information will be held under GDPR regulations.A copy of our Candidate Privacy Notice will be emailed to you once we receive your application.
- 
+
 
 ---
 **Diversity & Inclusion @ Eigen Technologies**

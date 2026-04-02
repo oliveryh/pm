@@ -10,5 +10,7 @@ Chance %: 20
 Open (E): 2020-11-09
 Deadline (E): 2021-06-04
 ---
+
 # Notes
+
 - Negative - Prolog is core module

@@ -1,7 +1,9 @@
 ---
 
 ---
+
 # Phone Apps Uninstalled
+
 - Geocaching
 - Everfit
 - CityMapper
@@ -56,4 +58,3 @@
 - Magic Stamp
 - Mindspace
 - Notion
-

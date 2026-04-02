@@ -3,10 +3,11 @@
 ---
 
 # Sprint Breakdown
-- 23.14 /  2023-07-03  
-- 23.15 /  2023-07-17  
-- 23.16 /  2023-08-31  
-- 23.17 /  2023-08-14  
+
+- 23.14 /  2023-07-03
+- 23.15 /  2023-07-17
+- 23.16 /  2023-08-31
+- 23.17 /  2023-08-14
     - [ ] Sign rental agreement
     - [ ] Cancel Virgin Media Broadband
     - [ ] Cancel gym membership
@@ -14,7 +15,7 @@
     - [ ] Book moving van
     - [ ] Download EverFit stuff
     - [ ] Research removal companies
-- 23.18 /  2023-08-28  
+- 23.18 /  2023-08-28
     - [ ] Move
     - [ ] Pick up keys
     - [ ] Clean Oval flat
@@ -25,6 +26,7 @@
     - [ ] Change address online
 
 # Location
+
 This is a travel map of the areas approx. 1h 10m from Birmingham centre, and 1h 25m from
 London
 
@@ -33,9 +35,11 @@ London
 It appears that Rugby, Nuneaton, and maybe Leamington Spa (at a push), are our best options.
 
 # Estate Agents
+
 ![[Estate Agents.base]]
 
 # Possible Rent
-https://www.thorntonrobson.com/property-details/163/warwickshire/rugby-44
-# 
 
+https://www.thorntonrobson.com/property-details/163/warwickshire/rugby-44
+
+#

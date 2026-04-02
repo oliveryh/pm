@@ -4,7 +4,9 @@
 ![[Companies.base]]
 <!-- Linked database (not supported by Notion API) -->
 [[Notion/Reference/Career Change/Decision Comparison]]
+
 # Tasks
+
 - [ ] Explore network and available opportunities
     - [ ] Who works where
     - [ ] Warm leads
@@ -29,24 +31,31 @@
 - [ ] Mention SQS on CV
 
 # Log
-##  2025-12-09  
+
+##  2025-12-09
+
 - Watched [**Domain Driven Design and Python: David Seddon**](https://www.youtube.com/watch?v=4XKhH9whNX0) video
 - [ ] Recommended reading: Domain Driven Design by Eric Evans
 
-##  2025-11-27  
+##  2025-11-27
+
 - Reset laptop in the hopes that doesn’t leave any association with Piclo
 
-##  2025-11-19  
+##  2025-11-19
+
 - Advice from Josh to ask at the end of interviews: “Are there any gaps that you’ve noticed that you’d like me to try and address now?”
 
-##  2025-11-18  
+##  2025-11-18
+
 - Captured in Google Sheets, what my runway looks like financially
     - [ ] Consider what outgoings I can easily cancel for now
 
-##  2025-11-13  
+##  2025-11-13
+
 - Made redundant from Piclo
 
-##  2025-11-04  
+##  2025-11-04
+
 - Met up with Jon Gould for a drink with James Curtis
 - Said that most python jobs will likely want Django as a framework (FastAPI and others are less common)
 - Advice from Jon
@@ -57,16 +66,19 @@
     - [ ] Speak to David Seddon who did the Rust talk
     - Generally there’s a quite period 15th Dec - 5th Jan
 
-##  2025-07-27  
+##  2025-07-27
+
 - Looking into my notice period
     - 1 month notice
     - 1 additional week’s notice for each additional complete year after 4 years (i.e. in June 2026 my notice would be ~5 weeks)
 
-##  2025-03-24  
+##  2025-03-24
+
 Call with Guy Kilbey
 - I said my target salary was £95k and Guy said “off record” that a more realistic expectation for early stage start-ups would be closer to £90k
 
-##  2025-03-02  
+##  2025-03-02
+
 Call with Jon Gould
 - Upwards curve of employers who have more product market fit
 - I said I’m not interested in jumping at every opportunity
@@ -76,17 +88,19 @@ Call with Jon Gould
     - Be clear about intentions from the start if I’m being cautious
 
 # Timelines
+
 [[OYH - Redundancy Package Letter - Nov 2025 1.pdf]]
-- Payment due November Payroll:  2025-11-28 
+- Payment due November Payroll:  2025-11-28
     - Pro rata November salary: £2,678.27 (estimate)
     - Pro rata PILOH: 3 days £927.09 (estimate)
-- Payment due December Payroll:  2025-12-23 
+- Payment due December Payroll:  2025-12-23
     - PILON: 1 month £6,695.67 (est. £4167 after tax)
     - Purchase of equipment: £355 (deducted after tax)
     - Statutory Redundancy: £2,876.00 (tax free)
-- Deadline to exercise vested EMI share options:  2026-02-11 
+- Deadline to exercise vested EMI share options:  2026-02-11
 
 # Finances
+
 - Calculate baseline outgoings
 - Calculate burn rate
 - Consider Job Seekers Allowance and affects on national insurance
@@ -98,6 +112,7 @@ Call with Jon Gould
 - Consider reducing Vanguard contributions / removing lump sum into current account
 
 # Advice (Mostly from Grace)
+
 - Think of job search strategies as a **pyramid** with three levels of effort and success rate:
     - **Bottom (lowest effort, lowest success): Cold applications**
         - Optimise your CV for **ATS (Applicant Tracking Systems)** by matching keywords and phrases from the job description.
@@ -118,8 +133,8 @@ Call with Jon Gould
     - Recommended resource: *Never Search Alone* — a book that supports healthy job search mindset and community-based strategies.
     - There are also **ChatGPT prompt workshops** and resources to help with job search tasks (e.g., tailoring applications, interview prep).
 
-
 # Factors in a new company
+
 - Size of company
 - Location
 - Days in office requirement
@@ -134,10 +149,11 @@ Call with Jon Gould
 - Funding Mechanism
 
 # CV Gaps
+
 - Typescript
 - React
 - Examples of use of GenAI
 
-
 # Other Resources
+
 - levels.fyi/en-gb/

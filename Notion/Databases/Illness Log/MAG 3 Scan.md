@@ -4,12 +4,15 @@ Date: 2023-03-16 to 2023-03-27
 Insurance Claim No#: "10413294"
 Status: Resolved
 ---
-#  2023-03-16  
+
+#  2023-03-16
+
 - Care number: 10413294
-- Procedure code needed from 
+- Procedure code needed from
 - Mary will contact me to organise a telephone consultation with Faiz
 
-#  2023-03-27  
+#  2023-03-27
+
 Registered with HCA
 - **Patient reference number: **X2864932
 - **Account number: **W1777805

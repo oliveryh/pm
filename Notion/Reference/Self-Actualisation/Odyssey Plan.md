@@ -1,8 +1,11 @@
 ---
 
 ---
+
 # Questions
+
 ## Plan 1 - Current Trajectory in 5 Years
+
 - I'd be working at Credit Suisse, and my career will be summarised mostly by hours worked and the knowledge that I've contributed to a company that could support many different things against my set of values
 - I'd be living in SE London
 - I'd never have committed to one physical discipline in particular and will have generally okay health but will still be suffering from various complaints
@@ -17,6 +20,7 @@
 - I'll still have a bad relationship with Reddit, YouTube , Porn etc.
 
 ## Plan 2 - Drastically Changed Trajectory in 5 Years
+
 - I'll spend one or two more years at Credit Suisse to accumulate wealth and experience and then likely spend 3-12 months travelling and working on individual projects
 - I will transition to an entirely vegan diet, including all the nutrients to have a healthy lifestyle
 - I will have found a physical practice that allows me to set goals, be physically healthy, and possibly join a community to share experiences or exercise with (sports).

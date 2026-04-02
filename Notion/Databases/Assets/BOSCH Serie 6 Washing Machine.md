@@ -4,11 +4,15 @@ Period Owned: 2024-06-01 to 2026-02-16
 Status: Archived
 Notes: ""
 ---
+
 # Log
+
 ##  2026-02-16  - Removal
+
 - Removed by John Lewis today after getting a new washing machine
 
 ##  2026-02-04  - Engineer visit
+
 - Randy visited today
 - Replaced fuse in plug
 - Diagnosed issue being the module not outputting power

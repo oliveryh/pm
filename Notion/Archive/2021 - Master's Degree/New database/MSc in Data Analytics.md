@@ -5,5 +5,7 @@ Course Link: https://warwick.ac.uk/study/postgraduate/taught/courses-2020/dataan
 "Uni #": 7
 University: Warwick
 ---
+
 # Notes
+
 - Virtually the same as Computer Science MSc but less preferred

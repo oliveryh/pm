@@ -6,5 +6,7 @@ Notes: Sell
 
 Resources
 ![[ebredl.pdf|Coffee Machine Manual]]
+
 # Log
-##  2024-12-01  
+
+##  2024-12-01

@@ -5,11 +5,15 @@ Status: Regular Usage
 Notes: ""
 Market Value: 600
 ---
+
 # Log
-##  2025-11-13  
+
+##  2025-11-13
+
 - Bought off of Piclo for £335
 
 # Set Up (Non Nix Actions)
+
 - Add `127.0.0.1 [api.,admin.]lvh.me` to `/etc/hosts` file
 - Change Keyboard Layout > Input Sources to “British - PC”
 - Change Keyboard Layout > Keyboard Shortcuts > Keyboard > Move focus to next window = `Command + \`

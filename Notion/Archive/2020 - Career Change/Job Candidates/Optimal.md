@@ -25,7 +25,8 @@ Little Knowledge
 - Cloud (AWS EC2, Linode)
 
 # Meeting with CEO
-- Leadership 
+
+- Leadership
     - No management structure
     - No need to add that until the size grows
 - Team size
@@ -34,16 +35,22 @@ Little Knowledge
     - 3 Operations
 
 # Definitions
+
 ## Embedded Systems
+
 - A combination of a computer processor, computer memory and i/o devices
 - Generally don't have an OS
 
 ## Reinforcement Learning
 
 ![[Untitled 20.png]]
+
 ## BigQuery
+
 Serverless, highly scalable, and cost-effective multi-cloud data warehouse designed for business agility.
+
 # Systems Architecture Interview Preparation
+
 [https://orrsella.com/2016/05/28/preparing-for-a-system-architecture-interview/](https://orrsella.com/2016/05/28/preparing-for-a-system-architecture-interview/)
 [https://www.youtube.com/watch?v=VJpfO6KdyWE](https://www.youtube.com/watch?v=VJpfO6KdyWE)
 [https://www.youtube.com/watch?v=q0KGYwNbf-0](https://www.youtube.com/watch?v=q0KGYwNbf-0)

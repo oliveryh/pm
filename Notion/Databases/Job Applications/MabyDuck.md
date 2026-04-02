@@ -9,4 +9,3 @@ Application Status: Not started
 [Job Description](/11df82402059805fb705c27fae10a09d)
 - Possibly too small for this stage of the process
 - Salary range: 65-75K + 1-2% Equity
-

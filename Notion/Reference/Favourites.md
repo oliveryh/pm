@@ -1,26 +1,35 @@
 ---
 
 ---
+
 # Stuff I like
+
 - [Sea to Sky - Waterproof compact backpack](https://www.kickstarter.com/projects/351938236/sea-x-sky-the-waterproof-backpack-that-fits-in-you)
 - [Sandqvist Backpacks](https://www.sandqvist.com/en/start)
 - [Global Knives](http://globalknives.uk/)
 
 # Possessions
+
 # Guide to shopping
+
 ## Questions to ask before buying something
+
 - My current reference point is ~£100 per day / ~£15 per hour of income after tax
 
 # Locations
+
 ## Food and Drink
+
 - [Doppio](https://goo.gl/maps/FriaA2trYMR2)
 - [Earth Natural Foods](https://goo.gl/maps/7h68MZwRZNM2)
 - [Gail's](https://goo.gl/maps/Gi2nESHWG2z)
 
 ## Cosmetics
+
 - LUSH
 
 # Assets
+
 ## Toiletries
 
 | Product | Locations |
@@ -36,6 +45,7 @@
 | Faith Soap | Earth Natural Foods |
 
 # Food
+
 ## Hot Drinks
 
 | Product | Locations |
@@ -56,7 +66,9 @@
 | T-Shirt - Supima Cotton Crew XS | UNIQLO |
 
 # Favourites
+
 ## Desserts
+
 - Nougat
 - Macaroons
 - Almond Thins
@@ -65,10 +77,12 @@
 - Spekulatius
 
 ## Coffee
+
 - Grumpy Mule Coffee - Sumatra
 - Doppio Coffee - Green
 
 ## Beer
+
 - Butty Back
 - Abbot Ale
 - Golden Pride
@@ -79,11 +93,12 @@
 - Saucery Session IPA
 
 ## Wine
+
 - Terre di Bo Chianti riserva wine
 - [Chataeu de Caillau Cahors Red Wine](https://www.uvinum.com/cahors-wine)
 - [Rosé Wine: Domain Belambrée](http://www.domainedebelambree.fr/)
 
 # Other
+
 - Strong Roots Beetroot and Bean Burgers
 - Make Glory Burgers
-

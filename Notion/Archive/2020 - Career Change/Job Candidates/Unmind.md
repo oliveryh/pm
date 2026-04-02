@@ -7,8 +7,11 @@ Column: Rejected before interview
 Skills: []
 Job Link: https://apply.workable.com/unmind/j/3384D92133/
 ---
+
 # Description
+
 ### Description
+
 **About Unmind**
 Unmind
 is a workplace mental health platform. We empower organisations and
@@ -52,7 +55,7 @@ learning as you go, and we hope that’s exactly what you are looking for. Howev
 - Solid understanding of Agile best practices and lean principles
 - Excellent communication skills and a positive attitude
 - A self-starter with a history of identifying valuable initiatives and driving them to completion
-- The ability to thrive in a startup environment with a high degree of autonomy 
+- The ability to thrive in a startup environment with a high degree of autonomy
 - Experience building and maintaining serverless architectures in the cloud using infrastructure-as-code
 - Interest in functional programming
 - Understanding of TDD and DDD
@@ -78,5 +81,7 @@ and social perks to make working with Unmind fun and fulfilling.
 - Dog-friendly workplace
 
 # Timeline
+
 ##  2020-05-20  - Applied
-- Applied  on  2020-05-20  
+
+- Applied  on  2020-05-20

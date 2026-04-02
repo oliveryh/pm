@@ -8,4 +8,3 @@
 - 37 Wedgnock Green, Warwick, CV34 5EQ: 01/09/2023
 - Kenilworth AirBNB
 - 55 Avon Street, Warwick, CV34 4PX: 17/06/2024
-

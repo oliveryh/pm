@@ -1,14 +1,18 @@
 ---
 
 ---
+
 # Candidate Houses
+
 # Resources
+
 - [Badi](https://badi.com/) - House Mate Finding App
 - [moveBubble](https://www.movebubble.com/) - Renting app
     - free
     - provides ratings from previous renters
 
 # House Requirements
+
 - Large kitchen
 - The ability to open and close windows fully
 - Some outdoor space (small patio or garden)
@@ -22,6 +26,7 @@
 - Dining room table
 
 # Location
+
 - Within 30-40 minutes walking from work
 - Within 5 minutes walk to a well-linked tube station (that's on the night tube)
 - Close to bike friendly tube lines
@@ -32,6 +37,7 @@
 - In choosing between living with 0-1 people vs 2 or more people, remember that ascertaining responsibility will no longer be instantaneous with more than one roommate (“whose dishes are these?”).
 
 # House Search Methodology
+
 There are particular actions that help more than others while looking for accommodation. The following are what provided the most value for me:
 - Creating an account on SpareRoom
     - Be explicit about requirements
@@ -47,6 +53,7 @@ Things that didn't really amount to anything:
 - Looking on Facebook
 
 # Contacts
+
 Keatons: London Estate Agents
 Shaun Datngarm
 Senior Consultant

@@ -11,5 +11,3 @@
 - Tech Debt is quite high
 - Gareth has been there for 5 or 6 months
     - ? Lack of focus / questionable decisions
-
-

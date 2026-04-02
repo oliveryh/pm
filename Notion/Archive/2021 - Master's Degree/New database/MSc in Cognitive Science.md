@@ -5,5 +5,7 @@ Course Link: https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site
 "Uni #": 5
 University: Edinburgh
 ---
+
 # Notes
+
 - Perhaps too specialised at this point

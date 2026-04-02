@@ -13,7 +13,9 @@ Open (E): 2020-09-01
 Deadline (E): 2021-03-01
 Cost: 11605
 ---
+
 # Application Process
+
 [More Information on Application Process](https://www.ox.ac.uk/admissions/graduate/applying-to-oxford/getting-started)
 - [ ] Acquire [transcript](https://www.ox.ac.uk/admissions/graduate/applying-to-oxford/application-guide/supporting-documents#content-tab--2) (I believe I have a HEAR report which is eligible)
 - [ ] Reach out to [referees](https://www.ox.ac.uk/admissions/graduate/applying-to-oxford/application-guide/references) to ask them if they're happy to be a referee
@@ -29,4 +31,5 @@ Cost: 11605
     - [ ] Get feedback on personal statement
 
 ## References
+
 - 3 Referees are required

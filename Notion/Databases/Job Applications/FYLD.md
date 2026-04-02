@@ -5,8 +5,11 @@ Recruiter: Jon Gould
 Company: []
 Application Status: Not started
 ---
+
 # Log
-##  2025-11-04  
+
+##  2025-11-04
+
 - Clarified with Jon that FYLD may still be doing okay, despite Lorna having been laid off
 
 

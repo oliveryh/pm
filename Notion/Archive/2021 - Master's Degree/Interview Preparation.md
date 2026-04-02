@@ -2,7 +2,9 @@
 
 ---
 [Oxford CS Undergraduate Interview Page](https://www.cs.ox.ac.uk/admissions/undergraduate/how_to_apply/interviews.html)
+
 # Interview Preparation Plan
+
 - [ ] Look at Master's course prerequisites and ensure I focus on these areas
 - [ ] Save selection of flashcards to a new set specifically for interviews
 - [ ] Review flashcards and answer questions on a regular basis
@@ -21,6 +23,7 @@
 - [ ] [https://youtu.be/6_x__QJJO5o](https://youtu.be/6_x__QJJO5o)
 
 # High Level Plan
+
 - Split time spent 1/2 between soft and 1/2 hard questions
 - Soft
     - Practice soft answer prompt sheets
@@ -32,7 +35,8 @@
     - MAT practice papers
 
 # Prerequisites
-The following are prerequisites mentioned in the course 
+
+The following are prerequisites mentioned in the course
 - Maths
 - Algebra
 - Statistics
@@ -41,7 +45,9 @@ The following are prerequisites mentioned in the course
 - Computational Complexity
 
 # Soft Questions
+
 ## Why Oxford?
+
 [Why Oxford?](http://www.cs.ox.ac.uk/admissions/graduate/msc-computer-science/why_oxford.html)
 - Cross discipline research opportunities
     - Collaborations across disciplines are where some of most impact can be made and Oxford is setup to foster this cross-discipline collaboration.
@@ -55,24 +61,29 @@ The following are prerequisites mentioned in the course
     - The scale and throughput of data that we're producing and how to manage this
 
 ## Why this Course?
+
 - In my personal statement, I expressed an interest in sustainability
 - For a large proportion of these issues you're dealing with a large number of inputs through the likes of sensors, or social data, and then drawing a conclusion from this
 - I believe that topics such as concurrent algorithms and data structures and database systems implementation would provide a foundation in how to implement these things effectively
 - With the amazing tools out there we can all download Tensorflow and run a neural net, but now the power lies in applying these techniques at scale on modern problem sets
 
 ## Why a Masters?
+
 - My experience of my undergrad was very positive and at the time I wanted to go to industry. Industry had dropped me into the deep end in terms of technical ability and I'm heavily benefited from that
 - I want to contribute to something that betters peoples lives. I currently work in finance and I believe I need the exposure and cross-disciplinary opportunities to find that niche that I can really contribute to and excel in. The Master's is not only a good chance to get that exposure, especially with the industry ties, but also to contribute to the academic world again.
 
 ## What are you looking to do after this course?
+
 - Go into a research position either in industry or in academia that focuses on this niche
 - I believe I have good skills in mathematical foundation, experimentation
 
 ## What do you think you would do a project on if given the opportunity?
+
 - Take something at the core of society like transport or food production and work out how to optimise it
 - Cost and energy effective design is at the core of sustainable projects
 
 # Personal Statement Questions
+
 - Core Mathematical Principles
     - Linear Algebra - Grounding to a large amount of statistics and statics that build up the understanding of many ML concepts
     - Combinatorics - The science of counting. I believe that quantifying interactions lead to this concept of modelling which is proven within CS to be a very valuable thing to do
@@ -105,6 +116,7 @@ The following are prerequisites mentioned in the course
     - Social and computer science dedicated to the study of information, communication, and technology
 
 # Technical Questions
+
 What is the difference between procedural, functional, and object oriented programming
 What is a processor/thread
 Define object

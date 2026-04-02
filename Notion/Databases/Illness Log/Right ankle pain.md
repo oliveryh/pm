@@ -7,24 +7,29 @@ Insurance Company: Vitality
 ---
 
 [[Ascenti - Onward Recommendation Letter.pdf]]
+
 # Log
-##  2026-01-15  
+
+##  2026-01-15
+
 - Final session with Ruth for the time being
 - Decided to freeze account for 6 months and do regular maintenance exercises
 [[OliverExercises.pdf]]
 
-##  2025-09-30  
-- I had a session with Ruth today. I think the progress on the strengthening exercise was okay, but she was disappointed that I hadn't done any running or tennis. 
+##  2025-09-30
+
+- I had a session with Ruth today. I think the progress on the strengthening exercise was okay, but she was disappointed that I hadn't done any running or tennis.
 - She strongly suggested doing some form of running before the next session in four weeks. She suggested that I do the following throughout the week:
     - A run
     - Strengthening
     - Rest day
 - She removed exercises that would aggravate the knee pain that I was reporting.
 - She also suggested doing some foam rollers on the back, upper back, to relieve the upper back pain and also rows.
-- If I don't make enough progress before next session, I have a feeling she may not want to continue. 
-- She said that couch to 5K isn't necessary. I can always just do 2K runs. 
+- If I don't make enough progress before next session, I have a feeling she may not want to continue.
+- She said that couch to 5K isn't necessary. I can always just do 2K runs.
 
-##  2025-08-26  
+##  2025-08-26
+
 - Physio session with Ruth
 - Continued improvement on objective measures of mobility
 - Stated that my success rate for exercises has still been about 50%
@@ -37,10 +42,12 @@ Insurance Company: Vitality
         - Use tempo music to help set correct pace
 
 ##  2025-08-24  - Invoice
+
 - Paid £100 excess invoice to Tarek Al Gamal
 ![[CamScanner_24-08-2025_18.21.pdf]]
 
 ##  2025-07-31  - Specialist Physiotherapist Session 2
+
 - Notes from Ruth
     - I’ve emailed the exercise programme – remember to elevate the heel with the lunge as shown in the video below.  Also if the single leg wall calf raises feel to hard then just up the reps of the double leg ones – or mix and match
     - Keep remembering to relax the foot and to trust it
@@ -50,6 +57,7 @@ Insurance Company: Vitality
 - Encouraged to continue to do the static stretches regularly without having to schedule them in
 
 ##  2025-07-15  - Specialist Physiotherapist Session 1
+
 - Went to see Ruth Elvis at Spire Parkway Hospital in Solihull for an initial consultation
 - Suggestions from her
     - Don’t worry too much about high impact exercises
@@ -79,16 +87,17 @@ I also received an email from Ruth with instructions
 > 5. Restore full calf length to prevent increased pronation during gait cycle
 > 6. Restore full soleus strength to help reduce achilles pain and to give greater heel support/arch support
 > 7. Try and desensitize area using ice and mindset
-> 
+>
 > Good luck and see you in 2 weeks.
 > [[OliverY.pdf]]
 > [Login](https://patient-portal-v2.wibbi.com/resources)
 
-
- 2025-06-25  
+ 2025-06-25
 Received summary from Consultant about diagnosis
 ![[CamScanner_14-07-2025_21.34.pdf|Diagnosis write-up from consultant]]
-##  2025-06-24  
+
+##  2025-06-24
+
 [[Spire Medical Phyisotherapy Referral.pdf]]
 - Had a back and forth with my health insurance company and Spire medical Centre to understand if they’d cover the physio therapy that I was referred to from the consultant
 - The name of the specific physiotherapist was Ruth Harrison (maiden name Elvis)
@@ -99,7 +108,8 @@ Received summary from Consultant about diagnosis
     - £52 per session after that
 - The same authorisation code will be used
 
-##  2025-06-23  
+##  2025-06-23
+
 - Had second consultant meeting with specialist
 - Stated that in X Ray my mid bone structure was pointing downwards
 - Suggested avoiding high impact movement without specialist shoes
@@ -108,14 +118,17 @@ Received summary from Consultant about diagnosis
 - I handed in the physiotherapy note into the reception and they said they’d give me a call
 - The specialist suggest a specific physiotherapist
 
-##  2025-06-17  
+##  2025-06-17
+
 - Called to book the second consultant meeting - booked at 19:45 on Monday 23rd June
 
 ##  2025-04-28  - Orthpedic Cosultant Meeting #1
+
 [[Spire Parkway Hospital - Cosultant Meeting 1.pdf]]
 - Saw Mr Tarek El Gamal about ankle
 - Received a standing X-Ray
 
-##  2025-04-15  
+##  2025-04-15
+
 - Onward recommendation from Ascenti physiotherapy to see a specialist
 - After some back-and-forth, I was eventually authorised to see an Orthopedic specialist

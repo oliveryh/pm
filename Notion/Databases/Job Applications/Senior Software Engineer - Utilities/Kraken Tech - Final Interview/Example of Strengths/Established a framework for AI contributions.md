@@ -14,19 +14,23 @@ Status: Done
 Signal Areas:
   - Feedback / Conflict
 ---
+
 # Headline
+
 - Agentic AI means it’s easier for PRs to be created by anyone
 - Transparency means I don’t want to gatekeep these tools
 - Established some routines in the team to have more agentic PRs and review them
 - Empowering engineers and others to engage in agentic PRs at a sustainable pace
 
 # Context
+
 - Use of AI meant that it was easier to contribute PRs than ever before. With Codex you could describe an issue and have a PR created
 - We had an increase in PRs being sent to our team to review with contributions that were largely AI driven and this was distracting and demoralising engineers
 - This was causing frustration amongst engineers in my team as the contributions often didn’t follow best practices, local testing may have been limited, and reasons for fixing something at that point in time wasn’t clear
 - **Conflict between me, my team, and people outside product**
 
 # Actions
+
 - **Empathy** - Empathised with someone thinking “Why don’t I just fix that”
 - **Transparency** - Also want to encourage others to adopt these new tools
 - Had sessions with those colleagues individually to ensure they had their development environment set up
@@ -35,11 +39,12 @@ Signal Areas:
 - Continued having review sessions with engineers in my team to see how well it was going and how well the AI performed
 
 # Result
+
 - We saw an increased adoption of PRs written by AI as there was no longer a resistance from engineers
 - Positive feedback from my CTO about embracing AI
 - Quickly improved GitHub Copilots capabilities
 
 # Learnings
+
 - Empathy for those around you
 - Not to gatekeep code or standards
-

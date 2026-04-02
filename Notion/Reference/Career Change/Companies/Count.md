@@ -3,8 +3,11 @@ base: "[[Companies.base]]"
 Contact: ""
 Location: ""
 ---
+
 #  2025-11-26  - Initial Interview
+
 ## Notes from the call
+
 - 18 Employees
     - Half in UK - Some in EU
     - 4 Product Engineers
@@ -31,6 +34,7 @@ Location: ""
     - They don’t have an office in London any more
 
 ## Questions for me
+
 - What does Count do?
     - Collaborative canvas to replace BI tooling
 - Why did you leave Piclo?
@@ -48,6 +52,7 @@ Location: ""
     - I’d say I’m positioned to expect the lower end of your salary expectations
 
 ## Do you have any questions for us?
+
 - How many employees and engineers currently work at Count?
 - How does Count decide what to build?
     - Noted a small scale and flat structure
@@ -61,6 +66,7 @@ Location: ""
 - What would you save a successful first few months in this role would look like?
 
 ## What experience do I have?
+
 - Python
     - Worked with python in various capacities
     - University - ML Principles
@@ -98,6 +104,7 @@ Location: ""
         - Debugging SQL to identify inefficient queries
 
 ## Who am I?
+
 - Tackling deep technical challenges in data analytics
     - Enjoy deep diving into the vertical stack of an issue
     - Example: Debugging GPUs
@@ -107,9 +114,10 @@ Location: ""
 - Are driven by a passion to create amazing user experiences
     - Always approached a problem with empathy and human centric design
 - Are comfortable working autonomously and taking responsibility for the delivery of large technical projects
-    - Enjoy working autonomously but regularly 
+    - Enjoy working autonomously but regularly
 
 ## What am I looking for in my next role?
+
 - More technical role
     - Deep dive into technical topics
     - Also have an opportunity to learn/share with others
@@ -125,10 +133,10 @@ Location: ""
         - Really opens up the application of Rust/Python on the web
 
 # Notes
+
 - Noticed a bug
     - Reducing opacity when high contrast black/white text is used
 - One of their senior engineers Jason Cole has an engineering blog that looks interesting: [https://jasmcole.com/](https://jasmcole.com/)
 - CTE - Common Table Expression
 
-
-## 
+##
