@@ -17,7 +17,7 @@ END
 
 START
 Basic
-What is the completing the square 
+What is the completing the square
 Back: Put the quadratic into the form $y = a(x\pm b)^2 + c$
 <!--ID: 1612637986153-->
 END
@@ -244,6 +244,7 @@ Basic
 Provide an algorithm for finding Minimum Spanning Trees
 Back:
 Kruskal's algorithm is one way to find a MST
+
 ```
 algorithm Kruskal(G) is
   F:= ∅
@@ -255,6 +256,7 @@ algorithm Kruskal(G) is
       UNION(FIND-SET(u), FIND-SET(v))
   return F
 ```
+
 <!--ID: 1612471140281-->
 END
 
@@ -295,7 +297,7 @@ END
 START
 Basic
 Detail the 3 functions of the Union-Find (Disjoint-set) Data Structure and their time complexities given the size of a graph $n$
-Back: 
+Back:
 - Initialisation: $O(n)$
 - MAKE-SET($i$): $O(1)$
 - FIND($i$): $O(1)$
@@ -316,6 +318,7 @@ START
 Basic
 Write the algorithm for DFS Recursive
 Back:
+
 ```
 RECURSIVEDFS(v):
 	if v is unmarked
@@ -323,6 +326,7 @@ RECURSIVEDFS(v):
 		for each edge vw
 			RECURSIVEDFS(v)
 ```
+
 <!--ID: 1613426140753-->
 END
 
@@ -330,6 +334,7 @@ START
 Basic
 Write the algorithm for DFS Iterative
 Back:
+
 ```
 ITERATIVEDFS(v):
 	PUSH(s)
@@ -340,6 +345,7 @@ ITERATIVEDFS(v):
 			for each edge vw
 				PUSH(w)
 ```
+
 <!--ID: 1613426140761-->
 END
 
@@ -429,7 +435,7 @@ END
 START
 Basic
 Define: NP (Non-deterministic Polynomial Time)
-Back: A language $L$ is in NP if there exists TM $M$ and polynomial $T$ such that 
+Back: A language $L$ is in NP if there exists TM $M$ and polynomial $T$ such that
 - $\forall x$, $M$ terminates in at most $T(|x|)$ steps
 - If $x \in L$ then there is a certificate $t \in \{0,1\}^{p(|x|)}$ such that $M$ accepts $\langle x,t \rangle$
 - If $x \not\in L$, then for any string $t \in \{0,1\}^{p(|x|)}$, $M$ rejects $\langle x,t \rangle$

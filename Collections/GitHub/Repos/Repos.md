@@ -74,17 +74,18 @@ const { createButton } = this.app.plugins.plugins["buttons"];
 createButton({ app, el: this.container, args: { name: "🔄 Sync Repos" }, clickOverride: { click: clickHandler, params: [] }, });
 ```
 
-
 ![[GitHub Repos.base]]
 
 # Tasks
 
 - [x] Add soft deletion
+
 # Log
 
 ## 2025-12-19
 
 - [x] Deleted unused repos and updated issues
+
 ## 2025-06-22
 
 - [x] Update issue count to be open issues

@@ -3,6 +3,7 @@
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
 
 ## Metadata
+
 - Author: [[Jeff Huang]]
 - Full Title: My productivity app is a never-ending .txt file
 - Category: #articles
@@ -10,7 +11,9 @@
 - URL: https://jeffhuang.com/productivity_text_file/
 
 ## Full Document
+
 [[Full Document Contents/Articles/My productivity app is a never-ending .txt file.md|See full document content →]]
 
 ## Highlights
+
 - So I tried various forms of todo lists, task trackers, and productivity apps. They were all discouraging because the things to do kept getting longer, and there were too many interrelated things like past meeting notes, calendar appointments, idea lists, and lab notebooks, which were all on different systems. ([View Highlight](https://read.readwise.io/read/01hqdtb0ps682m1y1yt1kf9vfc))

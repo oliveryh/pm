@@ -3,17 +3,20 @@
 ![rw-book-cover](https://news.ycombinator.com/favicon.ico)
 
 ## Metadata
+
 - Author: [[Nikita Prokopov]]
 - Full Title: Software Disenchantment
 - Category: #articles
-- Document Tags: [[ux]] 
+- Document Tags: [[ux]]
 - Summary: Everything is going to hell and nobody seems to care
 - URL: https://tonsky.me/blog/disenchantment/
 
 ## Full Document
+
 [[Full Document Contents/Articles/Software Disenchantment.md|See full document content →]]
 
 ## Highlights
+
 - Look around: our portable computers are thousands of times more powerful than the ones that brought man to the moon. Yet every other webpage struggles to maintain a smooth 60fps scroll on the latest top-of-the-line MacBook Pro. I can comfortably play games, watch 4K videos, but not scroll web pages? How is that ok? ([View Highlight](https://read.readwise.io/read/01hhz49tyzpy54m38h95h1z68d))
 - Almost all compilers, pre- and post-processors add significant, sometimes disastrous time tax to your build without providing proportionally substantial benefits. ([View Highlight](https://read.readwise.io/read/01hhz49aqj3d9xs8bs9xwmpe3y))
 - You would expect programmers to make mostly rational decisions, yet sometimes they do the exact opposite of that. E.g. choosing Hadoop [even when it’s slower than running the same task on a single desktop](https://www.chrisstucchio.com/blog/2013/hadoop_hatred.html). ([View Highlight](https://read.readwise.io/read/01hhz48zfqfz58pcf98gd77sbc))

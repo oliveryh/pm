@@ -2,6 +2,7 @@
 
 - [Optimizing Your Inputs | Colossus®](https://www.joincolossus.com/episodes/85214124/srinivasan-optimizing-your-inputs?tab=blocks)
 - [How to stop being “terminally online” | Hacker News](https://news.ycombinator.com/item?id=32374207)
+
 # Methodology
 
 1. List every concept/object/process I spend time/energy/money on
@@ -29,7 +30,7 @@ Some examples of inefficiencies include:
 
 https://thesephist.com/posts/tools/
 
-Tools we consume will largely fall short of what we expect. When others others build tools for us to use, they either design tools after their own workflows and mental models, or design for a mass market. 
+Tools we consume will largely fall short of what we expect. When others others build tools for us to use, they either design tools after their own workflows and mental models, or design for a mass market.
 
 Instead of trying to fit our workflows to fit around the tools available to us, we should be designing tools to fit around our workflows.
 
@@ -37,10 +38,9 @@ Not only this, but the investment in time is worth it. I was able to build a tas
 
 I'm not able to consolidate all the apps I once used, into tools that adapt to my workflow. The apps that I build, along with the highly customizable tools (Notion & Obsidian).
 
-The other benefit of writing your own tools is ownership and longevity. Obsidian is stored in Markdown, a format that will be supported for years to come. 
+The other benefit of writing your own tools is ownership and longevity. Obsidian is stored in Markdown, a format that will be supported for years to come.
 
 # Concepts
-
 
 - 3D Printer
 - Alerts

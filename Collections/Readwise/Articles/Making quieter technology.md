@@ -3,6 +3,7 @@
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 
 ## Metadata
+
 - Author: [[nicolasbouliane.com]]
 - Full Title: Making quieter technology
 - Category: #articles
@@ -10,9 +11,11 @@
 - URL: https://nicolasbouliane.com/blog/silence
 
 ## Full Document
+
 [[Full Document Contents/Articles/Making quieter technology.md|See full document content →]]
 
 ## Highlights
+
 - A good ad blocker: [uBlock Origin](https://ublockorigin.com/). Enable the "annoyances" blocklists. They get rid of most cookie banners. ([View Highlight](https://read.readwise.io/read/01gzeqb9n6dmetmnezf8ygt4nf))
 - A good web browser: Firefox. The Android version lets you install uBlock Origin, and syncs your ad blocker settings between devices. It also has a great distraction-free reader mode. ([View Highlight](https://read.readwise.io/read/01gzeqbbsrtvxjpas5zzcjddjm))
 - A good search results filter: [uBlacklist](https://github.com/iorate/ublacklist). It hides spammy websites from search results. ([View Highlight](https://read.readwise.io/read/01gzeqbf0y2j0pfd400x8m4e7m))

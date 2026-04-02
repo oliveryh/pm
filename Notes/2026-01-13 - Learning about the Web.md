@@ -6,7 +6,7 @@ Beginner → Intermediate (Great starting points)
 
 1. “How Browsers Work” by Tali Garsiel & Paul Irish (2011, still unbeatable)
     - Classic article that explains the browser internals in detail: parsing, CSSOM, render tree, layout, painting, compositing, etc.
-    - Link: [https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)  
+    - Link: [https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
         (Also read the updated version on web.dev: [https://web.dev/howbrowserswork/](https://web.dev/howbrowserswork/))
 2. MDN Web Docs – “Web Technology for Developers” section
     - The gold standard reference. Free and constantly updated.
@@ -65,7 +65,8 @@ If you only have time for three resources:
 - How Browsers Work + Web Browser Engineering (for real understanding)
 - High Performance Browser Networking
 
-These will give you a much deeper mental model than any bootcamp-style “learn React in 7 days” course.Enjoy the rabbit hole – the web platform is fascinating once you go below the framework layer! 
+These will give you a much deeper mental model than any bootcamp-style “learn React in 7 days” course.Enjoy the rabbit hole – the web platform is fascinating once you go below the framework layer!
+
 # Notes
 
 ## "How Browsers Work"
@@ -96,43 +97,44 @@ Describe the high level structure of the browser
 - Data storage
 	- e.g. Cookies, localStorage, IndexedDB, WebSQL, Filesystem
 
-What does the networking component handle?  
-?  
+What does the networking component handle?
+?
 Networking handles HTTP/HTTPS requests and responses, DNS resolution, and connection management (TCP/TLS), providing raw resources to the browser.
 
-What does the browser UI contain and do?  
-?  
+What does the browser UI contain and do?
+?
 The browser UI contains visible controls like the address bar, back/forward buttons, bookmarks, and menus, and it coordinates user interactions with the engine.
 
-What is the browser engine and what is its role?  
-?  
+What is the browser engine and what is its role?
+?
 The browser engine mediates between the UI and the rendering engine and orchestrates high-level actions like navigation and layout decisions.
 
-What is the rendering engine (layout engine) responsible for?  
-?  
+What is the rendering engine (layout engine) responsible for?
+?
 The rendering engine parses HTML/CSS, constructs the DOM and CSSOM, builds the render tree, performs layout, paints, and composites pixels to the screen.
 
-What is the JavaScript engine and its responsibilities?  
-?  
+What is the JavaScript engine and its responsibilities?
+?
 The JavaScript engine parses, compiles, and executes JavaScript, performs runtime optimizations, and manages the heap and call stack for scripts.
 
-What is the purpose of data storage in browsers?  
-?  
+What is the purpose of data storage in browsers?
+?
 Data storage holds persistent data like cookies, localStorage, IndexedDB, and caches used for later retrieval and offline support.
 
-What are the high-level steps of the critical rendering path?  
-?  
+What are the high-level steps of the critical rendering path?
+?
 The critical rendering path involves fetching resources, parsing HTML to build the DOM, parsing CSS to build the CSSOM, constructing the render tree, performing layout, painting, and compositing.
+
 ### Network
 
 #### DNS
 
-How does navigation begin when a user enters a URL?  
-?  
+How does navigation begin when a user enters a URL?
+?
 Navigation begins with parsing the URL, resolving the hostname via DNS, opening TCP/TLS connections as needed, and sending an HTTP(S) request to fetch resources.
 
-What role does DNS play in loading a page?  
-?  
+What role does DNS play in loading a page?
+?
 DNS resolves a hostname to an IP address so the browser can establish a connection to the server hosting the page.
 
 #### TCP
@@ -152,26 +154,28 @@ What happens during a TLS handshake?
 - Authenticate the identity of the server via the server’s public key and the SSL certificate authority’s digital signature
 - Generate session keys in order to use symmetric encryption after the handshake is complete
 
-How does TLS affect page load performance?  
-?  
+How does TLS affect page load performance?
+?
 TLS adds cryptographic handshake overhead before encrypted transfers start, but TLS 1.3 and session resumption reduce latency while providing necessary security.
+
 #### HTTP vs HTTPS
 
 What's the difference between HTTP and HTTPS
 ?
 HTTPS is an extension of the HTTP protocol with an encrypted connection
 
-What is caching and how does it improve performance?  
-?  
+What is caching and how does it improve performance?
+?
 Caching stores fetched resources locally (memory/disk) with headers that describe freshness, reducing redundant network requests and lowering load times.
 
-What is the same-origin policy?  
-?  
+What is the same-origin policy?
+?
 The same-origin policy restricts how documents or scripts from different origins can access each other's data to prevent cross-origin data leakage and security breaches.
 
-What is Time To First Byte (TTFB)?  
-?  
+What is Time To First Byte (TTFB)?
+?
 TTFB measures the time from the initial request to when the first byte of the response is received, reflecting network and server latency.
+
 ### HTTP and REST
 
 What does REST stand for?
@@ -252,6 +256,7 @@ To update an existing record
 Whats the difference between a PATCH and PUT request
 ?
 You should only use PUT to replace a resource entirely, while PATCH should be used to make a partial update
+
 ### Parsing Algorithm
 
 Describe how the HTML parser works
@@ -263,8 +268,8 @@ Parsing can't be done using a regular topdown or bottom parser as the language i
 
 CSS is a Context Free Grammar
 
-How is the CSSOM created from CSS?  
-?  
+How is the CSSOM created from CSS?
+?
 The CSS parser parses stylesheets and style elements into rules and selectors, producing the CSSOM which represents computed style relationships.
 
 Is CSS render blocking and why
@@ -306,12 +311,12 @@ Network latency, such as an external script tag
 Authors can defer a script until it's done parsing
 In HTML5 there is an option to mark a script as asynchronous so it'll be parsed and executed by a different thread
 
-What is the difference between async and defer on script tags?  
-?  
+What is the difference between async and defer on script tags?
+?
 async downloads the script and executes it as soon as it's available, possibly interrupting parsing; defer downloads during parsing and executes the scripts in order after parsing completes.
 
-What is speculative parsing and why is it used?  
-?  
+What is speculative parsing and why is it used?
+?
 Speculative parsing is the browser's background parsing of the HTML while scripts download, used to discover resource hints and accelerate loading without blocking.
 
 What does it mean for something to be reentrant
@@ -326,90 +331,92 @@ While the DOM tree is being constructed, the browser constructs another tree, th
 	- Non-visual DOM elements won't be inserted into the render tree
 - CSS has a struct concept that I would need to look into further
 
-What is the render tree and how is it different from the DOM?  
-?  
-The render tree combines DOM nodes with their computed styles to create nodes for only those items that will be rendered; it excludes non-visual DOM nodes like script, meta, or things like `display: none` 
+What is the render tree and how is it different from the DOM?
+?
+The render tree combines DOM nodes with their computed styles to create nodes for only those items that will be rendered; it excludes non-visual DOM nodes like script, meta, or things like `display: none`
+
 ### Layout
 
 https://developer.mozilla.org/en-US/docs/Web/Performance/Guides/Critical_rendering_path
 
 Concepts around how paint and layout are performed on a DOM element, it's children, siblings, or globally depending on what change has occurred
 
-What happens during layout (reflow)?  
-?  
+What happens during layout (reflow)?
+?
 During layout the browser computes the exact geometry — positions and sizes — of each node in the render tree relative to the viewport.
 
-What happens during paint?  
-?  
+What happens during paint?
+?
 Paint transforms render tree nodes into drawing commands that rasterize pixels for each layer, producing the visual contents to be composited.
 
-What is reflow (layout thrash) and why is it costly?  
-?  
+What is reflow (layout thrash) and why is it costly?
+?
 Reflow recalculates layout and geometry for affected elements and is computationally expensive because it can cascade through the render tree and trigger repaints.
 
-What kinds of DOM/CSS changes trigger reflow?  
-?  
+What kinds of DOM/CSS changes trigger reflow?
+?
 Changes to geometry-related properties (width, height, margin, padding, position, font-size) or structural DOM changes typically trigger reflow.
 
-What changes typically only trigger repaint and not reflow?  
-?  
+What changes typically only trigger repaint and not reflow?
+?
 Changes to properties that don't affect layout, such as color, background-color, visibility, and opacity (when not affecting geometry), usually trigger repaint only.
 
-What is First Contentful Paint (FCP)?  
-?  
+What is First Contentful Paint (FCP)?
+?
 FCP is a performance metric marking the time when the browser renders the first bit of DOM content (text, image, SVG) to the screen.
 
-What is Largest Contentful Paint (LCP)?  
-?  
+What is Largest Contentful Paint (LCP)?
+?
 LCP is a metric that measures when the largest visible content element in the viewport is rendered, reflecting perceived loading speed.
 
-What is Cumulative Layout Shift (CLS)?  
-?  
+What is Cumulative Layout Shift (CLS)?
+?
 CLS measures visual stability by quantifying unexpected layout shifts that occur during page load and interaction.
 
-What is incremental rendering and why is it beneficial?  
-?  
+What is incremental rendering and why is it beneficial?
+?
 Incremental rendering displays parts of the page as they arrive rather than waiting for all resources, improving perceived performance and faster feedback to users.
 
-What role does the GPU play in rendering?  
-?  
+What role does the GPU play in rendering?
+?
 The GPU accelerates rasterization and compositing of layers, offloading pixel-heavy work from the CPU to enable smoother animations and faster compositing.
 
-How can developers minimize reflows and repaints?  
-?  
+How can developers minimize reflows and repaints?
+?
 Batch DOM reads/writes, use transforms and opacity for animations, avoid synchronous layout queries, use requestAnimationFrame, and reduce DOM complexity.
 
 ### Accessibility
 
-What is the accessibility tree?  
-?  
+What is the accessibility tree?
+?
 The accessibility tree is a browser-generated representation of semantic and structural information about the page used by assistive technologies like screen readers.
 
 ### CORS, XSS, Same Origin
 
-What is Cross-Origin Resource Sharing (CORS)?  
-?  
+What is Cross-Origin Resource Sharing (CORS)?
+?
 CORS is a browser mechanism using response headers that lets servers specify which origins may access a resource, enabling controlled cross-origin requests.
 
 What is Cross-Sit Scripting (XSS)?
 ?
 A web security vulnerability where attackers inject malicious scripts (like JavaScript) into trusted websites, tricking users' browsers into executing them, often to steal sensitive data (cookies, session tokens), hijack accounts, or deface websites.
+
 ### Performance
 
-How should developers measure and diagnose browser performance?  
-?  
+How should developers measure and diagnose browser performance?
+?
 Use browser DevTools performance timelines, Lighthouse, and standardized metrics (FCP, LCP, CLS, TTFB), plus profiling to identify and fix bottlenecks.
 
-What practical steps improve page load and runtime performance?  
-?  
+What practical steps improve page load and runtime performance?
+?
 Minify/concatenate resources where helpful, defer noncritical scripts, inline critical CSS, use efficient image formats and sizes, enable caching, use service workers, and optimize JavaScript and animations.
 
-Why are service workers useful and what can they do?  
-?  
+Why are service workers useful and what can they do?
+?
 Service workers intercept network requests to provide caching strategies, offline support, background sync, and push notifications, improving resilience and performance.
 
-What are common performance bottlenecks in the rendering pipeline?  
-?  
+What are common performance bottlenecks in the rendering pipeline?
+?
 Common bottlenecks include render-blocking CSS, blocking scripts, heavy/inefficient JavaScript, excessive reflows/paints, large images, and network latency.
 
 ### Javascript Event Loop
@@ -450,88 +457,85 @@ WebSockets are ==a communication protocol providing full-duplex, bi-directional
 
 ### WebAssembly
 
-
 ## MDN How Browsers Work
 
 ### Flashcards
 
 #### DNS
 
-
-
 ---
 
 
-What is compositing in the rendering process?  
-?  
+What is compositing in the rendering process?
+?
 Compositing assembles painted layers into the final bitmap shown on screen, often using the GPU to combine layers efficiently.
 
-How do scripts affect parsing and rendering?  
-?  
+How do scripts affect parsing and rendering?
+?
 Parser-inserted scripts without async/defer can block HTML parsing; scripts can modify DOM/CSSOM and cause reflows/repaints, so script placement and attributes matter.
 
 
 
-Why is external CSS considered render-blocking?  
-?  
+Why is external CSS considered render-blocking?
+?
 The browser needs the CSSOM to construct the render tree and avoid displaying content with incorrect styles, so external CSS blocks rendering until parsed.
 
-Why can web fonts be render-blocking?  
-?  
+Why can web fonts be render-blocking?
+?
 Web fonts can block text rendering to avoid Flash Of Unstyled Text (FOUT) or layout shifts while the font loads; browsers have various timeout/fallback strategies.
 
 
 
 
 
-What are layers and why are they useful?  
-?  
+What are layers and why are they useful?
+?
 Layers are independently composited parts of the page (often GPU-backed) that can be repainted/composited separately to isolate expensive operations and enable smooth animations.
 
-How does the browser optimize resource loading?  
-?  
+How does the browser optimize resource loading?
+?
 Browsers optimize via parallel connections, HTTP/2 multiplexing, connection reuse, prioritization, speculative preconnect, DNS prefetch, and resource prioritization strategies.
 
-How do modern browsers use processes and threads?  
-?  
+How do modern browsers use processes and threads?
+?
 Modern browsers use multiple processes (browser, renderer, GPU, network) and multiple threads within those processes to improve isolation, security, stability, and parallelism.
 
-Why is JavaScript described as single-threaded, and how is concurrency provided?  
-?  
+Why is JavaScript described as single-threaded, and how is concurrency provided?
+?
 Within a given JS context code runs on a single main thread (event loop), while browsers provide concurrency via web workers and asynchronous non-blocking APIs.
 
-What is the event loop?  
-?  
+What is the event loop?
+?
 The event loop schedules and runs tasks from macrotask and microtask queues, executing them sequentially to process events, callbacks, and promise resolutions without blocking UI.
 
-What are microtasks and macrotasks and how do they differ?  
-?  
+What are microtasks and macrotasks and how do they differ?
+?
 Microtasks (e.g., Promise callbacks) run immediately after the current task and before rendering; macrotasks (e.g., setTimeout, I/O) are scheduled for later turns of the event loop.
 
-How does style calculation work?  
-?  
+How does style calculation work?
+?
 Style calculation matches CSS rules to DOM nodes, computes cascaded and inherited values, and produces computed styles used in layout and painting.
 
 
 
-What causes long tasks and why are they harmful?  
-?  
+What causes long tasks and why are they harmful?
+?
 Long tasks (typically >50ms) block the main thread, causing jank and delayed response to input; breaking work into smaller chunks improves responsiveness.
 
-What is layout thrashing and how can it be avoided?  
-?  
+What is layout thrashing and how can it be avoided?
+?
 Layout thrashing is repeatedly reading layout-dependent properties that force synchronous reflows interleaved with writes; avoid by batching reads and writes and using requestAnimationFrame.
 
-What are resource hints and what do they do?  
-?  
-Resource hints (dns-prefetch, preconnect, prefetch, prerender) let the browser perform preparatory actions like resolving DNS, opening connections, fetching resources, or loading a page early.  
-Answer  
+What are resource hints and what do they do?
+?
+Resource hints (dns-prefetch, preconnect, prefetch, prerender) let the browser perform preparatory actions like resolving DNS, opening connections, fetching resources, or loading a page early.
+Answer
 dns-prefetch resolves DNS ahead of time; preconnect opens connections (TCP/TLS) early; prefetch fetches likely-needed resources for later use; prerender loads a full page in the background.
 
 
 
-How does HTTP/2 change resource-loading strategies?  
-?  
+How does HTTP/2 change resource-loading strategies?
+?
 HTTP/2 multiplexes multiple requests over a single connection, reducing the need for connection-per-resource and influencing optimizations like bundling and prioritization.
 
 # Resources

@@ -3,6 +3,7 @@
 DataviewJS allows you to create more interactive Obsidian pages
 
 # Examples
+
 ## API Fetch
 
 ```dataviewjs
@@ -30,7 +31,3 @@ const binType = (dv.luxon.DateTime.local().weekNumber % 2) ? "General Waste" : "
 const html = `<p>The next bin day is <b>${binType}</b></p>`
 dv.el("div", html);
 ```
-
-
-
-

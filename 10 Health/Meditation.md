@@ -3,6 +3,7 @@
 ## Prioritising
 
 Suppose you only have one day left on this Earth. What tasks would you do above the others, and what would your motivations be for that?
+
 # Discussion
 
 ## Motivations for Meditation

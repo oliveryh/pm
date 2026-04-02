@@ -3,6 +3,7 @@
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 
 ## Metadata
+
 - Author: [[Junaid Rahim]]
 - Full Title: Reflections on 4 Years of Writing With Obsidian
 - Category: #articles
@@ -10,9 +11,11 @@
 - URL: https://junaid.foo/posts/obsidian-four-year-reflections/
 
 ## Full Document
+
 [[Full Document Contents/Articles/Reflections on 4 Years of Writing With Obsidian.md|See full document content →]]
 
 ## Highlights
+
 - I use the following community plugins
   • [Periodic Notes](https://github.com/liamcain/obsidian-periodic-notes) for periodic journalling with templates
   • [Dataview](https://blacksmithgu.github.io/obsidian-dataview/) for creating dynamic indexes on my notes

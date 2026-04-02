@@ -1,4 +1,5 @@
 ![[Books.base]]
+
 # Candidates
 
 - Walden by Henry Thoreau

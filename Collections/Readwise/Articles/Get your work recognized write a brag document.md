@@ -3,6 +3,7 @@
 ![rw-book-cover](https://jvns.ca/favicon.ico)
 
 ## Metadata
+
 - Author: [[Julia Evans]]
 - Full Title: Get your work recognized: write a brag document
 - Category: #articles
@@ -10,9 +11,11 @@
 - URL: https://jvns.ca/blog/brag-documents/
 
 ## Full Document
+
 [[Full Document Contents/Articles/Get your work recognized write a brag document.md|See full document content →]]
 
 ## Highlights
+
 - you don’t remember everything you did
   One thing I’m always struck by when it comes to performance review time is a feeling of “wait, what *did* I do in the last 6 months?“. This is a kind of demoralizing feeling and it’s usually not based in reality, more in “I forgot what cool stuff I actually did”.
   I invariably end up having to spend a bunch of time looking through my pull requests, tickets, launch emails, design documents, and more. I always end up finding small (and sometimes not-so-small) things that I completely forgot I did, like:

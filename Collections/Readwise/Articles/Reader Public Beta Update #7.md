@@ -3,6 +3,7 @@
 ![rw-book-cover](https://readwise-community.ghost.io/content/images/size/w1600/2024/01/image-6.png)
 
 ## Metadata
+
 - Author: [[readwise.io]]
 - Full Title: Reader Public Beta Update #7
 - Category: #articles
@@ -10,9 +11,11 @@
 - URL: https://readwise.io/reader/update-jan2024
 
 ## Full Document
+
 [[Full Document Contents/Articles/Reader Public Beta Update #7.md|See full document content →]]
 
 ## Highlights
+
 - Experimental: You can now create and share custom collections of documents with others enabling a variety of collaborative use cases. Here's an example bundle of some blog posts I wrote on a yearlong around the world sabbatical: [Dan & Meghan go on a sabbatical](https://readwise.io/reader/view/dan-and-meghan-sabbatical). ([View Highlight](https://read.readwise.io/read/01hnb7pnn73vbb5q6cnp95ckkt))
 - **Custom Email Addresses** – You can now customize your Reader email alias making it easier to remember and subscribe to newsletters. ([View Highlight](https://read.readwise.io/read/01hnb7q6t3c5k8n0tn1p1rcdgq))
 - **Exportable Summaries** – You can now export AI-generated summaries to Notion, Roam Research, Obsidian, Logseq, and Markdown. ([View Highlight](https://read.readwise.io/read/01hnb7qkpcq12z1gs0jjkx66gv))

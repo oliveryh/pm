@@ -1,4 +1,4 @@
-In [this article](https://tynan.com/shapes), the idea of shapes are explored. 
+In [this article](https://tynan.com/shapes), the idea of shapes are explored.
 
 ![](https://cdn.sett.com/images/user/20121021/BadShapes8bpp73dd56549978dc5ab7aea77bda79a5f9.png)
 

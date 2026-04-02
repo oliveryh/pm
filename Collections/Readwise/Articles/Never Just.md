@@ -3,6 +3,7 @@
 ![rw-book-cover](https://www.neverjust.net/opengraph-image?f6c3b1bcf7744fbc)
 
 ## Metadata
+
 - Author: [[neverjust]]
 - Full Title: Never Just
 - Category: #articles
@@ -10,9 +11,11 @@
 - URL: https://www.neverjust.net/
 
 ## Full Document
+
 [[Full Document Contents/Articles/Never Just.md|See full document content →]]
 
 ## Highlights
+
 - When you "just" someone, you risk:
   • Dismissing their expertise and effort
   • Oversimplifying real-world problems

@@ -3,6 +3,7 @@
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 
 ## Metadata
+
 - Author: [[grugbrain.dev]]
 - Full Title: The Grug Brained Developer a Layman's Guide to Thinking Like the Self-Aware Smol Brained
 - Category: #articles
@@ -10,7 +11,9 @@
 - URL: https://grugbrain.dev/#grug-on-dry
 
 ## Full Document
+
 [[Full Document Contents/Articles/The Grug Brained Developer a Layman's Guide to Thinking Like the Self-Aware Smol Brained.md|See full document content →]]
 
 ## Highlights
+
 - grug early on in career often charge into code base waving club wildly and smash up everything, learn not good ([View Highlight](https://read.readwise.io/read/01jydvrfstp443af349121xtw3))

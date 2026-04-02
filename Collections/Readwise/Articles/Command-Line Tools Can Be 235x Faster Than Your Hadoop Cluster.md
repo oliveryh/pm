@@ -3,6 +3,7 @@
 ![rw-book-cover](https://adamdrake.com/static/images/twitter-card.jpg)
 
 ## Metadata
+
 - Author: [[Adam Drake]]
 - Full Title: Command-Line Tools Can Be 235x Faster Than Your Hadoop Cluster
 - Category: #articles
@@ -10,9 +11,11 @@
 - URL: https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html
 
 ## Full Document
+
 [[Full Document Contents/Articles/Command-Line Tools Can Be 235x Faster Than Your Hadoop Cluster.md|See full document content →]]
 
 ## Highlights
+
 - Before starting the analysis pipeline, it is good to get a reference for how fast it could be and for this we can simply dump the data to `/dev/null`.
   cat *.pgn > /dev/null
   In this case, it takes about 13 seconds to go through the 3.46GB, which is about 272MB/sec. This would be a kind of upper-bound on how quickly data could be processed on this system due to IO constraints. ([View Highlight](https://read.readwise.io/read/01hnqnrzswzgy19vvngfckw30w))

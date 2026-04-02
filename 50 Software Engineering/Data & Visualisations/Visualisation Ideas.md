@@ -100,8 +100,8 @@ Animate all my cycles to and from work at once
 
 ## Inspiration
 
-- [trello-dependencies-graph (g3org3) (0 ★)](https://github.com/g3org3/trello-dependencies-graph) 
-- [Treant.js - javascript library for drawing tree diagrams  ](https://fperucic.github.io/treant-js)
+- [trello-dependencies-graph (g3org3) (0 ★)](https://github.com/g3org3/trello-dependencies-graph)
+- [Treant.js - javascript library for drawing tree diagrams](https://fperucic.github.io/treant-js)
 - [Modeling Languages - Latest news, tools and research reports](https://modeling-languages.com)
 - https://chrome.google.com/webstore/detail/graph-dependency-for-trel/ppbndnpfbahiilhalfmbkfnhkaohjbdo
 - [Ticket Dependency Graph](https://theodo.github.io/ticket-dependency-graph)

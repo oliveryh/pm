@@ -3,6 +3,7 @@
 ![rw-book-cover](https://www.simplethread.com/wp-content/uploads/2021/10/pocket-watch-scaled.jpg)
 
 ## Metadata
+
 - Author: [[Justin Etheredge]]
 - Full Title: 20 Things I’ve Learned in My 20 Years as a Software Engineer
 - Category: #articles
@@ -10,9 +11,11 @@
 - URL: https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/
 
 ## Full Document
+
 [[Full Document Contents/Articles/20 Things I’ve Learned in My 20 Years as a Software Engineer.md|See full document content →]]
 
 ## Highlights
+
 - We may be the culmination of our experiences, but we view them through the lens of the present ([View Highlight](https://read.readwise.io/read/01gq4frtnq5frp9e2hw9qvr1rn))
 - The reason many of us love software is because we are lifelong learners, and in software no matter which direction you look, there are wide vistas of knowledge going off in every direction and expanding by the day. This means that you can spend decades in your career, and still have a huge knowledge gap compared to someone who has also spent decades in a seemingly similar role. The sooner you realize this, the sooner you can start to shed your imposter syndrome and instead delight in learning from and teaching others. ([View Highlight](https://read.readwise.io/read/01gq4fw5pk41dbjn7c4ya3v50p))
 - You can design the most technically impressive thing in the world, and then have nobody want to use it. Happens all the time. Designing software is mostly a listening activity, and we often have to be part software engineer, part psychic, and part anthropologist. ([View Highlight](https://read.readwise.io/read/01gq4fxq12ynh9awwcj9b9084x))

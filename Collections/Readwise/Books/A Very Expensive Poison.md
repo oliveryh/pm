@@ -3,12 +3,14 @@
 ![rw-book-cover](https://cdn.kobo.com/book-images/6c547e43-38d6-4dde-beca-29b0415763d9/a-very-expensive-poison.jpg)
 
 ## Metadata
+
 - Author: [[Luke Harding]]
 - Full Title: A Very Expensive Poison
 - Category: #books
 - URL: https://www.kobo.com/ebook/a-very-expensive-poison
 
 ## Highlights
+
 - Rule one: it was important never to come up with an initiative in the KGB. If you did you’d be asked to implement it and then punished for not doing it successfully.
 - Putin’s world view reflected the a priori thinking of the KGB. The agency was suspicious, paranoid and prone to conspiratorial reasoning. Putin was convinced that the US and the western world were engaged in an unsleeping plot against the Soviet Union
 - bucolic

@@ -3,6 +3,7 @@
 ![rw-book-cover](https://stephango.com/assets/card.png)
 
 ## Metadata
+
 - Author: [[Steph Ango]]
 - Full Title: File Over App
 - Category: #articles
@@ -10,8 +11,10 @@
 - URL: https://stephango.com/file-over-app
 
 ## Full Document
+
 [[Full Document Contents/Articles/File Over App.md|See full document content →]]
 
 ## Highlights
+
 - In the fullness of time, the files you create are more important than the tools you use to create them. Apps are ephemeral, but your files have a chance to last. ([View Highlight](https://read.readwise.io/read/01hqdtybxvaq912c4ccrge1vnb))
 - If you want your writing to still be readable on a computer from the 2060s or 2160s, it’s important that your notes can be read on a computer from the 1960s. ([View Highlight](https://read.readwise.io/read/01hqdtzt8w83sg9ytchhwr56d2))

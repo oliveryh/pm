@@ -3,6 +3,7 @@
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
 ## Metadata
+
 - Author: [[Pursuit Of Laziness]]
 - Full Title: Lazygit Turns 5: Musings on Git, TUIs, and Open Source
 - Category: #articles
@@ -10,9 +11,11 @@
 - URL: https://jesseduffield.com/Lazygit-5-Years-On/
 
 ## Full Document
+
 [[Full Document Contents/Articles/Lazygit Turns 5 Musings on Git, TUIs, and Open Source.md|See full document content →]]
 
 ## Highlights
+
 - [Warp](https://www.warp.dev/): a terminal emulator whose killer feature is allowing you to edit your command as if you were in vscode/sublime ([View Highlight](https://read.readwise.io/read/01h7qpsgvd96cn58k3xfgahr28))
 - [Fig](https://fig.io/): a suite of tools including autocomplete, terminal plugin manager, and some UI helpers for CLI tools ([View Highlight](https://read.readwise.io/read/01h7qpsem98yb95b53sfmyjye8))
 - using [Lazydocker](https://github.com/jesseduffield/lazydocker) ([View Highlight](https://read.readwise.io/read/01h7qpv4zfzyar7bg5ttvz2bpx))

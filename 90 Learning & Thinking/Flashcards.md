@@ -20,7 +20,7 @@ Q. What is the nth most popular element in air?
 
 ## Anki
 
-Anki is widely known as a highly customisable option for flashcards. 
+Anki is widely known as a highly customisable option for flashcards.
 
 - [mdanki - Convert markdown files to Anki cards](https://github.com/ashlinchak/mdanki)
 - [Strategies, Tips and Tricks for Anki](https://senrigan.io/blog/everything-i-know-strategies-tips-and-tricks-for-spaced-repetition-anki/)

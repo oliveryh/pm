@@ -2,10 +2,9 @@ Tristan Harris introduced the idea of Technology Highjacks that companies use to
 
 # Controlling the Menu
 
-When we're given a choice or a "menu" we rarely ask what's *not on* the menu, or if the menu is empowering my original needs. 
+When we're given a choice or a "menu" we rarely ask what's *not on* the menu, or if the menu is empowering my original needs.
 
 > The more choices technology gives us in nearly every domain of our lives (information, events, places to go, friends, dating, jobs) the more we assume that our phone is always the most empowering and useful menu to pick from.
-
 
 - "Who’s free tonight to hang out?" -> menu of most recent people who texted us (who we could ping).
 - "What’s happening in the world?" -> menu of news feed stories.
@@ -33,7 +32,7 @@ News feeds auto-refill, YouTube and Netflix auto-plays after a short countdown. 
 
 # Instant Interruption
 
-Through the use of Read receipts, we're forced to use near-synchronous communication and be instantly interrupted by incoming messages. 
+Through the use of Read receipts, we're forced to use near-synchronous communication and be instantly interrupted by incoming messages.
 
 # Bundling Reasons
 

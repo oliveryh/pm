@@ -5,4 +5,4 @@
 - [How to write a linter using tree-sitter in an hour | siraben’s musings](https://siraben.dev/2022/03/22/tree-sitter-linter.html)
 - [json-diff (andreyvit) (750 ★)](https://github.com/andreyvit/json-diff) - Structural diff for JSON files
 	- Could be used to do more intelligent test failure read-outs
-- [How to Get Started with Tree-Sitter - Mastering Emacs ](https://www.masteringemacs.org/article/how-to-get-started-tree-sitter)
+- [How to Get Started with Tree-Sitter - Mastering Emacs](https://www.masteringemacs.org/article/how-to-get-started-tree-sitter)

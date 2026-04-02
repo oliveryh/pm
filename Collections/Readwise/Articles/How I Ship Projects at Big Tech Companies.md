@@ -3,6 +3,7 @@
 ![rw-book-cover](https://news.ycombinator.com/y18.svg)
 
 ## Metadata
+
 - Author: [[seangoedecke.com]]
 - Full Title: How I Ship Projects at Big Tech Companies
 - Category: #articles
@@ -10,9 +11,11 @@
 - URL: https://www.seangoedecke.com/how-to-ship/
 
 ## Full Document
+
 [[Full Document Contents/Articles/How I Ship Projects at Big Tech Companies.md|See full document content →]]
 
 ## Highlights
+
 - That means that in almost all cases, **shipping has to come first**. You cannot have anything else as your top priority. If you spend all your time worrying about polishing the customer experience (for example), you will not ship! Obsessing over UX is praiseworthy behaviour when you are an engineer on the team, but a blunder if you are leading the project. You should cherish the other engineers on your team who are doing that work, and give them as much support as you can. But your primary concern has to be shipping the project. It is too hard a job to do in your spare time. ([View Highlight](https://read.readwise.io/read/01je5xhmn1pbg2pqxxhjmfvhhp))
 - it’s *really important* that one person on the project has an end-to-end understanding of the whole thing: how it hangs together technically, and what product or business purpose it serves. ([View Highlight](https://read.readwise.io/read/01je5xjknkfmyas8gp7ypaajaz))
 - no matter the project goal, your leadership team (the people in your reporting chain who care about the project) will always have basically zero technical context about the project compared to you. That means they will be trusting you for estimates, to answer technical questions, and to anticipate technical problems. **Maintaining that trust should be your top priority**. If they don’t have faith in your ability to do the job and to keep them informed, you will not ship. They’ll de-risk by cancelling the project, or letting it roll out with zero attention or celebration (remember that an un-celebrated launch is not a ship!) ([View Highlight](https://read.readwise.io/read/01je5xsfsyy3x39zx58ramtva3))

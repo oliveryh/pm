@@ -2,9 +2,9 @@ Self-Actualisation is the achieving of ones potential. In Maslow's Hierarchy of 
 
 # Task Dichomoty
 
-Everything we strive for is split into two. The relaxing holiday abroad needs planning, the tasty homemade meal needing shopping for. Time spent doing particular things can generally be split into two categories: 
+Everything we strive for is split into two. The relaxing holiday abroad needs planning, the tasty homemade meal needing shopping for. Time spent doing particular things can generally be split into two categories:
 
-1. **Inspired:** This the time you'll look back on, and what people often set goals to do. This time you want to **maximise**. 
+1. **Inspired:** This the time you'll look back on, and what people often set goals to do. This time you want to **maximise**.
 2. **Necessary:** These are the necessary actions of completing the inspired goals. This time you want to **minimise.**
 
 ## Inspired Time
@@ -28,7 +28,7 @@ https://medium.com/@belinda.rowse/odyssey-planning-re-framing-the-five-year-plan
 
 - Keep your identity small. “I’m not the kind of person who does things like that” is not an explanation, it’s a trap. It prevents nerds from working out and men from dancing.
 - Sometimes unsolvable questions like “what is my purpose?” and “why should I exist?” lose their force upon lifestyle fixes. In other words, seeing friends regularly and getting enough sleep can go a long way to solving existentialism.
-- In your current profession many people will say that managing people is the only way to progress. Management is not a promotion, it is a change of profession [^charity-wtf] 
+- In your current profession many people will say that managing people is the only way to progress. Management is not a promotion, it is a change of profession [^charity-wtf]
 
 [^charity-wtf]: https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/
 
@@ -70,7 +70,7 @@ Since this thought is irrational, it requires a more emotional response as oppos
 
 # Boredom
 
-[[Cal Newport]] and Lex Fridman discuss the idea that bordem is to hunger as a need to be productive and have self-fulfilment is to our fundamental need to eat. 
+[[Cal Newport]] and Lex Fridman discuss the idea that bordem is to hunger as a need to be productive and have self-fulfilment is to our fundamental need to eat.
 
 Fasting allows our body to reset and be attuned to the effects of particular foods, similarly you might see a tech detox as an opportunity to become attuned to your desires when boredom sets in.
 
@@ -86,6 +86,7 @@ As Paul Tillich put it, suffering introduces you to yourself and reminds you tha
 ## Needs
 
 ![[needs.png]]
+
 # Resources
 
 - https://www.youtube.com/watch?v=W9qsxhhNUoU&list=WL&index=134&t=187s&pp=gAQBiAQB

@@ -86,7 +86,7 @@ Currently hosted at http://139.162.225.25/dashboards/
 
 # Things to Plot
 
-- Google location 
+- Google location
 - eReader reading times
 - Github contributions
 - Obsidian plugin download chart (git scraper potentially)
@@ -136,10 +136,12 @@ We make use of the [json lines (jsonl) format](https://jsonlines.org/)
 
 There appears to be a problem running ActivityWatch on Mac. The only way to get it open reliably was by using a shell command. One way to run this on startup was the following
 1. Create a file in `~/Library/Scripts/activitywatch.command` with the following contents
+
 ```bash
 #!/usr/bin/env bash
 open /Applications/ActivityWatch.app
 ```
+
 2. Open **Users & Groups** -> **Login Items** and select the file
 
 This should then run the background process on start-up

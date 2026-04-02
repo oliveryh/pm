@@ -3,6 +3,7 @@
 ![rw-book-cover](https://jxnl.co/assets/images/social/writing/posts/advice.png)
 
 ## Metadata
+
 - Author: [[Jason Liu]]
 - Full Title: Advice to Young People, the Lies I Tell Myself
 - Category: #articles
@@ -10,9 +11,11 @@
 - URL: https://jxnl.co/writing/2024/06/01/advice-to-young-people/
 
 ## Full Document
+
 [[Full Document Contents/Articles/Advice to Young People, the Lies I Tell Myself.md|See full document content →]]
 
 ## Highlights
+
 - You'll notice that I use the word "choosing" frequently. I genuinely believe that we are always making choices and that we have the ability to choose. Choosing can be terrifying because it means we are accountable for our decisions, and there are infinite options before us. It is also frightening because once we have made a decision, we must live with it, it is the death of optionality. But I believe that choosing is the only way to live authentically.
   • **Existential Despair**: A feeling of hopelessness rooted in the existentialist belief that life lacks inherent meaning. This despair arises from the realization of one's absolute freedom and the responsibility for creating one's own essence and purpose.
   • **Anguish**: In existentialism, anguish is the emotional response to recognizing the vastness of one's freedom and the accompanying responsibility for one's actions. It involves the realization that each decision shapes one's essence and affects others, leading to a deep sense of moral responsibility.

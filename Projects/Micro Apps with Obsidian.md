@@ -86,11 +86,11 @@ There are some future changes that could be worked on
 - Ben Holmes created something called Simple Sync Engine as a learning resource
 - He’d personally used Zero by Rocicorp as well
 
-
 ## 2025-06-12
 
 - Today I’ve more or less decided that experimenting with Obsidian has the highest utility to time spend ratio
 - The notes showcase in the Obsidian Discord has some good resources for inspiration https://discord.com/channels/686053708261228577/1304548353232867348/1304548353232867348
+
 ## Miscellaneous Resources
 
 - https://gist.github.com/pesterhazy/3e039677f2e314cb77ffe3497ebca07b

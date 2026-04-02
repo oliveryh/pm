@@ -59,6 +59,7 @@
 	- Headphones
 
 ## 2024-01-03
+
 - I'd quite like to find an offline map that's reliable — something like Organic Maps or OsmAnd
 
 ## 2024-03-09
@@ -66,8 +67,8 @@
 - I saw that cosy cabin type book again and recall that the author worked on something else I was interested in
 ![[IMG_0289.jpeg]]
 
-
 ## 2025-05-26
+
 - https://forum.obsidian.md/t/obsidian-travel-planner-your-offline-trip-planner/100934
 
 ## 2025-11-27
@@ -76,4 +77,3 @@
 	- Data set up locally to do local development
 	- GitHub issue details being available
 	- Docs for various libraries that I’m using being available
-

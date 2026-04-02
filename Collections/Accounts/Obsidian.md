@@ -1,8 +1,8 @@
 
 > [!process]
-> 
+>
 > Input::[[Collections/Accounts/YouTube|YouTube]]
-> 
+>
 > ``` js
 > prompt(
 > 	"Copy the text below into rssmix.com to create a single feed for all of your YouTube subscriptions.",
@@ -12,9 +12,8 @@
 > 	})
 >  );
 > ```
-> 
+>
 > [source](https://gist.github.com/jeb5/da22862e469dea21e873acabb562f638)
-> 
 
 https://www.reddit.com/r/ObsidianMD/comments/1agth05/need_help_optimizing_my_obsidian_workflow_advice/
 
@@ -55,11 +54,13 @@ Alexander Obenaur has built a cross-reference navigation plugin that isn't a pub
 - The `lg2` binary will be installed already
 - Generate an SSH key, being sure not to use RSA-1
 - Create a `~/Documents/.gitconfig` with the following to ensure the SSH key is being used for the git commands
+
 ```
 [user]
 	identityFile = id_ed25519
 	password = ""
 ```
+
 - Use the `pickFolder` to jump to the Obsidian folder
 - Check that you're happy with the bookmark that `a-shell` has picked. It'll probably be something like `~Documents` (Note the lack of `/`)
 - Create two shorcuts
@@ -95,6 +96,7 @@ padding-left:19px;
 ## Admonition
 
 Add the following CSS
+
 ``` css
 .info-msg,
 .success-msg,
@@ -151,6 +153,7 @@ Add the following CSS
 ## Special Links
 
 First pick a directory such as `People` or `Books` to house links you'd like to prepend with an emoji on your publish website
+
 ``` css
 a[href*="<username>/Books/"],
 a[href*="<username>/People/"] {

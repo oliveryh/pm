@@ -9,7 +9,7 @@ rating: 4
 
 ## Introduction
 
-- Technology has brought many improvements to life, however it also theatens the idea of connectivity that it originally promoted. 
+- Technology has brought many improvements to life, however it also theatens the idea of connectivity that it originally promoted.
 - People joined Facebook to stay in touch with friends across the country, and then ended up unable to maintain an uninterrupted conversation with the friend sitting across the table.
 - The constant exposure to their friends’ carefully curated portrayals of their lives generates feelings of inadequacy—especially during periods when they’re already feeling low—and for teenagers, it provides a cruelly effective way to be publicly excluded.
 - There is a spectrum of dependency on technologies, from the Neo-Luddites to the [[Quantified Self]] enthusiasts.
@@ -29,7 +29,7 @@ Our attention is now being exploited for revenue, therefore companies don't resp
 
 Addiction:
 	A condition in which a person engages in use of a substance or in a behavior for which the rewarding effects provide a compelling incentive to repeatedly pursue the behavior despite detrimental consequences
-	
+
 The use of technology can now be seen as a behavioural addiction
 
 The use of variable feedback when submiting a post/photo and receiving a flurry of attention or none at all is what characterises the gambling nature of sites like Facebook. Will you get likes (or hearts or retweets), or will it languish with no feedback?
@@ -69,9 +69,9 @@ It’s true that it takes more time to walk to town than to ride in a wagon, Tho
 
 ### Optimizing a Technology
 
-Diminishing returns state that at some point you'll approach a natural limit to the amount of benefit you'll get from sustained investment. 
+Diminishing returns state that at some point you'll approach a natural limit to the amount of benefit you'll get from sustained investment.
 
-The Amish are an example of people who carefully curate what new technologies they take in. When cars firt appeared, they realised that drivers would leave the community and spend less time seeing family or the sick. They gamble that intention trumps convenience, and so they banned the wide use of cars. The temporary high of convenience is fleeting and the sting of missing out dulls rapidly. 
+The Amish are an example of people who carefully curate what new technologies they take in. When cars firt appeared, they realised that drivers would leave the community and spend less time seeing family or the sick. They gamble that intention trumps convenience, and so they banned the wide use of cars. The temporary high of convenience is fleeting and the sting of missing out dulls rapidly.
 
 ## Chapter 3
 
@@ -87,7 +87,7 @@ This is especially important when reintroducing technologies after the digital d
 
 ## Chapter 4
 
-Solitude is an important part of personal cultivation. Kethledge and Erwin decided to co-write a book on the topic of solitude. It took them seven years, but their efforts culminated in the 2017 release of Lead Yourself First they define it **to be a subjective state in which your mind is free from input from other minds**. 
+Solitude is an important part of personal cultivation. Kethledge and Erwin decided to co-write a book on the topic of solitude. It took them seven years, but their efforts culminated in the 2017 release of Lead Yourself First they define it **to be a subjective state in which your mind is free from input from other minds**.
 
 You can enjoy solitude in a crowded coffee shop, on a subway car, or, as President Lincoln discovered at his cottage, while sharing your lawn with two companies of Union soldiers, so long as your mind is left to grapple only with its own thoughts. Personally it makes a lot of sense that browsing Reddit is overwhelming for the reason that there is little solutide from others' thoughts.
 
@@ -97,7 +97,7 @@ Solitude requires you to move past reacting to information created by other peop
 
 English psychiatrist Anthony Storr helped correct this omission with his seminal book, Solitude: A Return to the Self. As Storr noted, by the 1980s, psychoanalysis had become obsessed with the importance of intimate personal relationships, identifying them as the most important source of human happiness
 
-As Virginia Woolf argued in her 1929 feminist manifesto, A Room of One’s Own, this imbalance should not come as a surprise. Woolf would agree with Storr that solitude is a prerequisite for original and creative thought, but she would then add that women had been systematically denied both the literal and figurative room of their own in which to cultivate this state. 
+As Virginia Woolf argued in her 1929 feminist manifesto, A Room of One’s Own, this imbalance should not come as a surprise. Woolf would agree with Storr that solitude is a prerequisite for original and creative thought, but she would then add that women had been systematically denied both the literal and figurative room of their own in which to cultivate this state.
 
 This is the theme taken up by a Canadian social critic named Michael Harris in his 2017 book, also titled Solitude. Harris is concerned that new technologies help create a culture that undermines time alone with your thoughts, noting that “it matters enormously when that resource is under attack.”18 His survey of the relevant literature then points to three crucial benefits provided by solitude: “new ideas; an understanding of the self; and closeness to others" Calmly experiencing separation, he argues, builds your appreciation for interpersonal connections when they do occur.
 
@@ -119,23 +119,23 @@ Walking is aa fantastic source of solitude
 
 ### Writing
 
-Writing things down allow you to contemplate a difficult decision, or a hard emotion, or a surge of inspiration. By the time I’m done composing my thoughts in the structured form demanded by written prose, I’ve often gained clarity. 
+Writing things down allow you to contemplate a difficult decision, or a hard emotion, or a surge of inspiration. By the time I’m done composing my thoughts in the structured form demanded by written prose, I’ve often gained clarity.
 
 The key is the act of writing itself. This behavior necessarily shifts you into a state of productive solitude—wrenching you away from the appealing digital baubles and addictive content waiting to distract you, and providing you with a structured way to make sense of whatever important things are happening in your life at the moment.
 
 ## Chapter 5
 
-In the brain, the **Default Mode Network (DMN)** is a large scale brain network best known to be active when a person is not focused on the outside world and the brain is at wakeful rest, such as during daydreaming and mind-wandering. 
+In the brain, the **Default Mode Network (DMN)** is a large scale brain network best known to be active when a person is not focused on the outside world and the brain is at wakeful rest, such as during daydreaming and mind-wandering.
 
 It seems also that when people receive "targeted" and "composed" information written by someone they know well, the feel better, while receiving something similar from a randomer, didn't have the same effect.
 
-The more you use social media: 
+The more you use social media:
 
 - An increased amount of likes/links clicked by 1 standard deviation decreased mental health by 5-8%
 - Less time spend in offline iteraction, leading to feelings of loneliness
 - Increased feelings of separation due to tribal instincts and polarised viewpoints
 
-Face-to-face conversation however provides: 
+Face-to-face conversation however provides:
 
 - Increased capacity for empathy.
 - Experience the joy of being heard, of being understood.
@@ -146,7 +146,7 @@ Conversation includes nuanced analog cues such as the tone of voice or facial ex
 
 Connection on the other hand, such as texting someone, is downgraded to a logistical role. It provides very little to our wellbeing apart from sharing information.
 
-Conversation-centric commnication will require you to probably reduce the number of friends you communicate with, but for those that are left, the relationships will be deeper and more meaningful. 
+Conversation-centric commnication will require you to probably reduce the number of friends you communicate with, but for those that are left, the relationships will be deeper and more meaningful.
 
 ### Practice: Consolidate Texting
 
@@ -174,7 +174,7 @@ This argument reverses our intuition. Expending more energy in your leisure, Ben
 Rogowski published a book titled Handmade
 Rogowski explains: “Long ago we learned to think by using our hands, not the other way around. When you use craft to leave the virtual world of the screen and instead begin to work in more complex ways with the physical world around you, you’re living truer to your primal potential. Craft makes us human, and in doing so, it can provide deep satisfactions that are hard to replicate in other (dare I say) less hands-on activities.
 
-In a culture where screens replace craft, Crawford argues, people lose the outlet for self-worth established through unambiguous demonstrations of skill. One way to understand the exploding popularity of social media platforms in recent years is that they offer a substitute source of aggrandizement. 
+In a culture where screens replace craft, Crawford argues, people lose the outlet for self-worth established through unambiguous demonstrations of skill. One way to understand the exploding popularity of social media platforms in recent years is that they offer a substitute source of aggrandizement.
 digital cries for attention are often a poor substitute for the recognition generated by handicraft, as they’re not backed by the hard-won skill required to tame the “infallible judgment” of physical reality, and come across instead as “the boasts of a boy.”
 
 **Leisure Lesson #2: Use skills to produce valuable things in the physical world.**
@@ -197,7 +197,7 @@ Integrating with the community is important.
 
 ### Habits and Objectives
 
-Tasks can be separated into habits and objectives, however the boundary is porous. 
+Tasks can be separated into habits and objectives, however the boundary is porous.
 
 ### Doing Nothing
 
@@ -213,8 +213,7 @@ Doing nothing is underrated, and while it is a tempting thought, we often digres
 ## Conclusion
 
  A charging steam locomotive might be awe inspiring, but it also fundamentally makes sense: fire creates steam that pushes the train’s pistons forward.
-A telegraph message or phone call or email or social media ping is somehow different. We lack an intuition for flowing electricity and the complex components that control it, and the concept of back-and-forth conversation existing outside the context of two people talking in close proximity is completely foreign to our species’ history. 
+A telegraph message or phone call or email or social media ping is somehow different. We lack an intuition for flowing electricity and the complex components that control it, and the concept of back-and-forth conversation existing outside the context of two people talking in close proximity is completely foreign to our species’ history.
 As noted in an earlier chapter, Henry David Thoreau’s reaction to the telegraph boom that followed Morse’s 1844 demonstration was to remark that we’re so eager to build a line between Maine and Texas that we never stopped to ask why these two states needed to be connected in the first place. Though
 We eagerly signed up for what Silicon Valley was selling, but soon realized that in doing so we were accidently degrading our humanity.
-Digital minimalists see new technologies as tools to be used to support things they deeply value—not as sources of value themselves. 
-
+Digital minimalists see new technologies as tools to be used to support things they deeply value—not as sources of value themselves.

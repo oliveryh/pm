@@ -19,7 +19,6 @@
 - [Keyboard tricks from a macOS app dev — Alin Panaitiu](https://notes.alinpanaitiu.com/Keyboard%20tricks%20from%20a%20macOS%20app%20dev)
 - [YAML-based Workflows - Warp Documentation](https://docs.warp.dev/features/entry/yaml-workflows)
 
-
 # My Tools
 
 - `git recent`

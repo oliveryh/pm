@@ -1,5 +1,5 @@
 - Tip from Jordan and others about live music
-	-  Dice - Bands in Town - Spotify - or specific newsletters - Rough Trade
+	- Dice - Bands in Town - Spotify - or specific newsletters - Rough Trade
 - Funky chops
 - Do a pub quiz with the neighbours at Black Pug on *Tuesdays*
 - Check [Green Man Festival](https://www.greenman.net/line-up/2024/) lineup to see if it's something I might want to go to next year

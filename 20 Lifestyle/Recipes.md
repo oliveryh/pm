@@ -68,7 +68,7 @@ I store recipes in Thymer that I make regularly
 
 ## 2024-09-14
 
-- I was also looking ways to bulk cook. Perhaps some freezable breakfast burritos that use the protein wraps we’ve bought. 
+- I was also looking ways to bulk cook. Perhaps some freezable breakfast burritos that use the protein wraps we’ve bought.
 
 ## 2024-07-22
 

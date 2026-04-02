@@ -1,14 +1,17 @@
 # Interviews
 
 ## Preparation
+
 - Know the industry, organisation, and role
 - Know your CV and have an elevator pitch ready
 - Prepare questions to ask
 
 ## Competency Based
+
 Use **S.T.A.R** (Situation, Task, Action, Result) with first-hand examples only. Avoid "we" — they're assessing you.
 
 ## Wrapping Up
+
 - Thank the interviewer(s)
 - Ask the **recruiter** (not interviewer) for feedback afterwards; don't chase
 

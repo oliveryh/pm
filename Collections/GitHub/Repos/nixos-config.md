@@ -14,6 +14,7 @@ Syncs::[[MBP 13" 2020 i5 16GB Laptop]]
 Syncs::[[MBP 13" 2022 M2 8GB Laptop]]
 
 # Log
+
 ## 2026-01-12
 
 - Updated packages with `nix --extra-experimental-features 'nix-command flakes' flake update`

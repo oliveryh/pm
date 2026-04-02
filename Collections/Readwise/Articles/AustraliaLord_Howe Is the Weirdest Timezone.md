@@ -3,6 +3,7 @@
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
 ## Metadata
+
 - Author: [[Ulysse Carion]]
 - Full Title: Australia/Lord_Howe Is the Weirdest Timezone
 - Category: #articles
@@ -10,8 +11,10 @@
 - URL: https://ssoready.com/blog/engineering/truths-programmers-timezones/
 
 ## Full Document
+
 [[Full Document Contents/Articles/AustraliaLord_Howe Is the Weirdest Timezone.md|See full document content →]]
 
 ## Highlights
+
 - ![](https://ssoready.com/blog/engineering/truths-programmers-timezones/iers.png) ([View Highlight](https://read.readwise.io/read/01jbxkec9ynrztfj86wf1km9aw))
 - You can always uniquely identify what UTC time someone is referring to whenever they tell you their timezone + local time + current time designator. The timezone + designator gives you an offset, and you can apply the offset to the local time to get UTC. ([View Highlight](https://read.readwise.io/read/01jbxm67aba1gye6d0zjv9x7t0))

@@ -3,6 +3,7 @@
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
 
 ## Metadata
+
 - Author: [[brossia.com]]
 - Full Title: The Perfect Laptop
 - Category: #articles
@@ -10,9 +11,11 @@
 - URL: https://blog.brossia.com/posts/the_perfect_laptop/
 
 ## Full Document
+
 [[Full Document Contents/Articles/The Perfect Laptop.md|See full document content →]]
 
 ## Highlights
+
 - There is a short list of laptops currently on the market that come as near as they can to “The Perfect Laptop”:
   • Apple M1 MacBook line (from Air to the lower end Pro)
   • [The Framework Laptop](https://frame.work/)

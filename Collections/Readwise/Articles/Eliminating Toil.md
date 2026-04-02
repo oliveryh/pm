@@ -3,6 +3,7 @@
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
 
 ## Metadata
+
 - Author: [[Vivek Rau
 Edited by Betsy Beyer]]
 - Full Title: Eliminating Toil
@@ -11,9 +12,11 @@ Edited by Betsy Beyer]]
 - URL: https://sre.google/sre-book/eliminating-toil/
 
 ## Full Document
+
 [[Full Document Contents/Articles/Eliminating Toil.md|See full document content →]]
 
 ## Highlights
+
 - the following descriptions, the more likely it is to be toil:
   Manual
   This includes work such as manually running a script that automates some task. Running a script may be quicker than manually executing each step in the script, but the *hands-on* time a human spends running that script (not the elapsed time) is still toil time.

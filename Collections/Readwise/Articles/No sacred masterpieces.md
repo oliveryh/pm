@@ -3,17 +3,20 @@
 ![rw-book-cover](https://substackcdn.com/icons/substack/favicon-32x32.png)
 
 ## Metadata
+
 - Author: [[Matt Basta]]
 - Full Title: No sacred masterpieces
 - Category: #articles
-- Document Tags: [[software engineering]] 
+- Document Tags: [[software engineering]]
 - Summary: Or "that time I built Excel for Uber and they ditched it like a week after launch"
 - URL: https://basta.substack.com/p/no-sacred-masterpieces
 
 ## Full Document
+
 [[Full Document Contents/Articles/No sacred masterpieces.md|See full document content →]]
 
 ## Highlights
+
 - My first reaction was to publish the code on Github.
   [https://github.com/WebSheets](https://github.com/WebSheets) ([View Highlight](https://read.readwise.io/read/01hy80b370303c41y1jccqbrfr))
 - On the other hand, we as engineers need to be real with ourselves. Every piece of code you write as an engineer is legacy code. Maybe not right now, but it will be. Someone will take joy in ripping it out someday. Every masterpiece will be gleefully replaced, it’s just a matter of time. So why get precious about how long that period of time is? ([View Highlight](https://read.readwise.io/read/01hy80bnhf635k29m4nt5k824s))

@@ -3,12 +3,14 @@
 ![rw-book-cover](https://cdn.kobo.com/book-images/ce1478f7-ddfe-4026-b4c8-45529c615dd4/digital-minimalism.jpg)
 
 ## Metadata
+
 - Author: [[Cal Newport]]
 - Full Title: Digital Minimalism
 - Category: #books
 - URL: https://www.kobo.com/ebook/digital-minimalism
 
 ## Highlights
+
 - philosophy of technology use, something that covers from the ground up which digital tools we allow into our life, for what reasons, and under what constraints
 - They downloaded the apps and set up accounts for good reasons, only to discover, with grim irony, that these services were beginning to undermine the very values that made them appealing in the first place: they joined Facebook to stay in touch with friends across the country, and then ended up unable to maintain an uninterrupted conversation with the friend sitting across the table.
 - If a new technology offers little more than a minor diversion or trivial convenience, the minimalist will ignore it. Even when a new technology promises to support something the minimalist values, it must still pass a stricter test: Is this the best way to use technology to support this value? If the answer is no, the minimalist will set to work trying to optimize the tech, or search out a better option.

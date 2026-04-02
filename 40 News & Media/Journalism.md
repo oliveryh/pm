@@ -18,7 +18,7 @@
 
 - [Avoid News: Towards a Healthy News Diet](https://www.gwern.net/docs/culture/2010-dobelli.pdf)
 - [News Minimalist — Only significant news](https://www.newsminimalist.com/)
-- [Current events - Wikipedia](https://en.m.wikipedia.org/wiki/Portal:Current_events) 
+- [Current events - Wikipedia](https://en.m.wikipedia.org/wiki/Portal:Current_events)
 - Warwickshire Library have some apps that provide free magazines/newspapers
 	- Press Reader
 	- Borrow Box

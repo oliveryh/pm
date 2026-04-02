@@ -19,6 +19,7 @@
 `git log --graph --abbrev-commit --decorate --date=relative --all`
 
 # Commit Messages
+
 ## Resources
 
 - [My favourite Git commit | dhwthompson.com](https://dhwthompson.com/2019/my-favourite-git-commit)
@@ -42,7 +43,7 @@
 | perf     | 🚀    | `:rocket:`              |
 | test     | 🚨    | `:rotating_light:`      |
 | build    | 📦    | `:package:`             |
-| ci       | 👷🏻  | `:construction_worker:` | 
+| ci       | 👷🏻  | `:construction_worker:` |
 | chore    | 🔧    | `:wrench:`              |
 
 ## Semantic Commit Messages
@@ -84,6 +85,7 @@ https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716
 ## Branching
 
 **Squash all commits in a branch (before pull request)**
+
 ```
 git checkout yourBranch
 git reset $(git merge-base develop yourBranch)

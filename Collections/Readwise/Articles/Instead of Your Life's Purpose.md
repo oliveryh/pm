@@ -3,6 +3,7 @@
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_600018/https3A2F2Fbucketeer-e05bbc84-baa3-437e-9518-adb32b_oV9cxHC.jpeg)
 
 ## Metadata
+
 - Author: [[Unverified Revelations]]
 - Full Title: Instead of Your Life's Purpose
 - Category: #articles
@@ -10,9 +11,11 @@
 - URL: https://philosophyinhell.substack.com/p/instead-of-your-lifes-purpose
 
 ## Full Document
+
 [[Full Document Contents/Articles/Instead of Your Life's Purpose.md|See full document content →]]
 
 ## Highlights
+
 - Some sources of meaning seem to be:
   • participation in something larger that will survive ourselves – a nation, a family, a faith
   • creativity and flow states – bringing something genuinely novel into the world. When all our talents, including our deeply held and latent ones are used, this is more meaningful than when we are schlepping along

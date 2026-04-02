@@ -3,17 +3,20 @@
 ![rw-book-cover](http://www.artnet.com/WebServices/images/ll00762lldjkYGFgFaECfDrCWvaHBOc4uYC/nobuyoshi-araki-flowers.jpg)
 
 ## Metadata
+
 - Author: [[Conor Barnes]]
 - Full Title: 100 Tips For A Better Life
 - Category: #articles
-- Document Tags: [[productivity]] 
+- Document Tags: [[productivity]]
 - Summary: This text provides 100 tips for leading a better life, covering aspects like productivity, success, rationality, self-awareness, relationships, and compassion. It emphasizes the importance of simplicity, dependability, self-understanding, and treating others with compassion and patience. The tips aim to help individuals navigate life's complexities and improve their overall well-being.
 - URL: https://ideopunk.com/blog/tipsforabetterlife
 
 ## Full Document
+
 [[Full Document Contents/Articles/100 Tips For A Better Life.md|See full document content →]]
 
 ## Highlights
+
 - 1. If you want to find out about people’s opinions on a product, google *<product> reddit*. You’ll get real people arguing, as compared to the SEO’d Google results. ([View Highlight](https://read.readwise.io/read/01j1mbzk0wdmp8pm502sdyy3vk))
 - 10. Food actually can be both cheap, healthy, tasty, and relatively quick to prepare. All it requires is a few hours one day to prepare many meals for the week. ([View Highlight](https://read.readwise.io/read/01j1mc1sz19gkcax7k934z4s3f))
 - [30.](https://en.wikipedia.org/wiki/Survivorship_bias) If you listen to successful people talk about their methods, remember that all the people who used the same methods and failed did not make videos about it. ([View Highlight](https://read.readwise.io/read/01j1mc5ehhp4c66xv15x1hq43v))

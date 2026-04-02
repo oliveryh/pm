@@ -8,4 +8,4 @@ Input::[[Favourite video]]
 
 ## 2025-11-21
 
-- Copied "Watch it Later" videos to Obsidian 
+- Copied "Watch it Later" videos to Obsidian

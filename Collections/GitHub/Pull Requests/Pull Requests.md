@@ -154,9 +154,3 @@ const clickHandler = async () => {
 const { createButton } = this.app.plugins.plugins["buttons"];
 createButton({ app, el: this.container, args: { name: "🔄 Show PR Counts" }, clickOverride: { click: clickHandler, params: [] }, });
 ```
-
-
-
-
-
-

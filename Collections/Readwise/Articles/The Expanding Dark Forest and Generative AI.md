@@ -3,6 +3,7 @@
 ![rw-book-cover](https://maggieappleton.com/og.png)
 
 ## Metadata
+
 - Author: [[Maggie Appleton]]
 - Full Title: The Expanding Dark Forest and Generative AI
 - Category: #articles
@@ -10,9 +11,11 @@
 - URL: https://maggieappleton.com/ai-dark-forest
 
 ## Full Document
+
 [[Full Document Contents/Articles/The Expanding Dark Forest and Generative AI.md|See full document content →]]
 
 ## Highlights
+
 - The linguist
   argued there are two kinds of language:
   • **La langue** is the formal concept of language. These are words we print in the dictionary, distribute via educational institutions, and reprimand one another for getting it wrong.

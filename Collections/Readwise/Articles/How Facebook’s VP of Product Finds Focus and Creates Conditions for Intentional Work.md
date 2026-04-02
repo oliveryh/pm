@@ -3,16 +3,19 @@
 ![rw-book-cover](https://assets.proof.pub/2056/firstround%2F9l8S6VpYRXmT7vKBf5WK_Fidji_Headshot.jpg)
 
 ## Metadata
+
 - Author: [[firstround.com]]
 - Full Title: How Facebook’s VP of Product Finds Focus and Creates Conditions for Intentional Work
 - Category: #articles
-- Summary: Facebook VP of Product Fidji Simo shares tactics to master focus in a world where possibilities are endless and the stakes are high. 
+- Summary: Facebook VP of Product Fidji Simo shares tactics to master focus in a world where possibilities are endless and the stakes are high.
 - URL: http://firstround.com/review/how-facebooks-vp-of-product-finds-focus-and-creates-conditions-for-intentional-work/
 
 ## Full Document
+
 [[Full Document Contents/Articles/How Facebook’s VP of Product Finds Focus and Creates Conditions for Intentional Work.md|See full document content →]]
 
 ## Highlights
+
 - **Questions to ask to find focus on a project:**
   What is the main problem this product is solving?
   Who are the people we are solving this problem for?

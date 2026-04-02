@@ -3,6 +3,7 @@
 ![rw-book-cover](https://reasonabledeviations.com/assets/images/secondbrain1/logo_big.png)
 
 ## Metadata
+
 - Author: [[reasonabledeviations.com]]
 - Full Title: Molecular Notes: Principles
 - Category: #articles
@@ -10,9 +11,11 @@
 - URL: https://reasonabledeviations.com/2022/04/18/molecular-notes-part-1/
 
 ## Full Document
+
 [[Full Document Contents/Articles/Molecular Notes Principles.md|See full document content →]]
 
 ## Highlights
+
 - In general, I try to seek out mental models rather than specific facts ([View Highlight](https://read.readwise.io/read/01gwfzyqyfx7n07x6028fa8pk9))
 - Specifically, a good Second Brain should allow me to rapidly achieve the same level of understanding about something that I once had in the past. This may be more difficult in situations where that piece of understanding is conditional on many other bits of knowledge, but even then, I should be able to rapidly traverse the local landscape of related concepts so that I may reconstruct intuition. ([View Highlight](https://read.readwise.io/read/01gwg064c4yj9c9n6fy1rd5abr))
 - ![](https://reasonabledeviations.com/assets/images/secondbrain1/blooms_taxonomy.png) ([View Highlight](https://read.readwise.io/read/01gwg08fydkww0bmt3zrc0w3d2))

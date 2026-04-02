@@ -11,6 +11,7 @@ status: archived
 owner: oliveryh
 ---
 Dependency::[[Html2Epub]]
+
 # Reading
 
 ## Further Reading
@@ -35,11 +36,11 @@ Dependency::[[Html2Epub]]
 
 The purpose of this component is to reduce the amount of noise around finding and watching videos (mostly on YouTube).
 
-One privacy-friendly YouTube alternative is called [Piped (TeamPiped) (1.6k ★)](https://github.com/TeamPiped/Piped). 
+One privacy-friendly YouTube alternative is called [Piped (TeamPiped) (1.6k ★)](https://github.com/TeamPiped/Piped).
 
 # Reading
 
-The use of RSS appears to be a good way to interact with incoming feeds. 
+The use of RSS appears to be a good way to interact with incoming feeds.
 
 # Web Server
 

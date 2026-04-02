@@ -52,6 +52,8 @@ I played around with linear.app today and was impressed. I might be able to use 
 	- Google Photos
 	- iCloud
 	- Backblaze
+
 ## 2025-10-11
+
 - Keeping too many old laptops I don't need
 - My digital footprint is still too large

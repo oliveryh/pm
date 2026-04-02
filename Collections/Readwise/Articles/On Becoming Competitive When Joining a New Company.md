@@ -3,6 +3,7 @@
 ![rw-book-cover](https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1683556668-0.png)
 
 ## Metadata
+
 - Author: [[Ludwig]]
 - Full Title: On Becoming Competitive When Joining a New Company
 - Category: #articles
@@ -10,9 +11,11 @@
 - URL: https://ludwigabap.bearblog.dev/on-becoming-competitive-when-joining-a-new-company/
 
 ## Full Document
+
 [[Full Document Contents/Articles/On Becoming Competitive When Joining a New Company.md|See full document content →]]
 
 ## Highlights
+
 - There are a few core components of the mindset I usually have:
   • I just joined -- I am a tool to be used. I must be serviceable and provide value.
   • No task is too small, no discussion or person is beneath me.

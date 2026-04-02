@@ -1,1 +1,1 @@
-Hedonic adaptation refers to the notion that after positive (or negative) events (i.e., something good or bad happening to someone), and a subsequent increase in positive (or negative) feelings, people return to a relatively stable, baseline level of affect 
+Hedonic adaptation refers to the notion that after positive (or negative) events (i.e., something good or bad happening to someone), and a subsequent increase in positive (or negative) feelings, people return to a relatively stable, baseline level of affect

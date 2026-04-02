@@ -4,4 +4,4 @@
 - [Unique Art Prints & Streetwear Apparel by Boring Friends](https://boringfriends.ca/)
 - [The Art Coach](https://www.youtube.com/@The_Art_Coach)
 - [Benjamin Paper](https://www.youtube.com/@BenjionPaper)
-- Frit pattern is another name for dither when applied to glass 
+- Frit pattern is another name for dither when applied to glass

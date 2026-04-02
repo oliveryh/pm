@@ -3,6 +3,7 @@
 ![rw-book-cover](https://news.ycombinator.com/favicon.ico)
 
 ## Metadata
+
 - Author: [[kalzumeus.com]]
 - Full Title: Don't Call Yourself a Programmer, and Other Career Advice
 - Category: #articles
@@ -10,9 +11,11 @@
 - URL: https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/
 
 ## Full Document
+
 [[Full Document Contents/Articles/Don't Call Yourself a Programmer, and Other Career Advice.md|See full document content →]]
 
 ## Highlights
+
 - **Engineers are hired to create business value, not to program things**: Businesses do things for irrational and political reasons all the time (see below), but in the main they converge on doing things which increase revenue or reduce costs. Status in well-run businesses generally is awarded to people who successfully take credit for doing one of these things. (That can, but does not necessarily, entail actually doing them.) The person who has decided to bring on one more engineer is not doing it because they love having a geek around the room, they are doing it because adding the geek allows them to complete a project (or projects) which will add revenue or decrease costs. Producing beautiful software is not a goal. Solving complex technical problems is not a goal. Writing bug-free code is not a goal. Using sexy programming languages is not a goal. Add revenue. Reduce costs. Those are your only goals. ([View Highlight](https://read.readwise.io/read/01hk8r89ccmzgq9b7ftzvn9d3y))
 - You can meet people over the Internet (oh God, can you), but something in our monkey brains makes in-the-flesh meeting a bigger thing. I’ve Internet-met a great many people who I’ve then gone on to meet in real life. The physical handshake is a major step up in the relationship, even when Internet-meeting lead to very consequential things like “Made them a lot of money through good advice.” Definitely blog and participate on your industry-appropriate watering holes like HN, but make it out to the meetups for it. ([View Highlight](https://read.readwise.io/read/01hk8rm9418jctzhz40hwvwa2e))
 - In general, big companies pay more (money, benefits, etc) than startups. Engineers with high perceived value make more than those with low perceived value. Senior engineers make more than junior engineers. People working in high-cost areas make more than people in low-cost areas. **People who are skilled in negotiation make more than those who are not**. ([View Highlight](https://read.readwise.io/read/01hk8rprzfeb1t8xj9cct05mre))

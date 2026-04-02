@@ -3,12 +3,14 @@
 ![rw-book-cover](https://cdn.kobo.com/book-images/ce9c7918-f17b-4417-a83e-a1aa9068b44b/stillness-is-the-key-1.jpg)
 
 ## Metadata
+
 - Author: [[Ryan Holiday]]
 - Full Title: Stillness is the Key
 - Category: #books
 - URL: https://www.kobo.com/ebook/stillness-is-the-key-1
 
 ## Highlights
+
 - In evolution, distinct species—like birds and bats—have often evolved similar adaptations in order to survive. The same goes for the philosophical schools separated by vast oceans and distances. They developed unique paths to the same critical destination: The stillness required to become master of one’s own life. To survive and thrive in any and every environment, no matter how loud or busy.
 - The space Kennedy gave Khrushchev to breathe and think paid off just in time. On October 26, eleven days into the crisis, the Soviet premier wrote Kennedy a letter saying that he now saw that the two of them were pulling on a rope with a knot in the middle—a knot of war. The harder each pulled, the less likely it would be that they could ever untie it, and eventually there would be no choice but to cut the rope with a sword.
 - Tolstoy observed that love can’t exist off in the future. Love is only real if it’s happening right now. If you think about it, that’s true for basically everything we think, feel, or do. The best athletes, in the biggest games, are completely there. They are within themselves, within the now.

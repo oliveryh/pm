@@ -12,9 +12,10 @@
 
 - Not entirely sure what routine to follow
 - Warm up stretch routine might be good to research
-- Having a podcast specifically to 
+- Having a podcast specifically to
 - Make sure devices are charged up
 - [ ] Update mobile Train app - and possibly consider buying pro again
 
 ## 2025-06-22
+
 - Matt D'Avella has a weight training program that looks interesting

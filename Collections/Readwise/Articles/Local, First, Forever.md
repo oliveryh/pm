@@ -3,6 +3,7 @@
 ![rw-book-cover](https://dynogee.com/gen?id=24m2qx9uethuw6p&title=Local%2C+first%2C+forever)
 
 ## Metadata
+
 - Author: [[Nikita Prokopov]]
 - Full Title: Local, First, Forever
 - Category: #articles
@@ -10,8 +11,11 @@
 - URL: https://tonsky.me/blog/crdt-filesync/
 
 ## Full Document
+
 [[Full Document Contents/Articles/Local, First, Forever.md|See full document content →]]
 
 ## Highlights
+
 - Normally, it would’ve been a problem. But it’s not if you are using CRDT!
+
   > CRDT is a collection of data types that all share a very nice property: they can always be merged. It’s not always the perfect merge, and not everything can be made into a CRDT, but IF you can put your data into a CRDT, you can be sure: all merges will go without conflicts. ([View Highlight](https://read.readwise.io/read/01j1mbjrmks2smys6xxbw2v5y2))

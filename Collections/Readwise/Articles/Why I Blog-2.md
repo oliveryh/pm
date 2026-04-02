@@ -3,6 +3,7 @@
 ![rw-book-cover](https://www.craigkerstiens.com/favicon.ico)
 
 ## Metadata
+
 - Author: [[craigkerstiens.com]]
 - Full Title: Why I Blog
 - Category: #articles
@@ -10,8 +11,10 @@
 - URL: https://www.craigkerstiens.com/2013/03/31/why-i-blog/
 
 ## Full Document
+
 [[Full Document Contents/Articles/Why I Blog-2.md|See full document content →]]
 
 ## Highlights
+
 - Becoming replaceable ([View Highlight](https://read.readwise.io/read/01h0dhw71xa0yf74scrgjqtc9t))
 - My goal in doing this is actually to become heavily replaceable. Keeping information locked away means I’m the only one capable of doing it. Making myself highly replaceable means I can continue to work on new and interesting things. ([View Highlight](https://read.readwise.io/read/01h0dhw8zfetp8xxgt7gxxn52b))

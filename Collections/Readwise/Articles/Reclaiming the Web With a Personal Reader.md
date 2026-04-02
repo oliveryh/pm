@@ -3,6 +3,7 @@
 ![rw-book-cover](https://olano.dev/assets/img/feedi1.png)
 
 ## Metadata
+
 - Author: [[Facundo Olano]]
 - Full Title: Reclaiming the Web With a Personal Reader
 - Category: #articles
@@ -10,7 +11,9 @@
 - URL: https://olano.dev/2023-12-12-reclaiming-the-web-with-a-personal-reader/
 
 ## Full Document
+
 [[Full Document Contents/Articles/Reclaiming the Web With a Personal Reader.md|See full document content →]]
 
 ## Highlights
+
 - Last year I experienced the all-too-common career burnout. I had a couple of bad projects in a row, yes, but more generally I was disillusioned with the software industry. There seemed to be a disconnection between what I used to like about the job, what I was good at, and what the market wanted to buy from me. ([View Highlight](https://read.readwise.io/read/01hjrn3p0my61z9k3we098m471))

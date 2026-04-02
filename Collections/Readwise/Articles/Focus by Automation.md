@@ -3,6 +3,7 @@
 ![rw-book-cover](https://news.ycombinator.com/favicon.ico)
 
 ## Metadata
+
 - Author: [[myme.no]]
 - Full Title: Focus by Automation
 - Category: #articles
@@ -10,14 +11,18 @@
 - URL: https://myme.no/posts/2024-03-19-focus-by-automation.html
 
 ## Full Document
+
 [[Full Document Contents/Articles/Focus by Automation.md|See full document content →]]
 
 ## Highlights
+
 - Automation 🤖
+
   > I’ve invested leisure time to save time when I’m working hard, not to save keystrokes but to save mental energy for the project at hand.
   > 
   > • John D. Cook
   In much of the work that I do I try to [automate to save mental energy](https://www.johndcook.com/blog/2015/12/22/automate-to-save-mental-energy-not-time/). Automation, to “techy” people, often means to apply some sort of repeatable application of machinery or code in order both free us from manual labor and potentially increase our effective throughput. I’m using a more general interpretation of “automation” when I say “I try to automate to save mental energy” – an interpretation more in line with what John D. Cook points towards in his post quoted and linked to above ([View Highlight](https://read.readwise.io/read/01hxps91sqfvqkraxks5erhmwr))
+
 - But we do not necessary have to become specialists to become effective. In fact, becoming and staying a proper expert in more than a handful of fields is a fools errand in modern software development. Ecosystems evolve too quickly, new tools and practices come and go. Not to mention the looming paradigm shift of artificial intelligence and how it might render significant aspects of conventional programming obsolete[2](https://myme.no/posts/2024-03-19-focus-by-automation.html#fn2). ([View Highlight](https://read.readwise.io/read/01hxpsh4xaz46v36ekhthrmkqs))
 - What I find useful is to learn enough about a wide variety of topics to build a basic intuition for when specific technologies or methodologies will help solve the problems we’re faced with. You’ll then eventually start picking out what matters to you and your expertise will grow somewhat organically[3](https://myme.no/posts/2024-03-19-focus-by-automation.html#fn3). Also try to surround yourself with smart people complementing your own abilities. ([View Highlight](https://read.readwise.io/read/01hxpsha0dwefvd72f6jnm66eg))
 - Editors like [Kakoune](https://github.com/mawww/kakoune) and [Helix](https://github.com/helix-editor/helix) attempt to improve further on this concept. ([View Highlight](https://read.readwise.io/read/01hxpsna4s5xxd0wawseez8pys))

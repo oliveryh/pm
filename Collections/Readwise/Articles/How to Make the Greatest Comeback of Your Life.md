@@ -3,6 +3,7 @@
 ![rw-book-cover](https://thedankoe.com/wp-content/uploads/2024/12/featured.jpg)
 
 ## Metadata
+
 - Author: [[Dan Koe]]
 - Full Title: How to Make the Greatest Comeback of Your Life
 - Category: #articles
@@ -10,8 +11,10 @@
 - URL: https://thedankoe.com/letters/how-to-make-the-greatest-comeback-of-your-life/
 
 ## Full Document
+
 [[Full Document Contents/Articles/How to Make the Greatest Comeback of Your Life.md|See full document content →]]
 
 ## Highlights
+
 - You failed to develop *agency.*
   You failed to explore, fail, discover, and build by your own desire, not someone else’s. *You failed to develop the singular trait of a free individual.* ([View Highlight](https://read.readwise.io/read/01jmep44043j6gb3shzpnv5qvv))

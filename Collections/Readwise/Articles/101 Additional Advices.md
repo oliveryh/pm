@@ -3,17 +3,20 @@
 ![rw-book-cover](https://kk.org/wp-content/themes/kkdotorg/inc/images/og_default_1200.png)
 
 ## Metadata
+
 - Author: [[Kevin Kelly]]
 - Full Title: 101 Additional Advices
 - Category: #articles
-- Document Tags: [[productivity]] 
+- Document Tags: [[productivity]]
 - Summary: Kevin Kelly shares 101 valuable pieces of advice, including being open to learning, embracing failure, and celebrating the success of others. He emphasizes the importance of self-improvement, staying humble, and being kind to others. Kelly's advice encourages personal growth, resilience, and a positive outlook on life.
 - URL: https://kk.org/thetechnium/101-additional-advices/
 
 ## Full Document
+
 [[Full Document Contents/Articles/101 Additional Advices.md|See full document content →]]
 
 ## Highlights
+
 - • The best way to criticize something is to make something better. ([View Highlight](https://read.readwise.io/read/01j0bv300xvny1aj3515pkp2mg))
 - • Forget trying to decide what your life’s destiny is. That’s too grand. Instead, just figure out what you should do in the next 2 years. ([View Highlight](https://read.readwise.io/read/01j0bv3xvjwgz5mw1assg37hcc))
 - • Aim to be effective, but unpredictable. That is, you want to act in a way that AIs have trouble modeling or imitating. That makes you irreplaceable. ([View Highlight](https://read.readwise.io/read/01j0bv454g2c8c9jjewhrfe98t))

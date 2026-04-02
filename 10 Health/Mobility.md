@@ -21,4 +21,3 @@
 ![https://www.youtube.com/watch?v=eQHmKJh20_c](https://www.youtube.com/watch?v=eQHmKJh20_c)
 
 - Watched this 10 minute routine by [MovementDavid](https://www.youtube.com/@MovementbyDavid)
-

@@ -3,6 +3,7 @@
 ![rw-book-cover](https://johnnydecimal.com/icons/icon-192x192.png)
 
 ## Metadata
+
 - Author: [[johnnydecimal.com]]
 - Full Title: A system to organise your life
 - Category: #articles
@@ -10,9 +11,11 @@
 - URL: https://johnnydecimal.com/
 
 ## Full Document
+
 [[Full Document Contents/Articles/A system to organise your life.md|See full document content →]]
 
 ## Highlights
+
 - Welcome to the Johnny.Decimal family, there's plenty to go on with:
   • Explore the site to [learn more](https://johnnydecimal.com/11.02/) about the system.
   • Follow the [blog](https://johnnydecimal.com/22.02/) or sign up to the [mailing list](https://johnnydecimal.com/21.02/).

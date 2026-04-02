@@ -3,6 +3,7 @@
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
 
 ## Metadata
+
 - Author: [[jamesdunne.dev]]
 - Full Title: The Real "Must Have" Tools for Programmers
 - Category: #articles
@@ -12,7 +13,9 @@ Your wellbeing is, in fact, the most important factor in your ability to write g
 - URL: https://jamesdunne.dev/posts/must-have-programming-tools/
 
 ## Full Document
+
 [[Full Document Contents/Articles/The Real Must Have Tools for Programmers.md|See full document content →]]
 
 ## Highlights
+
 - Your wellbeing is, in fact, the most important factor in your ability to write good software. And the most important programming tools are anything that improves your wellbeing. ([View Highlight](https://read.readwise.io/read/01gx9s7ntxmmd4ar14mnzts6r6))

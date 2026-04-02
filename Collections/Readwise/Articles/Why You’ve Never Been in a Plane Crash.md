@@ -3,6 +3,7 @@
 ![rw-book-cover](https://asteriskmag.com/media/pages/issues/05/fda20074f4-1705683336/asterisk5-cover-small-wider-1200x630-crop.jpg)
 
 ## Metadata
+
 - Author: [[Kyra Dempsey]]
 - Full Title: Why You’ve Never Been in a Plane Crash
 - Category: #articles
@@ -10,7 +11,9 @@
 - URL: https://asteriskmag.com/issues/05/why-you-ve-never-been-in-a-plane-crash
 
 ## Full Document
+
 [[Full Document Contents/Articles/Why You’ve Never Been in a Plane Crash.md|See full document content →]]
 
 ## Highlights
+
 - A just organizational culture recognizes that a high level of operational safety can be achieved only when the root causes of human error are examined; who made a mistake is far less important than why it was made. ([View Highlight](https://read.readwise.io/read/01hnr51280ahfh6c2z2ex4t7hf))

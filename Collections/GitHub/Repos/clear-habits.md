@@ -53,7 +53,7 @@ Install [VueCLI](https://cli.vuejs.org/)
 
 ## `nodemon`
 
-By default, Node doesn't monitor changes in files and is meant for production. In development, we'll require the `nodemon` package. 
+By default, Node doesn't monitor changes in files and is meant for production. In development, we'll require the `nodemon` package.
 
 `npm install -g nodemon`
 
@@ -104,7 +104,7 @@ Environment variables must be prefixed with `VUE_APP_` to avoid accidently shari
 ## MVP (2020.1)
 
 - [X] Find a way to parse the API_URL configuration for the URL at run time. Currently I need to hard code the new API url
-- [X] Setup nginx config for URL and ensure the firewall isn't blocking requests. 
+- [X] Setup nginx config for URL and ensure the firewall isn't blocking requests.
 - [x] UI Changes
 	- [x] Delete button
 	- [x] Ability to edit text by clicking on cell
@@ -229,11 +229,13 @@ index e412d57..d2ffec0 100644
 # Clean Up
 
 Remove tasks that have no associated entries
+
 ```sql
 DELETE FROM app_public.tasks t WHERE t.id IN (SELECT t.id FROM app_public.tasks t LEFT JOIN app_public.entries e ON e.task_id = t.id WHERE e.id IS NULL);
 ```
 
 Remove entries that were not completed in the past
+
 ```sql
 DELETE FROM app_public.entries WHERE id IN (SELECT e.id FROM app_public.entries e WHERE e.complete = false AND e.date < '2022-10-01' AND e.date <> 'backlog');
 ```

@@ -5,6 +5,7 @@
 - App created by Linear designer that captured workouts from a written summary
 - Really nice minimalistic UI
 - Not useful to me, but is responsive, minimal and could be used for inspiration
+
 ## 2025-02-28 - Basedash
 
 - Really like the aesthetic

@@ -3,6 +3,7 @@
 ![rw-book-cover](https://dannb.org/images/blog/2024/03/obsidian-use-your-notes-og.jpg)
 
 ## Metadata
+
 - Author: [[dannb.org]]
 - Full Title: 5 Ways to Actually Use the Notes You Take
 - Category: #articles
@@ -10,7 +11,9 @@
 - URL: https://dannb.org/blog/2024/obsidian-use-your-notes/
 
 ## Full Document
+
 [[Full Document Contents/Articles/5 Ways to Actually Use the Notes You Take.md|See full document content →]]
 
 ## Highlights
+
 - ![](https://dannb.org/images/blog/2024/03/obsidian-use-your-notes-main.jpg) ([View Highlight](https://read.readwise.io/read/01hxpq7fnzsfwv9q6md5vwsmvf))

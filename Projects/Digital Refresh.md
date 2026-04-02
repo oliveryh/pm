@@ -51,7 +51,6 @@ Some things to avoid too:
 	- [ ] Import using [official data loader](https://obsidian.md/help/import/notion) for remainder of the notes
 	- [ ] Work out how to save Claude dotfiles correctly
 
-
 # Migration Candidates
 
 There are some key places I store data that I’d like to consolidate into Obsidian if possible
@@ -70,6 +69,7 @@ There are some places this may not be suitable
 
 - Large files
 - Long term vault. Files that I want to keep but won’t be regularly viewing
+
 # Flow of Data
 
 ```mermaid
@@ -78,6 +78,7 @@ graph LR
 	Notion --> PM
 	gd[Google Drive] --> iCloud
 ```
+
 # Log
 
 ## 2026-03-31
@@ -93,9 +94,11 @@ graph LR
 ## 2026-03-25
 
 - Removed Working Copy from mobile phone
+
 ## 2026-03-21
 
 - I used Claude Code to extract topics from Daily Notes and move them into individual notes
+
 ## 2026-03-14
 
 - I started migrating from commit `45d287e` in the Second Brain repo

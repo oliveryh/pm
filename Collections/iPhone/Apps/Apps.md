@@ -28,6 +28,7 @@ createButton({ app, el: this.container, args: { name: "🔄 Sync Apps" }, clickO
 ```
 
 ![[Apps.base]]
+
 # Reference
 
 ## Process to get app CSV
@@ -36,6 +37,3 @@ createButton({ app, el: this.container, args: { name: "🔄 Sync Apps" }, clickO
 2. Plug in your iPhone
 3. Go to Actions > Export > Info > Installed Apps and save to Apps/ directory
 4. Run sync action above
-
-
-

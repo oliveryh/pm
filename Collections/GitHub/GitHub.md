@@ -4,7 +4,7 @@
 - Delete any unused forks
 - Check if [apps authorised](https://github.com/settings/applications) are still relevant
 - Use the [Code Explorer](https://docs.github.com/en/graphql/overview/explorer) to see what branches are there ([further examples](https://github.com/github/platform-samples/tree/master/graphql/queries))
-    
+
     ```graphql
     # Type queries into this side of the screen, and you will 
     # see intelligent typeaheads aware of the current GraphQL type schema, 
@@ -31,7 +31,7 @@
       }
     }](https://www.notion.so/2015-Macbook-Pro-15-f79d0dee81a34c6283b0bfcf6631ccf3?pvs=21)
     ```
-    
+
 - You can then use `gron | egrep -e "name|branchName" | sed 's/.*name = /- /g' | sed 's/.*branchName = / - /g' | sed 's/"//g' | sed 's/;//g'` from the output to generate a formatted list of repo names and branches
     - Or alternatively using `jq` you can use the following: `jq ".data.viewer.repositories.nodes[]" | jq "{name:.name,branches:.refs.edges[].node.branchName}"`
 - Check all issues are tagged appropriately and still relevant
@@ -43,6 +43,7 @@
 Backed up repos to iCloud by running the following in a folder that's backed up automatically
 
 `export GITHUB_TOKEN=<redacted>; curl -H "Authorization: Bearer $GITHUB_TOKEN" -H "Content-Type: application/json" -X POST https://api.github.com/graphql -d '{"query":"query { viewer { repositories(first: 100, ownerAffiliations: OWNER) { nodes { sshUrl } } } }"}' | jq -r '.data.viewer.repositories.nodes[].sshUrl' | xargs -L1 git clone`
+
 ## 2025-10-20
 
 - Audited

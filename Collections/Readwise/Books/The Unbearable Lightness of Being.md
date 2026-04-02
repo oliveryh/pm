@@ -3,12 +3,14 @@
 ![rw-book-cover](https://cdn.kobo.com/book-images/79fd793f-5bc6-4a3e-af69-8f4225987c68/the-unbearable-lightness-of-being-5.jpg)
 
 ## Metadata
+
 - Author: [[Milan Kundera]]
 - Full Title: The Unbearable Lightness of Being
 - Category: #books
 - URL: https://www.kobo.com/ebook/the-unbearable-lightness-of-being-5
 
 ## Highlights
+
 - In the world of eternal return the weight of unbearable responsibility lies heavy on every move we make. This is why Nietzsche called the idea of eternal return the heaviest of burdens (das schwerste Gewicht)
 - vacillating
 - We can never know what to want, because, living only one life, we can neither compare it with our previous lives nor perfect it in our lives to come.

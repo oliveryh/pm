@@ -3,6 +3,7 @@
 ![rw-book-cover](https://pedrodelgallego.github.io/images/post/single-threaded-leadership_hu856173de303e25ab9ba5817fdb202bd5_596392_925x475_fill_box_smart1_3.png)
 
 ## Metadata
+
 - Author: [[Themefisher]]
 - Full Title: Single-Threaded Leaders at Amazon
 - Category: #articles
@@ -10,9 +11,11 @@
 - URL: https://pedrodelgallego.github.io/blog/amazon/single-threaded-model/
 
 ## Full Document
+
 [[Full Document Contents/Articles/Single-Threaded Leaders at Amazon.md|See full document content →]]
 
 ## Highlights
+
 - all success and failures rest with the leader, and the bucket stops there. ([View Highlight](https://read.readwise.io/read/01h3z98f0by1hq64ez4hx86q3y))
 - A single-threaded leader is an individual wholly dedicated to solving one business problem, someone who wakes up in the morning and worries just about that one thing, ensuring the initiative’s vision and goals are always at the forefront and is ready to escalate risks early. ([View Highlight](https://read.readwise.io/read/01h3z992nkkn036s1qja5xxjsh))
 - The best way to fail at inventing something is by making it somebody’s part-time job ([View Highlight](https://read.readwise.io/read/01h3z99yesq4rqdb2cvdetgzkf))

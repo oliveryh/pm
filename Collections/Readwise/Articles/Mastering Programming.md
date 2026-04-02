@@ -3,6 +3,7 @@
 ![rw-book-cover](https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F686088ea-6567-49b0-9203-eeb95832de83_1878x1548.jpeg)
 
 ## Metadata
+
 - Author: [[Kent Beck]]
 - Full Title: Mastering Programming
 - Category: #articles
@@ -10,9 +11,11 @@
 - URL: https://tidyfirst.substack.com/p/mastering-programming
 
 ## Full Document
+
 [[Full Document Contents/Articles/Mastering Programming.md|See full document content →]]
 
 ## Highlights
+
 - • **One thing at a time**. We’re so focused on efficiency that we reduce the number of feedback cycles in an attempt to reduce overhead. This leads to difficult debugging situations whose expected cost is greater than the cycle overhead we avoided.
   • **Make it run, make it right, make it fast**. (Example of One Thing at a Time, Slicing, and Easy Changes) ([View Highlight](https://read.readwise.io/read/01hxpsz5md6h9y4z983tg7nztf))
 - • **Concentration**. If you need to change several elements, first rearrange the code so the change only needs to happen in one element.

@@ -1,4 +1,5 @@
 Teddy is a cat.
+
 # What to Buy
 
 - Food - Making sure to wean onto new foods over a period of 5-7 days if necessary

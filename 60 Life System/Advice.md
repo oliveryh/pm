@@ -24,7 +24,6 @@
 
 [^unsolicited]: https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/
 
-
 # Resources
 
 - [Ask HN: What would you do if you could start over? | Hacker News](https://news.ycombinator.com/item?id=39021805)https://news.ycombinator.com/item?id=39021805

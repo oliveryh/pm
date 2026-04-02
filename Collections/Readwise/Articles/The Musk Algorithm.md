@@ -3,6 +3,7 @@
 ![rw-book-cover](https://world.hey.com/dhh/avatar-df6405b0f7fafda980fd38b04c334bec936aef69)
 
 ## Metadata
+
 - Author: [[hey.com]]
 - Full Title: The Musk Algorithm
 - Category: #articles
@@ -10,9 +11,11 @@
 - URL: https://world.hey.com/dhh/the-musk-algorithm-977bf312/
 
 ## Full Document
+
 [[Full Document Contents/Articles/The Musk Algorithm.md|See full document content →]]
 
 ## Highlights
+
 - • **Question every requirement**. Each should come with the name of the person who made it. You should never accept that a requirement came from a department, such as from "the legal department" or "the safety department." You need to know the name of the real person who made that requirement. Then you should question it, no matter how smart that person is. Requirements from smart people are the most dangerous, because people are less likely to question them. Always do so, even if the requirement came from me. Then make the requirements less dumb.
   • **Delete any part or process you can**. You may have to add them back later. In fact, if you do not end up adding back at least 10% of them, then you didn't delete enough.
   • **Simplify and optimize**. This should come after step two. common mistake is to simplify and optimize a part or a process that should not exist.

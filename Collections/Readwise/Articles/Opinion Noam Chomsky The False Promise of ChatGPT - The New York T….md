@@ -3,6 +3,7 @@
 ![rw-book-cover](https://archive.is/AgWkn/194844cc76b7e1246f336e9c0d76c1d225d1948e/scr.png)
 
 ## Metadata
+
 - Author: [[archive.is]]
 - Full Title: Opinion | Noam Chomsky: The False Promise of ChatGPT - The New York T…
 - Category: #articles
@@ -10,9 +11,11 @@
 - URL: https://archive.is/AgWkn
 
 ## Full Document
+
 [[Full Document Contents/Articles/Opinion Noam Chomsky The False Promise of ChatGPT - The New York T….md|See full document content →]]
 
 ## Highlights
+
 - Jorge Luis Borges once wrote that to live in a time of great peril and promise is to experience both tragedy and comedy, with “the imminence of a revelation” in understanding ourselves and the world. Today our supposedly revolutionary advancements in artificial intelligence are indeed cause for both concern and optimism. Optimism because intelligence is the means by which we solve problems. Concern because we fear that the most popular and fashionable strain of A.I. — machine learning — will degrade our science and debase our ethics by incorporating into our technology a fundamentally flawed conception of language and knowledge. ([View Highlight](https://read.readwise.io/read/01gwrqbbwcmc6wbknh4sk157rg))
 - For instance, a young child acquiring a language is developing — unconsciously, automatically and speedily from minuscule data — a grammar, a stupendously sophisticated system of logical principles and parameters. This grammar can be understood as an expression of the innate, genetically installed “operating system” that endows humans with the capacity to generate complex sentences and long trains of thought. When linguists seek to develop a theory for why a given language works as it does (“Why are these — but not those — sentences considered grammatical?”), they are building consciously and laboriously an explicit version of the grammar that the child builds instinctively and with minimal exposure to information. The child’s operating system is completely different from that of a machine learning program. ([View Highlight](https://read.readwise.io/read/01gwrqkwszwpqzzdz2pq6d99c6))
 - such programs are stuck in a prehuman or nonhuman phase of cognitive evolution. Their deepest flaw is the absence of the most critical capacity of any intelligence: to say not only what is the case, what was the case and what will be the case — that’s description and prediction — but also what is not the case and what could and could not be the case. Those are the ingredients of explanation, the mark of true intelligence. ([View Highlight](https://read.readwise.io/read/01gwrqkk9znnqcg2rrf7y3p0d0))

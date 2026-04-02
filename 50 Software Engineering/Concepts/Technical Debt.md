@@ -9,8 +9,9 @@
 ![[image (3).png]]
 
 **Thoughts on Tech Debt from SC**
-> Some thoughts about tech debt / ticket-level-FTVS I'm interested in your opinions on:  
-> 
+
+> Some thoughts about tech debt / ticket-level-FTVS I'm interested in your opinions on:
+>
 > - IMO it's often (even _usually_) valuable to get a very rough version of something merged and into QA (behind a flag) as early as possible, e.g. within the first couple of days of a sprint:
 > 
 > - QA can start sooner, and thus get feedback when we still have plenty of time to course-correct before the end of the sprint

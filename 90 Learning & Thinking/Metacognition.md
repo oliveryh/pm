@@ -11,7 +11,7 @@ To build on this, it's more effective if you immerse yourself in topics that are
 
 # Fastest Ways to Learn
 
-By far the biggest beneficiary of you trying to help past you is future you. If others benefit, that's icing on the cake. 
+By far the biggest beneficiary of you trying to help past you is future you. If others benefit, that's icing on the cake.
 
 - Write blogs and tutorials and cheatsheets.
 - Speak at meetups and conferences.

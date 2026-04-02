@@ -3,6 +3,7 @@
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 
 ## Metadata
+
 - Author: [[ycombinator.com]]
 - Full Title: Ask HN: Books You Read in 2022 and Recommend for 2023
 - Category: #articles
@@ -10,9 +11,11 @@
 - URL: https://news.ycombinator.com/item?id=34160611
 
 ## Full Document
+
 [[Full Document Contents/Articles/Ask HN Books You Read in 2022 and Recommend for 2023.md|See full document content →]]
 
 ## Highlights
+
 - The God Delusion by Richard Dawkins (p:374)
   In The God Delusion Dawkins gives arguments why there is no God, why we do not need a God and why religion is damaging to our society. If you are religious it might not be the book for you unless you are open to hear his arguments and line of reasoning. Dawkins will challenge your worldview. ([View Highlight](https://read.readwise.io/read/01gnmsed0bar9n6p8m43w33f1g))
 - Project Hail Mary by Andy Weir (p:476)

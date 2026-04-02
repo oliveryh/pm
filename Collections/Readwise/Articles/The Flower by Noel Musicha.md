@@ -3,6 +3,7 @@
 ![rw-book-cover](https://i.ytimg.com/vi/WGxWp3Zn5DQ/maxresdefault.jpg)
 
 ## Metadata
+
 - Author: [[Six Feet Up]]
 - Full Title: The Flower by Noel Musicha
 - Category: #articles
@@ -14,8 +15,10 @@ More information about the conference can be found at: https://2022.pythonwebcon
 - URL: https://m.youtube.com/watch?v=WGxWp3Zn5DQ&feature=youtu.be
 
 ## Full Document
+
 [[Full Document Contents/Articles/The Flower by Noel Musicha.md|See full document content →]]
 
 ## Highlights
+
 - whoever tells the most competing storyshapes the future ([View Highlight](https://read.readwise.io/read/01gtpm124dtakckmjtr6x56a6c))
     - Note: Whoever tells the most compelling story, shapes the future

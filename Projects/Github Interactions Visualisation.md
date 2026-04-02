@@ -8,7 +8,7 @@ So that's what I'll explore, what information can I collect about github PR revi
 
 # Collecting the Data
 
-Github has a GraphQL API which appears to be closer 
+Github has a GraphQL API which appears to be closer
 
 # Running Notes
 

@@ -3,6 +3,7 @@
 ![rw-book-cover](https://www.joanwestenberg.com/content/images/size/w1200/beehiiv-images-production-s3-amazonaws-com/uploads/asset/file/b405046b-6ee7-4e55-95f7-681f62bef38a/img_0128-t-1750026447.png)
 
 ## Metadata
+
 - Author: [[Westenberg.]]
 - Full Title: I Deleted My Second Brain
 - Category: #articles
@@ -10,9 +11,11 @@
 - URL: https://www.joanwestenberg.com/i-deleted-my-second-brain-692aa40d59d5f06dd5131e43/
 
 ## Full Document
+
 [[Full Document Contents/Articles/I Deleted My Second Brain.md|See full document content →]]
 
 ## Highlights
+
 - For years, I had been building what technologists and lifehackers call a “second brain.” The premise: capture everything, forget nothing. Store your thinking in a networked archive so vast and recursive it can answer questions before you know to ask them. It promises clarity, control, mental leverage etc.
   But over time, my second brain became a mausoleum. A dusty collection of old selves, old interests, old compulsions, piled on top of each other like geological strata. Instead of accelerating my thinking, it began to replace it. Instead of aiding memory, it froze my curiosity into static categories. ([View Highlight](https://read.readwise.io/read/01kh4daq66ar4bmak7ac2gw40p))
 - I could see how each iteration of my self was trying so bloody earnestly to build a roadmap to something better. But what got me sober, what got me through the first one, two, three hard years - none of it was in those notes. ([View Highlight](https://read.readwise.io/read/01kh4dc5w1acw42d65zmpy39gc))

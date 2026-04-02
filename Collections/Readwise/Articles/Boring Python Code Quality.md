@@ -3,6 +3,7 @@
 ![rw-book-cover](https://rdl.ink/render/https%3A%2F%2Fwww.b-list.org%2Fweblog%2F2022%2Fdec%2F19%2Fboring-python-code-quality%2F)
 
 ## Metadata
+
 - Author: [[b-list.org]]
 - Full Title: Boring Python: Code Quality
 - Category: #articles
@@ -10,9 +11,11 @@
 - URL: https://www.b-list.org/weblog/2022/dec/19/boring-python-code-quality/
 
 ## Full Document
+
 [[Full Document Contents/Articles/Boring Python Code Quality.md|See full document content →]]
 
 ## Highlights
+
 - If you followed the advice in the last section, you’ve already got a head start on consistency of formatting from your `.editorconfig` and pre-commit hooks handling things like indenting, newline styles, and so on, but now it’s time to get into Python-specific formatting. I recommend using two tools together: [Black](https://black.readthedocs.io/) and [isort](https://pycqa.github.io/isort/). ([View Highlight](https://read.readwise.io/read/01gp1qqmm6r21m89fmr3xk1986))
 - For configuration, the only option I recommend setting for Black is the target Python version, which should match the version of Python you intend to deploy on (for libraries that target multiple Python versions it’s more complex, but for an application you intend to deploy on your own servers, you should be using one Python version and targeting it). For isort, I recommend setting the “profile” option to `"black"` to tell isort to match Black’s preferences. If it has trouble recognizing which modules are part of your codebase and which aren’t, consider setting `known_first_party` and/or `known_third_party` to help it out. ([View Highlight](https://read.readwise.io/read/01gp1qqep6788h317w5fqya70y))
 - In both cases, I recommend putting the configuration in a top-level `pyproject.toml` file in your repository. In the case of Black this is the *only* supported configuration file, and most other tools support using `pyproject.toml` as a centralized configuration file now — there’s only one I’m going to recommend (flake8) that doesn’t. ([View Highlight](https://read.readwise.io/read/01gp1qr6ak89rmne2q34mszq9e))

@@ -3,15 +3,18 @@
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_600018/vNI-0Vb8Dojefr2MmdSRSme993wi_B6TfOttCRPF0mM-cover_wt0IqQV.png)
 
 ## Metadata
+
 - Author: [[readwise.io]]
 - Full Title: FTBGuide-Jan23-v11
 - Category: #articles
 - URL: https://readwise.io/reader/document_raw_content/37577618
 
 ## Full Document
+
 [[Full Document Contents/Articles/FTBGuide-Jan23-v11.md|See full document content →]]
 
 ## Highlights
+
 - Think carefully about whether you can afford it, and what would happen if interest rates went up. The mortgage needs to be within your financial comfort zone; don’t push too hard, you just risk future unaffordability and that can be catastrophic. ([View Highlight](https://read.readwise.io/read/01hcq5z4xftzwf4nb6szcdnffy))
     - Note: How high could rates go up after remortgage?
 - LTV stands for the loan-to-value ratio (LTV), which is the percentage of the property value you’re loaned as a mortgage. In others words, it’s the proportion that you’re borrowing. ([View Highlight](https://read.readwise.io/read/01hcq6apx4xv1hqpgj92xc9tga))

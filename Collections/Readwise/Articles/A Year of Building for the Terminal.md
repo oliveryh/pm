@@ -3,6 +3,7 @@
 ![rw-book-cover](https://raw.githubusercontent.com/Textualize/textual/main/imgs/textual.png)
 
 ## Metadata
+
 - Author: [[Textual Documentation]]
 - Full Title: A Year of Building for the Terminal
 - Category: #articles
@@ -10,9 +11,11 @@
 - URL: https://textual.textualize.io/blog/2022/12/20/a-year-of-building-for-the-terminal/
 
 ## Full Document
+
 [[Full Document Contents/Articles/A Year of Building for the Terminal.md|See full document content →]]
 
 ## Highlights
+
 - I built a tool called [Dunk](https://github.com/darrenburns/dunk). It’s a command line program which you can pipe your `git diff` output into, and it’ll convert it into something which I find much more readable. ([View Highlight](https://read.readwise.io/read/01gna6hp5zapn02wjf92f9kq4x))
     - Note: It could be worth replacing my current git diff driver with this.
 - Developer console

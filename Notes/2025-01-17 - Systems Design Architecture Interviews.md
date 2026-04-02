@@ -111,8 +111,8 @@
 # Questions Approach
 
 1. Ask clarifying questions and write them down
-	1.	What are the various requirements
-	2.	What size/disk/frequency/memory etc are needed
+	1. What are the various requirements
+	2. What size/disk/frequency/memory etc are needed
 2. System APIs
 3. High Level Design
 4. Database Schema
@@ -141,7 +141,6 @@
 
 - In Memory NoSQL Key/Value store
 - Primarily used as a cache layer
-
 - RabbitMQ
 - Redis
 - CouchDB

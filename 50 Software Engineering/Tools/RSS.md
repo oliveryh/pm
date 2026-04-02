@@ -5,4 +5,3 @@
 - [morss.it – Get more out of RSS feeds, for free](https://morss.it/) - Convert RSS feeds to full text
 - https://danq.me/2022/09/27/freshrss-xpath/
 - https://www.pipes.digital
-

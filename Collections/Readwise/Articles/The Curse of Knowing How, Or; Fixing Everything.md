@@ -3,6 +3,7 @@
 ![rw-book-cover](https://news.ycombinator.com/y18.svg)
 
 ## Metadata
+
 - Author: [[NotAShelf]]
 - Full Title: The Curse of Knowing How, Or; Fixing Everything
 - Category: #articles
@@ -10,9 +11,11 @@
 - URL: https://notashelf.dev/posts/curse-of-knowing
 
 ## Full Document
+
 [[Full Document Contents/Articles/The Curse of Knowing How, Or; Fixing Everything.md|See full document content →]]
 
 ## Highlights
+
 - What if the real skill isn’t technical mastery? Or better yet what if it’s emotional clarity?
   • Knowing which problems are worth your energy.
   • Knowing which projects are worth maintaining.

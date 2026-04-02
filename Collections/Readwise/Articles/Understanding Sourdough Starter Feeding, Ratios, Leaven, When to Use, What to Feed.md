@@ -3,10 +3,11 @@
 ![rw-book-cover](https://i.ytimg.com/vi/lsZDOWss3eE/maxresdefault.jpg)
 
 ## Metadata
+
 - Author: [[Baker Bettie]]
 - Full Title: Understanding Sourdough Starter | Feeding, Ratios, Leaven, When to Use, What to Feed
 - Category: #articles
-- Summary: Today I want to walk you through all of the nuances of your sourdough starter to help you better understand the different approaches. We will be covering how to feed your starter, what flour to use when feeding, starter ratios, using your starter in a bread dough, what a leaven is and how to create one, how to change the timing of your feedings and how to speed up or slow down your starter cycle. 
+- Summary: Today I want to walk you through all of the nuances of your sourdough starter to help you better understand the different approaches. We will be covering how to feed your starter, what flour to use when feeding, starter ratios, using your starter in a bread dough, what a leaven is and how to create one, how to change the timing of your feedings and how to speed up or slow down your starter cycle.
 --------------------------------------------------------------------------
 Watch the Whole Sourdough Series Here ► https://bit.ly/33FT7KS
 Make a Sourdough Starter ► https://bit.ly/398ZGXd
@@ -20,9 +21,11 @@ Better Baking School ►https://betterbakingschool.com/
 - URL: https://www.youtube.com/watch?si=ehpaZbTk6cJ_zjOM&v=lsZDOWss3eE&feature=youtu.be
 
 ## Full Document
+
 [[Full Document Contents/Articles/Understanding Sourdough Starter Feeding, Ratios, Leaven, When to Use, What to Feed.md|See full document content →]]
 
 ## Highlights
+
 - approaches for the ratios to use to feed your starter now at a minimum you really need to be feeding your starter what is called a 1:1:1 ratio now what this means is that however much starter you will keep you need to feed it equal amounts flour and water by weight so just to keep this simple for understanding say you kept 10 grams of your starter now you need to feed it 10 grams of flour ([View Highlight](https://read.readwise.io/read/01hf2tr1v18vv400f6hra9n28r))
 - I typically do a 1:3:3 feeding which means however much culture I keep I give it 3 times the amount of flour and water so in our example where we kept 10 grams of starter for my 1:3:3 ([View Highlight](https://read.readwise.io/read/01hf2ttfzbajckvnhw8dzc556y))
 - I am somebody who does keep my starter at

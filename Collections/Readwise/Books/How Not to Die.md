@@ -3,12 +3,14 @@
 ![rw-book-cover](https://cdn.kobo.com/book-images/c8974385-8012-45c4-94e6-6b758999352e/how-not-to-die-3.jpg)
 
 ## Metadata
+
 - Author: [[Michael Greger, Gene Stone]]
 - Full Title: How Not to Die
 - Category: #books
 - URL: https://www.kobo.com/ebook/how-not-to-die-3
 
 ## Highlights
+
 - America’s number-one killer is a different kind of terrorist: fatty deposits in the walls of your arteries called atherosclerotic plaque
 - Our diet is the number-one cause of premature death and the number-one cause of disability
 - The two most serious brain diseases are stroke, which kills nearly 130,000 Americans each year,1 and Alzheimer’s disease, which kills nearly 85,000.2

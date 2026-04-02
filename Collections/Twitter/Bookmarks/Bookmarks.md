@@ -52,5 +52,3 @@ const clickHandler = async () => {
 const { createButton } = this.app.plugins.plugins["buttons"];
 createButton({ app, el: this.container, args: { name: "🔄 Sync Bookmarks" }, clickOverride: { click: clickHandler, params: [] }, });
 ```
-
-

@@ -3,6 +3,7 @@
 ![rw-book-cover](https://collabfund.com/assets/images/og-image.jpg)
 
 ## Metadata
+
 - Author: [[Morgan Housel]]
 - Full Title: Some Things I Think
 - Category: #articles
@@ -10,9 +11,11 @@
 - URL: https://collabfund.com/blog/thoughts/
 
 ## Full Document
+
 [[Full Document Contents/Articles/Some Things I Think.md|See full document content →]]
 
 ## Highlights
+
 - Many beliefs are held because there is a social and tribal benefit to holding them, not necessarily because they’re true ([View Highlight](https://read.readwise.io/read/01gzdq4c40cnzrrxtrzwvngzr2))
 - Social media makes more sense when you view it as a place people go to perform rather than a place to communicate. ([View Highlight](https://read.readwise.io/read/01gzdq4x9hg9rqz4zea73v909e))
 - The best measure of wealth is what you have minus what you want. (By this measure, some billionaires are broke.) ([View Highlight](https://read.readwise.io/read/01gzdq5jtzh50s85s1g2j0pskd))

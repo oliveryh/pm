@@ -3,6 +3,7 @@
 ![rw-book-cover](https://minds.md/favicon.ico)
 
 ## Metadata
+
 - Author: [[minds.md]]
 - Full Title: Cognitive Load
 - Category: #articles
@@ -10,7 +11,9 @@
 - URL: https://minds.md/zakirullin/cognitive
 
 ## Full Document
+
 [[Full Document Contents/Articles/Cognitive Load.md|See full document content →]]
 
 ## Highlights
+
 - Cognitive load is how much a developer needs to think in order to complete a task. ([View Highlight](https://read.readwise.io/read/01jhehm6hcje9sks7wkxgsqkhy))

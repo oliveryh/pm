@@ -3,17 +3,20 @@
 ![rw-book-cover](https://taylor.town/favicon.ico)
 
 ## Metadata
+
 - Author: [[Taylor Troesh]]
 - Full Title: Lifestyle Design
 - Category: #articles
-- Document Tags: [[wellbeing]] 
+- Document Tags: [[wellbeing]]
 - Summary: Consciousness is a clunky compass.
 - URL: https://taylor.town/constructive-lifestyle-design
 
 ## Full Document
+
 [[Full Document Contents/Articles/Lifestyle Design.md|See full document content →]]
 
 ## Highlights
+
 - Few truths are self-evident. To start from zero, choose independently-verifiable axioms. ([View Highlight](https://read.readwise.io/read/01h3d02n584dvdngkmme4kwen3))
 - Two premises seem obvious and useful:
   • Premise 1: [suffering is bad](https://en.wikipedia.org/wiki/Suffering-focused_ethics)

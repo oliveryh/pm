@@ -7,9 +7,11 @@ A pool of investor money benefitting from economies of scale, diversification, a
 ### Types of Funds
 
 #### Open-Ended
+
 Shares aren't fixed — new shares are created as investors add money and cancelled when they redeem.
 
 #### Closed-Ended
+
 Shares are fixed at the point the fund is established.
 
 ## Fees

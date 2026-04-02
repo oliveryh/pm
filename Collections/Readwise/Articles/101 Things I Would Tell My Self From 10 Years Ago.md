@@ -3,6 +3,7 @@
 ![rw-book-cover](https://www.approachwithalacrity.com/content/images/size/w1200/2024/03/marshmallows-1.png)
 
 ## Metadata
+
 - Author: [[Approach with Alacrity]]
 - Full Title: 101 Things I Would Tell My Self From 10 Years Ago
 - Category: #articles
@@ -10,9 +11,11 @@
 - URL: https://approachwithalacrity.com/101-things-for-my-past-self/
 
 ## Full Document
+
 [[Full Document Contents/Articles/101 Things I Would Tell My Self From 10 Years Ago.md|See full document content →]]
 
 ## Highlights
+
 - You are overly obedient. You not only do what people tell you to do, but find it hard to imagine any world other than the one they present to you. Spend more time thinking about what *you* want, in isolation from the pressures of the world. (Keep this in mind while you read the rest of this very prescriptive document.) ([View Highlight](https://read.readwise.io/read/01hy98251qcnk4hkxbmxykm3c7))
 - Write more, on the internet, in college and after. Not only will it increase your [surface area of luck](https://www.codusoperandi.com/posts/increasing-your-luck-surface-area?ref=approachwithalacrity.com), it will also help you form a better idea of who you are. ([View Highlight](https://read.readwise.io/read/01hy982sxmbwkx4vnjtmm6ntpp))
 - Live in the same neighbourhood as your friends. ([View Highlight](https://read.readwise.io/read/01hy987gyybvm9bbczedx1hxhq))

@@ -54,7 +54,7 @@ To address Data Leakage we can:
 
 ## Deployment Mode
 
-- Consider deploying in shadow mode - A situation where the model is running however actions are ignored while metrics about the model can be collected. 
+- Consider deploying in shadow mode - A situation where the model is running however actions are ignored while metrics about the model can be collected.
 
 ### Model Drift [^model-drift]
 
@@ -108,7 +108,6 @@ $$RME = \sqrt{\frac{1}{n}\sum^N_{i=1}(A_i - F_i)^2}$$
 
 - Day of the week
 - External events, weather, news events etc.
-
 - Seasonality - Cyclical patterns to the behaviour of our time series
 - Trend - Linear trend in our model
 - Additional Variability - Day-to-day variations on top of seasonality
@@ -192,7 +191,7 @@ $L$ In this case is our normal loss function and the term on the right is where 
 
 ### Model Options
 
-- **U-Net** - A convolutional neural net 
+- **U-Net** - A convolutional neural net
 
 ## Validation
 

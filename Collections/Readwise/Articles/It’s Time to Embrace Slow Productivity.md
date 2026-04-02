@@ -3,17 +3,20 @@
 ![rw-book-cover](https://web.archive.org/web/20230925063006im_/https://media.newyorker.com/photos/61cf4f8f30fefda15cb51e7e/16:9/w_1280,c_limit/Newport-SlowProductivity.jpg)
 
 ## Metadata
+
 - Author: [[Cal Newport]]
 - Full Title: It’s Time to Embrace Slow Productivity
 - Category: #articles
-- Document Tags: [[productivity]] 
+- Document Tags: [[productivity]]
 - Summary: We need fewer things to work on. Starting now.
 - URL: https://web.archive.org/web/20230925063006/https://www.newyorker.com/culture/office-space/its-time-to-embrace-slow-productivity
 
 ## Full Document
+
 [[Full Document Contents/Articles/It’s Time to Embrace Slow Productivity.md|See full document content →]]
 
 ## Highlights
+
 - For knowledge workers, the biggest sign that the status quo is broken is the rise in self-reported burnout. This past summer, McKinsey and Lean In collaborated on a survey of more than sixty-five thousand North American employees, primarily from knowledge-sector jobs. They found a significant increase in those describing themselves as feeling burnt out “often” or “almost always,” an increase that was particularly sharp for women. A ([View Highlight](https://read.readwise.io/read/01hk0cv58qvqmxsfg6yax3vvwp))
 - In the years immediately following the publication of “In Praise of Slowness,” the Slow Work movement struggled in the U.S. There seems to be an intrinsic mismatch between American hustle culture and a call to work less. To quote a representative critique, which appeared in a talent-management journal: “Your rivals are salivating over your 4-day workweek. Remember, there’s always someone willing to work harder than you.” Economic conditions in the early years of the movement didn’t help, either. Few people seemed interested in reducing hours when the two-thousands economic boom was making many rich, and few could afford to consider slowness amid the wreckage of the subsequent crash. Jumping forward, however, our current situation may prove more receptive to these ideas. It’s possible that the severe disruption caused by the coronavirus pandemic might revitalize a call for moderation, with the sudden, disastrous increase in burnout among office workers providing the final push that knowledge workers need to demand more time away from their desks. Five years ago, the Thirty-Two-Hour Workweek Act would have been dismissed as progressive hokum. Today, it’s endorsed by nearly a hundred members of Congress. But there remains a problem with this ascendency of Slow Work. When it comes to computer-screen-and-e-mail workers, who seem particularly afflicted by burnout at the moment, I’m not convinced that calls to reduce the length of the workweek will really cure what ails them. ([View Highlight](https://read.readwise.io/read/01hk0da7cpdz4akg7s7tfdtpec))
 - By volume, I’m referring to the total number of obligations that you’re committed to complete—from answering a minor question to finishing a major project. As this volume increases past a certain threshold, the weight of these efforts can become unbearably stressful. Humans are uniquely adept at crafting long-term strategic plans for accomplishing objectives. Our facility with planning, however, falters when confronting an in-box stuffed with hundreds of messages and a task list that fills multiple pages. When there’s too much for us to imagine actually completing, we short-circuit our executive functioning mechanisms, resulting in a feeling of anxious unease. ([View Highlight](https://read.readwise.io/read/01hk0ddfv0atbg9ec955rbx45a))

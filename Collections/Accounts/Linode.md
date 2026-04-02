@@ -36,20 +36,21 @@ ansible_python_interpreter=/usr/bin/python3
 
 ## Create Limited User Account
 
-In this stage, remember to copy the generated passwords correctly. 
+In this stage, remember to copy the generated passwords correctly.
 
 # Audit Process
 
--  Sign in
--  Check that personal information is up to date
--  Check that any payments associated with the account are as expected
--  Other actions (clearing old assets within the platform)
+- Sign in
+- Check that personal information is up to date
+- Check that any payments associated with the account are as expected
+- Other actions (clearing old assets within the platform)
 
 # Reference
 
 | Project          | File Root                 |
 | ---------------- | ------------------------- |
 | Dashboards       | /projects/dashboards      |
+
 - postgres: a*a*
 
 # Log

@@ -6,6 +6,7 @@
 # Documentation
 
 - [Textual tests](https://github.com/Textualize/textual/tree/main/tests)
+
 # Blog Posts
 
 - [Reactivity - Textual](https://textual.textualize.io/guide/reactivity/)
@@ -28,7 +29,7 @@ It appears that [plotext](https://github.com/piccolomo/plotext/blob/master/readm
 
 Textual has a strong dependency on Rich. In fact, if any class has is of a `Renderable` type, then it can be displayed in textual. Since `plotext` can be supported in `rich` then this means it should be viewable in `textual`.
 
-[[Will McGugan]] left a comment describing how this might be implemented https://github.com/piccolomo/plotext/issues/26#issuecomment-875324854. 
+[[Will McGugan]] left a comment describing how this might be implemented https://github.com/piccolomo/plotext/issues/26#issuecomment-875324854.
 
 # CSS
 

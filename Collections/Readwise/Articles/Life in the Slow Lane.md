@@ -3,6 +3,7 @@
 ![rw-book-cover](https://longreads.com/wp-content/uploads/2022/11/Life-in-the-Slow-Lane.png)
 
 ## Metadata
+
 - Author: [[Olivia Potts]]
 - Full Title: Life in the Slow Lane
 - Category: #articles
@@ -10,7 +11,9 @@
 - URL: https://longreads.com/2022/11/17/life-in-the-slow-lane/
 
 ## Full Document
+
 [[Full Document Contents/Articles/Life in the Slow Lane.md|See full document content →]]
 
 ## Highlights
+
 - Michael Pollan notes in *Cooked*, ([View Highlight](https://read.readwise.io/read/01h2tec6evpakp7wq7pf2gb1f2))

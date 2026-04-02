@@ -3,17 +3,20 @@
 ![rw-book-cover](https://i0.wp.com/fortelabs.com/wp-content/uploads/2017/05/1e5FXEEi2Rp4M3Aque9gp6A.png?fit=800%2C534&ssl=1)
 
 ## Metadata
+
 - Author: [[Tiago Forte]]
 - Full Title: The Weekly Review Is an Operating System
 - Category: #articles
-- Document Tags: [[productivity]] 
+- Document Tags: [[productivity]]
 - Summary: In his book Getting Things Done, David Allen calls the Weekly Review the “Master Key to GTD.” He claims it is the single most critical habit one must
 - URL: https://fortelabs.com/the-weekly-review-is-an-operating-system-8e8e04f885ab/
 
 ## Full Document
+
 [[Full Document Contents/Articles/The Weekly Review Is an Operating System.md|See full document content →]]
 
 ## Highlights
+
 - In his book *Getting Things Done*, David Allen calls the Weekly Review the “Master Key to GTD.” He claims it is the single most critical habit one must adopt to capture open loops, manage commitments on an ongoing basis, and maintain a “mind like water.” ([View Highlight](https://read.readwise.io/read/01gqph0sjcwb34qsxgzxx82ka5))
 - I think a good model for thinking of the Weekly Review is as an operating system. It is the backbone of everything else that happens during your week; the master program on which all other programs run; the environment that creates the context for hundreds of small decisions and behaviors. ([View Highlight](https://read.readwise.io/read/01gqph2szwats13tj7q6yhbpj8))
 - I start with email, because no other decision I make will be correct without the latest information. There is a risk here — that the sheer quantity and urgency of my emails will throw me straight into the vortex, drowning me in adrenaline. That’s why I follow [One-Touch to Inbox Zero](https://fortelabs.com/one-touch-to-inbox-zero-a74cfa02e5bf), starting with the oldest email and making a decision about where to send each one: to 1) my calendar app, Busycal 2) my task manager, Things 3) my reference app, Evernote or 4) my read later app, Instapaper. I’m not *doing* anything, just deciding *what needs to be done*.

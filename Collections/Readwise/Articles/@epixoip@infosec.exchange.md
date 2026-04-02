@@ -3,6 +3,7 @@
 ![rw-book-cover](https://media.infosec.exchange/infosecmedia/accounts/avatars/109/300/197/388/664/204/original/3b6fc61bf5e4491e.png)
 
 ## Metadata
+
 - Author: [[Infosec Exchange]]
 - Full Title: @epixoip@infosec.exchange
 - Category: #articles
@@ -14,9 +15,11 @@ Let me start by saying I used to support LastPass. I recommended it for years an
 - URL: https://infosec.exchange/@epixoip/109585049354200263
 
 ## Full Document
+
 [[Full Document Contents/Articles/@epixoip@infosec.exchange.md|See full document content →]]
 
 ## Highlights
+
 - You see, I'm not simply recommending that users bail on LastPass because of this latest breach. I'm recommending you run as far way as possible from LastPass due to its long history of incompetence, apathy, and negligence. It's abundantly clear that they do not care about their own security, and much less about your security. ([View Highlight](https://read.readwise.io/read/01gnwe5rhnr91tk8tm20xvsnhh))
 - So, why do I recommend Bitwarden and 1Password? It's quite simple: ([View Highlight](https://read.readwise.io/read/01gnwe61he4dbgp6drvchbknzy))
 - - I personally know the people who architect 1Password and I can attest that not only are they extremely competent and very talented, but they also actively engage with the password cracking community and have a deep, *deep* desire to do everything in the most correct manner possible. Do they still get some things wrong? Sure. But they strive for continuous improvement and sincerely care about security. Also, their secret key feature ensures that if anyone does obtain a copy of your vault, they simply cannot access it with the master password alone, making it uncrackable. ([View Highlight](https://read.readwise.io/read/01gnwe5yxetvffrqk2fj7cb418))

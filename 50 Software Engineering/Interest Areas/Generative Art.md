@@ -19,7 +19,7 @@
 - https://patakk.tumblr.com/
 - [Bach, Art of Fugue (animated graphical scores)](http://www.musanim.com/ArtOfFugue/)
 - [Pen Plotting - Adam Fuhrer | Frontend Engineer](https://adamfuhrer.com/pen-plotting)
-- [GENUARY 2024 – ](https://genuary.art/)
+- [GENUARY 2024 –](https://genuary.art/)
 - [kishimisu, ▶ *An introduction to Shader Art Coding*, (2023)](https://youtu.be/f4s1h2YETNY?list=WL)
 - [Easily create cool random images in python with randimage - Renato Budinich](https://renatobudinich.com/create-random-images-with-randimage/)
 - [Home - bleuje : Animations](https://bleuje.com/animationsite/)

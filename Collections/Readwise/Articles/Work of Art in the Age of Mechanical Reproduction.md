@@ -3,6 +3,7 @@
 ![rw-book-cover](https://piszek.com/wp-content/uploads/2022/12/camera-obscura-1024x683.png)
 
 ## Metadata
+
 - Author: [[Artur@Piszek.com]]
 - Full Title: Work of Art in the Age of Mechanical Reproduction
 - Category: #articles
@@ -10,7 +11,9 @@
 - URL: https://piszek.com/2022/12/12/work-of-art-in-the-age-of-mechanical-reproduction/
 
 ## Full Document
+
 [[Full Document Contents/Articles/Work of Art in the Age of Mechanical Reproduction.md|See full document content →]]
 
 ## Highlights
+
 - ![](https://i0.wp.com/piszek.com/wp-content/uploads/2022/12/camera-obscura.png?w=1536&ssl=1) ([View Highlight](https://read.readwise.io/read/01gqqs6jnvjxcfsvtejxpw4jp8))

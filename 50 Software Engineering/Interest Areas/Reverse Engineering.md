@@ -1,6 +1,6 @@
 # Ever Fit
 
-I was able to extract some data from Ever Fit using `mitm` and the following guide: 
+I was able to extract some data from Ever Fit using `mitm` and the following guide:
 https://howdoitestthat.com/export-curl-from-mitm-proxy
 
 # Resources

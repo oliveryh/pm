@@ -3,6 +3,7 @@
 ![rw-book-cover](https://raw.githubusercontent.com/Textualize/textual/main/imgs/textual.png)
 
 ## Metadata
+
 - Author: [[Textual Documentation]]
 - Full Title: File Magic With the Python Standard Library
 - Category: #articles
@@ -10,7 +11,9 @@
 - URL: https://textual.textualize.io/blog/2024/02/11/file-magic-with-the-python-standard-library/
 
 ## Full Document
+
 [[Full Document Contents/Articles/File Magic With the Python Standard Library.md|See full document content →]]
 
 ## Highlights
+
 - See [watcher.py](https://github.com/Textualize/toolong/blob/main/src/toolong/watcher.py) in Toolong, which runs a thread to monitors files for changes with a selector. ([View Highlight](https://read.readwise.io/read/01j1jdsqygwbfqyj4xtnan5k9a))

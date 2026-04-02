@@ -91,6 +91,7 @@ Auth is already set up with sheets scope (`oyerburyhodgson@gmail.com`). Verify w
 > ```
 
 To append rows:
+
 ```bash
 gws sheets spreadsheets values append \
   --params '{"spreadsheetId": "11rXIsXR8c64V3OC8dRgzzKt3my7OKuwk4ddnfQCYMhU", "range": "Bill Details!A58", "valueInputOption": "USER_ENTERED"}' \

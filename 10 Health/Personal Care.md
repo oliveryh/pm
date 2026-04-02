@@ -22,12 +22,13 @@
 - Chloe prefers it if I don’t shave - I might look at trimming more often
 - Chloe also mentioned some hair loss treatment
 
-
 # Log
 
 ## 2025-07-14
+
 - Consider salt deodorant as alternative to regular to avoid stains
 
 ## 2025-11-26
+
 - New shaver
 - Replace screen protector

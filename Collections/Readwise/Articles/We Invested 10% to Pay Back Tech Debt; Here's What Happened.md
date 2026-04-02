@@ -3,6 +3,7 @@
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_600018/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2F85ee8206-74be-4dbe-a348-fc6aa86cfed4_1191x757.png)
 
 ## Metadata
+
 - Author: [[Alex Ewerlöf]]
 - Full Title: We Invested 10% to Pay Back Tech Debt; Here's What Happened
 - Category: #articles
@@ -10,9 +11,11 @@
 - URL: https://blog.alexewerlof.com/p/tech-debt-day
 
 ## Full Document
+
 [[Full Document Contents/Articles/We Invested 10% to Pay Back Tech Debt; Here's What Happened.md|See full document content →]]
 
 ## Highlights
+
 - The phenomenon known as [bit rot](https://en.wikipedia.org/wiki/Software_rot) or [software entropy](https://en.wikipedia.org/wiki/Software_entropy) has several symptoms:
   • **Decreasing MTBF** (mean time between failure): the software fails more often and there are increasingly more incidents.
   • **Increasing LT** (lead time): for features that have similar user value, the time it takes for implementation, review, deploy and release increases over time.

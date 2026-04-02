@@ -3,12 +3,14 @@
 ![rw-book-cover](https://cdn.kobo.com/book-images/c790ec2d-740b-4f04-87ed-dd852204df99/walden-37.jpg)
 
 ## Metadata
+
 - Author: [[Henry David Thoreau, Wyatt North]]
 - Full Title: Walden
 - Category: #books
 - URL: https://www.kobo.com/ebook/walden-37
 
 ## Highlights
+
 - factitious
 - As if you could kill time without injuring eternity.
 - The mass of men lead lives of quiet desperation. What is called resignation is confirmed desperation. From the desperate city you go into the desperate country, and have to console yourself with the bravery of minks and muskrats. A stereotyped but unconscious despair is concealed even under what are called the games and amusements of mankind. There is no play in them, for this comes after work. But it is a characteristic of wisdom not to do desperate things.

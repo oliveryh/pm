@@ -3,6 +3,7 @@
 ![rw-book-cover](https://substackcdn.com/icons/substack/favicon-32x32.png)
 
 ## Metadata
+
 - Author: [[Louison Dumont]]
 - Full Title: Digital Addiction: Focusing on the Cure, Not the Disease.
 - Category: #articles
@@ -10,9 +11,11 @@
 - URL: https://louison.substack.com/p/digital-addiction-focusing-on-the
 
 ## Full Document
+
 [[Full Document Contents/Articles/Digital Addiction Focusing on the Cure, Not the Disease..md|See full document content →]]
 
 ## Highlights
+
 - I have come to understand that most behavioral problems are not addressed with awareness alone, but with the introduction of a new agent. Let's use a metaphor: to remove a stain, it's best to use a solvent. The behavioral problem is the stain, and the solvent is the agent introduced. A solvent is "a liquid in which a solute is dissolved to form a solution." Water is a solvent. That's why it's easier to remove a stain if you put water on it, than if you just scrap it with a dry sponge.
   That's just another way of saying: focusing on the problem leads nowhere. We need to focus on the cure (the solvent). And to find the cure, we need to understand (not blame!) the REAL problem. We need to find **the right solvent for the right stain.**
   Is the problem digital addiction? Or is it rather simply that people are lonely? That they feel disconnected from the universe and each other? That the screen feels like a warmer option than the cold and confronting silence of solitude?

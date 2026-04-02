@@ -3,6 +3,7 @@
 ![rw-book-cover](https://i0.wp.com/fortelabs.com/wp-content/uploads/2018/04/smallworlds.jpeg?fit=800%2C278&ssl=1)
 
 ## Metadata
+
 - Author: [[Tiago Forte]]
 - Full Title: PARA Part 6: Small-Batch Projects for Focus, Creativity, and Perspective
 - Category: #articles
@@ -10,9 +11,11 @@
 - URL: https://fortelabs.com/p-a-r-a-part-vi-small-batch-projects-for-focus-creativity-and-perspective-b21424819dbd/
 
 ## Full Document
+
 [[Full Document Contents/Articles/PARA Part 6 Small-Batch Projects for Focus, Creativity, and Perspective.md|See full document content →]]
 
 ## Highlights
+
 - Small-Batch Project (n.): 1) A tightly scoped, short-term commitment with 2) clear desired outcomes that describe end states and 3) a deadline or delivery date (which becomes a review date when passed) ([View Highlight](https://read.readwise.io/read/01gs7gp34tpzm730381v9gx8kb))
 - The most important component of a small-batch project is its desired outcome, which describes the **criteria for success**. ([View Highlight](https://read.readwise.io/read/01gs7gvndf99mj8a6p8p9agfc4))
 - The three components of a small-batch project — scope, outcome, and deadline — ARE the edges of your projects. They determine the exact moment when a project becomes active, and the exact moment it is considered complete. It is these moments that trigger their transfer to the Archives, to make room for more salient information. ([View Highlight](https://read.readwise.io/read/01gtrxpfza2abb5j54dywgqp3y))

@@ -13,7 +13,6 @@ I think I've got my current example to a state that supports pass phrase authent
 
 After getting the project set up, I could get the improved formatting in VSCode by adding the following to the user settings file
 
-
 ```json
 "[vue]": {
     "editor.formatOnSave": true,
@@ -28,6 +27,7 @@ I realised that until I have TLS on my Linode server, I may not be able use the 
 ## 2025-05-25 - Reproduce performance issue with a repo example
 
 I created a reproduction repo https://github.com/oliveryh/jazz-tools-local-issue-repro and shared it in the Discord server. It might be nice at some point to understand more of the design principles behind local-first as I'm making some assumptions about what's even possible.
+
 ## 2025-03-30
 
 There appears to be a good example of workers in https://github.com/Unicorn-Poo
@@ -45,7 +45,6 @@ After deploying the first PR. There are some immediate improvements I can think 
 
 ## 2025-04-18 - Adding a Service Worker
 
-This will have been the second thing I added to the account root schema, so I needed to do a partial migration. 
+This will have been the second thing I added to the account root schema, so I needed to do a partial migration.
 
 https://jazz.tools/docs/react/schemas/accounts-and-migrations#undefined
-

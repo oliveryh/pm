@@ -668,7 +668,7 @@ https://stackoverflow.com/questions/68630/are-tuples-more-efficient-than-lists-i
 
 ### Slices
 
-- `s[a:b:c]` can be used to specify a stride or step `c`, causing the resulting slice to skip items. 
+- `s[a:b:c]` can be used to specify a stride or step `c`, causing the resulting slice to skip items.
 
 ### Memory View
 
@@ -679,7 +679,6 @@ https://stackoverflow.com/questions/68630/are-tuples-more-efficient-than-lists-i
 - The .append and .pop methods make a list usable as a stack or a queue (if you use .append and .pop(0), you get FIFO behavior). But inserting and removing from the head of a list (the 0-index end) is costly because the entire list must be shifted in memory.
 
 - [ ] Research thread-safe
-
 - [ ] https://www.youtube.com/watch?v=kQvFMrSvG4c
 
 ## Chapter 5
@@ -715,7 +714,7 @@ The primary algorithm for garbage collection in Python is "Reference Counting"
 ## Chapter 19
 
 This chapter is about how to make Python deal with “lots of things at once.” This may involve concurrent or parallel programming—even academics who are keen on jargon disagree on how to use those terms. I will adopt Rob Pike’s informal defini‐ tions in this chapter’s epigraph, but note that I’ve found papers and books that claim to be about parallel computing but are mostly about concurrency.2
-Parallelism is a special case of concurrency, in Pike’s view. All parallel systems are concurrent, but not all concurrent systems are parallel. In the early 2000s we used single-core machines that handled 100 processes concurrently on GNU Linux. A modern laptop with 4 CPU cores is routinely running more than 200 processes at any given time under normal, casual use. To execute 200 tasks in parallel, you’d need 200 cores. 
+Parallelism is a special case of concurrency, in Pike’s view. All parallel systems are concurrent, but not all concurrent systems are parallel. In the early 2000s we used single-core machines that handled 100 processes concurrently on GNU Linux. A modern laptop with 4 CPU cores is routinely running more than 200 processes at any given time under normal, casual use. To execute 200 tasks in parallel, you’d need 200 cores.
 
 Starting a process is not cheap, so often you want to amortize the startup cost by making each thread or process into a "worker".
 
@@ -726,7 +725,6 @@ Starting a process is not cheap, so often you want to amortize the startup cost 
 ### Loops, Sentinals, and Poison Pills
 
 None is often used as a sentinel value, but it may be unsuitable if it can occur in the data stream. Calling object() is a common way to get a unique value to use as senti‐ nel. However, that does not work across processes because Python objects must be serialized for inter-process communication, and when you pickle.dump and pickle.load an instance of object, the unpickled instance is distinct from the origi‐ nal: it doesn’t compare equal. A good alternative to None is the Ellipsis built-in object (a.k.a. ...), which survives serialization without losing its identity.
-
 
 ### Python in the Multicore World
 

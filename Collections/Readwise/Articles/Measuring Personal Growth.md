@@ -3,6 +3,7 @@
 ![rw-book-cover](https://huyenchip.com/assets/pics/life_path_waitbywhy.jpeg)
 
 ## Metadata
+
 - Author: [[Chip Huyen]]
 - Full Title: Measuring Personal Growth
 - Category: #articles
@@ -10,7 +11,9 @@
 - URL: https://huyenchip.com/2024/04/17/personal-growth.html
 
 ## Full Document
+
 [[Full Document Contents/Articles/Measuring Personal Growth.md|See full document content →]]
 
 ## Highlights
+
 - I have this theory that life has a circadian rhythm. Every 3-6 years, you become a different person. You work on different problems. Your lifestyle changes. The people you hang out with are different. If you haven’t caught up with a friend in 5 years, you might no longer have anything in common. It’s not a coincidence that schools are structured into chunks of 3-6 years. ([View Highlight](https://read.readwise.io/read/01hxpntf7cevmqa8vhbrc3b791))

@@ -159,7 +159,9 @@ Single Leg Supinated Heel Raise: Start by angling your toes inwards at a 45 degr
         - Have an X-Ray, putting as much weight as possible on the ankle
         - Book an MRI
         - Once I have results (a few days after MRI) then book another face to face with the consultant
+
 ## 2024-03-23
+
 - Better kneeling chair to improve prostate health?
 
 ## 2025-06-30

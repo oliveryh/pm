@@ -12,4 +12,3 @@ Another thing that occurred to me is how I haven't particularly stress tested th
 I noticed that there is one example of using Playwright to test an Obsidian plugin here: https://github.com/qawatake/obsidian-e2e-sample
 
 Additionally, I quite like how they laid out their styles in this repo: https://github.com/farlenkov/obsidian-canvas-llm
-

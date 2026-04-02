@@ -3,6 +3,7 @@
 ![rw-book-cover](https://github.blog/wp-content/uploads/2024/01/Productivity-LightMode-1-1.png)
 
 ## Metadata
+
 - Author: [[Eirini Kalliamvakou]]
 - Full Title: Good DevEx Increases Productivity. Here Is the Data.
 - Category: #articles
@@ -10,9 +11,11 @@
 - URL: https://github.blog/2024-01-23-good-devex-increases-productivity/
 
 ## Full Document
+
 [[Full Document Contents/Articles/Good DevEx Increases Productivity. Here Is the Data..md|See full document content →]]
 
 ## Highlights
+
 - New research we just published uses statistical analysis to pinpoint how key DevEx factors—[flow state](https://github.blog/2024-01-22-how-to-get-in-the-flow-while-coding-and-why-its-important), cognitive load, and feedback loops—impact individual, team, and organizational outcomes by improving productivity and innovation. ([View Highlight](https://read.readwise.io/read/01hna70y8hxd82x5gtnnrg23p6))
 - The [research](https://queue.acm.org/detail.cfm?id=3639443) is clear: **developers who carve out significant time for deep work enjoy a 50% productivity boost**. Minimizing distractions, which can be everything from Slack messages to meetings to peers asking for help is paramount for high-value work. ([View Highlight](https://read.readwise.io/read/01hna72r3bnjakynyqfn7b5bnz))
 - Dermot Russell, director of engineering at Etsy, agrees: “Etsy’s enablement initiatives have improved developers’ day-to-day experience while also enabling rapid software delivery as our organization has grown.” ([View Highlight](https://read.readwise.io/read/01hna79rjw0ngfh6676waj76rg))

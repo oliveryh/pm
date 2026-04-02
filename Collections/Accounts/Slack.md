@@ -30,4 +30,3 @@ curl 'https://piclo.slack.com/api/bookmarks.preview?_x_id=0dc1fd31-1694358647.83
 ```
 
 Step 1: Get all slack saved items URLs
-

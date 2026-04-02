@@ -13,6 +13,7 @@
 The fibonacci recursion can be formulated in three ways:
 
 **Recursively**
+
 ```
 RECFIBO(n):
 	if n = 0:
@@ -24,6 +25,7 @@ RECFIBO(n):
 ```
 
 **Iteratively**
+
 ```
 ITERFIBO(n):
 	F[0] = 0
@@ -37,7 +39,7 @@ Adding two $n$-digit numbers takes $O(n)$ time, so the `ITERFIBO` function takes
 
 **Matrix Multiplication**
 
-Suppose $F_n = F_{n-1} + F_{n-2}$ is the definition of the fibonacci numbers, then we have that: 
+Suppose $F_n = F_{n-1} + F_{n-2}$ is the definition of the fibonacci numbers, then we have that:
 
 $$\begin{bmatrix}0 & 1\\1 & 1\end{bmatrix}^n\begin{bmatrix}0 \\1\end{bmatrix} = \begin{bmatrix}F_{n-1} \\ F_n\end{bmatrix}$$
 

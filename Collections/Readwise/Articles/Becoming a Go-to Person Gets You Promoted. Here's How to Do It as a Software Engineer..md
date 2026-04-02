@@ -3,6 +3,7 @@
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b1017ec-4691-4276-9ee7-6074b47b16a6_2157x1258.png)
 
 ## Metadata
+
 - Author: [[Jordan Cutler]]
 - Full Title: Becoming a Go-to Person Gets You Promoted. Here's How to Do It as a Software Engineer.
 - Category: #articles
@@ -10,9 +11,11 @@
 - URL: https://careercutler.substack.com/p/becoming-a-go-to-person-gets-you
 
 ## Full Document
+
 [[Full Document Contents/Articles/Becoming a Go-to Person Gets You Promoted. Here's How to Do It as a Software Engineer..md|See full document content →]]
 
 ## Highlights
+
 - Say you’ll do the thing. Do the thing. Say you did it. Follow this framework to keep people in the loop of the request they made and the progress.
   1. Only doing “do the thing” is allowing your work to speak for itself, which unfortunately is not what will get you the most value in the business world. It also doesn’t help your team either since they’re not up to date. ([View Highlight](https://read.readwise.io/read/01hjkkevte1s2jre2t42gg7xev))
 - Solve unowned problems in a domain or technological area.

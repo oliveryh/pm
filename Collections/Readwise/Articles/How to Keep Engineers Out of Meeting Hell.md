@@ -3,6 +3,7 @@
 ![rw-book-cover](https://news.ycombinator.com/favicon.ico)
 
 ## Metadata
+
 - Author: [[Brian]]
 - Full Title: How to Keep Engineers Out of Meeting Hell
 - Category: #articles
@@ -10,9 +11,11 @@
 - URL: https://morethancoding.com/2024/02/16/how-to-keep-engineers-out-of-meeting-hell/
 
 ## Full Document
+
 [[Full Document Contents/Articles/How to Keep Engineers Out of Meeting Hell.md|See full document content →]]
 
 ## Highlights
+
 - A meeting outcome is not the same as an agenda. An agenda is an outline for how the meeting will be conducted, not what it will achieve. A great many pointless meetings have had wonderful well-structured agendas. ([View Highlight](https://read.readwise.io/read/01hqdvhhw4vnv5e0cezzc33atv))
 - Meetings need a reason for existence, and that’s why they need a desired outcome. Make sure the outcome is clear, achievable, and relevant. ([View Highlight](https://read.readwise.io/read/01hqdvhm7d9d598yqwgf16awxv))
 - To test if you have defined a useful outcome, ask yourself this question: **“How will the participants behave differently once the meeting is over?”** If you can’t think of anything, you don’t have a good outcome defined. ([View Highlight](https://read.readwise.io/read/01hqdvj01807hcf5581rkwhhz6))

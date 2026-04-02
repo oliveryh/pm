@@ -3,6 +3,7 @@
 ![rw-book-cover](https://www.herokucdn.com/images/og.png)
 
 ## Metadata
+
 - Author: [[heroku.com]]
 - Full Title: Efficient Use of PostgreSQL Indexes
 - Category: #articles
@@ -10,9 +11,11 @@
 - URL: https://devcenter.heroku.com/articles/postgresql-indexes
 
 ## Full Document
+
 [[Full Document Contents/Articles/Efficient Use of PostgreSQL Indexes.md|See full document content →]]
 
 ## Highlights
+
 - Expression indexes are useful for queries that match on some function or modification of your data. Postgres allows you to index the result of that function so that searches become as efficient as searching by raw data values. For example, you can require users to store their email addresses for signing in, but you want case insensitive authentication. In that case, it’s possible to store the email address as is, but do searches on `WHERE lower(email) = '<lowercased-email>'`. The only way to use an index in such a query is with an expression index like so:
   CREATE INDEX users_lower_email ON users(lower(email));
   Another common example is for finding rows for a given date, where we’ve stored timestamps in a datetime field but want to find them by a date casted value. An index like `CREATE INDEX articles_day ON articles ( date(published_at) )` can be used by a query containing `WHERE date(articles.published_at) = date('2011-03-07')`. ([View Highlight](https://read.readwise.io/read/01h6gjq4a82f8w2j9aghhw4nr0))

@@ -3,6 +3,7 @@
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 
 ## Metadata
+
 - Author: [[Luis Costa]]
 - Full Title: What I Learned After Managing a Small Team for 2 Years
 - Category: #articles
@@ -10,9 +11,11 @@
 - URL: https://luispcosta.com/managing-small-team
 
 ## Full Document
+
 [[Full Document Contents/Articles/What I Learned After Managing a Small Team for 2 Years.md|See full document content →]]
 
 ## Highlights
+
 - Get to know everyone, and take note of *what* should change and *why* (if anything) ([View Highlight](https://read.readwise.io/read/01h8wj14rva5pk338ded3349jn))
 - • What were some things *they* would like to see changed?
   • What things were working well enough that *shouldn’t* change, and maybe just tweaked/improved?

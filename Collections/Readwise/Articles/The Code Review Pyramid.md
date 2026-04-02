@@ -3,6 +3,7 @@
 ![rw-book-cover](https://rdl.ink/render/https%3A%2F%2Fwww.morling.dev%2Fblog%2Fthe-code-review-pyramid%2F)
 
 ## Metadata
+
 - Author: [[morling.dev]]
 - Full Title: The Code Review Pyramid
 - Category: #articles
@@ -11,7 +12,9 @@
 - URL: https://www.morling.dev/blog/the-code-review-pyramid/
 
 ## Full Document
+
 [[Full Document Contents/Articles/The Code Review Pyramid.md|See full document content →]]
 
 ## Highlights
+
 - ![](https://www.morling.dev/images/code_review_pyramid.png) ([View Highlight](https://read.readwise.io/read/01h5gbsb3gb9crswdafgnhqp0e))

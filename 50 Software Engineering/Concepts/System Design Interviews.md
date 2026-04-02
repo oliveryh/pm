@@ -89,6 +89,7 @@ How are System Design Interviews Evaluated?
 - Client
 - CDN: Content Delivery Network
 	- A Cache that is colocated to clients
+
 # Problems
 
 # Flashcards
@@ -105,7 +106,7 @@ What is ACID?
 Atomicity: Transaction is all or nothing. If any part of a transaction fails, then nothing is committed
 Consistency: (Valid State): A transaction brings the database from one valid state to another, ensuring data adheres to all defined rules and constraints.
 Isolation:  (Independent Execution): Concurrent transactions appear to run sequentially, preventing interference and ensuring one transaction's intermediate results aren't visible to others.
-Durability: (Permanent Changes): Once a transaction is committed, its changes are permanent and will survive system failures, crashes, or power outages. 
+Durability: (Permanent Changes): Once a transaction is committed, its changes are permanent and will survive system failures, crashes, or power outages.
 
 When would you use SQL over NoSQL?
 ?
@@ -117,7 +118,6 @@ What as BASE principles?#
 
 Non-functional requirement prompts?
 Common trade-offs?
-
 
 # Process
 

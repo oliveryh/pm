@@ -3,6 +3,7 @@
 ![rw-book-cover](https://res.infoq.com/articles/architecture-skeptics-guide/en/headerimage/a-skeptics-guide-to-software-architecture-decisions-header-1672224713065.jpg)
 
 ## Metadata
+
 - Author: [[Kurt Bittner]]
 - Full Title: A Skeptic’s Guide to Software Architecture Decisions
 - Category: #articles
@@ -10,9 +11,11 @@
 - URL: https://www.infoq.com/articles/architecture-skeptics-guide/
 
 ## Full Document
+
 [[Full Document Contents/Articles/A Skeptic’s Guide to Software Architecture Decisions.md|See full document content →]]
 
 ## Highlights
+
 - When it comes to decisions about the solution, the only useful data comes from executing code; everything else is conjecture. Team members familiar with a specific technology may feel that a particular technical decision is right. Still, the only way to be sure is to write some code and test the assumptions behind the code. Writing code is the only way to settle an argument between architects; no amount of belief can confirm or reject an assumption. ([View Highlight](https://read.readwise.io/read/01h3fzgmp99a4zy8b25f914hz5))
 - Rather than jumping ahead and developing the entire system, they decided to apply a skeptical approach: they carved off a slice of the functionality representative of the system’s overall capabilities. Over a month, they used the framework to build and test this slice, even deploying it to a smaller business unit for internal testing and feedback. The cost of developing this "slice" was nearly USD 500k. Still, the team felt that since this slice was their "Minimum Viable Product" that tested their proposed "Minimum Viable Architecture," the expenditure was reasonable. ([View Highlight](https://read.readwise.io/read/01h3h0fpg0xn68s0g839cpnn76))
 - Skepticism can be challenging, and not just in a technical sense. People in an organization may not be accustomed to having their statements questioned, no matter the positive intent behind the challenge. To unleash the power of skepticism, a team has to be open to validating assertions, no matter who makes them. ([View Highlight](https://read.readwise.io/read/01h3h0k3rverst3k9zv13ph58x))

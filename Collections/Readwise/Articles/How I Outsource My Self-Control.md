@@ -3,6 +3,7 @@
 ![rw-book-cover](https://parconley.com/content/images/2025/04/Banner---parconley.png)
 
 ## Metadata
+
 - Author: [[Parker Conley]]
 - Full Title: How I Outsource My Self-Control
 - Category: #articles
@@ -10,9 +11,11 @@
 - URL: https://parconley.com/how-i-outsource-my-self-control/
 
 ## Full Document
+
 [[Full Document Contents/Articles/How I Outsource My Self-Control.md|See full document content →]]
 
 ## Highlights
+
 - Focusmate ([View Highlight](https://read.readwise.io/read/01jzhx8tkkavqyys55e6whbzj1))
 - ColdTurkey ([View Highlight](https://read.readwise.io/read/01jzhx91fhryc0bpfqdrwf04vf))
 - *Getting Things Done* weekly review ([View Highlight](https://read.readwise.io/read/01jzhxmke572d7b3gd91vqvz90))
