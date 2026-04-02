@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "skills": {
+    "gws-shared": {
+      "source": "googleworkspace/cli",
+      "sourceType": "github",
+      "computedHash": "c30278fc187cbaf511e2bd3f5ee5213f13cbd166656f6fd367f34419437aedb1"
+    },
+    "gws-sheets": {
+      "source": "googleworkspace/cli",
+      "sourceType": "github",
+      "computedHash": "05cc2ec1946a1de51b61b46675b7e906f6685899e8a93a655f31eaba5d8eb724"
+    }
+  }
+}

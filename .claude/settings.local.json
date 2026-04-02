@@ -1,0 +1,34 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh repo view:*)",
+      "Bash(gh api:*)",
+      "Bash(tree:*)",
+      "Bash(obsidian daily:append:*)",
+      "Bash(obsidian daily:read:*)",
+      "Bash(obsidian create:*)",
+      "Bash(obsidian daily:write:*)",
+      "Bash(obsidian help:*)",
+      "Bash(obsidian daily:path:*)",
+      "Bash(obsidian vault:*)",
+      "Bash(obsidian move:*)",
+      "Bash(obsidian tasks:*)",
+      "Bash(obsidian search:*)",
+      "Bash(do:*)",
+      "mcp__ticktick__list_undone_tasks_by_time_query",
+      "mcp__ticktick__list_completed_tasks_by_date",
+      "mcp__ticktick__filter_tasks",
+      "mcp__ticktick__search_task",
+      "Bash(obsidian read:*)",
+      "mcp__ticktick__list_projects",
+      "mcp__ticktick__get_project_with_undone_tasks",
+      "mcp__ticktick__get_task_by_id",
+      "mcp__thymer__list_collections",
+      "mcp__thymer__get_collection_schema",
+      "mcp__thymer__create_line_item",
+      "Bash(gws sheets:*)",
+      "Bash(ls:*)",
+      "Bash(cat:*)"
+    ]
+  }
+}
