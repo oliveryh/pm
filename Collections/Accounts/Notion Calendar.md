@@ -1,1 +1,0 @@
-Syncs::[[Collections/Accounts/Google Calendar|Google Calendar]]
