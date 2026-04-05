@@ -1,11 +1,23 @@
 ---
 
 ---
+# Reference
 
+- [Costing Projection Google Sheet](https://docs.google.com/spreadsheets/d/1WcHHXX9tsmrqShxytXwW1OwYldl9xLMFPuBMesKPFb0/edit?usp=drive_link)
 # Accounts
 
-| Account | Description | Holdings (as of 2025-03-01) | Holdings (as of 2025-09-01) |
-| --- | --- | --- | --- |
-| Vanguard | ISA | £58,000.00 | £66,217.67 |
-| Nest  | Pension | £14,462.00 | £17,077.91 |
-| Fidelity | Pension | £42,903.33 | £45,462.33 |
+- [ ] Update with link to Google Sheet
+- [ ] Add monthly summaries to Google Sheet
+
+|           Description | Account                           |
+| --------------------: | --------------------------------- |
+| Stocks and Shares ISA | [[Vanguard]]                      |
+|               Pension | [[Nest]]                          |
+|               Pension | [[Fidelity]]                      |
+|          Student Loan | [[Student Finance England (SFE)]] |
+|              Mortgage | [[Nationwide]]                    |
+|      Credit Agreement | [[Etika]]                         |
+Also worth considering:
+- Shares
+- Subscriptions
+- Insurance
