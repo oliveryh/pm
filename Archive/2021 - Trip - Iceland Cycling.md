@@ -8,9 +8,9 @@
 
 ## Tasks
 
-- [ ] How can we check weather status while we're there?
-- [ ] Do a practice cycle
-- [ ] Create shopping list for the next few weeks before the practise cycle
+- [x] How can we check weather status while we're there?
+- [x] Do a practice cycle
+- [x] Create shopping list for the next few weeks before the practise cycle
 - [x] Ask Sandy King (from work) about the contact he had who may have been cycling round Iceland
 
 ## Trip Breakdown
@@ -18,8 +18,8 @@
 ### Arrving in Reykjavik
 
 - [x] Put bike bag in the lockers
-- [ ] Pick up Icelandic sim for emergency telephone
-- [ ] Buy gas cannisters
+- [x] Pick up Icelandic sim for emergency telephone
+- [x] Buy gas cannisters
 
 ### Camping
 
@@ -27,12 +27,12 @@
 
 - There will constant daylight, therefore eye-masks and earplugs are highly recommended
 - [x] KIT: Eye-Mask
-- [ ] KIT: Ear plugs
-- [ ] KIT: Tent repair kit
-- [ ] KIT: Tent
-- [ ] KIT: Sleeping Bag
-- [ ] KIT: Sleeping Mat
-- [ ] KIT: Microfibre Towel
+- [x] KIT: Ear plugs
+- [x] KIT: Tent repair kit
+- [x] KIT: Tent
+- [x] KIT: Sleeping Bag
+- [x] KIT: Sleeping Mat
+- [x] KIT: Microfibre Towel
 
 ### Food
 
@@ -42,8 +42,8 @@
 
 ### Utensils and Tools
 
-- [ ] KIT: Spork
-- [ ] KIT: Mess Tin
+- [x] KIT: Spork
+- [x] KIT: Mess Tin
 
 ### Snacks
 
@@ -57,8 +57,8 @@
 - Using the tent as a wind break is advisable
 - [x] KIT: Lighter / Igniter
 - [x] KIT: Cooking Pot
-- [ ] KIT: Mug
-- [ ] KIT: Spork
+- [x] KIT: Mug
+- [x] KIT: Spork
 - It might be best to bring food for more days than necessary (one day?) while in the interior [^cycling-in-iceland]
 
 !!! question
@@ -106,22 +106,22 @@ We should be prepared to fix all conceivable defects to our bike during this tim
 
 ### General Repair
 
-- [ ] KIT: Strong adhesive tape
+- [x] KIT: Strong adhesive tape
 
 ### Emergency Contact
 
 - We should carry a fully charged dumb phone with us in case of emergency
     - Emergency Services No#: 112 [^important-numbers]
     - Search and Rescue No#: 570-5900
-- [ ] KIT: Emergency dumb phone
-- [ ] KIT: Sim that is usable in Iceland
+- [x] KIT: Emergency dumb phone
+- [x] KIT: Sim that is usable in Iceland
 - We should both install the Iceland emergency app in order to update our where-abouts
-- [ ] Install [Iceland 112 App](https://safetravel.is/112-iceland-app)
+- [x] Install [Iceland 112 App](https://safetravel.is/112-iceland-app)
 
 ### Navigation
 
-- [ ] KIT: Paper Map
-- [ ] KIT: GPS
+- [x] KIT: Paper Map
+- [x] KIT: GPS
 
 ## Guides
 

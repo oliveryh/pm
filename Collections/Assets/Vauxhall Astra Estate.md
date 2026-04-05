@@ -27,9 +27,9 @@ Policy Number: XA20011898040
 
 ## MOT
 
-- [ ] Renew MOT on  2026-06-14
-- [x] Renew car tax  2025-10-01  remind me on  2025-09-01
-- [x] Renew car insurance  2025-09-30  remind me on  2025-09-01
+- [ ] Renew MOT on 2026-06-14
+- [x] Renew car tax 2025-10-01  remind me on 2025-09-01
+- [x] Renew car insurance 2025-09-30  remind me on 2025-09-01
 
 # Services and MOTs
 
@@ -126,7 +126,6 @@ Policy Number: XA20011898040
 
 - Had a Full Service done at Just Nice Clean Cars
 ![[CamScanner_10-12-2024_12.15.pdf|Full Service at Just Nice Clean Cars on 27/09/2024]]
-[]()
 
 ##  2024-03-05
 

@@ -10,7 +10,7 @@ cover: "[[Media/2025 - Buy a House.jpeg]]"
 - Two previous fall-throughs
     1. Low risk of flooding although the council are aware and do remove leaves to help mitigate this
     2. Pull out after undisclosed survey results
-        1. Estate agents feel it may be to do with the roof being 75 years old and a chance it needs maintenancy
+        1. Estate agents feel it may be to do with the roof being 75 years old and a chance it needs maintenance
 - The owner is currently considering a cash offer and will have decided by Monday
 
 ## 42 Tachbrook Street
@@ -55,18 +55,18 @@ cover: "[[Media/2025 - Buy a House.jpeg]]"
 
 ### Next Actions
 
-- [ ] Send photos to Matt
+- [x] Send photos to Matt
 - [x] Call Clive
     - [x] Notify interest in property
     - [x] Understand likelihood of getting a mortgage
 - [x] Text Claire about builders phone number
-- [ ] Research other builders contacts
-- [ ] Tell Godfrey Payton that we’re interested and would like a second viewing
-    - [ ] Need a ladder
-- [ ] Legal questions
-    - [ ] Is there any covenant payment
-- [ ] Other questions
-    - [ ] What is the age of the boiler?
+- [x] Research other builders contacts
+- [x] Tell Godfrey Payton that we’re interested and would like a second viewing
+    - [x] Need a ladder
+- [x] Legal questions
+    - [x] Is there any covenant payment
+- [x] Other questions
+    - [x] What is the age of the boiler?
 
 ### Cost Estimates
 
@@ -81,7 +81,6 @@ Sources
 - Fireplaces - When were they last serviced or chimneys swept
 - Ask for copies of previous safety certificates
 - 
-
 
 # Solicitor Comparison
 
@@ -113,7 +112,7 @@ Sources
 ![[55-avon-street_completion_statement 1.pdf]]
 ![[55-avon-street_declaration-of-trust 1.pdf]]
 - Declaration of trust has been sent using the free-post letter
-- [ ] There is also a survey to optionally fill in by going to [https://app.law-league.com/feedback/stephenrimmer](https://app.law-league.com/feedback/stephenrimmer)
+- [x] There is also a survey to optionally fill in by going to [https://app.law-league.com/feedback/stephenrimmer](https://app.law-league.com/feedback/stephenrimmer)
 
 ##  2024-05-13
 
@@ -141,20 +140,19 @@ Sources
 ##  2024-04-25
 
 - Kicked off process to get Life Insurance sorted out with Vitality
-    - [ ] There is an RPI clause which is “opt-out” - I should check exactly what that is
+    - [x] There is an RPI clause which is “opt-out” - I should check exactly what that is
 - Even if I end my Health Insurance policy with Vitality, it shouldn’t impact my Life Insurance policy
 
 ##  2024-04-24  - Solicitor Report
 
 - Received the solicitor’s report via post
 - Review Checklist
-    - [ ] Read through contract conditions
+    - [x] Read through contract conditions
 - Questions
     - Is the misspelt name “Christian” okay in the contract? Yes
 - Decisions
     - [x] If we should own as Joint Tenants or Tenants in Common
         - Decided on Tenants in Common - £50 and then 50/50 split for remainder
-
 
 |                          Name                          | Page |         Discuss with          |   Status    |                                                                                                                                 Description                                                                                                                                  |                                                                                                 Action                                                                                                  |                                                                    Conclusion                                                                     |
 | ------------------------------------------------------ | ---- | ----------------------------- | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -186,7 +184,6 @@ Sources
 |                         Wills                          |  11  |     Roy - Stephen Rimmer      | Not started |                                                                                                                                                                                                                                                                              |                                                                                   Ask if this is a service he offers                                                                                    |                                  Spoke to Dominic but he didn’t say this was included at all with his services.                                   |
 |                       Wind Farm                        |      |                               |    Done     |                                                                                                                                                                                                                                                                              |                                                                                         Check if concern or not                                                                                         |                                                                                                                                                   |
 |           Works on Property Indemnity Policy           |  5   |            Oliver             | Not started | Removal of internal wall between living and dining room, replacement pitched roofs, altered wall opening, removal of chminey breast, replacement boiler and electrical alterations  have not been evidenced by Seller. Insurance has been taken out to cover absence of this |                                             Check through Home Buyers Survey to check that recommendations from Surveyor have all been covered by Insurance                                             |                                                                                                                                                   |
-
 
 ##  2024-04-12
 
@@ -244,7 +241,7 @@ Sources
 - Sent an enquiry to Dave about a [3 bed property in Solihull](https://www.airbnb.co.uk/rooms/38114855)
 - Emailed Roy Bridge to notify that things should start moving again
 - Emailed Mortgage Advisor that things should start moving again
-- [ ] Collect questions that need answering before we commit to purchase and details on how we answer them
+- [x] Collect questions that need answering before we commit to purchase and details on how we answer them
 
 ##  2024-02-16
 
@@ -385,9 +382,9 @@ As of  2024-01-20  there is no confirmation / indication that he’s done that
 
 # Task List
 
-- [ ] Wrap bed frame in plastic
-- [ ] Book van if necessary
-- [ ] Book cleaners / plan time to clean in last week of March
+- [x] Wrap bed frame in plastic
+- [x] Book van if necessary
+- [x] Book cleaners / plan time to clean in last week of March
 
 # Reference
 
@@ -411,7 +408,7 @@ As of  2024-01-20  there is no confirmation / indication that he’s done that
 - Dishwasher: Included
 - Sofa
     - Interested in Lucie Sofa Bed
-    - [ ] Ring Time4Sleep to see if they have this sofa in store
+    - [x] Ring Time4Sleep to see if they have this sofa in store
 
 # Homebuyers Report
 
@@ -433,7 +430,7 @@ Is this their recommended (commissioned) suggestion or are they used to working 
 
 > The comments about floor and loft insulation stated within the EPC are not as described. This could mean that the EPC rating provided is no longer accurate.
 
-- [ ] Check the stated EPC rating and comments about insulation and see how they compare with the surveyor's
+- [x] Check the stated EPC rating and comments about insulation and see how they compare with the surveyor's
 
 ## Outside the property
 
@@ -445,14 +442,14 @@ Is this not a standard property size?
 
 > If the flues are not to be used, then you should have them capped off and ventilated.
 
-- [ ] Check if "flues" are what we'd reasonably want to use if we had any sort of log burner in the property
+- [x] Check if "flues" are what we'd reasonably want to use if we had any sort of log burner in the property
 - Several repairs noted to the chimney
     - Repointing of left hand stack
     - Brick repointing
 
 > The owner of the neighbouring property will have rights (and responsibilities) with regard to the shared stacks and you should check with your Legal Adviser before any work is undertaken.
 
-- [ ] Enquire with Tony about coming round to give a quote on repairs (or alternatively someone local)
+- [x] Enquire with Tony about coming round to give a quote on repairs (or alternatively someone local)
 
 ### D2 Roof coverings (3)
 

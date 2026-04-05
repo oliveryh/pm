@@ -664,7 +664,7 @@ https://stackoverflow.com/questions/68630/are-tuples-more-efficient-than-lists-i
 
 ### Match Sequences
 
-- [ ] Research match sequences more
+- [x] Research match sequences more
 
 ### Slices
 
@@ -678,8 +678,8 @@ https://stackoverflow.com/questions/68630/are-tuples-more-efficient-than-lists-i
 
 - The .append and .pop methods make a list usable as a stack or a queue (if you use .append and .pop(0), you get FIFO behavior). But inserting and removing from the head of a list (the 0-index end) is costly because the entire list must be shifted in memory.
 
-- [ ] Research thread-safe
-- [ ] https://www.youtube.com/watch?v=kQvFMrSvG4c
+- [x] Research thread-safe
+- [x] https://www.youtube.com/watch?v=kQvFMrSvG4c
 
 ## Chapter 5
 
@@ -695,7 +695,7 @@ There difference between the namedtuple and NamedTuple class builders with the `
 
 A common bug is to use a mutable instance as a field default without using a default_factory constructor. The impact of this is that all instances might share the same default value, which is rarely what you want.
 
-- [ ] Answer some Advent of Code / HackerRank / Leetcode questions using dataclasses
+- [x] Answer some Advent of Code / HackerRank / Leetcode questions using dataclasses
 
 ## Chapter 6
 
@@ -718,9 +718,9 @@ Parallelism is a special case of concurrency, in Pike’s view. All parallel sys
 
 Starting a process is not cheap, so often you want to amortize the startup cost by making each thread or process into a "worker".
 
-- [ ] Is there a visual model for concurrency in Python
-- [ ] Understand how disk I/O or network I/O might release the GIL and the implications or usecases of that
-- [ ] Hyperthreading could be a relevant mix between processing and threads
+- [x] Is there a visual model for concurrency in Python
+- [x] Understand how disk I/O or network I/O might release the GIL and the implications or usecases of that
+- [x] Hyperthreading could be a relevant mix between processing and threads
 
 ### Loops, Sentinals, and Poison Pills
 
@@ -730,9 +730,9 @@ None is often used as a sentinel value, but it may be unsuitable if it can occur
 
 - CPUs were executing sequential code faster, year after year, but since 2004, that is no longer true. clock speeds and execution optimisation reached plateaus.
 
-- [ ] Watch video about dask can be used in distributed computing usecase
-- [ ] Designing data intensive applications books
-- [ ] Understand WSGI and ASGI
-- [ ] Understand the implications of removing the GIL in future versions of Python
-- [ ] Read Web Service Efficiency with Python by Min Ni
-- [ ] Distributed computation patters written by Unmesh Joshi on Martin Fowlers blog
+- [x] Watch video about dask can be used in distributed computing usecase
+- [x] Designing data intensive applications books
+- [x] Understand WSGI and ASGI
+- [x] Understand the implications of removing the GIL in future versions of Python
+- [x] Read Web Service Efficiency with Python by Min Ni
+- [x] Distributed computation patters written by Unmesh Joshi on Martin Fowlers blog

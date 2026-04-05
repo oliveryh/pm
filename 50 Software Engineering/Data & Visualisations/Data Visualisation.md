@@ -16,7 +16,7 @@
 
 # Further Reading
 
-- [Amelia Wattenberger - How to Learn D3.js](https://wattenberger.com/blog/d3) (Works for The []()Pudding)
+- [Amelia Wattenberger - How to Learn D3.js](https://wattenberger.com/blog/d3) (Works for The Pudding)
 - [Fraxses](http://www.fraxses.com/visualisation/) - Visualisation examples
 - [Google Charts](https://developers.google.com/chart/?authuser=0)
 - [Mike Bostock](https://bost.ocks.org/mike/) - Creator of D3JS

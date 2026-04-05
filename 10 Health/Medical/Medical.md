@@ -2,7 +2,12 @@
 
 ---
 
-# GP
+# Accounts
+
+| Account Type | Link                        |
+| ------------ | --------------------------- |
+| Dentist      | [[Gallery Dental Practice]] |
+| GP           | [[Priory Medical Centre]]   |
 
 # Medical History
 

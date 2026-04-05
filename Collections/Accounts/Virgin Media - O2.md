@@ -1,3 +1,7 @@
+# Actions
+
+- [ ] See if there are better sim only deals
+
 # Log
 
 ## 2026-03-29

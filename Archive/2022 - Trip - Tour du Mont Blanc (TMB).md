@@ -7,7 +7,6 @@
 ## When
 
 - Don’t go 22nd August to 28th August because this is when the UTMB is running and it’ll hard to walk the trail
-- 
 
 ## How Much
 
@@ -30,15 +29,25 @@
 
 [https://tmbtent.com/tour-du-mont-blanc-logistics/](https://tmbtent.com/tour-du-mont-blanc-logistics/)
 
-# Proposed Itinerary
+# Itinerary
 
-[TMB in 11 Stages](https://tourdumontblanchike.com/tour-du-mont-blanc-etapes-stages/)
-
-## Potential Plan
+- Aug 10 — Flew London Heathrow → Geneva, transferred to Chamonix. Unknown accommodation.
+ - Aug 11 — Gîte Les Méandres
+ - Aug 12 — Gîte Les Mélèzes (Les Contamines-Montjoie)
+ - Aug 13 — Refuge des Mottets
+ - Aug 14 — Rifugio Maison Vieille
+ - Aug 15 — Rifugio Giorgio Bertone
+ - Aug 16 — Hotel Restaurant Lavachey
+ - Aug 17 — Maya Joie, L'auberge
+ - Aug 18 — Auberge Gîte Bon Abri
+ - Aug 19 — Auberge du Mont Blanc (Trient)
+ - Aug 20 — Le Dahu (Argentière)
+ - Aug 21–22 — Heliopic Hotel & Spa (Chamonix)
+ - Aug 23 — Flew Geneva → London Heathrow
 
 # Log
 
-## Booked Flight  2022-05-09
+## 2022-05-09 - Booked Flight  
 
 R4GJVY
 
@@ -48,7 +57,7 @@ Oliver Yerbury-Hodgson
 Total £111.57
 MasterCard Debit ending 8004: £15.45eVoucher number 125-4202063118: £96.12
 
-# Practice Walk
+## Practice Walk
 
 - Sun screen on lower neck, parts of arms that face upwards
 - Maybe bring shoes that are light but comfy as I can't walk too far in flipflops

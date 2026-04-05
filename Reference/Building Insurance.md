@@ -24,15 +24,15 @@
 
 ## What amount should I estimate personal belongings as?
 
-- [ ] Create an estimate of item values to feed into a joint contents insurance policy if necessary
+- Create an estimate of item values to feed into a joint contents insurance policy if necessary
 
 ## When would I like the policy to start?
 
-- [ ] Get exchange date from Solicitors
+- [x] Get exchange date from Solicitors
 
 ## Should we gather information about the property with a visit?
 
-- [ ] Tell Estate Agent we’d like access to the property to do a final check and be accurate in our Building and Life Insurance policies
+- [x] Tell Estate Agent we’d like access to the property to do a final check and be accurate in our Building and Life Insurance policies
 - The types of locks on the doors
 - If a burglar alarm is present
 - Do all accessible windows at the property have key-operated locks

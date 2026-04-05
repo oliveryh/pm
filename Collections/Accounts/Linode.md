@@ -53,6 +53,10 @@ In this stage, remember to copy the generated passwords correctly.
 
 - postgres: a*a*
 
+# Actions
+
+- [ ] Upgrade OS
+
 # Log
 
 ## 2025-10-21

@@ -4,100 +4,65 @@ cover: "[[Media/Avon Street 1.png]]"
 
 # Important Accounts
 
-| Service | Account |
-| ------- | ------- |
-| Water   |         |
-| Energy  |         |
-| Council |         |
+| Service | Account            |
+| ------- | ------------------ |
+| Water   |                    |
+| Energy  | [[Octopus Energy]] |
+| Council |                    |
 
 # Maintenance and Repairs
 
 ## General
 
-- Refinish floors
-- Painting
+## Attic
 
-## Roof
+- There is light coming through one point in the roof although the entry point is small.
+- There are also signs of small nests (likely abandoned). Presumably from wasps
 
-![[a5de87b5-c328-42bd-b90f-e96afbaee11e 1.png|Roof purlin on 2025-06-22]]
-![[f3e6df6b-733d-428a-8e94-1059f7e461e8 1.png|Roof purlin on 2024-08-03]]
-![[9a588a27-a1dc-4fe8-9877-5cd169d886d0 1.png|Roof purlin on 2024-02-27]]
-There is light coming through one point in the roof although the entry point is small. There are also signs of small nests (likely abandoned). Presumably from wasps
+### Purlin
 
-## Main Bedroom
+- [ ] Take photo of purlin
 
-- Sand and revarnish side tables
+The purlin has a crack but appears to not move year-on-year
 
-## Guest Bedroom
+> [!note]+ Photos
+>
+> - 2025-06-22
+> ![[a5de87b5-c328-42bd-b90f-e96afbaee11e 1.png|Roof purlin on 2025-06-22]]
+> - 2024-08-03
+> ![[f3e6df6b-733d-428a-8e94-1059f7e461e8 1.png|Roof purlin on 2024-08-03]]
+> - 2024-02-27
+> ![[9a588a27-a1dc-4fe8-9877-5cd169d886d0 1.png|Roof purlin on 2024-02-27]]
+
+## Outside
+
+- Mount lantern
 
 ## Bathroom
 
 - Cracks are appearing in the plaster around the bathroom door frame
 - Clean rust/limescale
-
-## Back Garden
-
-- The benches and wooden table need sanding down and revarnishing
-- The edge of the grass needs neatening up
-- The lawn needs mowing
-- The back gate is hard to open
-- Back door to house is very difficult to open reliably now. May just be water swelling but it’s very annoying
-
-## Loft / Attic
-
-- [ ] Photograph purlin again
-
-## Living Room
-
-- Living room door not closing
-- Window is blown
-- Buy adaptor for record player
-- Humidity report on heating says high readings (60-70%+)
-
-## Kitchen
-
-- Oven hood display may be faulty
-- Oven drips condensation during use
-- Don’t like electric hobs
-- All cupboards touching exterior walls appear to have some levels of damp
-
-## Basement
-
-- Coal chute appears to still drip when it rains
-- Mould building up on freezer. It may need a more thorough clean
-
-## Other
-
-- Hanging wire dangling on the front of the house
-- Humidity levels in the house may be affecting how often the harp strings are snapping
-- Hairline cracks appearing above door frames. Might be best to document all cracks with photos to review in 6 months
-- Clean dirty wooden floor
-
-# Tasks
-
-- Take photos of before/after to compare
-
-## General
-
-- Bleed radiators / reduce their noise
-- Learn how to use easy control properly
+- [ ] Toilet seat buffer is broken
+- Service boiler
 
 ## Bedroom
 
-- Buy more anti-moth parasitic wasps
+- [ ] Buy plug splitter for socket near dresser
 - Radio alarm / Screen free solution
 - Light fixture could be shortened and straightened
 - Device shelf outside bedroom
 - Black out blinds might make sleep easier (for Summer)
-- Slippy floor near corner of bed
-- Split extension cable so cables aren’t on the floor
-- Hang more artwork up
 - Top up soil for Aspadistra plant
+- Sand and revarnish side tables
 
 ## Kitchen
 
+- [ ] Sort kitchen cupboards
 - Fridge WiFi could be connected to
 - Tiling backsplash
+- Oven hood display may be faulty
+- Don’t like electric hobs
+- All cupboards touching exterior walls appear to have some levels of damp
 
 ## Basement
 
@@ -108,13 +73,20 @@ There is light coming through one point in the roof although the entry point is 
     - And more
 - Smart meters
 - Home Gym
+- Coal chute drips when it rains
+- Mould building up on freezer
 
 ## Living Room
 
+- [ ] Mount guitar holders
 - The TV needs connecting to terrestrial channels
 - The TV needs connecting to the surround sound
 - Smart lighting
 - Consider 4k Netflix
+- Living room door not closing
+- Window is blown
+- Buy adaptor for record player
+- Humidity report on heating says high readings (60-70%+)
 
 ## Dining Area
 
@@ -123,14 +95,23 @@ There is light coming through one point in the roof although the entry point is 
 - Put up a curtain in front of the back door
 - Get draft excluder for back door as it still lets a high amount of heat escape
 
-## Front Garden
-
 ## Back Garden
 
 - Have some sort of ramp to get the harp in/out of studio
+- The benches and wooden table need sanding down and revarnishing
+- The edge of the grass needs neatening up
+- The lawn needs mowing
+- The back gate is hard to open
+- Back door to house is very difficult to open reliably now. May just be water swelling but it’s very annoying
+- Repot plants
+- [ ] Sell Chloe's bike
+- [ ] Sell raised planters
 
 ## Other
 
+- Plaster socket on landing
+- Refinish floors
+- Painting
 - Wifi
     - Make this a router
     - Some [localhost](http://localhost/) actions like cURL don’t work reliably
@@ -139,13 +120,14 @@ There is light coming through one point in the roof although the entry point is 
 - Humidity and Temperature sensors
 - Bleed radiators
 - Put up photo frames
-- Mount lantern outside
 - Dimmer landing bulb
-
-# Other
-
+- Hanging wire dangling on the front of the house
+- Humidity levels in the house may be affecting how often the harp strings are snapping
+- Hairline cracks appearing above door frames. Might be best to document all cracks with photos to review in 6 months
+- Clean dirty wooden floor
+- Bleed radiators / reduce their noise
+- Learn how to use easy control properly
 - Contents Insurance
-- List items on eBay
 - Caulk the front door
 - Bleach double bedding
 - Bike maintenance
@@ -157,6 +139,10 @@ There is light coming through one point in the roof although the entry point is 
 - Temperature or Humidity Sensors
 
 # Log
+
+## 2026-04-03
+
+- Hammer in support for blinds in second bedroom
 
 ##  2026-03-28
 
@@ -209,7 +195,6 @@ Sent to Sovereign Financial Planning today
 - G9 bulb
 - 3 x Terminal Box
 
-
 ##  2024-12-31  - Spoke to Adam about breaking up concrete path
 
 - Spoke to Adam from Beautiful Gardens Online about removing concrete path in garden
@@ -222,7 +207,7 @@ Sent to Sovereign Financial Planning today
 
 - Replaced battery in smoke detector in hallway
 
-##  2024-12-18  - Repair to [[Bathtub]]
+##  2024-12-18 - Repair to [[Bathtub]]
 
 ##  2024-10-10
 

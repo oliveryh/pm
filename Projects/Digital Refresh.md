@@ -29,7 +29,7 @@ Some things to avoid too:
 	- [x] Go through each plugin and either delete from Second Brain or transfer to pm
 	- [ ] Recreate extended graph view again
 - [ ] Appearance
-	- [ ] Theme
+	- [ ] Pick theme and font
 - [x] Improve
 	- [x] Replace Dataview with Obsidian Bases where possible and if it looks better
 - [x] Remove mobile
@@ -45,12 +45,13 @@ Some things to avoid too:
 	- [ ] Set up a 1 way sync between pm synced files and second-brain repo
 - [x] Collections
 	- [x] Migrate to pm
-- [ ] Notion to Obsidian migration
-	- [ ] Rename full dates with YYYY-MM-DD and possibly install plugin to do @today handle etc.
-	- [ ] Remove links from [[2023 - Goodreads Books]]
-	- [ ] Import using [official data loader](https://obsidian.md/help/import/notion) for remainder of the notes
-	- [ ] Work out how to save Claude dotfiles correctly
-
+	- [ ] Combine Assets and Devices collections
+- [x] Notion to Obsidian migration
+	- [x] Rename full dates with YYYY-MM-DD and possibly install plugin to do @today handle etc.
+	- [x] Remove links from [[2023 - Goodreads Books]]
+	- [x] Import using [official data loader](https://obsidian.md/help/import/notion) for remainder of the notes
+	- [x] Work out how to save Claude dotfiles correctly
+- [ ] Remove unused Media files
 # Migration Candidates
 
 There are some key places I store data that I’d like to consolidate into Obsidian if possible

@@ -7,7 +7,7 @@ Status: Resolved
 
 # Actions
 
-- [ ] Call up Nuffield Health to arrange appointments 03450454845
+- [x] Call up Nuffield Health to arrange appointments 03450454845
 
 # Log
 

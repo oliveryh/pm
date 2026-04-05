@@ -173,7 +173,7 @@ Normally I get quite easily distracted and drop my plans to work on something. W
 ## Improvements
 
 - [x] Cycle to work at least 3 times a week
-- [ ] Diversify activities to not just include Clearhabits app development
+- [x] Diversify activities to not just include Clearhabits app development
 - [x] Finish reading "Chasing the Scream" book (Aim to read 15 books this year)
 
 # 21W01
@@ -225,11 +225,11 @@ Normally I get quite easily distracted and drop my plans to work on something. W
 
 ## Improvements
 
-- [ ] Need to do more exercise. Go for at least 2 cycle this week
+- [x] Need to do more exercise. Go for at least 2 cycle this week
 - [x] Finish clearhabits UI changes this week so I can move on with functional changes again (completed  2021-01-16 )
-- [ ] Invest more time into University search
-- [ ] Establish a good dynamic with Sustainability network surrounding dev changes
-- [ ] BoW for this year is still uncertain
+- [x] Invest more time into University search
+- [x] Establish a good dynamic with Sustainability network surrounding dev changes
+- [x] BoW for this year is still uncertain
 
 # Sprint 3A (Commencing  2020-03-02 )
 

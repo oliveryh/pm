@@ -1,12 +1,12 @@
 # Requirements
 
 - [x] A uff file format can be loaded
-- [ ] Multiple uff file formats can be loaded
+- [x] Multiple uff file formats can be loaded
 - [x] Understand where key points are derived from
 - [x] Parse file in sequence
 - [x] Make function idempotent
-- [ ] Rollback in transaction if error occurs
-- [ ] Allow user to search for MPAN or Meter Serial Number
+- [x] Rollback in transaction if error occurs
+- [x] Allow user to search for MPAN or Meter Serial Number
 
 # Resources
 

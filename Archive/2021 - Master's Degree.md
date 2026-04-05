@@ -4,27 +4,26 @@
 
 # Subpages
 
-
 [Oxford CS Undergraduate Interview Page](https://www.cs.ox.ac.uk/admissions/undergraduate/how_to_apply/interviews.html)
 
 # Interview Preparation Plan
 
-- [ ] Look at Master's course prerequisites and ensure I focus on these areas
-- [ ] Save selection of flashcards to a new set specifically for interviews
-- [ ] Review flashcards and answer questions on a regular basis
-- [ ] Be able to articular soft answers (why Oxbridge, why this course etc.) and be able to articulate this effectively
-- [ ] Read through [https://www.cs.ox.ac.uk/admissions/undergraduate/how_to_apply/interview_sample.html](https://www.cs.ox.ac.uk/admissions/undergraduate/how_to_apply/interview_sample.html)
-- [ ] Answer [these questions](https://www.cs.ox.ac.uk/admissions/undergraduate/how_to_apply/sample_interview_problems.html) and record myself to observe how I communicate my thought process
-- [ ] [https://www.youtube.com/watch?v=I03cCH-TG_w&feature=youtu.be](https://www.youtube.com/watch?v=I03cCH-TG_w&feature=youtu.be)
-- [ ] [https://www.youtube.com/watch?v=_0_RE_LEC8I&feature=youtu.be](https://www.youtube.com/watch?v=_0_RE_LEC8I&feature=youtu.be)
-- [ ] [https://sites.google.com/site/oxbridgeinterviewquestions/computer-science](https://sites.google.com/site/oxbridgeinterviewquestions/computer-science)
-- [ ] [https://www.educba.com/computer-science-interview-questions/](https://www.educba.com/computer-science-interview-questions/)
-- [ ] [https://www.indeed.com/career-advice/interviewing/computer-science-interview-questions](https://www.indeed.com/career-advice/interviewing/computer-science-interview-questions)
-- [ ] [https://youtu.be/f3lYdO0XYL4](https://youtu.be/f3lYdO0XYL4)
-- [ ] [https://www.dropbox.com/s/pnlb4rb8kr74azp/MSc CS Admissions Exercise for 2018-19 entry.pdf?dl=0](https://www.dropbox.com/s/pnlb4rb8kr74azp/MSc%20CS%20Admissions%20Exercise%20for%202018-19%20entry.pdf?dl=0)
-- [ ] [https://openclimb.io/csat/#csat-explained](https://openclimb.io/csat/#csat-explained)
-- [ ] [https://www.thestudentroom.co.uk/showthread.php?t=4949576](https://www.thestudentroom.co.uk/showthread.php?t=4949576)
-- [ ] [https://youtu.be/6_x__QJJO5o](https://youtu.be/6_x__QJJO5o)
+- Look at Master's course prerequisites and ensure I focus on these areas
+- Save selection of flashcards to a new set specifically for interviews
+- Review flashcards and answer questions on a regular basis
+- Be able to articular soft answers (why Oxbridge, why this course etc.) and be able to articulate this effectively
+- Read through [https://www.cs.ox.ac.uk/admissions/undergraduate/how_to_apply/interview_sample.html](https://www.cs.ox.ac.uk/admissions/undergraduate/how_to_apply/interview_sample.html)
+- Answer [these questions](https://www.cs.ox.ac.uk/admissions/undergraduate/how_to_apply/sample_interview_problems.html) and record myself to observe how I communicate my thought process
+- [https://www.youtube.com/watch?v=I03cCH-TG_w&feature=youtu.be](https://www.youtube.com/watch?v=I03cCH-TG_w&feature=youtu.be)
+- [https://www.youtube.com/watch?v=_0_RE_LEC8I&feature=youtu.be](https://www.youtube.com/watch?v=_0_RE_LEC8I&feature=youtu.be)
+- [https://sites.google.com/site/oxbridgeinterviewquestions/computer-science](https://sites.google.com/site/oxbridgeinterviewquestions/computer-science)
+- [https://www.educba.com/computer-science-interview-questions/](https://www.educba.com/computer-science-interview-questions/)
+- [https://www.indeed.com/career-advice/interviewing/computer-science-interview-questions](https://www.indeed.com/career-advice/interviewing/computer-science-interview-questions)
+- [https://youtu.be/f3lYdO0XYL4](https://youtu.be/f3lYdO0XYL4)
+- [https://www.dropbox.com/s/pnlb4rb8kr74azp/MSc CS Admissions Exercise for 2018-19 entry.pdf?dl=0](https://www.dropbox.com/s/pnlb4rb8kr74azp/MSc%20CS%20Admissions%20Exercise%20for%202018-19%20entry.pdf?dl=0)
+- [https://openclimb.io/csat/#csat-explained](https://openclimb.io/csat/#csat-explained)
+- [https://www.thestudentroom.co.uk/showthread.php?t=4949576](https://www.thestudentroom.co.uk/showthread.php?t=4949576)
+- [https://youtu.be/6_x__QJJO5o](https://youtu.be/6_x__QJJO5o)
 
 # High Level Plan
 
@@ -131,6 +130,23 @@ Define abstract class
 Define polymorphism
 What is the difference between concurrency and parallelism
 
+# Personal Statement
+
+From the very beginning of my experience with computers, it was clear to me that, if one spoke the computer's language effectively, the power to solve one's problems or to create things felt limitless, almost magical. What started as a tool to build basic websites, or solve code ciphers in Microsoft Excel growing up, has become an integral part of my education, my career, and my own passion projects.
+
+I received an award for the highest final-year performance in my graduating class, giving me a great sense of achievement when completing my degree at Warwick University. The Discrete Mathematics (joint Computer Science and Mathematics) BSc begins with a grounding in core mathematical principles and the theory of computational complexity and optimisation. This culminated in the final year, where it was necessary to combine the applied teachings of topics such as Machine Learning and computational parallelism with the foundations in statistics I'd learnt during the Mathematics portion of the degree. The dissertation I produced explored the use of Classifier Chains to populate missing attributes from personal calendar events. With positive results in performance against alternative Machine Learning models we'd studied, this too was recognised, receiving the highest graded dissertation in my cohort. This gave me confidence that my ability to communicate effectively and produce research of value had been proven at a bachelor’s level.
+
+Apart from the purely academic side, I attended multiple events that explored topics such as the use of Computer Science in medicine, as well as taking part in a department run hackathon, where I was able to get hands-on experience with the Raspberry Pi. The advancements and applications of the "Internet of Things" began to grab my attention.
+
+After graduating, during my three-year career at Credit Suisse, I have created a machine learning platform for my colleagues to perform their daily investigations, combining user interfaces, big data and Python libraries, and GPU compute capabilities into a single application. Not only has this experience allowed me to understand the high-level architecture such a platform would require, I take pride in the fact that I was able to understand the low-level implementations as well. For example, why the GPU module hadn't loaded into the kernel; a question that drove me to delve into the OS level operations.
+
+I now want to take the software engineering techniques I've developed, and build on the theory behind these modern hardware capabilities to explore how they might contribute to my keen interest in sustainability. Recently the area of agriculture technology, and the use of computer vision and sensors to monitor crops and increase yield, has demonstrated to me how viable technology can be in achieving the goal of reducing our global impact and addressing food shortages or waste. In addition to limiting the use of the Earth’s resources, we must manage the growing population. Predicting COVID outbreak areas using web-scraping and Natural Language Processing demonstrates another way in which technological advancements are improving our well-being and safety while reducing our impact on the Earth.
+
+This course has elements of the machine learning topics I have expressed an interest in, but more importantly, the modules such as concurrent algorithms and data structures, and database systems implementation would provide a foundation in how to implement these concepts in a scalable, secure, and efficient manner. In addition to this, the Oxford Internet Institute offers access to interdisciplinary expertise in social data science, useful in assessing the impacts of the growing population, should the technology around sustainability be the area of study I go on to research at Oxford.
+
+In the modern world, the set of challenges are vast and complex, and the adoption of these technological solutions are often met with concerns from the public about data privacy, and issues with scalability. I believe that an education at Oxford helps foster the analytical rigour required to produce not only good insight, but also to be able to communicate this effectively and convince others of the value of one's work. I continue to have moments where I am in awe at the applications of this discipline and it is for this reason that I'd like to apply for the Advanced Computer Science MSc at Oxford.
+
+Thank you very much for your time and consideration.
 
 # Guide
 
@@ -281,7 +297,6 @@ What has motivated me to apply to this course in particular, is that it is offer
 
 I have created a machine learning platform for my colleagues to perform their daily investigations, combining user interfaces, big data and Python libraries, and GPU compute capabilities into a single application. I take pride in the fact that I was able to understand the high-level architecture such a platform would require as well as the low-level implementation. Challenges such as why the GPU module hadn't loaded into the kernel, a question that drove me to delve into the OS level operations.
 Additionally, I have contributed to solutions with sentiment analysis and time-series modelling components. These roles were fulfilled using distributed computing solutions such as Hadoop and Apache Spark, working jointly with data scientists.
-
 
 # Assessment
 

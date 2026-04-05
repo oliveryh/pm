@@ -28,3 +28,4 @@
 - Earphones
 - Padlock
 - Face cream
+- Tissues

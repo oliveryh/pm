@@ -14,7 +14,6 @@
 - Warm up stretch routine might be good to research
 - Having a podcast specifically to
 - Make sure devices are charged up
-- [ ] Update mobile Train app - and possibly consider buying pro again
 
 ## 2025-06-22
 

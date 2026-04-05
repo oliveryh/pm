@@ -1,6 +1,6 @@
 # Actions
 
-- [ ] Reset socket
+- [ ] Reset smart socket
 
 # Log
 

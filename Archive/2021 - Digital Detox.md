@@ -4,7 +4,7 @@
 
 # Outstanding Tasks
 
-- [ ] Setup call forwarding from full-time mobile to minimal phone
+- Setup call forwarding from full-time mobile to minimal phone
 
 # Rules
 

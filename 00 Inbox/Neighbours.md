@@ -1,2 +1,2 @@
 - Brian and Fiona
-- []()Richard and Anne - Own a water pressure washer
+- Richard and Anne - Own a water pressure washer

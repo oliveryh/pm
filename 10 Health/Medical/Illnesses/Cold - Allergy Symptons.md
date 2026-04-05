@@ -7,7 +7,7 @@ Status: Resolved
 
 # Actions
 
-- [ ] Organise follow-up appointment for blood results for roughly 2 weeks after original consultation
+- [x] Organise follow-up appointment for blood results for roughly 2 weeks after original consultation
 
 # Symptoms
 

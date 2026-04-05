@@ -20,4 +20,3 @@ Notes: ""
 - Suggested that there is still a possibility something else is broken even after replacing the module (e.g. motor or drum)
     - Imagined this would come to a similar quote
 - We paid ~£350 for the washing machine ~1.3 years ago from curries with a 1 year warranty
-- [ ] Investigate how much module replacement DIY might cost

@@ -8,22 +8,22 @@
 - 23.15 /  2023-07-17
 - 23.16 /  2023-08-31
 - 23.17 /  2023-08-14
-    - [ ] Sign rental agreement
-    - [ ] Cancel Virgin Media Broadband
-    - [ ] Cancel gym membership
-    - [ ] Get rid of remaining bulky items
-    - [ ] Book moving van
-    - [ ] Download EverFit stuff
-    - [ ] Research removal companies
+    - Sign rental agreement
+    - Cancel Virgin Media Broadband
+    - Cancel gym membership
+    - Get rid of remaining bulky items
+    - Book moving van
+    - Download EverFit stuff
+    - Research removal companies
 - 23.18 /  2023-08-28
-    - [ ] Move
-    - [ ] Pick up keys
-    - [ ] Clean Oval flat
-    - [ ] Set up Utilities
-    - [ ] Register with Council
-    - [ ] Register with GP
-    - [ ] Register with Dentist
-    - [ ] Change address online
+    - Move
+    - Pick up keys
+    - Clean Oval flat
+    - Set up Utilities
+    - Register with Council
+    - Register with GP
+    - Register with Dentist
+    - Change address online
 
 # Location
 

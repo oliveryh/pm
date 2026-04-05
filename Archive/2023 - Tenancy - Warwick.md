@@ -23,7 +23,6 @@
 
 - Notify Accounts of Leaving
     - Water: Notified Severn Trent that we’re moving on  2024-03-31  and paid an estimated final bill of £165.55
-    - 
     - Council: Notified Warwick District Council that we’re moving out on  2024-03-31  Ref: 816994
 - Cancelled direct debit for Warwick District Council as I’ve paid all required instalments
 
@@ -35,11 +34,8 @@
     - Sort Code: 40-43-19
     - Account Number: 83667006
 - Notify Accounts of Leaving
-    - 
-    - 
     - Council: Sent Inquiry Form (**KFRQKWQZ**) notifying them of move and next steps
 - Notify Account Joining
-    - 
     - Water: Created Severn Trent online account: **5150111727** - Expecting to be billed around March
     - Council: Submitted request to Warwick District Council about new tenancy: **41902903700**
 
@@ -65,6 +61,7 @@
 - Signed the following documents
     - Key Scan
     - Handover Declaration
+
 ![[CamScanner 09-11-2023 14.06.pdf]]
 
 # Standing Orders

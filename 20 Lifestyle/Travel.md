@@ -22,6 +22,7 @@
 - Check tyre pressure and windscreen wiper fluid levels before long trips
 - Consider wearing sunglasses in particularly sunny weather
 - Mark out potential services/toilet stops
+- Consider anti-dazzle glasses for driving at night
 
 # Log
 

@@ -1,5 +1,10 @@
 Teddy is a cat.
 
+# Actions
+
+- [ ] Assess food quantities and routine
+- [ ] By break-away collar
+
 # Reference
 
 ## Pet Insurance

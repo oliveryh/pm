@@ -15,10 +15,10 @@
 ##  2019-07-14  - How we spend our time
 
 Things that we do in life fall into the following:
-1. Things we *must *do (eat, sleep, drink water)
-2. Things we *want *to do (sex, socialise)
-3. Things we *aspire to contribute *to (volunteering, altruism)
-4. Things we feel we *should *do to get a sense of achievement (reading)
+1. Things we *must* do (eat, sleep, drink water)
+2. Things we *want* to do (sex, socialise)
+3. Things we *aspire to contribute* to (volunteering, altruism)
+4. Things we feel we *should* do to get a sense of achievement (reading)
 5. Things we don't want to do but would have negative impacts on our lives if we didn't (chores, shaving, washing)
 
 The key is to maximise the time spent on things we want and feel we must to get a sense of achievement (2-4)

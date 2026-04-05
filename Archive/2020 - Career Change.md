@@ -5,10 +5,10 @@
 # Tasks
 
 - [x] Update CV (Completed  2020-05-01  )
-- [ ] Detail current employment salary, bonus, holiday allowance, pension matching, etc - in order to make fair comparisons against other jobs
-- [ ] Create list of companies and job roles that resonate with me
-- [ ] Get a list of skillsets that could be explored with learning projects / practice ahead of applying
-- [ ] Go through basic interview practice
+- [x] Detail current employment salary, bonus, holiday allowance, pension matching, etc - in order to make fair comparisons against other jobs
+- [x] Create list of companies and job roles that resonate with me
+- [x] Get a list of skillsets that could be explored with learning projects / practice ahead of applying
+- [x] Go through basic interview practice
 
 # Skill Gaps
 
@@ -710,9 +710,9 @@ We offer:
 
 - [x] #1 - Andrew Good (Head of Recruitment)
 - [x] #2 - Gustavo (Lead of Predictions and Market Modelling)
-- [ ] #3 - Coding interview with Christof/Radu
+- [x] #3 - Coding interview with Christof/Radu
 - [x] #4 - Take home challenge
-- [ ] #5 - Talk with Kit
+- [x] #5 - Talk with Kit
 
 ### Topics to Revise
 
@@ -731,8 +731,8 @@ https://workera.ai/resources/machine-learning-case-study-interview/
 
 #### Outline
 
-- [ ] AI Project Lifecycle
-- [ ] List out AI problems faced by the company at the moment
+- [x] AI Project Lifecycle
+- [x] List out AI problems faced by the company at the moment
 
 #### Framework
 
