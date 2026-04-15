@@ -2,8 +2,11 @@ Teddy is a cat.
 
 # Actions
 
-- [ ] Assess food quantities and routine
-- [ ] By break-away collar
+- [ ] Sanity check food routine
+- [ ] Buy break-away collar
+- [ ] Confirm transfer of Microchip transfer
+- [ ] Share street group chat about Teddy
+- [ ] Note down specific vaccines from Vets
 
 # Reference
 
@@ -27,6 +30,10 @@ Teddy is a cat.
 - Scratching Post
 
 # Log
+
+## 2026-04-06
+
+- I weighed Teddy and he was ~5kg
 
 ## 2026-03-30
 

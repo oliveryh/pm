@@ -2,7 +2,7 @@
 
 I’ve attempted to map out my digital life with some success but it’s still an overwhelming effort to think about how to simplify it. I’d like to instead consider creating a new space where I can bring over what I truly need and remove what’s left.
 
-# Plan
+# Approach
 
 1. [x] Buy Obsidian Sync
 2. [x] Start migrating things over to this new synced vault
@@ -16,71 +16,39 @@ Ideally the vault would not include any excess whatsoever.
 Some things to avoid too:
 - Hoarding data for historical reasons (I hardly keep up with personal recommendations of TV, Reading, Movies let alone what the internet suggests)
 
-- [ ] Reduce
-	- [x] Links
-		- [x] Write script to check URLs and if they 404
-	- [x] YouTube Kanban
-		- [x] Archive
-	- [x] Drawings
-	- [ ] Readwise
-		- [x] Remove tweet directory and syncing
-		- [ ] Books could be consolidated with Collection notes
-- [ ] Plugins
-	- [x] Go through each plugin and either delete from Second Brain or transfer to pm
-	- [ ] Recreate extended graph view again
-- [ ] Appearance
-	- [ ] Pick theme and font
-- [x] Improve
-	- [x] Replace Dataview with Obsidian Bases where possible and if it looks better
-- [x] Remove mobile
-	- [x] Second Brain vault
-	- [x] Working Copy app
-	- [x] Apple shortcuts
-- [ ] GitHub Repo
-	- [x] Restore changes after commit `45d287e`
-	- [x] Rewrite history in `second-brain` repo
-		- [x] Group commits into days
-		- [x] Remove files that were accidentally committed (Ensure commit dates don't change)
-	- [x] Keep second-brain repo relatively up to date with `pm` after making changes
-	- [ ] Set up a 1 way sync between pm synced files and second-brain repo
-- [x] Collections
-	- [x] Migrate to pm
-	- [ ] Combine Assets and Devices collections
-- [x] Notion to Obsidian migration
-	- [x] Rename full dates with YYYY-MM-DD and possibly install plugin to do @today handle etc.
-	- [x] Remove links from [[2023 - Goodreads Books]]
-	- [x] Import using [official data loader](https://obsidian.md/help/import/notion) for remainder of the notes
-	- [x] Work out how to save Claude dotfiles correctly
-- [ ] Remove unused Media files
-# Migration Candidates
+## Tools to Keep
+
+- TickTick
+- Linear
+- Obsidian
+- iCloud
+
+# Actions
+
+## Migration Candidates
 
 There are some key places I store data that I’d like to consolidate into Obsidian if possible
 
-- Notion
-- Piclo Obsidian repo
-- Google Drive
-	- Google Docs
-	- Google Sheets
-	- Other files
-- iCloud Files
-- Dropbox
-- External storage (SSDs, SD cards)
+- [x] Notion
+- [x] Google Drive
+- [ ] Piclo Obsidian repo
+- [ ] iCloud Files
+- [ ] Dropbox
+- [ ] External storage (SSDs, SD cards)
 
-There are some places this may not be suitable
+## Other Tasks
 
-- Large files
-- Long term vault. Files that I want to keep but won’t be regularly viewing
-
-# Flow of Data
-
-```mermaid
-graph LR
-	sb[Second Brain] --> PM
-	Notion --> PM
-	gd[Google Drive] --> iCloud
-```
+- [ ] Remove unused Media files
+- [ ] Combine Assets and Devices collections
+- [ ] Set up a 1 way sync between pm synced files and second-brain repo
+- [ ] Pick theme and font
+- [ ] Books could be consolidated with Collection notes
 
 # Log
+
+## 2026-04-05
+
+- Finished migrating [[Google Drive]] to leave two files that I regularly want to update
 
 ## 2026-04-02
 

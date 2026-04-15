@@ -1,5 +1,9 @@
 Syncs::[[dashboards]]
 
+# Actions
+
+- [ ] Upgrade OS
+
 # Setting Up a New Instance
 
 [Linode - Getting Started](https://www.linode.com/docs/getting-started/)
@@ -52,10 +56,6 @@ In this stage, remember to copy the generated passwords correctly.
 | Dashboards       | /projects/dashboards      |
 
 - postgres: a*a*
-
-# Actions
-
-- [ ] Upgrade OS
 
 # Log
 

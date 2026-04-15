@@ -21,7 +21,7 @@ cover: "[[Media/Avon Street 1.png]]"
 
 ### Purlin
 
-- [ ] Take photo of purlin
+- [ ] Take photo of purlin in attic
 
 The purlin has a crack but appears to not move year-on-year
 
@@ -44,20 +44,23 @@ The purlin has a crack but appears to not move year-on-year
 - Clean rust/limescale
 - [ ] Toilet seat buffer is broken
 - Service boiler
+- Clean containers in top of bathroom drawer
 
 ## Bedroom
 
 - [ ] Buy plug splitter for socket near dresser
+- [ ] Mount bedroom sconces and hanging material
 - Radio alarm / Screen free solution
 - Light fixture could be shortened and straightened
 - Device shelf outside bedroom
 - Black out blinds might make sleep easier (for Summer)
-- Top up soil for Aspadistra plant
+- Top up soil for Aspidistra plant
 - Sand and revarnish side tables
 
 ## Kitchen
 
 - [ ] Sort kitchen cupboards
+- Kitchen corner sliding shelves
 - Fridge WiFi could be connected to
 - Tiling backsplash
 - Oven hood display may be faulty
@@ -97,7 +100,6 @@ The purlin has a crack but appears to not move year-on-year
 
 ## Back Garden
 
-- Have some sort of ramp to get the harp in/out of studio
 - The benches and wooden table need sanding down and revarnishing
 - The edge of the grass needs neatening up
 - The lawn needs mowing
@@ -106,6 +108,11 @@ The purlin has a crack but appears to not move year-on-year
 - Repot plants
 - [ ] Sell Chloe's bike
 - [ ] Sell raised planters
+
+## Garden Room
+
+- [ ] Have some sort of ramp to get the harp in/out of studio
+- Add shelves for music books
 
 ## Other
 

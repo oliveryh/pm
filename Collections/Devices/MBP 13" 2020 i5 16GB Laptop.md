@@ -1,1 +1,2 @@
+- Managed with [[Tools/Nix|Nix]]
 - [ ] Consider selling

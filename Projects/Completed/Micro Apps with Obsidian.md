@@ -47,19 +47,17 @@ I've explored a few basic design patterns in [[2025 - DataviewJS]]
 
 There are some future changes that could be worked on
 
-- [ ] Add new collections
+- [x] Add new collections
 	- [x] Obsidian plugins
 	- [x] GitHub branches
 	- [x] iPhone apps
 	- [x] Notion pages
-	- [ ] Apple Podcasts
 	- [x] Twitter saved items
-	- [ ] Discord channels
-- [ ] Try out Datacore with [example vault](https://forum.obsidian.md/t/starter-vault-things-3-full-featured-datacore-task-management-system-zettelkasten-lookup-para-structure/87754)
-- [ ] Extract useful functionality from [here](https://discord.com/channels/1219902517304098836/1248851796810530816/1385726838223147058)
-- [ ] Try out beto's Datacore shared vault: https://www.youtube.com/@beto_group
-- [ ] Update file mtime/ctime to align with git created/modified times
-- [ ] Don’t import outside a click handler. This will otherwise attempt to make network requests on page loads
+- Try out Datacore with [example vault](https://forum.obsidian.md/t/starter-vault-things-3-full-featured-datacore-task-management-system-zettelkasten-lookup-para-structure/87754)
+- Extract useful functionality from [here](https://discord.com/channels/1219902517304098836/1248851796810530816/1385726838223147058)
+- Try out beto's Datacore shared vault: https://www.youtube.com/@beto_group
+- Update file mtime/ctime to align with git created/modified times
+- Don’t import outside a click handler. This will otherwise attempt to make network requests on page loads
 
 # Resources
 

@@ -1,6 +1,7 @@
 filters:
   and:
-    - note["base"] == link("Assets.base")
+    - base == link("Assets.base")
+    - Status != "Archived"
 properties:
   file.name:
     displayName: Name
@@ -21,3 +22,5 @@ views:
       - Status
       - Notes
       - Market Value
+    columnSize:
+      note.Status: 157

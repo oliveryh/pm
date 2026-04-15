@@ -7,7 +7,7 @@
 # Accounts
 
 - [ ] Update with link to Google Sheet
-- [ ] Add monthly summaries to Google Sheet
+- [ ] Plot and predict balances in shares, pensions, loans, mortgage
 
 |           Description | Account                           |
 | --------------------: | --------------------------------- |

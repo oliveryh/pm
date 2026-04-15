@@ -1,0 +1,11 @@
+- I like to start off day getting through chores that, if not done, might put me in a bad headspace
+	- For example, cleaning the kitchen, tidying, or hoovering
+- I prefer having an idea of what I'll be having for Lunch and Dinner by the start of the day otherwise it'll usually mean a less healthy option
+- I'd like to have a large period of the day where I'm not looking at [[TickTick]] or [[Collections/iPhone/Apps/Linear|Linear]] as that can be a little depressing
+- By the end of the day, some chores need doing such as
+	- Loading the dishwasher
+	- Taking the bins out
+- In the evening, I'd like to be screen free and read a book or articles on my eReader
+- I work every weekday and my general goals for that are
+	- I should aim to be on track with goal related work
+	- Try not to get distracted by side quests or small pieces of tech debt that can add up over time

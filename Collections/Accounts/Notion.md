@@ -1,3 +1,7 @@
+---
+isArchived: true
+---
+
 # Log
 
 ## 2026-04-03

@@ -1,12 +1,13 @@
 # Routines
 
 - Interdental sticks
+- Hair follicle massage
 - Water
-- Exfoliating
 - Vitamins
-- Heated eye mast
+- Exfoliating
 - Physio
-- Antibiotics from Mum
+- Antibiotics
+- Heated eye mask
 
 # Measurements
 

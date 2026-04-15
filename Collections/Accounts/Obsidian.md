@@ -216,7 +216,7 @@ https://github.com/kometenstaub/customizable-page-header-buttons
 
 # Improvements
 
-- [ ] Fix icons on mobile
+- [x] Fix icons on mobile
 - [ ] Ensure Articles/Books/Readwise Reader notes are aggregated if possible
 - [x] Merge repo project notes into Collection notes
 - [x] Remove old notes that I no longer find useful

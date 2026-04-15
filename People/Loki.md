@@ -1,8 +1,17 @@
+# Actions
+
+- [ ] Call parents regularly
+- [ ] See how I can support [[Fleur]] with care for [[Marcia]]
+
 # Resources
 
 - [Ask HN: How are you a good dad to your kids? | Hacker News](https://news.ycombinator.com/item?id=35965469)
 
 # Log
+
+## 2026-04-01
+
+![[Yerbury - Hodgson FGC plan.docx.pdf]]
 
 ## 2026-03-29
 

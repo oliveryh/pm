@@ -3,7 +3,8 @@
 
 ## 2026-04-06
 
-Met Containes boyfriend Chris
+- Met Containes boyfriend Chris
+- There are lessons on Wednesdays
 
 ## 2024-08-21
 

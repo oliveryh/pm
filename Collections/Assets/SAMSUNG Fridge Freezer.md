@@ -2,7 +2,7 @@
 base: "[[Assets.base]]"
 Period Owned: 2025-05-31
 Status: Regular Usage
-Notes: ""
+Notes:
 ---
 
 # Log
