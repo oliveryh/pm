@@ -4,6 +4,8 @@
 
 # 1990s
 
+![[Time-Capsule_Books-For-Boys.pdf|Books for Boys]]
+
 - [Captain Planet and the Planeteers](https://www.youtube.com/watch?v=WSNuNi-WZn8)
 - Come Outside TV show
 

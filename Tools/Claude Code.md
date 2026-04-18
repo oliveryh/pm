@@ -9,7 +9,7 @@
 
 ## 2026-04-16
 
-- Successfully connected and communicated with Claude Code via phone using Remote Control.
+- Successfully connected and communicated with Claude Code via phone using Remote Control
 
 ## 2026-04-04
 

@@ -52,8 +52,10 @@ The main end goal is to have *freedom*. Freedom to go where I want without the b
 - Unreserved, not being the life of the party, but someone who is invested in conversations and social situations
 - A steward to earth and to animals
     - Stepping up for animal rights
-    - Demonstrating reasonably achievable actions to reduce impact
-- Physically fit
+    - Demonstrating reasonably achievable actions to reduce input
+- Physically fit — exercises regularly and treats it as non-negotiable
+- Cooks regularly, tries new meals, and sees it as a form of care for himself and others
+- Intentional with relationships — plans things with friends, family, and Chloe and fully shows up for that time
 - Strong time investment with few important people in my life
 
 ## Things I'm Doing
@@ -71,3 +73,4 @@ The main end goal is to have *freedom*. Freedom to go where I want without the b
 - Watching Porn
 - Using Facebook (deactivated 2018, deleted 2019)
 - Spending time on my phone without a particular focus (aimless browsing)
+- Letting the phone fill time that could be spent on people, cooking, exercise, or rest

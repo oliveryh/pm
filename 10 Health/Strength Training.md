@@ -1,3 +1,7 @@
+# Resources
+
+![[LDNM Exercise Guide.pdf|LDNM Exercise Guide]]
+
 # Tools
 
 ## Apps

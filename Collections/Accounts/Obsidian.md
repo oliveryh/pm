@@ -197,27 +197,9 @@ https://github.com/kometenstaub/customizable-page-header-buttons
 
 ![[Plugins]]
 
-## Obsidian Piclo - Work Laptop
-
-- mermaid-themes
-- obsidian-admonition
-- obsidian-checklist-plugin
-- obsidian-copy-block-link
-- obsidian-emoji-toolbar
-- obsidian-enhancing-mindmap
-- obsidian-graphviz
-- obsidian-hotkeys-for-templates
-- obsidian-style-settings
-- table-editor-obsidian
-- tag-navigator
-- vantage-obsidian
-- nldates-obsidian
-- obsidian-minimal-settings
-
 # Improvements
 
 - [x] Fix icons on mobile
-- [ ] Ensure Articles/Books/Readwise Reader notes are aggregated if possible
 - [x] Merge repo project notes into Collection notes
 - [x] Remove old notes that I no longer find useful
 - [x] Use [Johny Decimal](https://johnnydecimal.com/) scheme to separate General folder

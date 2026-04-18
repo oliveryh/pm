@@ -7,6 +7,7 @@ Teddy is a cat.
 - [ ] Confirm transfer of Microchip transfer
 - [ ] Share street group chat about Teddy
 - [ ] Note down specific vaccines from Vets
+- [ ] Pick up a new cat toy
 
 # Reference
 

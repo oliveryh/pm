@@ -1,5 +1,9 @@
 I store recipes in Thymer that I make regularly
 
+# Cookbooks
+
+![[dishoom - the first ever cookbook from the much-loved indian restaurant - shamil thakrar-compressed.pdf|Dishoom Cookbook]]
+
 # Recipes to add to Thymer
 
 - [ ] Ingest recipes into Thymer

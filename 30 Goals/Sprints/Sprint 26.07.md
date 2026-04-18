@@ -1,15 +1,15 @@
-- [ ] Complete [[Personal Care]] routine on a daily basis
+- [<] Complete [[Personal Care]] routine on a daily basis
 	- Very bad progress here
 - [x] Help [[Teddy]] spend more time outside
-- [ ] See if we can identify [[Teddy]] allergy causes
+- [<] See if we can identify [[Teddy]] allergy causes
 	- Teddy appears to be doing better, but not 100% recovered
-- [ ] Do at least 1 run and 1 weight training session
+- [x] Do at least 1 run and 1 weight training session
 	- Did 1 tennis session instead
 - [x] Get Builder to agree timing for garden renovation
 - [x] Sell/Donate Sideboard and Coffee Grinder
 - [x] Dust the house
 - [x] Finish migrating to new Obsidian setup
-- [ ] Finish reading book
+- [<] Finish reading book
 	- Very bad progress here
 - [x] Repair blinds in second bedroom
 

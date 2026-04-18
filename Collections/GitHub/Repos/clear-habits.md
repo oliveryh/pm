@@ -11,6 +11,10 @@ status: archived
 owner: oliveryh
 ---
 
+# Screenshots
+
+![[clear-habits-old.gif]]
+![[clear-habits-new.gif]]
 # Resources
 
 ## Ideas

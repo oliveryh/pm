@@ -13,6 +13,7 @@ Notes: ""
 - [ ] Add copy of boiler safety
 - [ ] Make note of serial number
 - [ ] Add warranty end date
+- [ ] Register name with BOSCH
 
 # Logs
 

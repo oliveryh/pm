@@ -23,6 +23,7 @@ Notes: |-
 Insurance: Hastings Direct
 Policy Number: XA20011898040
 ![[2023_vauxhall-astra-estate_registration-certificate.pdf|Registration Certificate]]
+![[vauxhall-registration-certificate.pdf|Registration Certificate (original)]]
 ![[CamScanner_02-25-2024_20.45.pdf|Service Log Book]]
 
 ## MOT

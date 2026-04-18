@@ -1,6 +1,6 @@
 ---
 createdAt: 2020-11-29T13:07:08Z
-stargazerCount: 241
+stargazerCount: 244
 issueCount: 16
 isArchived: false
 name: obsidian-emoji-toolbar

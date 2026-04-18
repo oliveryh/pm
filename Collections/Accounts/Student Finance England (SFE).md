@@ -207,10 +207,20 @@ xychart-beta
     line [5.5, 5.5, 5.5, 5.5, 5.5, 5.5, 5.5, 5.5, 5.5, 5.5, 5.5, 3.9, 3.9, 3.9, 3.9, 3.9, 3.9, 3.9, 3.9, 3.9, 3.9, 3.9, 3.9, 4.6, 4.6, 4.6, 4.6, 4.6, 4.6, 4.6, 4.6, 4.6, 4.6, 4.6, 4.6, 6.1, 6.1, 6.1, 6.1, 6.1, 6.1, 6.1, 6.1, 6.1, 6.1, 6.1, 6.1, 6.3, 6.3, 6.3, 6.3, 6.3, 6.3, 6.3, 6.3, 6.3, 6.3, 6.3, 6.3, 5.4, 5.4, 5.4, 5.4, 5.4, 5.4, 5.4, 5.4, 5.4, 5.4, 5.4, 5.4, 5.6, 5.6, 5.6, 5.6, 5.6, 5.6, 5.6, 5.6, 5.6, 5.6, 5.3, 5.3, 4.2, 4.1, 4.1, 4.1, 4.4, 4.4, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 6.3, 6.3, 6.3, 6.5, 6.5, 6.5, 6.9, 6.9, 6.9, 7.1, 7.1, 7.1, 7.3, 7.3, 7.3, 7.5, 7.6, 7.6, 7.7, 7.8, 7.8, 7.9, 7.9, 8.0, 7.3, 7.3, 7.3, 7.3, 7.3, 7.3, 7.3]
 ```
 
+## Annual Statement Documents
+
+![[SFE-Statement-2018-10-05.pdf]]
+![[SFE-Statement-2019-09-25.pdf]]
+![[SFE-Statement-2020-12-24.pdf]]
+![[SFE-Statement-2021-10-14.pdf]]
+![[SFE-Statement-2022-09-13.pdf]]
+![[SFE-Statement-2023-10-24.pdf]]
+![[SFE-Statement-2024-08-22.pdf]]
+![[SFE-Statement-2025-08-14.pdf]]
+
 ## Notes
 
 - Loan originally taken out for a university degree (Plan 2 = post-2012 entrant)
 - Repayments collected via PAYE through HMRC — no repayments until tax year 2018–19
 - Peak balance: £29,889.15 (Apr 2018) — peak interest rate: 8.0% (Aug 2024)
 - Statements available at [manage-student-loan-balance.service.gov.uk](https://www.manage-student-loan-balance.service.gov.uk)
-- PDFs saved to `~/Downloads/SFE-Statement-YYYY-MM-DD.pdf`

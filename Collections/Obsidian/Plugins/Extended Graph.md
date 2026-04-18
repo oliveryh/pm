@@ -1,5 +1,5 @@
 ---
 id: extended-graph
-active: false
+active: true
 deleted: false
 ---

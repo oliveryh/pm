@@ -21,3 +21,5 @@ views:
       - Insurance Claim No#
       - Status
       - Insurance Company
+    columnSize:
+      note.Date: 289

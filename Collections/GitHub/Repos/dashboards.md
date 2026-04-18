@@ -1,7 +1,7 @@
 ---
 createdAt: 2022-02-25T15:38:19Z
 stargazerCount: 0
-issueCount: 17
+issueCount: 20
 isArchived: false
 name: dashboards
 url: https://github.com/oliveryh/dashboards

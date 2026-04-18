@@ -2,6 +2,10 @@
 
 Notes on technical leadership, team dynamics, mentorship, and strategic thinking.
 
+# Documents
+
+- [[Lead Software Engineer - Job Description (24).docx]]
+
 # Log
 
 ## 2025-09-11
@@ -39,4 +43,46 @@ Notes on technical leadership, team dynamics, mentorship, and strategic thinking
 - Try to say no to more requests
 - Only pick up tickets if I have exhausted the opportunities to delegate
 - [x] Establish an iteration lead concept with team
+
+## 2022 - Considering Tech Lead Role
+
+Initial questions when considering moving into a tech lead role:
+- What was missing from Duncan
+- Would I be missing the opportunity to learn if I moved into a leadership role
+
+### Meghan's Thoughts
+
+- Didn't necessarily need a tech lead before
+- Suggests talking to Stu to understand what the needs of a Tech Lead are
+	- Is there a hierarchical thing
+	- Is line management a requirement to be paired alongside a tech lead role
+- Line management is a concept of Servant Leadership
+	- Recognising how people can move up into their career
+- What might be missing
+	- Confidence from non-technical team members that technical decisions are happening in a particular way
+- Leadership
+	- I seem to be good at taking into account other peoples opinons/thinking before making decisions
+- Question what I gain vs lose
+	- Do I want to transition some of my time not coding if I go down line management
+- Question - Will I be happy to be pulled into other positions
+- Suggest a trial
+- Maybe reach out to other devs in a similar position (AS, AL, AG, JC)
+
+### Notes for Discussion with Stu
+
+- Is there any strategy in place for hiring. Will we immediately attempt to hire again?
+	- If yes, Markets team might like to adjust how we run interviews
+	- Similarly, is there any feedback from Duncan that we should take onboard
+- With this Tech Lead position what are the expectations of that role?
+	- Is line management a key part of the role (to alleviate the number of directs for SC/AK)
+- Proposition
+	- Due to the build-up to finding Duncan and now that he's left, I have largely been fulfilling his responsibilities where I can (apart from line management)
+	- What opportunities would there be for me to move into that position, either partially or entirely
+	- I have gained the trust of everyone in the Market's team and we appear to have found a good working balance
+	- I've had a lot of encouragement from the team, Meghan, production team. I'd like to do the best thing for the team / company and it seems like taking a lead to some extent is the best way to do this at the moment
+- Question
+	- Could this happen on a trial basis. Integrating a new tech lead and not succeeding with the hire would hurt our productivity more than me attempting to fullfil the role on a trial basis
+- What do I lack
+	- Line Management skills
+	- Hiring skills
 

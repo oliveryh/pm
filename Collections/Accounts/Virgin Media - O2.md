@@ -7,3 +7,7 @@
 ## 2026-03-29
 
 - Data allowance may need increasing if I go over it again
+
+## 2024-06-14
+
+![[virgin_media_contract.pdf]]

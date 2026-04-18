@@ -4,6 +4,40 @@
 
 # Important Documents
 
+## Contract
+
+![[Oliver Yerbury-Hodgson - Contract of Employment (1).pdf]]
+
+## Redundancy
+
+![[OYH - At Risk Letter - October 2025.pdf]]
+![[OYH - Confirmation Redundancy Letter - Nov 2025.pdf]]
+
+## Tax Forms
+
+### P60 (Year End Tax Summary)
+
+- [[p60_2016.pdf]]
+- [[p60_2017.pdf]]
+- [[p60_2018.pdf]]
+- [[p60_2019.pdf]]
+- [[p60_2020.pdf]]
+- [[p60_2025.pdf]]
+- [[OYH - P60 - 2024_5.pdf]]
+
+### P45 (Leaving Employment)
+
+- [[p45_2021_credit-suisse.pdf|Credit Suisse — 2021]]
+- [[p45_2025_piclo-energy.pdf|Piclo Energy — 2025]]
+
+### P46 (Joining Employment)
+
+- [[p46_2021.pdf]]
+
+### P11D (Benefits in Kind)
+
+- [[p11d_2025.pdf]]
+
 ## Share Options
 
 ![[Oliver Yerbury-Hodgson - Option agreement - March 2022 1.pdf|60 Share options]]
@@ -12,7 +46,19 @@
 ![[OYH - Option_Surrender - Complete_with_Docusign - 9 April 2025 1.pdf|Surrender of 22 share options issued in 2023]]
 ![[OYH - Share_Option_Agreement - Complete_with_Docusign - 9 April 2025 1.pdf|New agreement for 22 share options issued at lower strike price]]
 
-# Updates
+# Log
+
+##  2025-11-01  - Redundancy Confirmed
+
+![[OYH - Confirmation Redundancy Letter - Nov 2025.pdf]]
+
+##  2025-10-01  - At Risk Letter
+
+![[OYH - At Risk Letter - October 2025.pdf]]
+
+##  2024-06-01  - Inflationary Salary Increase
+
+![[OYH_Inflationary Increase Letters_June 24.pdf]]
 
 ##  2025-07-15  - Received P11D Document
 

@@ -117,6 +117,19 @@ A [submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules) can be added 
 - [~nhaehnle/diff-modulo-base - Diff modulo Base tool - sourcehut git](https://git.sr.ht/~nhaehnle/diff-modulo-base)
 - [Super-charging 'git rebase' with 'git absorb'](https://andrewlock.net/super-charging-git-rebase-with-git-absorb/)
 
+# Code Snippets
+
+**Delete all local branches which have been merged**
+`git branch --merged master | grep -v "\* master" | xargs -n 1 git branch -d`
+
+## Diff Two Branches
+
+`diff-excl-master = "!f() { git checkout $1 && git merge -Xours --no-edit master && git rev-parse HEAD | pbcopy && git checkout $2 && git merge -Xours --no-edit master && git diff $(pbpaste) && git checkout master; }; f"`
+
+## Run Command on Every Commit
+
+`git rebase -vx "make makemessages_flex" origin/main`
+
 # Appendix
 
 ## Further Reading

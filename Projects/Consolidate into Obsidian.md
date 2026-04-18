@@ -25,24 +25,21 @@ Some things to avoid too:
 
 # Actions
 
+- [ ] Add `secrets.md` and `Media/` to `.gitignore` (or encrypt)
+- [ ] Migrate back to `second-brain` repo
+- [ ] Schedule backup commits on a cron job
+- [ ] Add longer term backup separate from GitHub
+
 ## Migration Candidates
 
 There are some key places I store data that I’d like to consolidate into Obsidian if possible
 
 - [x] Notion
 - [x] Google Drive
-- [ ] Piclo Obsidian repo
-- [ ] iCloud Files
+- [x] Piclo Obsidian repo
+- [x] iCloud Files
 - [ ] Dropbox
 - [ ] External storage (SSDs, SD cards)
-- [ ] Piclo notion pages (longer term)
-
-## Other Tasks
-
-- [x] Remove unused Media files
-- [x] Combine Assets and Devices collections
-- [ ] Set up a 1 way sync between pm synced files and second-brain repo
-- [x] Pick theme and font
 
 # Daily GitHub Backups
 
@@ -74,14 +71,16 @@ Schedule via cron (11pm daily):
 - **Binary files** — attachments (images, PDFs) will bloat the repo over time; consider a `.gitignore` for `Media/` or use Git LFS
 - **Conflict with existing task** — the "1 way sync between pm synced files and second-brain repo" task in Other Tasks may overlap with this; worth resolving which takes priority
 
-## Actions
-
-- [ ] Create private GitHub repo for vault
-- [ ] Add `secrets.md` and `Media/` to `.gitignore` (or encrypt)
-- [ ] Write and test backup script
-- [ ] Schedule via cron or launchd
-
 # Log
+
+## 2026-04-18
+
+- Finished migrating [[iCloud]] files where possible into Obsidian primarily
+	- Finance documents
+	- Creating a hiking checklist note from existing XLSX files
+- Migrated old Piclo obsidian notes
+- Removed unused Media files
+- Combined Assets and Devices collections
 
 ## 2026-04-05
 

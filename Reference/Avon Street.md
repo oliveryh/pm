@@ -2,6 +2,16 @@
 cover: "[[Media/Avon Street 1.png]]"
 ---
 
+# Important Documents
+
+![[55-avon-street_completion_statement.pdf]]
+![[55-avon-street_declaration-of-trust.pdf]]
+![[55 Avon Contract.pdf|Purchase Contract]]
+![[source-of-funds-statement.pdf|Source of Funds Statement]]
+![[55-avon-street-sovereign-financial-planning_client-agreement.pdf|Sovereign Financial Planning — Client Agreement]]
+![[first-time-buyer-declaration-oliver-yerbury-hodgson.pdf|First Time Buyer Declaration — Oliver]]
+![[first-time-buyer-declaration-chloe-chousmer-kerr.pdf|First Time Buyer Declaration — Chloe]]
+
 # Important Accounts
 
 | Service | Account            |
@@ -16,17 +26,18 @@ cover: "[[Media/Avon Street 1.png]]"
 
 ## Attic
 
+- [ ] Clear the attic at some point
 - There is light coming through one point in the roof although the entry point is small.
 - There are also signs of small nests (likely abandoned). Presumably from wasps
 
 ### Purlin
 
-- [ ] Take photo of purlin in attic
-
 The purlin has a crack but appears to not move year-on-year
 
 > [!note]+ Photos
 >
+> - 2026-04-18
+> ![[Pasted image 20260418214800.png]]
 > - 2025-06-22
 > ![[a5de87b5-c328-42bd-b90f-e96afbaee11e 1.png|Roof purlin on 2025-06-22]]
 > - 2024-08-03
@@ -83,6 +94,7 @@ The purlin has a crack but appears to not move year-on-year
 ## Living Room
 
 - [ ] Mount guitar holders
+- [ ] Clean wood floor
 - The TV needs connecting to terrestrial channels
 - The TV needs connecting to the surround sound
 - Smart lighting
@@ -117,6 +129,7 @@ The purlin has a crack but appears to not move year-on-year
 
 ## Other
 
+- [ ] Mop porch tiling
 - Plaster socket on landing
 - Refinish floors
 - Painting
@@ -147,6 +160,10 @@ The purlin has a crack but appears to not move year-on-year
 - Temperature or Humidity Sensors
 
 # Log
+
+## 2026-04-18
+
+- Took photo of roof purlin
 
 ## 2026-04-03
 

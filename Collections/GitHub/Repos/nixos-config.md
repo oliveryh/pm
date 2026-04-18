@@ -1,7 +1,7 @@
 ---
 createdAt: 2025-02-05T17:45:55Z
 stargazerCount: 0
-issueCount: 17
+issueCount: 21
 isArchived: false
 name: nixos-config
 url: https://github.com/oliveryh/nixos-config

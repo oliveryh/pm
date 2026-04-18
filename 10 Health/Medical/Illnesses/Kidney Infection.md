@@ -31,7 +31,7 @@ Status: Resolved
 - Good bladder emptying and urine flow
 - Poorer right kidney function, consistent with known *hydronephrosis* (kidney swelling due to urine)
 
-## Symptons
+## Symptoms
 
 ### Discharge (2018-10-28)
 
@@ -48,6 +48,10 @@ Status: Resolved
 - Dull subtle pain in testicals
 
 ## Appointments
+
+### Follow-up Note (2019-05-29)
+
+![[Yer18668.pdf]]
 
 ### DMSA Scan Follow-up (2018-12-17)
 

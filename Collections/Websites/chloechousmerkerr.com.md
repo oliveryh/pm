@@ -1,5 +1,11 @@
+# Reference
+
 Syncs::[[chloe-portfolio]]
 User::[[Chloe]]
+
+# Actions
+
+- [ ] Check SEO is improving
 
 # Log
 

@@ -2,8 +2,8 @@
 
 ## Tasks
 
-* [ ] Create a clear breakdown of tasks from 5am to 5pm. The rest is generally 'free time'
-* [ ] Gain a better understanding of what the Reddit RR steps are
+* Create a clear breakdown of tasks from 5am to 5pm. The rest is generally 'free time'
+* Gain a better understanding of what the Reddit RR steps are
 
 ## 5AM Strategy
 
