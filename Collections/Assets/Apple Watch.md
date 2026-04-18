@@ -1,6 +1,6 @@
 ---
 base: "[[Assets.base]]"
-Status: Improvement
-Notes: Maps could be updated
+Status: Regular Usage
+Notes: ""
 ---
 Input::[[Exercise]]

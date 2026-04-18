@@ -291,34 +291,6 @@ The other benefit of writing your own tools is ownership and longevity. Obsidian
 
 # Log
 
-## 2025-04-01
-
-How do I know what to spend my time on. I'd like to prioritise reading, exercise, meeting people, but I end up filling my time with coding, chores, and staring at my laptop. A part of it is a need to feel productive, and unfortunately there appears to be a limitless number of tasks I could be doing at home and work.
-
-## 2025-04-04
-
-I've noticed that my time away from work is becoming more and more of a reminder of how I _should_ be spending my time. I think I'm a bit of a workaholic in some ways, and I class any form of software engineering as "work" because it's effectively the exact same thing. I'd like to develop a gust of life, but am often overwhelmed by the perceived complexity of doing everything properly, and planning it all effectively. I won't feel like I can go and enjoy myself because IO'm painfully aware of all the responsibilities of maintaining a house.
-
-In reality, there will always be more maintenance that could be done, so it's important to balance this all with me enjoying myself.
-
-## 2025-04-05
-
-- I was looking for an app to categorise photos with tags and make them easily searchable
-	- Open source app built by a 14yo  https://apps.apple.com/gb/app/memento-your-mental-inbox/id6541765296
-	- Memento Database https://apps.apple.com/gb/app/memento-database/id1583610478 - An app I’ve used in the past
-	- Slide box https://apps.apple.com/gb/app/slidebox-photo-cleaner-app/id984305203
-	- Karakeep
-
-## 2025-05-01
-
-I still feel like my digital life is now too big to control. It's like 10 years of digital hoarding is looking back at me when I try to do anything. I think COVID must have been when things got particularly bad. I wonder if I need to apply some minimalism principles.
-
-## 2025-06-01
-
-These few months I’ve obsessed over web technologies and automation. I’ve spent 5 days thinking entirely about it. The plants around me have gone dry, the floor strewn with clothes and dirty plates. I’ve added things to a virtual todo list and I’ve not really asked myself why I want to create the most efficient, lightweight, rapidly developed website.
-
-My world isn’t just my screen. It’s how I nourish myself, the relationships I cultivate, and the experiences I seek out. This has gone too far and I need to take a break.
-
 ## 2026-03-21
 
 - MyMind
@@ -341,3 +313,31 @@ On a given day, I can think of these categories of things to do
 - One-off tasks (Smaller tasks that don't take too much planning to complete)
 - Projects (Things that take more thought and time to complete. Only a few projects can be completed in a sprint)
 - Hobbies (Things that I enjoy doing on a regular basis and are generally wholesome)
+## 2025-06-01
+
+These few months I’ve obsessed over web technologies and automation. I’ve spent 5 days thinking entirely about it. The plants around me have gone dry, the floor strewn with clothes and dirty plates. I’ve added things to a virtual todo list and I’ve not really asked myself why I want to create the most efficient, lightweight, rapidly developed website.
+
+My world isn’t just my screen. It’s how I nourish myself, the relationships I cultivate, and the experiences I seek out. This has gone too far and I need to take a break.
+
+## 2025-05-01
+
+I still feel like my digital life is now too big to control. It's like 10 years of digital hoarding is looking back at me when I try to do anything. I think COVID must have been when things got particularly bad. I wonder if I need to apply some minimalism principles.
+
+## 2025-04-05
+
+- I was looking for an app to categorise photos with tags and make them easily searchable
+	- Open source app built by a 14yo  https://apps.apple.com/gb/app/memento-your-mental-inbox/id6541765296
+	- Memento Database https://apps.apple.com/gb/app/memento-database/id1583610478 - An app I’ve used in the past
+	- Slide box https://apps.apple.com/gb/app/slidebox-photo-cleaner-app/id984305203
+	- Karakeep
+
+## 2025-04-04
+
+I've noticed that my time away from work is becoming more and more of a reminder of how I _should_ be spending my time. I think I'm a bit of a workaholic in some ways, and I class any form of software engineering as "work" because it's effectively the exact same thing. I'd like to develop a gust of life, but am often overwhelmed by the perceived complexity of doing everything properly, and planning it all effectively. I won't feel like I can go and enjoy myself because IO'm painfully aware of all the responsibilities of maintaining a house.
+
+In reality, there will always be more maintenance that could be done, so it's important to balance this all with me enjoying myself.
+
+## 2025-04-01
+
+How do I know what to spend my time on. I'd like to prioritise reading, exercise, meeting people, but I end up filling my time with coding, chores, and staring at my laptop. A part of it is a need to feel productive, and unfortunately there appears to be a limitless number of tasks I could be doing at home and work.
+

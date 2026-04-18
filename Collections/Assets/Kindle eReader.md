@@ -1,9 +1,5 @@
 ---
 base: "[[Assets.base]]"
 Status: Assess Usage
-Notes: Sell
+Notes: ""
 ---
-
-# Actions
-
-- [ ] Sell

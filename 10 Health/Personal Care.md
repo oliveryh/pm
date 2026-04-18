@@ -25,11 +25,11 @@
 
 # Log
 
-## 2025-07-14
-
-- Consider salt deodorant as alternative to regular to avoid stains
-
 ## 2025-11-26
 
 - New shaver
 - Replace screen protector
+## 2025-07-14
+
+- Consider salt deodorant as alternative to regular to avoid stains
+

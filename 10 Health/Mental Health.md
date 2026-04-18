@@ -1,5 +1,17 @@
 # Log
 
+## 2026-01-09
+
+- Sweat a lot when driving — unsure if stress or hydration issue
+
+## 2024-11-11
+
+- The chores I do to feel on top of things again are often the same — laundry, cleaning the kitchen etc. If not done, they might be a sign of depression
+
+## 2024-09-14
+
+- Wake up issues: right foot aches and a little swollen; right flank hurts getting out of bed; occasional reflux symptoms
+
 ## 2024-09-13
 
 - Well-being checklist:
@@ -10,18 +22,6 @@
 	5. **Stress** — managing it?
 	6. **Exercise** — getting outside daily, walks or runs?
 	7. **Nutrition** — making good food choices or eating mindlessly?
-
-## 2024-09-14
-
-- Wake up issues: right foot aches and a little swollen; right flank hurts getting out of bed; occasional reflux symptoms
-
-## 2024-11-11
-
-- The chores I do to feel on top of things again are often the same — laundry, cleaning the kitchen etc. If not done, they might be a sign of depression
-
-## 2026-01-09
-
-- Sweat a lot when driving — unsure if stress or hydration issue
 
 # Resources
 

@@ -2,10 +2,14 @@
 # Actions
 
 - [ ] Try out Claude Channels
-- [ ] See if there is a way to use Claude Code from mobile and edit [[pm]] with headless Obsidian Sync
+- [x] See if there is a way to use Claude Code from mobile and edit [[pm]] with headless Obsidian Sync
 - [ ] Add Google Calendar skill
 - [ ] Update triage skill to use grep to search for tasks as otherwise context is lost
 # Log
+
+## 2026-04-16
+
+- Successfully connected and communicated with Claude Code via phone using Remote Control.
 
 ## 2026-04-04
 

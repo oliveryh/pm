@@ -190,10 +190,10 @@ ORDER BY year DESC, count_year DESC
 
 # Log
 
+## 2025-02-01
+
+- I tried Basedash but it's too expensive
 ## 2024-09-14
 
 - I followed [this guide](https://www.digitalocean.com/community/tutorials/how-to-set-up-password-authentication-with-nginx-on-ubuntu-14-04) to add basic auth to the dashboard. This means it should be easier for me to start adding more sensitive information without accidentally exposing it.
 
-## 2025-02-01
-
-- I tried Basedash but it's too expensive

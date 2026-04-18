@@ -11,16 +11,16 @@ Status: Resolved
 
 # Log
 
+## 2019-08-13
+
+- Booked appointment at MyChiro for Monday 19th August
+
 ## 2019-07-22
 
 - Did assessment with AXA PPP Healthcare
 - Received 4 sessions on this claim reference code
     - If more sessions are needed and medically approved, then we can arrange to have more sessions.
 - Can call 03007906191 to arrange sessions
-
-## 2019-08-13
-
-- Booked appointment at MyChiro for Monday 19th August
 
 # Chiropract
 

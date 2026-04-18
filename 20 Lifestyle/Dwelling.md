@@ -6,17 +6,16 @@
 
 # Log
 
-## 2024-09-02
+## 2025-10-12
 
-- Deep cleaned the house — mind feels calmer after doing so. Clarity to think about the small things.
+- Could get new recycling bin (next door may have one of ours)
+## 2025-07-26
 
-## 2024-09-14
+- Should get PiHole added to the home network
 
-- Often overwhelmed with the amount of new complexity since buying a house
+## 2025-06-30
 
-## 2025-01-19
-
-- Using HomeByMe to do 3D mock-ups for landscaping/interior design
+- Had Simone, Stien, and Emily over for dinner — the unbalanced garden table and lack of table cover made it clumsy — should improve that
 
 ## 2025-02-28
 
@@ -24,14 +23,15 @@
 - Book an electrician
 - Put frames up
 
-## 2025-06-30
+## 2025-01-19
 
-- Had Simone, Stien, and Emily over for dinner — the unbalanced garden table and lack of table cover made it clumsy — should improve that
+- Using HomeByMe to do 3D mock-ups for landscaping/interior design
 
-## 2025-07-26
+## 2024-09-14
 
-- Should get PiHole added to the home network
+- Often overwhelmed with the amount of new complexity since buying a house
 
-## 2025-10-12
+## 2024-09-02
 
-- Could get new recycling bin (next door may have one of ours)
+- Deep cleaned the house — mind feels calmer after doing so. Clarity to think about the small things.
+

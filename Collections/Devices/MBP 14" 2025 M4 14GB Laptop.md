@@ -1,1 +1,0 @@
-- Managed with [[Tools/Nix|Nix]]

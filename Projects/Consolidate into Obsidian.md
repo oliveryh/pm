@@ -18,8 +18,8 @@ Some things to avoid too:
 
 ## Tools to Keep
 
-- TickTick
-- Linear
+- TickTick - Habits, Routines, and Tasks within a Sprint
+- Linear - Longer term goals
 - Obsidian
 - iCloud
 
@@ -35,14 +35,51 @@ There are some key places I store data that I’d like to consolidate into Obsid
 - [ ] iCloud Files
 - [ ] Dropbox
 - [ ] External storage (SSDs, SD cards)
+- [ ] Piclo notion pages (longer term)
 
 ## Other Tasks
 
-- [ ] Remove unused Media files
-- [ ] Combine Assets and Devices collections
+- [x] Remove unused Media files
+- [x] Combine Assets and Devices collections
 - [ ] Set up a 1 way sync between pm synced files and second-brain repo
-- [ ] Pick theme and font
-- [ ] Books could be consolidated with Collection notes
+- [x] Pick theme and font
+
+# Daily GitHub Backups
+
+## Approach
+
+Use a cron job or scheduled task to commit and push the vault to a private GitHub repo once per day. Since the vault is already managed as a directory, this is straightforward with a shell script.
+
+## Script
+
+```bash
+#!/bin/bash
+cd /path/to/vault
+git add -A
+git commit -m "backup: $(date '+%Y-%m-%d')" --allow-empty
+git push origin main
+```
+
+Schedule via cron (11pm daily):
+
+```
+0 23 * * * /path/to/backup.sh >> /tmp/obsidian-backup.log 2>&1
+```
+
+## Considerations
+
+- **Private repo** — vault contains sensitive data (finances, health, secrets.md)
+- **secrets.md** — add to `.gitignore` or use [`git-crypt`](https://github.com/AGWA/git-crypt) to encrypt it at rest
+- **Obsidian Sync vs Git** — these can coexist; Git is purely a backup, not a sync mechanism
+- **Binary files** — attachments (images, PDFs) will bloat the repo over time; consider a `.gitignore` for `Media/` or use Git LFS
+- **Conflict with existing task** — the "1 way sync between pm synced files and second-brain repo" task in Other Tasks may overlap with this; worth resolving which takes priority
+
+## Actions
+
+- [ ] Create private GitHub repo for vault
+- [ ] Add `secrets.md` and `Media/` to `.gitignore` (or encrypt)
+- [ ] Write and test backup script
+- [ ] Schedule via cron or launchd
 
 # Log
 

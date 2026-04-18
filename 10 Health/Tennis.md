@@ -6,10 +6,6 @@
 - Met Containes boyfriend Chris
 - There are lessons on Wednesdays
 
-## 2024-08-21
-
-- Jack wants to play tennis after work sometime soon
-
 ## 2026-02-22
 
 - Met the following people
@@ -20,6 +16,9 @@
 - My serve is a little more consistent now
 - My top spin is very wrist-y so often goes out
 
+## 2025-12-16
+
+- Games club on Thursday that Maro mentioned from the tennis group
 ## 2025-11-30
 
 - Went to the Sunday Social tennis session at Victoria Park in Leamington
@@ -38,6 +37,7 @@
 	- Bring bike lights as it'll always be dark by 4:30pm on Sundays this time of the year
 	- I found my ASICS trainers to be a little too much heal, which made my movement around the court feel unstable
 
-## 2025-12-16
+## 2024-08-21
 
-- Games club on Thursday that Maro mentioned from the tennis group
+- Jack wants to play tennis after work sometime soon
+

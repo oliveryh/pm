@@ -3,6 +3,8 @@ base: "[[Assets.base]]"
 Status: Regular Usage
 Notes: ""
 ---
+Syncs::[[Readwise Reader]]
+Syncs::[[Kobo]]
 
 # Log
 

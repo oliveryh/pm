@@ -4,6 +4,12 @@ Period Owned: 2023-10-07
 Status: Improvement
 Notes: Replace screen protector
 ---
+Syncs::[[Virgin Media - O2]]
+Syncs::[[Google Contacts]]
+
+# Further Reading
+
+- [Create a shortcut for even lower phone brightness](https://practicalbetterments.com/create-a-shortcut-for-even-lower-phone-brightness/)
 
 # Order Details
 

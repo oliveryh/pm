@@ -8,6 +8,10 @@ Market Value: 600
 
 # Log
 
+## 2026-04-07
+
+- System reset device - nothing configured
+
 ##  2025-11-13
 
 - Bought off of Piclo for £335

@@ -4,6 +4,8 @@ Status: Regular Usage
 Notes: ""
 ---
 
+- [ ] Consider selling
+
 # Set Up
 
 - Software

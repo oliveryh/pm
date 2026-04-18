@@ -37,6 +37,7 @@ The purlin has a crack but appears to not move year-on-year
 ## Outside
 
 - Mount lantern
+- [ ] Drain blocked outside (noticed 2026-04-18)
 
 ## Bathroom
 

@@ -26,27 +26,12 @@
 
 # Log
 
-## 2025-03-07
+## 2025-11-27
 
-- The green leather bag is far too heavy
-- Arriving 20 minutes before the train is the sweat spot for getting a seat
-- Think about food plans ahead of time to avoid last minute expensive meals
-
-## 2025-04-08
-
-- Trying to do coding while offline is quite frustrating — too dependent on GitHub issue details, library docs, and locally available data
-- Avoid getting sandwich before train as you’ll feel bloated
-- Turnstiles at train station may not open for a later train time if it’s at least 1h away
-- A 9pm train home is okay for a Django event if you want to stick around for less time
-
-## 2025-04-30
-
-- Vivo barefoot shoes interest for travel
-
-## 2025-05-07
-
-- Lanshan Pro 2 — lightweight tent that can be used with walking poles
-
+- Trying to do coding while offline is proving to be quite a frustrating process. I’m depending too much on the following:
+	- Data set up locally to do local development
+	- GitHub issue details being available
+	- Docs for various libraries that I’m using being available
 ## 2025-09-14
 
 - Improved holiday experience checklist:
@@ -59,22 +44,37 @@
 	- Foldable day pack
 	- Headphones
 
-## 2024-01-03
+## 2025-05-26
 
-- I'd quite like to find an offline map that's reliable — something like Organic Maps or OsmAnd
+- https://forum.obsidian.md/t/obsidian-travel-planner-your-offline-trip-planner/100934
+
+## 2025-05-07
+
+- Lanshan Pro 2 — lightweight tent that can be used with walking poles
+
+## 2025-04-30
+
+- Vivo barefoot shoes interest for travel
+
+## 2025-04-08
+
+- Trying to do coding while offline is quite frustrating — too dependent on GitHub issue details, library docs, and locally available data
+- Avoid getting sandwich before train as you’ll feel bloated
+- Turnstiles at train station may not open for a later train time if it’s at least 1h away
+- A 9pm train home is okay for a Django event if you want to stick around for less time
+
+## 2025-03-07
+
+- The green leather bag is far too heavy
+- Arriving 20 minutes before the train is the sweat spot for getting a seat
+- Think about food plans ahead of time to avoid last minute expensive meals
 
 ## 2024-03-09
 
 - I saw that cosy cabin type book again and recall that the author worked on something else I was interested in
 ![[IMG_0289.jpeg]]
 
-## 2025-05-26
+## 2024-01-03
 
-- https://forum.obsidian.md/t/obsidian-travel-planner-your-offline-trip-planner/100934
+- I'd quite like to find an offline map that's reliable — something like Organic Maps or OsmAnd
 
-## 2025-11-27
-
-- Trying to do coding while offline is proving to be quite a frustrating process. I’m depending too much on the following:
-	- Data set up locally to do local development
-	- GitHub issue details being available
-	- Docs for various libraries that I’m using being available

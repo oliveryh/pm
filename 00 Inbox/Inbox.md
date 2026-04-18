@@ -1,0 +1,2 @@
+- Caribbean event in Swindon (June, date TBC) — parents want Oliver to come
+- Get bin back from next door neighbour
