@@ -28,7 +28,11 @@
       "mcp__thymer__create_line_item",
       "Bash(gws sheets:*)",
       "Bash(ls:*)",
-      "Bash(cat:*)"
+      "Bash(cat:*)",
+      "mcp__linear-server__list_issues",
+      "mcp__linear-server__list_cycles",
+      "Bash(gws calendar:*)",
+      "Bash(wait)"
     ]
   }
 }

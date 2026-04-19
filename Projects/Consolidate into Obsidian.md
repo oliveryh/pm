@@ -25,10 +25,11 @@ Some things to avoid too:
 
 # Actions
 
-- [ ] Add `secrets.md` and `Media/` to `.gitignore` (or encrypt)
+- [x] Add `secrets.md` and `Media/` to `.gitignore` (or encrypt)
 - [ ] Migrate back to `second-brain` repo
 - [ ] Schedule backup commits on a cron job
 - [ ] Add longer term backup separate from GitHub
+- [ ] Improve secrets management
 
 ## Migration Candidates
 

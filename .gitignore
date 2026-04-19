@@ -1,3 +1,6 @@
 .obsidian
 .DS_Store
 secrets.md
+.skills-lock.json
+.skills/
+.docs/
