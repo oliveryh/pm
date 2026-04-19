@@ -1,0 +1,17 @@
+filters:
+  and:
+    - base == link("Projects.base")
+properties:
+  file.name:
+    displayName: Name
+  status:
+    displayName: Status
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - status
+    sort: []
+  - type: table
+    name: View

@@ -1,3 +1,8 @@
+---
+status: Completed
+base: "[[Projects.base]]"
+---
+
 # Introduction
 
 I've always enjoyed creating small utilities to help distil my online life into a single location. Often I'd want to scrape an API to see things in aggregate, or want a more minimalist interface to the data I have hosted all over the internet.
@@ -57,7 +62,7 @@ There are some future changes that could be worked on
 - Extract useful functionality from [here](https://discord.com/channels/1219902517304098836/1248851796810530816/1385726838223147058)
 - Try out beto's Datacore shared vault: https://www.youtube.com/@beto_group
 - Update file mtime/ctime to align with git created/modified times
-- Don’t import outside a click handler. This will otherwise attempt to make network requests on page loads
+- Don't import outside a click handler. This will otherwise attempt to make network requests on page loads
 
 # Resources
 
@@ -82,11 +87,11 @@ There are some future changes that could be worked on
 ## 2025-06-10 - [localfirst.fm Episode 24](https://podcasts.apple.com/gb/podcast/localfirst-fm/id1725721050?i=1000706512882)
 
 - Ben Holmes created something called Simple Sync Engine as a learning resource
-- He’d personally used Zero by Rocicorp as well
+- He'd personally used Zero by Rocicorp as well
 
 ## 2025-06-12
 
-- Today I’ve more or less decided that experimenting with Obsidian has the highest utility to time spend ratio
+- Today I've more or less decided that experimenting with Obsidian has the highest utility to time spend ratio
 - The notes showcase in the Obsidian Discord has some good resources for inspiration https://discord.com/channels/686053708261228577/1304548353232867348/1304548353232867348
 
 ## Miscellaneous Resources

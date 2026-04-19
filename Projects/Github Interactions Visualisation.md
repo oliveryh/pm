@@ -1,3 +1,8 @@
+---
+status: Completed
+base: "[[Projects.base]]"
+---
+
 # Introduction
 
 A git repo tells you quite a lot about how a team operates. Who are the ones doing more reviews than code contributions, which people tend to work closely together. I've developed a bit of an obsession recently with asking questions like "What would it look like if I created a relationship network of code reviews" and my mind immediately exploding with how I might store it or what javascript library would be best to display it.

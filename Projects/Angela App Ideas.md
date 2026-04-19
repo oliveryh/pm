@@ -1,3 +1,8 @@
+---
+status: Idea
+base: "[[Projects.base]]"
+---
+
 Angela needed some help with two potential apps
 
 - Invoice for distance travelled

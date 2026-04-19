@@ -1,3 +1,7 @@
+# Actions
+
+- [ ] Add longer term backup separate from GitHub
+- [ ] Improve secrets management
 # Log
 
 ## 2026-03-14

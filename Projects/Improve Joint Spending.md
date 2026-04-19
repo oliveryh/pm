@@ -1,3 +1,8 @@
+---
+status: Idea
+base: "[[Projects.base]]"
+---
+
 # Motivation
 
 Currently Oliver pays for most shared expenses and we operate from separate accounts. The goal is to move to a joint account as the primary account for shared spending, reducing friction and making finances fairer.

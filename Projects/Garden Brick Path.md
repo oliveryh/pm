@@ -1,3 +1,8 @@
+---
+status: Active
+base: "[[Projects.base]]"
+---
+
 # Actions
 
 - [ ] Pay landscapers (by 2026-04-22)

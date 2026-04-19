@@ -17,7 +17,7 @@
 
 ## 2026-04-05
 
-I obsessed a little on my [[Consolidate into Obsidian]] project and devoted a large amount of time to that this sprint
+I obsessed a little on my [[Obsidian as a Personal Assistant]] project and devoted a large amount of time to that this sprint
 
 ## 2026-03-24
 
