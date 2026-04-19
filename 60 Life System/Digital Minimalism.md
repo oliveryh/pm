@@ -1,8 +1,14 @@
-# Digital Minimalism
 
 Notes on reducing digital footprint, auditing subscriptions, tool consolidation, and screen time reduction.
 
+# Actions
+
 # Log
+
+## 2026-04-19
+
+- Deleted Dropbox Account
+- Deleted Box Account
 
 ## 2026-02-02
 
@@ -15,6 +21,7 @@ Notes on reducing digital footprint, auditing subscriptions, tool consolidation,
 
 - Keeping too many old laptops I don't need
 - My digital footprint is still too large
+
 ## 2025-05-22
 
 - Removing things may not be effective enough — may need to create a fresh digital space to migrate towards
@@ -56,4 +63,3 @@ Notes on reducing digital footprint, auditing subscriptions, tool consolidation,
 ## 2024-02-23
 
 I played around with linear.app today and was impressed. I might be able to use it to replace Notion for longer term task management and planning. Given it's keyboard focus, it appears to be a lot friendlier. In addition, I can maybe get it to integrate with ClearHabits a lot better
-

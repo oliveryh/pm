@@ -7,4 +7,4 @@
 
 ## 2026-04-06
 
-- Enabled forwarding to [[Google Mail]] account (doesn't appear to work though)
+- Enabled forwarding to [[Google Mail]] account

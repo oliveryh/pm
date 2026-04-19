@@ -38,7 +38,7 @@ There are some key places I store data that I’d like to consolidate into Obsid
 - [x] Google Drive
 - [x] Piclo Obsidian repo
 - [x] iCloud Files
-- [ ] Dropbox
+- [x] Dropbox
 - [ ] External storage (SSDs, SD cards)
 
 # Daily GitHub Backups

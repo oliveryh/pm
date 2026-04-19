@@ -1,13 +1,12 @@
 ---
 
 ---
+
 # Reference
 
 - [Costing Projection Google Sheet](https://docs.google.com/spreadsheets/d/1WcHHXX9tsmrqShxytXwW1OwYldl9xLMFPuBMesKPFb0/edit?usp=drive_link)
-# Accounts
 
-- [ ] Update with link to Google Sheet
-- [ ] Plot and predict balances in shares, pensions, loans, mortgage
+# Accounts
 
 |           Description | Account                           |
 | --------------------: | --------------------------------- |
@@ -17,6 +16,7 @@
 |          Student Loan | [[Student Finance England (SFE)]] |
 |              Mortgage | [[Nationwide]]                    |
 |      Credit Agreement | [[Etika]]                         |
+
 Also worth considering:
 - Shares
 - Subscriptions

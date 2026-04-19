@@ -67,6 +67,12 @@ The main end goal is to have *freedom*. Freedom to go where I want without the b
 - Few possessions
 - Physical freedom (no aches or pains)
 
+## Things I'm Working On
+
+- Drinking enough water consistently throughout the day
+- Prioritising long form media (books, long articles) over short-form content
+- Keeping up a personal care routine as an act of self-respect
+
 ## Things I'm Not Doing
 
 - Reddit

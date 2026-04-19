@@ -135,3 +135,5 @@ Forget - Virgin Mobile -  2025-07-17
 Delete - Meetup -  2025-07-17
 Delete - Observable -  2025-07-17
 Forget - IKEA -  2025-07-18
+Delete - Dropbox - 2026-04-19
+Delete - Box - 2026-04-19

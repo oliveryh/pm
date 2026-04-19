@@ -23,6 +23,7 @@
 - [Doppio](https://goo.gl/maps/FriaA2trYMR2)
 - [Earth Natural Foods](https://goo.gl/maps/7h68MZwRZNM2)
 - [Gail's](https://goo.gl/maps/Gi2nESHWG2z)
+- Chilli Brothers Smoked Chilli Sauce
 
 ## Cosmetics
 
