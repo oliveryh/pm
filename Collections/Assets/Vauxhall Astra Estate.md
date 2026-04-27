@@ -10,7 +10,6 @@ Notes: |-
 # Various Issues
 
 - [ ] Chip in windscreen should be sealed via insurance
-- [ ] After-market sensors are faulty
 - [ ] Engine splash cover should be replaced
 - [ ] Plastic at front is pulling down
 - [ ] Rattling left side mirror
@@ -42,6 +41,10 @@ Policy Number: XA20011898040
 | Main Service |  2025-12-01   | Tyreman LTD |
 
 # Log
+
+## 2026-04-26
+
+- After market sensors have been faulty in the past, but we haven't had any issue for 6-12 months
 
 ##  2025-12-01  - Full Service
 

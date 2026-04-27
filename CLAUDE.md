@@ -62,6 +62,7 @@ This is Oliver's personal knowledge management (PKM) vault, built in Obsidian. I
 - **Sprint naming:** `YY.NN` — year then sprint number
 - **Wikilinks:** Internal links use `[[Note Name]]` syntax
 - **Assets base:** Items in `Collections/Assets/` use `Assets.base` for structured metadata
+- **Telegram responses:** When mentioning a vault file path, write it as plain quoted text without the .md extension (e.g. "Daily Notes/2026-04-22") — do not use Obsidian URIs or code font, as both cause formatting issues in Telegram
 
 ## Scripts
 

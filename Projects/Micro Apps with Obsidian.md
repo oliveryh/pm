@@ -1,6 +1,8 @@
 ---
 status: Completed
 base: "[[Projects.base]]"
+start_date: 2025-06-12
+end_date: 2026-04-19
 ---
 
 # Introduction

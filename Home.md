@@ -1,5 +1,30 @@
 *A place to call home*
 
+## Recently Edited
+
+```dataviewjs
+const now = DateTime.now();
+const pages = dv.pages()
+    .sort(p => p.file.mtime, "desc")
+    .limit(5);
+
+function timeAgo(mtime) {
+    const totalMins = Math.floor(now.diff(mtime, "minutes").minutes);
+    const h = Math.floor(totalMins / 60);
+    const m = totalMins % 60;
+    if (h > 0 && m > 0) return `${h}h ${m}m`;
+    if (h > 0) return `${h}h`;
+    return `${m}m`;
+}
+
+const wrap = dv.el("div", "", { attr: { style: "display:flex; flex-direction:column; gap:4px;" } });
+for (const p of pages) {
+    const row = wrap.createEl("div", { attr: { style: "display:flex; justify-content:space-between; align-items:center; gap:12px;" } });
+    const link = row.createEl("a", { text: p.file.name, cls: "internal-link", attr: { href: p.file.path, "data-href": p.file.path, style: "overflow:hidden; text-overflow:ellipsis; white-space:nowrap;" } });
+    row.createEl("span", { text: timeAgo(p.file.mtime), attr: { style: "color:var(--text-muted); font-size:0.85em; white-space:nowrap; flex-shrink:0;" } });
+}
+```
+
 ```dataviewjs
 const tasks = dv.pages().file.tasks.where(t => !t.completed && t.status !== "<" && t.status !== "?");
 const count = tasks.length;

@@ -12,6 +12,9 @@ views:
     name: Table
     order:
       - number
+      - org
+      - repo
       - title
       - formula.state_icon
       - url
+    columnSize: {}

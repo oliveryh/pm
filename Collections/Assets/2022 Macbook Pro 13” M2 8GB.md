@@ -6,6 +6,10 @@ Notes: ""
 Market Value: 600
 ---
 
+# Tasks
+
+- [ ] Migrate day-to-day usage from [[2020 Macbook Pro 13” i5 16GB]]
+
 # Log
 
 ## 2026-04-07

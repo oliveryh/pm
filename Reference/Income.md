@@ -9,8 +9,7 @@
 # Actions
 
 - [ ] Check total NI and Tax contributions year on year
-- [ ] Understand who my medical insurance is with
-- [ ] Opt into Pension
+- [ ] [Assess work benefits](https://linear.app/oliveryh/project/assess-work-benefits-6a10662191ad/issues?layout=list&ordering=priority&grouping=workflowState&subGrouping=none&showCompletedIssues=all&showSubIssues=true&showTriageIssues=true)
 
 # Log
 

@@ -21,6 +21,10 @@ const clickHandler = async () => {
 				  title
 				  number
 				  state
+				  repository {
+					owner { login }
+					name
+				  }
 				}
 			  }
 			}
@@ -43,6 +47,8 @@ const clickHandler = async () => {
 			number: edge.node.number,
 			url: edge.node.url,
 			state: edge.node.state,
+			org: edge.node.repository.owner.login,
+			repo: edge.node.repository.name,
 		})
 	}
 	// Delete files
@@ -62,6 +68,3 @@ createButton({ app, el: this.container, args: { name: "🔄 Sync Assigned Issues
 ```
 
 ![[GitHub Issues.base]]
-- [x] Add button to copy to markdown
-- [x] Click may be getting overridden as the last row
-- [ ] Add org/repo reference in table

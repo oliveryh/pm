@@ -1,6 +1,8 @@
 ---
 status: Idea
 base: "[[Projects.base]]"
+start_date: 2021-10-11
+end_date: 
 ---
 
 Combined [heatmappy](https://github.com/LumenResearch/heatmappy) with Google Location data to understand long term migration across London.

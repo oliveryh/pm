@@ -1,29 +1,16 @@
-I store recipes in Thymer that I make regularly
+I store recipes in [[Collections/Accounts/Thymer|Thymer]] that I make regularly
+
+# Easy Lunches
+
+## Greek Salad Wrap
+
+- Lidl protein wraps
+- Cucumber, tomato, red onion, olives, feta
+- Dress with olive oil, lemon juice, dried oregano
 
 # Cookbooks
 
-![[dishoom - the first ever cookbook from the much-loved indian restaurant - shamil thakrar-compressed.pdf|Dishoom Cookbook]]
-
-# Recipes to add to Thymer
-
-- [ ] Ingest recipes into Thymer
-
-- [Roasted Broccoli Sweet Potato Salad | Minimalist Baker Recipes](https://minimalistbaker.com/roasted-broccoli-sweet-potato-chickpea-salad)
-- [Vegetarian Sweet Potato Chili - Cookie and Kate](https://cookieandkate.com/sweet-potato-chili-recipe)
-- https://cooking.nytimes.com/recipes/11376-no-knead-bread
-- [Butternut Squash Veggie Pizza | Minimalist Baker Recipes](https://minimalistbaker.com/butternut-squash-veggie-pizza)
-- [Peanut Butter Overnight Oats (5 Ingredients!) | Minimalist Baker Recipes](https://minimalistbaker.com/peanut-butter-overnight-oats)
-- [Sweet Potato Black Bean Burger | Minimalist Baker Recipes](https://minimalistbaker.com/sweet-potato-black-bean-burger)
-- [The Best Chickpea Veggie Burger Recipe - Running on Real Food](https://runningonrealfood.com/chickpea-veggie-burgers)
-- [Coconut Sweet Potato Curry | One Ingredient Chef](https://www.oneingredientchef.com/sweet-potato-stew)
-- [Healthy 3-Ingredient Banana Oatmeal Cookies - Skinnytaste](https://www.skinnytaste.com/healthy-cookies)
-- [Shakshuka: Tasty Middle Eastern Egg Dish Recipe &amp; Video](https://toriavey.com/toris-kitchen/shakshuka)
-- [Baked aubergines, chickpeas and tomatoes](https://www.theguardian.com/food/2022/aug/13/baked-aubergines-chickpeas-tomatoes-vegan-recipe-meera-sodha)
-- [The Best Freezer Vegan Breakfast Burrito](https://www.emilieeats.com/freezer-vegan-breakfast-burrito/?r_done=1)
-- [Roasted broccoli & cauliflower recipe | Jamie Oliver recipes](https://www.jamieoliver.com/recipes/vegetables-recipes/roasted-brassicas-with-puy-lentils-halloumi)
-- [Vegan shepherd's pie | Vegetables recipes | Jamie Oliver](https://www.jamieoliver.com/recipes/vegetables-recipes/vegan-shepherd-s-pie)
-- [Healthy Soup Recipe - Kale and Quinoa Minestrone - Cooking Classy](https://www.cookingclassy.com/kale-quinoa-minestrone-vegan-gluten-free)
-- [This Is How You Make the Best Espresso](https://www.youtube.com/shorts/nPkiedlHZdU)
+- Dishoom cook book stored in [[iCloud]]
 
 # YouTubers
 
@@ -74,7 +61,7 @@ I store recipes in Thymer that I make regularly
 ## 2024-07-22
 
 - Try Whipped cold coffee
+
 ## 2024-03-22
 
 - Cannolo siciliano recommended by Beatrice
-

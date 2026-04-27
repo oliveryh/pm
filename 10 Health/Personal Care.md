@@ -5,6 +5,7 @@
 - Water
 - Vitamins
 - Exfoliating
+- Moisturise arms
 - Physio
 - Antibiotics
 - Heated eye mask
@@ -24,6 +25,10 @@
 - Chloe also mentioned some hair loss treatment
 
 # Log
+
+## 2026-04-24
+
+- Arms are very dry
 
 ## 2025-11-26
 

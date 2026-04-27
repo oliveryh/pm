@@ -18,6 +18,11 @@ Pulls::[[Collections/Accounts/TickTick|TickTick]]
 
 *Dashboards is a project to aggregate and visualise data owned both personally or externally.*
 
+# Actions
+
+- [ ] Fix deployment
+
+
 # Reference
 
 Currently hosted at http://139.162.225.25/dashboards/

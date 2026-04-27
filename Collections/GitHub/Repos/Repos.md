@@ -78,14 +78,12 @@ createButton({ app, el: this.container, args: { name: "🔄 Sync Repos" }, click
 
 # Tasks
 
-- [x] Add soft deletion
-
 # Log
 
 ## 2025-12-19
 
-- [x] Deleted unused repos and updated issues
+- Deleted unused repos and updated issues
 
 ## 2025-06-22
 
-- [x] Update issue count to be open issues
+- Update issue count to be open issues

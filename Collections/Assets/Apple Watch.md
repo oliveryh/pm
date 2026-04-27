@@ -4,3 +4,13 @@ Status: Regular Usage
 Notes: ""
 ---
 Input::[[Exercise]]
+
+# Actions
+
+- [ ] Add work calendar to watch
+
+# Log
+
+## 2026-04-26
+
+- Updated watch face

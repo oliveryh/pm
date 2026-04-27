@@ -5,6 +5,7 @@
 - By the end of the day, some chores need doing such as
 	- Loading the dishwasher
 	- Taking the bins out
+- From 9pm, I stop all productive work and shift into wind-down mode — read a book, relax, nothing that requires mental effort
 - In the evening, I'd like to be screen free and read a book or articles on my eReader
 - I work every weekday and my general goals for that are
 	- I should aim to be on track with goal related work

@@ -73,11 +73,6 @@ createButton({ app, el: this.container, args: { name: "🔄 Sync Assigned PRs" }
 ```
 
 ![[GitHub Pull Requests.base]]
-- [ ] Add open pull requests as dynamic list
-- [ ] Display approval status
-- [ ] Display time since raised
-- [ ] Replace characters not allowed for folders # / :
-- [ ] Issues with the same name will write over each other
 
 ```dataviewjs
 console.log(app.vault.getFiles().filter(file => file.parent.path == dv.current().file.folder).filter(file => file.path != dv.current().file.path))

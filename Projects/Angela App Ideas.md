@@ -1,6 +1,8 @@
 ---
 status: Idea
 base: "[[Projects.base]]"
+start_date: 2026-03-28
+end_date: 
 ---
 
 Angela needed some help with two potential apps

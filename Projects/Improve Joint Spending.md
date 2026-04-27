@@ -1,6 +1,8 @@
 ---
 status: Idea
 base: "[[Projects.base]]"
+start_date: 2026-04-18
+end_date: 
 ---
 
 # Motivation
@@ -46,11 +48,11 @@ Starling is probably the closest to Monzo in experience but with a better reputa
 
 ## Transition Steps
 
-- [ ] Agree which bank to use with Chloe
-- [ ] Open joint account
-- [ ] List all shared expenses currently paid individually
-- [ ] Set up direct debits and standing orders from joint account
-- [ ] Agree monthly contribution amounts
-- [ ] Close or demote Monzo joint account once settled
+- Agree which bank to use with Chloe
+- Open joint account
+- List all shared expenses currently paid individually
+- Set up direct debits and standing orders from joint account
+- Agree monthly contribution amounts
+- Close or demote Monzo joint account once settled
 
 # Log

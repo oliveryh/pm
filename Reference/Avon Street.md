@@ -48,7 +48,12 @@ The purlin has a crack but appears to not move year-on-year
 ## Outside
 
 - Mount lantern
-- [ ] Drain blocked outside (noticed 2026-04-18)
+- Perimeter bricks can be pulled out if needed (confirmed by landscapers)
+
+## Grass / Garden
+
+- If adding grass, landscapers recommended meadow seed — best sown now (April) or in October
+- Use gravel at the bottom of beds for drainage (landscaper recommendation)
 
 ## Bathroom
 
@@ -60,7 +65,7 @@ The purlin has a crack but appears to not move year-on-year
 
 ## Bedroom
 
-- [ ] Buy plug splitter for socket near dresser
+- [x] Buy plug splitter for socket near dresser
 - [ ] Mount bedroom sconces and hanging material
 - Radio alarm / Screen free solution
 - Light fixture could be shortened and straightened
@@ -71,7 +76,8 @@ The purlin has a crack but appears to not move year-on-year
 
 ## Kitchen
 
-- [ ] Sort kitchen cupboards
+- [ ] Replace corner cupboard with pull out tray
+- [ ] Clean fridge
 - Kitchen corner sliding shelves
 - Fridge WiFi could be connected to
 - Tiling backsplash
@@ -95,6 +101,7 @@ The purlin has a crack but appears to not move year-on-year
 
 - [ ] Mount guitar holders
 - [ ] Clean wood floor
+- [x] Clean sick off sofa
 - The TV needs connecting to terrestrial channels
 - The TV needs connecting to the surround sound
 - Smart lighting
@@ -114,13 +121,8 @@ The purlin has a crack but appears to not move year-on-year
 ## Back Garden
 
 - The benches and wooden table need sanding down and revarnishing
-- The edge of the grass needs neatening up
-- The lawn needs mowing
-- The back gate is hard to open
 - Back door to house is very difficult to open reliably now. May just be water swelling but it’s very annoying
 - Repot plants
-- [ ] Sell Chloe's bike
-- [ ] Sell raised planters
 
 ## Garden Room
 
@@ -160,6 +162,14 @@ The purlin has a crack but appears to not move year-on-year
 - Temperature or Humidity Sensors
 
 # Log
+
+## 2026-04-26
+
+- Noticed flickering kitchen light
+
+## 2026-04-25
+
+- Builder noted that the outside drain should be cleared on occasion (it was blocked with hair)
 
 ## 2026-04-18
 

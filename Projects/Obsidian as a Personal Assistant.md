@@ -1,6 +1,8 @@
 ---
 status: Active
 base: "[[Projects.base]]"
+start_date: 2026-03-14
+end_date: 
 ---
 
 # Motivation
@@ -56,16 +58,23 @@ flowchart TD
     subgraph phone[Phone]
         B[Obsidian]
         E[Claude Code]
+        F[Telegram]
     end
     subgraph vps[VPS]
         C["/projects/pm"]
+        G[Claude Code Session]
+        H[Telegram Channel Server]
     end
 
     A <-->|Obsidian Sync| S[Obsidian Sync Server]
     B <-->|Obsidian Sync| S
     C <-->|Obsidian Sync| S
     C -->|daily-commit.sh| D[GitHub<br>private repo]
-    E <-->|Remote Control| C
+    E <-->|Remote Control| G
+    G <--> C
+    F <-->|Bot API| T[Telegram]
+    T <--> H
+    H <--> G
 ```
 
 ## VPS + Claude Code
@@ -151,6 +160,7 @@ Schedule via cron (11pm daily):
 ## 2026-04-19
 
 - Added daily backups for second-brain, assuming a background task is syncing using obsidian
+- Connected to Telegram using Claude Channels
 
 ## 2026-04-18
 

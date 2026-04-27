@@ -1,17 +1,24 @@
 # Log
 
 
+## 2026-04-26
+
+- Met George and Jason
+- Jason mentioned a salsa club called Leaf in Leamington
+- Quentin mentioned a Barclays tournament that starts again on 2026-06-07
+- Tried to play more top spin — mixed success; wrist is a little sore so technique needs work
+
 ## 2026-04-06
 
-- Met Containes boyfriend Chris
-- There are lessons on Wednesdays
+- Met Quentin boyfriend Chris
+- There are coaching lessons on Wednesdays that I could consider going to
 
 ## 2026-02-22
 
 - Met the following people
 	- Rav
 	- Carl
-	- Cottom
+	- Quentin
 - The sun was out so I could have done with sunglasses or a cap
 - My serve is a little more consistent now
 - My top spin is very wrist-y so often goes out

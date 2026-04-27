@@ -10,3 +10,6 @@ isPrivate: false
 deleted: false
 status:
 ---
+# Actions
+
+- [ ] Commit latest changes

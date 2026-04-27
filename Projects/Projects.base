@@ -12,6 +12,8 @@ views:
     order:
       - file.name
       - status
-    sort: []
+    sort:
+      - property: Status
+        direction: ASC
   - type: table
     name: View

@@ -83,7 +83,15 @@ Similar process to the tuck, however at the extension, the head can them be curl
 - [Neck Pain Stretches & Exercises - Ask Doctor Jo](https://www.youtube.com/watch?v=2NOsE-VPpkE)
 - [Novel Movements for the Hand, Wrist, and Elbow](https://www.youtube.com/watch?v=-hlWgH3\_0NU)
 
+# Actions
+
+- [ ] Revisit the exercise guide given by the specialist
+
 # Logs
+
+## 2026-04-20
+
+- 10 minutes of physio exercises — not very confident with the routine, need to revisit
 
 ## 2026-01-15
 

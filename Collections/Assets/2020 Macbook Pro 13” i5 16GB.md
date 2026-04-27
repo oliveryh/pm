@@ -5,7 +5,12 @@ Notes: Battery depletes to 0% while on standby
 Market Value: 400
 ---
 
+# Reference
+
 - Managed with [[Tools/Nix|Nix]]
+
+# Actions
+
 - [ ] Consider selling
 
 # Log

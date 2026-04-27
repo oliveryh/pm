@@ -1,3 +1,4 @@
+- [Galaxy Brain](https://galaxybrain.com/) - Second brain tool
 - [reflex (reflex-dev) (15.7k ★)](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - Video of migration from React to htmx
 - Possibly learning how to create prompts for GPT-4 and seeing what applications there are in my own life
@@ -27,5 +28,6 @@
 - Begleri toy
 - https://kolorize.cc/
 - Check to see what Google take out has on me
+- Raycast Pro
 
 ![[Pasted image 20240622162856.png]]

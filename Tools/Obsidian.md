@@ -2,7 +2,24 @@
 
 - [ ] Add longer term backup separate from GitHub
 - [ ] Improve secrets management
+- [ ] Investigate disabling certain plugins on mobile
+- [ ] Set up a scheduled task to reset Claude context daily
+- [ ] It looks like some things may not be getting synced `daily-commit.sh` script for example
+
 # Log
+
+## 2026-04-27
+
+- Replaced missing icons using Claude Code
+
+## 2026-04-26
+
+- Audited and compressed large Media files to stay under the 5 MB Obsidian Sync limit
+  - Installed `ghostscript` via Homebrew for PDF compression
+  - `55 Avon Contract.pdf`: 6.6 MB → 3.6 MB (gs `/ebook`)
+  - `LDNM Exercise Guide.pdf`: 7.7 MB → 2.6 MB (gs `/screen`)
+  - `2025 - Buy a House.jpeg`: 10 MB → 1.7 MB (resized to 3000px, sips quality 70)
+  - `dishoom cookbook.pdf`: moved to iCloud Drive (already heavily compressed, couldn't shrink further)
 
 ## 2026-03-14
 
@@ -11,6 +28,7 @@
 ## 2025-11-20
 
 - Should look again at Linking Your Thinking mobile navigation on Obsidian mobile
+
 ## 2025-06-03
 
 - https://forum.obsidian.md/t/14-example-vaults-from-around-the-web-kepano-nick-milo-the-sweet-setup-and-more/81788
@@ -32,4 +50,3 @@
 ## 2024-10-15
 
 - Remember to try Excalibrain plugin for graph view of notes
-

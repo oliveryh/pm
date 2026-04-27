@@ -2,12 +2,11 @@ Teddy is a cat.
 
 # Actions
 
-- [ ] Sanity check food routine
+- [ ] Clip nails
 - [ ] Buy break-away collar
 - [ ] Confirm transfer of Microchip transfer
 - [ ] Share street group chat about Teddy
 - [ ] Note down specific vaccines from Vets
-- [ ] Pick up a new cat toy
 
 # Reference
 
@@ -17,6 +16,10 @@ Teddy is a cat.
 - Cover type: **Covered For Life® Plan with £7,000 for vet fees each year for all illnesses & injuries**
 - Cover start date: **15 March 2026**
 - Cover for illness start date: **29 March 2026**. any illness that starts before this date will not be covered.
+
+# Preferences
+
+- Cat litter: CatSan (preferred)
 
 # What to Buy
 
@@ -32,6 +35,16 @@ Teddy is a cat.
 
 # Log
 
+## 2026-04-26
+
+- Reduced food intake to 2 portions per day (down from 3)
+- One portion = 9g, so currently getting 18g dry food per day
+- Target is 75g dry food, but with one wet pouch included should be 60g or less dry
+
+## 2026-04-24
+
+- Threw up last night
+
 ## 2026-04-06
 
 - I weighed Teddy and he was ~5kg
@@ -39,7 +52,7 @@ Teddy is a cat.
 ## 2026-03-30
 
 - Teddy vomited up grass today
-- He also got into a fight with another cat and had a claw lodged in the fur in his head. I could see any blood, but I should keep an eye on it
+- He also got into a fight with another cat and had a claw lodged in the fur in his head. I couldn't see any blood, but I should keep an eye on it
 
 ## 2026-03-25
 

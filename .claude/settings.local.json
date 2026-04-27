@@ -32,7 +32,16 @@
       "mcp__linear-server__list_issues",
       "mcp__linear-server__list_cycles",
       "Bash(gws calendar:*)",
-      "Bash(wait)"
+      "Bash(wait)",
+      "mcp__thymer__list_connected_organizations",
+      "mcp__thymer__list_workspaces",
+      "mcp__thymer__create_record",
+      "Bash(defuddle parse:*)",
+      "Bash(npx defuddle:*)",
+      "mcp__thymer__update_record_property",
+      "mcp__thymer__insert_markdown",
+      "mcp__thymer__upload_file",
+      "mcp__thymer__set_record_banner"
     ]
   }
 }

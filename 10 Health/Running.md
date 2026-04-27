@@ -1,5 +1,10 @@
 # Log
 
+## 2026-04-20
+
+- 4.5 km run around the park
+- Time: 25:01 (pace ~5:34/km)
+
 ## 2025-12-21
 
 Helen mentioned a voluntary group called “Good Gym” that involves helping others and including some exercise element

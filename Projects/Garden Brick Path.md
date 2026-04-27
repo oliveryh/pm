@@ -1,16 +1,36 @@
 ---
-status: Active
+status: Completed
 base: "[[Projects.base]]"
+start_date: 2026-04-14
+end_date: 2026-04-27
 ---
+
+# Reference
+
+## Design
+
+![[Pasted image 20260420222449.png]]
 
 # Actions
 
-- [ ] Pay landscapers (by 2026-04-22)
-- [ ] Collect skip (by 2026-04-22)
-- [ ] Pay Cath for loaning driveway (by 2026-04-22)
-- [ ] Ask landscapers if they know why the outside drain is blocked
-
 # Log
+
+## 2026-04-27
+
+- Left a review for D S Landscape and Groundworks
+- Left a review for Singh's Skips
+
+## 2026-04-21
+
+- Paid landscapers £3,7000
+- Chloe paid me £1,000 towards project
+- Suggested to wait until Thursday to take harp out
+- Skip collected
+- Paid Cath £150 for putting skip on her drive (I accidentally told her £150 initially instead of £100)
+
+## 2026-04-20
+
+- Spoke to Dean — drain filling with water is normal, not a blockage
 
 ## 2026-04-17
 

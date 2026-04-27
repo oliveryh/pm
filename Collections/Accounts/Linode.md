@@ -1,8 +1,7 @@
 Syncs::[[dashboards]]
+Syncs::[[pm]]
 
 # Actions
-
-- [ ] Upgrade OS
 
 # Setting Up a New Instance
 
@@ -51,13 +50,18 @@ In this stage, remember to copy the generated passwords correctly.
 
 # Reference
 
-| Project          | File Root                 |
-| ---------------- | ------------------------- |
-| Dashboards       | /projects/dashboards      |
+| Project    | File Root            |
+| ---------- | -------------------- |
+| Dashboards | /projects/dashboards |
+| PM         | /projects/pm         |
 
 - postgres: a*a*
 
 # Log
+
+## 2026-04-26
+
+- Upgraded OS from 20.04 LTS Ubuntu to 22.04 LTS Ubuntu
 
 ## 2025-10-21
 
@@ -109,3 +113,7 @@ To ensure the Ghostty terminal behaved as expected when sshing into the Linode s
 ## August 15, 2023
 
 - Updated payment methods to new Monzo card (expiring 07/26)
+
+## 2020-07-07
+
+- Created Linode

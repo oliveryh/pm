@@ -73,9 +73,3 @@ createButton({ app, el: this.container, args: { name: "🔄 Sync My Branches" },
 ```
 
 ![[GitHub Branches.base]]
-
-- [x] Add pagination to GitHub requests
-- [ ] Warn of this being an expensive request
-- [ ] Filter out `main` branch or branches without additional commits
-- [ ] Extend to personal repos
-- [ ] Link to personal repos as opposed to work repo
