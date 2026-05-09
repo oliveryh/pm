@@ -16,7 +16,7 @@
 
 ## Highlights
 
-- • **One thing at a time**. We’re so focused on efficiency that we reduce the number of feedback cycles in an attempt to reduce overhead. This leads to difficult debugging situations whose expected cost is greater than the cycle overhead we avoided.
+- • **One thing at a time**. We're so focused on efficiency that we reduce the number of feedback cycles in an attempt to reduce overhead. This leads to difficult debugging situations whose expected cost is greater than the cycle overhead we avoided.
   • **Make it run, make it right, make it fast**. (Example of One Thing at a Time, Slicing, and Easy Changes) ([View Highlight](https://read.readwise.io/read/01hxpsz5md6h9y4z983tg7nztf))
 - • **Concentration**. If you need to change several elements, first rearrange the code so the change only needs to happen in one element.
   • **Isolation**. If you only need to change a part of an element, extract that part so the whole subelement changes. ([View Highlight](https://read.readwise.io/read/01hxpt0dzrm7vva0968ptazv27))

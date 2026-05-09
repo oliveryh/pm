@@ -37,4 +37,3 @@ It appears that Rugby, Nuneaton, and maybe Leamington Spa (at a push), are our b
 # Possible Rent
 
 https://www.thorntonrobson.com/property-details/163/warwickshire/rugby-44
-

@@ -16,4 +16,4 @@
 
 ## Highlights
 
-- ikigai … usually means the feeling of accomplishment and fulfillment that follows when people pursue their passions. Activities that generate the feeling of ikigai are not forced on an individual; they are perceived as being spontaneous and undertaken willingly, and thus are personal and depend on a person’s inner self. ([Wikipedia](https://en.wikipedia.org/wiki/Ikigai)) ([View Highlight](https://read.readwise.io/read/01gxpa0vmpggemanj07zxgszef))
+- ikigai … usually means the feeling of accomplishment and fulfillment that follows when people pursue their passions. Activities that generate the feeling of ikigai are not forced on an individual; they are perceived as being spontaneous and undertaken willingly, and thus are personal and depend on a person's inner self. ([Wikipedia](https://en.wikipedia.org/wiki/Ikigai)) ([View Highlight](https://read.readwise.io/read/01gxpa0vmpggemanj07zxgszef))

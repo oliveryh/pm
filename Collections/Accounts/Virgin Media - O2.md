@@ -1,8 +1,10 @@
 # Actions
 
-- [ ] See if there are better sim only deals
-
 # Log
+
+## 2026-05-05
+
+- Migrated number to 1p Mobile
 
 ## 2026-03-29
 

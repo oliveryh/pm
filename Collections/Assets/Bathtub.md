@@ -23,4 +23,4 @@ Notes: ""
 
 ##  2024-08-01
 
-- When taking a bath in August, there were droplets appearing on the bottom of the tub and a leak coming from one of the light fixtures in the kitchen. I’d say roughly 1L of water fell through.
+- When taking a bath in August, there were droplets appearing on the bottom of the tub and a leak coming from one of the light fixtures in the kitchen. I'd say roughly 1L of water fell through.

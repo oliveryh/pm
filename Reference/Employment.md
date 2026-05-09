@@ -72,10 +72,10 @@
 > - The final stage of calibration is currently in progress - with Execs are completing a final check.
 >     - I aim to have any final calibrations with you before end of tomorrow
 >     - This would then unlock you to communicate results to your team - but please wait until I give you the go ahead
->     - I’ll message all managers that had calibration changes to check you’ve got what you need in Deel - there is place to make calibration changes.
-> - Goals - so we’re aiming to get the Q2 goals out tomorrow at 3pm during the first half of disco & tell 🤞 - at which point we can also kick off individual goal setting.
->     - I’m off for a few days over easter, but when i’m back Laura and I will provide some more guidance in general and also help you get setup on Deel Goals (warning I do expect bugs - but they get fixed if we report them).
-> - Just a reminder, that with the final calibrated results, i’ll work with Mary to prep for a remcom so we can get sign off from the board on the bonus plans
+>     - I'll message all managers that had calibration changes to check you've got what you need in Deel - there is place to make calibration changes.
+> - Goals - so we're aiming to get the Q2 goals out tomorrow at 3pm during the first half of disco & tell 🤞 - at which point we can also kick off individual goal setting.
+>     - I'm off for a few days over easter, but when i'm back Laura and I will provide some more guidance in general and also help you get setup on Deel Goals (warning I do expect bugs - but they get fixed if we report them).
+> - Just a reminder, that with the final calibrated results, i'll work with Mary to prep for a remcom so we can get sign off from the board on the bonus plans
 >     - remember that payment will not be made until after fundraise closes (earliest being June but more likely being September)
 
 ##  2025-02-01

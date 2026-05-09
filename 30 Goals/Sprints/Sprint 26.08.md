@@ -15,4 +15,3 @@
 ## 2026-04-12
 
 I had a pretty mixed week. It was social - meeting Nick and Beth from next door for a drink and Jade and George. I did struggle to work effectively towards the end of the week though, and I was quite irritable.
-

@@ -16,7 +16,7 @@
 
 ## Highlights
 
-- To create the display, I’ll be using the [Badger 2040 W](https://shop.pimoroni.com/products/badger-2040-w?variant=40514062188627). Although I originally purchased it as a name badge, it’s the perfect tool for this project because: ([View Highlight](https://read.readwise.io/read/01h8wh292w4q82xpx1c1ke5b1y))
+- To create the display, I'll be using the [Badger 2040 W](https://shop.pimoroni.com/products/badger-2040-w?variant=40514062188627). Although I originally purchased it as a name badge, it's the perfect tool for this project because: ([View Highlight](https://read.readwise.io/read/01h8wh292w4q82xpx1c1ke5b1y))
 - It is highly programmable and hackable, allowing me to run micropython code and make modifications as needed ([View Highlight](https://read.readwise.io/read/01h8wh2my5hbbf994a27e3cfzz))
 - It is highly programmable and hackable, allowing me to run micropython code and make modifications as needed ([View Highlight](https://read.readwise.io/read/01h8wh2yjg2zadvh2yvr9matcx))
 - It has low power usage, which is important for a display that will be running continuously ([View Highlight](https://read.readwise.io/read/01h8wh37q2mw4jeft5gqeydmx6))

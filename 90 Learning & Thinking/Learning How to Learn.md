@@ -185,5 +185,5 @@ Process for chunking
 - Overlearning (avoid marathon sessions, spread learning over many sessions in different learning modes)
 - Process over product (aim for time goals)
 - Interleaving (know how but also know when to apply a concept, context is important)
-- Methapors and analogies (use them when teaching/sharing what you’ve learned)
+- Methapors and analogies (use them when teaching/sharing what you've learned)
 - Study groups (share and get different points of view, learning in groups adds to the experience)

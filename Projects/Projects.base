@@ -7,8 +7,105 @@ properties:
   status:
     displayName: Status
 views:
+  - type: kanban-view
+    name: Kanban by Status
+    order: []
+    columnOrders:
+      file.file:
+        - Projects/Angela App Ideas.md
+        - Projects/Apply for Jobs.md
+        - Projects/Assess House Structure.md
+        - Projects/Assess Work Benefits.md
+        - Projects/Buy Things.md
+        - Projects/CA Prototype.md
+        - Projects/Chloe's 30th Birthday.md
+        - Projects/Consolidate Accounts.md
+        - Projects/Consolidate Backups.md
+        - Projects/Consolidate Photo Backups.md
+        - Projects/Consolidate into Obsidian.md
+        - Projects/Earnings Estimate.md
+        - Projects/Explore Career Paths.md
+        - Projects/Family Support.md
+        - Projects/Festival Running.md
+        - Projects/Financial Modelling.md
+        - Projects/Garden Brick Path.md
+        - Projects/Garden Tidy Up.md
+        - Projects/Github Interactions Visualisation.md
+        - Projects/Heat Map Video.md
+        - Projects/Improve 5Y Financial Commitments.md
+        - Projects/Improve Granny Marcia's QOL.md
+        - Projects/Improve Joint Spending.md
+        - Projects/Life Insurance Application.md
+        - Projects/May June Holiday.md
+        - Projects/Micro Apps with Obsidian.md
+        - Projects/Migrate to MBP M2.md
+        - Projects/Moth Treatment.md
+        - Projects/New Cat.md
+        - Projects/Obsidian as a Personal Assistant.md
+        - Projects/Piclo Offboarding.md
+        - Projects/Prepare Application Documents.md
+        - Projects/Prepare Online Presence.md
+        - Projects/Prepare for Redundancy.md
+        - Projects/Promote Chloe.md
+        - Projects/Restructure Daily Rhythm.md
+        - Projects/Romanian Passport.md
+        - Projects/Sell Things.md
+        - Projects/Shared ToDo App.md
+        - Projects/Specialist Physiotherapy.md
+        - Projects/Use a Single Storage Solution.md
+        - Projects/Wall Mounting and Cleanliness.md
+        - Projects/Write Will.md
+      note.Status:
+        - Idea
+        - Backlog
+        - Active
+        - Completed
+    cardOrders:
+      file.file: {}
+      note.Status:
+        Idea:
+          - Replace glasses.md
+          - Projects/Assess House Structure.md
+          - Projects/Heat Map Video.md
+          - Projects/Angela App Ideas.md
+          - Projects/Improve Granny Marcia's QOL.md
+          - Projects/May June Holiday.md
+          - Projects/Promote Chloe.md
+          - Projects/Romanian Passport.md
+          - Projects/Shared ToDo App.md
+          - Projects/Write Will.md
+          - Start Therapy.md
+          - Projects/Festival Running.md
+        Backlog:
+          - Projects/Assess Work Benefits.md
+          - Projects/Financial Modelling.md
+          - Projects/Improve 5Y Financial Commitments.md
+          - Projects/Chloe's 30th Birthday.md
+          - Projects/Consolidate Photo Backups.md
+          - Projects/Improve Joint Spending.md
+          - Projects/Life Insurance Application.md
+          - Projects/Moth Treatment.md
+        Active:
+          - Projects/Migrate to MBP M2.md
+          - Projects/CA Prototype.md
+          - Projects/Consolidate Backups.md
+          - Projects/Garden Tidy Up.md
+          - Projects/Restructure Daily Rhythm.md
+    columnColors:
+      file.file: {}
+      note.Status:
+        Active: yellow
+        Backlog: orange
+        Idea: blue
+        Completed: green
+    groupByProperty: note.Status
+    wrapPropertyValues: false
+    imageAspectRatio: 0.45
   - type: table
     name: Table View
+    filters:
+      and:
+        - Status != "Completed"
     order:
       - file.name
       - status
@@ -17,3 +114,72 @@ views:
         direction: ASC
   - type: table
     name: View
+    groupBy:
+      property: Status
+      direction: ASC
+  - type: cards
+    name: Cards
+    filters:
+      and:
+        - Status != "Completed"
+    order:
+      - file.name
+      - Status
+    sort:
+      - property: Status
+        direction: ASC
+      - property: start_date
+        direction: ASC
+    cardSize: 290
+  - type: kanban-view
+    name: View 2
+    sort: []
+    columnOrders:
+      file.file:
+        - Projects/Angela App Ideas.md
+        - Projects/Apply for Jobs.md
+        - Projects/Assess House Structure.md
+        - Projects/Assess Work Benefits.md
+        - Projects/Buy Things.md
+        - Projects/CA Prototype.md
+        - Projects/Chloe's 30th Birthday.md
+        - Projects/Consolidate Accounts.md
+        - Projects/Consolidate Backups.md
+        - Projects/Consolidate Photo Backups.md
+        - Projects/Consolidate into Obsidian.md
+        - Projects/Earnings Estimate.md
+        - Projects/Explore Career Paths.md
+        - Projects/Family Support.md
+        - Projects/Festival Running.md
+        - Projects/Financial Modelling.md
+        - Projects/Garden Brick Path.md
+        - Projects/Garden Tidy Up.md
+        - Projects/Github Interactions Visualisation.md
+        - Projects/Heat Map Video.md
+        - Projects/Improve 5Y Financial Commitments.md
+        - Projects/Improve Granny Marcia's QOL.md
+        - Projects/Improve Joint Spending.md
+        - Projects/Life Insurance Application.md
+        - Projects/May June Holiday.md
+        - Projects/Micro Apps with Obsidian.md
+        - Projects/Migrate to MBP M2.md
+        - Projects/Moth Treatment.md
+        - Projects/New Cat.md
+        - Projects/Obsidian as a Personal Assistant.md
+        - Projects/Piclo Offboarding.md
+        - Projects/Prepare Application Documents.md
+        - Projects/Prepare Online Presence.md
+        - Projects/Prepare for Redundancy.md
+        - Projects/Promote Chloe.md
+        - Projects/Restructure Daily Rhythm.md
+        - Projects/Romanian Passport.md
+        - Projects/Sell Things.md
+        - Projects/Shared ToDo App.md
+        - Projects/Specialist Physiotherapy.md
+        - Projects/Use a Single Storage Solution.md
+        - Projects/Wall Mounting and Cleanliness.md
+        - Projects/Write Will.md
+    cardOrders:
+      file.file: {}
+    columnColors:
+      file.file: {}

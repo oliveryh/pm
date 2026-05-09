@@ -20,4 +20,4 @@
 - ![](https://dev-to-uploads.s3.amazonaws.com/i/gx9dntah28vrsvo6803a.jpeg) ([View Highlight](https://read.readwise.io/read/01h59p123a99aa9wj89146e5dq))
 - Cut all recreational computer use! ([View Highlight](https://read.readwise.io/read/01h59p30qwmr7kt3v35svv48c9))
 - ![](https://user-images.githubusercontent.com/6764957/85393993-7ca74600-b580-11ea-8341-164aca2cafb0.png) ([View Highlight](https://read.readwise.io/read/01h59p3v765nd6z9cqtact8pte))
-- “I’ve been battling RSI for 20+ years. Can recommend getting standard blood tests. I was extremely low in vitamin D. Once that was fixed, one whole layer of pain fell away.” - [Matthew Taylor](https://twitter.com/NeedsMoreFunny/status/1300891828330229760?s=20) ([View Highlight](https://read.readwise.io/read/01h59p4rppwjxwfj2prwabywye))
+- "I've been battling RSI for 20+ years. Can recommend getting standard blood tests. I was extremely low in vitamin D. Once that was fixed, one whole layer of pain fell away." - [Matthew Taylor](https://twitter.com/NeedsMoreFunny/status/1300891828330229760?s=20) ([View Highlight](https://read.readwise.io/read/01h59p4rppwjxwfj2prwabywye))

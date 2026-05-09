@@ -7,7 +7,8 @@
 
 ## 2025-12-21
 
-Helen mentioned a voluntary group called “Good Gym” that involves helping others and including some exercise element
+Helen mentioned a voluntary group called "Good Gym" that involves helping others and including some exercise element
+
 ## 2025-11-18
 
 - Enjoy doing intervals
@@ -25,4 +26,3 @@ Helen mentioned a voluntary group called “Good Gym” that involves helping ot
 ## 2024-09-02
 
 - Went for a 3km run — better pace than last time I ran (October 2023)
-

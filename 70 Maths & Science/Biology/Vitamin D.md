@@ -2,7 +2,7 @@
 
 ## Generation
 
-Cholecalciferol (Vitamin D3) is generated when our a precursor (7-dehydrocholesterol) present in our skin is exposed to UVB light. Cholecalciferol is transported to the liver which converts it into calcifediol, also known as 25(OH)D. This process takes 7 days. Calcifediol circulates in blood, and when “vitamin D” gets measured, the 25(OH)D concentration is what is reported.
+Cholecalciferol (Vitamin D3) is generated when our a precursor (7-dehydrocholesterol) present in our skin is exposed to UVB light. Cholecalciferol is transported to the liver which converts it into calcifediol, also known as 25(OH)D. This process takes 7 days. Calcifediol circulates in blood, and when "vitamin D" gets measured, the 25(OH)D concentration is what is reported.
 
 7-dehydrocholesterol + UVB -> cholecalciferol -> calcifediol -> calcitriol.
 

@@ -8,10 +8,11 @@
 
 # Actions
 
-- [ ] Check total NI and Tax contributions year on year
-- [ ] [Assess work benefits](https://linear.app/oliveryh/project/assess-work-benefits-6a10662191ad/issues?layout=list&ordering=priority&grouping=workflowState&subGrouping=none&showCompletedIssues=all&showSubIssues=true&showTriageIssues=true)
-
 # Log
+
+## 2026-05-02
+
+- Added April 2026 payslip
 
 ## 2026-04-03
 

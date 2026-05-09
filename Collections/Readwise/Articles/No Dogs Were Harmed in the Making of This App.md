@@ -16,6 +16,6 @@
 
 ## Highlights
 
-- As software developers, it’s easy to overlook the privileges we enjoy. We have the unique ability to delve deep into intricate processes, monitor real-time activities, log what’s happening, and even pause time with a debugger. This remarkable capability is not only cheap but fast, bordering on thoughtless. ([View Highlight](https://read.readwise.io/read/01hebc64d8x4p9sa1rz2d0cw3w))
+- As software developers, it's easy to overlook the privileges we enjoy. We have the unique ability to delve deep into intricate processes, monitor real-time activities, log what's happening, and even pause time with a debugger. This remarkable capability is not only cheap but fast, bordering on thoughtless. ([View Highlight](https://read.readwise.io/read/01hebc64d8x4p9sa1rz2d0cw3w))
 - While many other professions struggle to understand and resolve their issues, we have the advantage of being able to experiment multiple times a day with just a few clicks. ([View Highlight](https://read.readwise.io/read/01hebc65cxdg7c9r6cyfzbnvg8))
 - I am grateful every day for the debugging tools that we have at our disposal. ([View Highlight](https://read.readwise.io/read/01hebc67qwrf7zqjgpmka3hp36))

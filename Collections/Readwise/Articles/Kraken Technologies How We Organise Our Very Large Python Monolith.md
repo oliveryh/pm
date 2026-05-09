@@ -7,7 +7,7 @@
 - Author: [[EuroPython Blog]]
 - Full Title: Kraken Technologies: How We Organise Our Very Large Python Monolith
 - Category: #articles
-- Summary: By David Seddon from Kraken Technologies. Hi, I’m David, a Python developer at Kraken Technologies. I work on Kraken: a Python application which has, at last count, 27,637 modules. Yes, you read that right: nearly 28k separate Python files - not including tests. I do this along with
+- Summary: By David Seddon from Kraken Technologies. Hi, I'm David, a Python developer at Kraken Technologies. I work on Kraken: a Python application which has, at last count, 27,637 modules. Yes, you read that right: nearly 28k separate Python files - not including tests. I do this along with
 - URL: https://blog.europython.eu/kraken-technologies-how-we-organize-our-very-large-pythonmonolith/
 
 ## Full Document

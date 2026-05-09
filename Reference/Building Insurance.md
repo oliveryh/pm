@@ -4,7 +4,7 @@
 
 # Knowns
 
-- It includes a cellar (not a basement as it’s largely/entirely below ground and wouldn’t be suitable for living in)
+- It includes a cellar (not a basement as it's largely/entirely below ground and wouldn't be suitable for living in)
 - The property is ~120m within the River Avon
 ![[Untitled 22.png]]
 - There are no 10m trees within 5 meters of the house
@@ -32,7 +32,7 @@
 
 ## Should we gather information about the property with a visit?
 
-- [x] Tell Estate Agent we’d like access to the property to do a final check and be accurate in our Building and Life Insurance policies
+- [x] Tell Estate Agent we'd like access to the property to do a final check and be accurate in our Building and Life Insurance policies
 - The types of locks on the doors
 - If a burglar alarm is present
 - Do all accessible windows at the property have key-operated locks

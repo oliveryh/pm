@@ -17,7 +17,7 @@
 ## Highlights
 
 - Virtue should not be thought of as a handmaid of heroism, but instead as an undercurrent of everything one does. Day-to-day matters are more important than theoretical great acts, and failure to give them proper attention is its own cowardice. Let every small thing you do be as careful and good as it can. The virtuous person should live so well that they leave breadcrumbs of virtue everywhere. ([View Highlight](https://read.readwise.io/read/01jzmfxg9p1e8rpd1rszwdfrea))
-- A while ago I wrote some advice for new software developers. It’s worth thinking about how it applies generally. The advice was:
+- A while ago I wrote some advice for new software developers. It's worth thinking about how it applies generally. The advice was:
 
   > *1. Write what you're learning. 
   > 2. Have at least a tiny website that shows something neat. 

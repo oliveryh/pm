@@ -17,14 +17,14 @@ kanban-plugin: board
 - [Personal AI Infrastructure: Building a 24/7 Assistant (Clawdbot)](https://www.youtube.com/watch?v=qz23zld5oX4&list=WL&index=9&t=27s&pp=iAQBsAgC) by Artem Zhutov<br><br>![Personal AI Infrastructure: Building a 24/7 Assistant (Clawdbot)](https://img.youtube.com/vi/qz23zld5oX4/0.jpg)
 - [Claude Code Runs My Life In Obsidian](https://www.youtube.com/watch?v=ePFAVGcPh7U&list=WL&index=10&t=221s&pp=iAQBsAgC) by Artem Zhutov<br><br>![Claude Code Runs My Life In Obsidian](https://img.youtube.com/vi/ePFAVGcPh7U/0.jpg)
 - [A Revolution in Meal Prepping...](https://www.youtube.com/watch?v=-35JXpiQ3EA&list=WL&index=11&t=90s&pp=iAQBsAgC) by LifebyMikeG<br><br>![A Revolution in Meal Prepping...](https://img.youtube.com/vi/-35JXpiQ3EA/0.jpg)
-- [I’m addicted to Claude Code (i get it now)](https://www.youtube.com/watch?v=-5LfRL82Jck&list=WL&index=12&t=339s&pp=iAQBsAgC) by Theo - t3․gg<br><br>![I’m addicted to Claude Code (i get it now)](https://img.youtube.com/vi/-5LfRL82Jck/0.jpg)
+- [I'm addicted to Claude Code (i get it now)](https://www.youtube.com/watch?v=-5LfRL82Jck&list=WL&index=12&t=339s&pp=iAQBsAgC) by Theo - t3․gg<br><br>![I'm addicted to Claude Code (i get it now)](https://img.youtube.com/vi/-5LfRL82Jck/0.jpg)
 - [The Tailwind drama](https://www.youtube.com/watch?v=luhgjBrRulk&list=WL&index=13&pp=iAQBsAgC) by Theo - t3․gg<br><br>![The Tailwind drama](https://img.youtube.com/vi/luhgjBrRulk/0.jpg)
 - [Start a Hotkey System | Raycast Hotkeys Guide Part 1](https://www.youtube.com/watch?v=mxATMy95dpc&list=WL&index=14&pp=iAQBsAgC) by Tools/Raycast<br><br>![Start a Hotkey System | Raycast Hotkeys Guide Part 1](https://img.youtube.com/vi/mxATMy95dpc/0.jpg)
 - [Explaining a Board Game](https://www.youtube.com/watch?v=fyvyhkF8Xr4&list=WL&index=15&pp=iAQBsAgC) by Aunty Donna<br><br>![Explaining a Board Game](https://img.youtube.com/vi/fyvyhkF8Xr4/0.jpg)
-- [It’s time to change your database](https://www.youtube.com/watch?v=B6C-MWCFfAg&list=WL&index=16&pp=iAQBsAgC) by Theo - t3․gg<br><br>![It’s time to change your database](https://img.youtube.com/vi/B6C-MWCFfAg/0.jpg)
+- [It's time to change your database](https://www.youtube.com/watch?v=B6C-MWCFfAg&list=WL&index=16&pp=iAQBsAgC) by Theo - t3․gg<br><br>![It's time to change your database](https://img.youtube.com/vi/B6C-MWCFfAg/0.jpg)
 - [For Fast and Easy Meal Prep, Use This Restaurant Trick | Techniquely with Lan Lam](https://www.youtube.com/watch?v=ltnonDL_RkA&list=WL&index=17&pp=iAQBsAgC) by America's Test Kitchen<br><br>![For Fast and Easy Meal Prep, Use This Restaurant Trick | Techniquely with Lan Lam](https://img.youtube.com/vi/ltnonDL_RkA/0.jpg)
 - [Get ahead of 99% of Claude Code users](https://www.youtube.com/watch?v=G9S5DgmNBaM&list=WL&index=18&pp=iAQBsAgC) by Artem Zhutov<br><br>![Get ahead of 99% of Claude Code users](https://img.youtube.com/vi/G9S5DgmNBaM/0.jpg)
-- [Martin Lewis answers: “Should I fix my energy tariff, even if prices are dropping in April?”](https://www.youtube.com/watch?v=mPAamC-G2T0&list=WL&index=19&pp=iAQBsAgC) by Martin Lewis<br><br>![Martin Lewis answers: “Should I fix my energy tariff, even if prices are dropping in April?”](https://img.youtube.com/vi/mPAamC-G2T0/0.jpg)
+- [Martin Lewis answers: "Should I fix my energy tariff, even if prices are dropping in April?"](https://www.youtube.com/watch?v=mPAamC-G2T0&list=WL&index=19&pp=iAQBsAgC) by Martin Lewis<br><br>![Martin Lewis answers: "Should I fix my energy tariff, even if prices are dropping in April?"](https://img.youtube.com/vi/mPAamC-G2T0/0.jpg)
 - [I don't buy bread anymore! The new perfect recipe for quick bread](https://www.youtube.com/watch?v=k6K196GrqG0&list=WL&index=20&t=93s&pp=iAQBsAgC) by Food Language<br><br>![I don't buy bread anymore! The new perfect recipe for quick bread](https://img.youtube.com/vi/k6K196GrqG0/0.jpg)
 - [I Ditched Spotify for Physical Media and MP3 Players](https://www.youtube.com/watch?v=3EKV0oNN1Ak&list=WL&index=21&pp=iAQBsAgC) by Haggis on Toast<br><br>![I Ditched Spotify for Physical Media and MP3 Players](https://img.youtube.com/vi/3EKV0oNN1Ak/0.jpg)
 - [Jonathan Blow on how to figure out what is truly important for you in life](https://www.youtube.com/watch?v=QqgaJb601Ts&list=WL&index=22&t=104s&pp=iAQBsAgC) by Jonathan Blow highlights<br><br>![Jonathan Blow on how to figure out what is truly important for you in life](https://img.youtube.com/vi/QqgaJb601Ts/0.jpg)
@@ -62,9 +62,9 @@ kanban-plugin: board
 - [How Life Changes When You Least Expect It - Matthew McConaughey (4K)](https://www.youtube.com/watch?v=Eu1kHIztT24&list=WL&index=54&t=36s&pp=iAQBsAgC) by Chris Williamson<br><br>![How Life Changes When You Least Expect It - Matthew McConaughey (4K)](https://img.youtube.com/vi/Eu1kHIztT24/0.jpg)
 - [Making a AI Discord Bot](https://www.youtube.com/watch?v=eAYoHpLHMqU&list=WL&index=55&t=48s&pp=iAQBsAgC) by Val Town<br><br>![Making a AI Discord Bot](https://img.youtube.com/vi/eAYoHpLHMqU/0.jpg)
 - https://www.youtube.com/watch?v=leX541Dr2rU
-- [Inside Inventor Simone Giertz’s Small Los Angeles Home, 58sqm/630sqft](https://www.youtube.com/watch?v=7vAiloW7phc&list=WL&index=4&t=15s&pp=gAQBiAQB) by NEVER TOO SMALL and Simone Giertz
+- [Inside Inventor Simone Giertz's Small Los Angeles Home, 58sqm/630sqft](https://www.youtube.com/watch?v=7vAiloW7phc&list=WL&index=4&t=15s&pp=gAQBiAQB) by NEVER TOO SMALL and Simone Giertz
 
-	![Inside Inventor Simone Giertz’s Small Los Angeles Home, 58sqm/630sqft](https://img.youtube.com/vi/7vAiloW7phc/0.jpg)
+	![Inside Inventor Simone Giertz's Small Los Angeles Home, 58sqm/630sqft](https://img.youtube.com/vi/7vAiloW7phc/0.jpg)
 - [Stop Worrying & Start Doing: A Simple Way to Organize Your Tasks](https://www.youtube.com/watch?v=dR7UtedSoZ8&list=WL&index=7&t=38s&pp=gAQBiAQB) by Simpletivity
 
 	![Stop Worrying & Start Doing: A Simple Way to Organize Your Tasks](https://img.youtube.com/vi/dR7UtedSoZ8/0.jpg)
@@ -299,9 +299,9 @@ kanban-plugin: board
 - [You Need to Be Bored. Here's Why.](https://www.youtube.com/watch?v=orQKfIXMiA8&list=WL&index=150&t=6s&pp=gAQBiAQB) by Harvard Business Review and Dr. Arthur Brooks
 
 	![You Need to Be Bored. Here's Why.](https://img.youtube.com/vi/orQKfIXMiA8/0.jpg)
-- [Hustle culture lied to you (here’s a better way)](https://www.youtube.com/watch?v=GKWrSLCqgG4&list=WL&index=151&pp=gAQBiAQB) by Matt D'Avella
+- [Hustle culture lied to you (here's a better way)](https://www.youtube.com/watch?v=GKWrSLCqgG4&list=WL&index=151&pp=gAQBiAQB) by Matt D'Avella
 
-	![Hustle culture lied to you (here’s a better way)](https://img.youtube.com/vi/GKWrSLCqgG4/0.jpg)
+	![Hustle culture lied to you (here's a better way)](https://img.youtube.com/vi/GKWrSLCqgG4/0.jpg)
 - [Transforming My Backyard into a Hidden Paradise](https://www.youtube.com/watch?v=qNNW_8uF5Do&list=WL&index=153&pp=gAQBiAQB0gcJCQsKAYcqIYzv) by Nathaniel Drew
 
 	![Transforming My Backyard into a Hidden Paradise](https://img.youtube.com/vi/qNNW_8uF5Do/0.jpg)
@@ -527,9 +527,9 @@ kanban-plugin: board
 - [Boox Go 10.3 Unboxing and Initial Impressions](https://www.youtube.com/watch?v=3Jgeet7rfZw&list=WL&index=87&pp=gAQBiAQB) by Brandon Boswell
 
 	![Boox Go 10.3 Unboxing and Initial Impressions](https://img.youtube.com/vi/3Jgeet7rfZw/0.jpg)
-- [The Beginner’s Guide to Coffee Machine Maintenance](https://www.youtube.com/watch?v=Bl7kuC1IQ-g&list=WL&index=97&pp=gAQBiAQB) by James Hoffmann
+- [The Beginner's Guide to Coffee Machine Maintenance](https://www.youtube.com/watch?v=Bl7kuC1IQ-g&list=WL&index=97&pp=gAQBiAQB) by James Hoffmann
 
-	![The Beginner’s Guide to Coffee Machine Maintenance](https://img.youtube.com/vi/Bl7kuC1IQ-g/0.jpg)
+	![The Beginner's Guide to Coffee Machine Maintenance](https://img.youtube.com/vi/Bl7kuC1IQ-g/0.jpg)
 - [How To Take Back Control Of Your Life: Dopamine Detox Protocol](https://www.youtube.com/watch?v=Jt_iM37unsQ&list=WL&index=108&pp=gAQBiAQB) by Abraham Diop
 
 	![How To Take Back Control Of Your Life: Dopamine Detox Protocol](https://img.youtube.com/vi/Jt_iM37unsQ/0.jpg)
@@ -569,9 +569,9 @@ kanban-plugin: board
 - [I can't use a Mac without this app.](https://www.youtube.com/watch?v=dQwJQnOxyVk&list=WL&index=9&t=22s&pp=gAQBiAQB) by Theo - t3․gg
 
 	![I can't use a Mac without this app.](https://img.youtube.com/vi/dQwJQnOxyVk/0.jpg)
-- [Cool Tools I’ve Been Using Lately](https://www.youtube.com/watch?v=uwxgwzC2eCw&list=WL&index=58&t=7s&pp=gAQBiAQB) by Theo - t3․gg
+- [Cool Tools I've Been Using Lately](https://www.youtube.com/watch?v=uwxgwzC2eCw&list=WL&index=58&t=7s&pp=gAQBiAQB) by Theo - t3․gg
 
-	![Cool Tools I’ve Been Using Lately](https://img.youtube.com/vi/uwxgwzC2eCw/0.jpg)
+	![Cool Tools I've Been Using Lately](https://img.youtube.com/vi/uwxgwzC2eCw/0.jpg)
 - [The "right way" to vibe code (engineers, please watch)](https://www.youtube.com/watch?v=6TMPWvPG5GA&list=WL&index=149&t=25s&pp=gAQBiAQB) by Theo - t3․gg
 
 	![The "right way" to vibe code (engineers, please watch)](https://img.youtube.com/vi/6TMPWvPG5GA/0.jpg)
@@ -581,9 +581,9 @@ kanban-plugin: board
 - [I finally switched to Postgres.](https://www.youtube.com/watch?v=iIMIKgRvS1Q&list=WL&index=131&t=37s&pp=gAQBiAQB0gcJCQsKAYcqIYzv) by Theo - t3․gg
 
 	![I finally switched to Postgres.](https://img.youtube.com/vi/iIMIKgRvS1Q/0.jpg)
-- [(More) Cool Tools I’ve Been Using](https://www.youtube.com/watch?v=TyF3IumWiH8&list=WL&index=120&pp=gAQBiAQB) by Theo - t3․gg
+- [(More) Cool Tools I've Been Using](https://www.youtube.com/watch?v=TyF3IumWiH8&list=WL&index=120&pp=gAQBiAQB) by Theo - t3․gg
 
-	![(More) Cool Tools I’ve Been Using](https://img.youtube.com/vi/TyF3IumWiH8/0.jpg)
+	![(More) Cool Tools I've Been Using](https://img.youtube.com/vi/TyF3IumWiH8/0.jpg)
 - [Is full stack even real anymore?](https://www.youtube.com/watch?v=eBy6LJvv8B0&list=WL&index=106&pp=gAQBiAQB) by Theo - t3․gg
 
 	![Is full stack even real anymore?](https://img.youtube.com/vi/eBy6LJvv8B0/0.jpg)
@@ -887,9 +887,9 @@ kanban-plugin: board
 - [Dev as Life Q&A - Code, life, YouTube, solopreneurship, skills, etc.](https://www.youtube.com/watch?v=NzQnZqTGtwc&list=PLMk4eMXzMeNIcsmOgC88J8YRRBTrBC0Ho&index=27&pp=gAQBiAQB) by devaslife
 
 	![Dev as Life Q&A - Code, life, YouTube, solopreneurship, skills, etc.](https://img.youtube.com/vi/NzQnZqTGtwc/0.jpg)
-- [C++Now 2018: Eberhard Gräther “The Untapped Potential of Software Visualization”](https://www.youtube.com/watch?v=fnIFVYFspfc&list=PLMk4eMXzMeNIcsmOgC88J8YRRBTrBC0Ho&index=29&pp=gAQBiAQB) by CppNow
+- [C++Now 2018: Eberhard Gräther "The Untapped Potential of Software Visualization"](https://www.youtube.com/watch?v=fnIFVYFspfc&list=PLMk4eMXzMeNIcsmOgC88J8YRRBTrBC0Ho&index=29&pp=gAQBiAQB) by CppNow
 
-	![C++Now 2018: Eberhard Gräther “The Untapped Potential of Software Visualization”](https://img.youtube.com/vi/fnIFVYFspfc/0.jpg)
+	![C++Now 2018: Eberhard Gräther "The Untapped Potential of Software Visualization"](https://img.youtube.com/vi/fnIFVYFspfc/0.jpg)
 - [The art of destroying software (Greg Young)](https://www.youtube.com/watch?v=Ed94CfxgsCA&list=PLMk4eMXzMeNIcsmOgC88J8YRRBTrBC0Ho&index=32&t=3s&pp=gAQBiAQB) by DevTernity Conference
 
 	![The art of destroying software (Greg Young)](https://img.youtube.com/vi/Ed94CfxgsCA/0.jpg)
@@ -1058,9 +1058,9 @@ kanban-plugin: board
 - [when film critics clearly just do not get the movie](https://www.youtube.com/watch?v=qMHCI1DnikA&list=WL&index=31&pp=gAQBiAQB) by CinemaStix
 
 	![when film critics clearly just do not get the movie](https://img.youtube.com/vi/qMHCI1DnikA/0.jpg)
-- [“I feel like my twenties are built on shifting sand”｜Paris Cinematic Short Film｜Fujifilm XH2S](https://www.youtube.com/watch?v=XzUJD4siy-Q&list=WL&index=128&pp=gAQBiAQB) by isBlur
+- ["I feel like my twenties are built on shifting sand"｜Paris Cinematic Short Film｜Fujifilm XH2S](https://www.youtube.com/watch?v=XzUJD4siy-Q&list=WL&index=128&pp=gAQBiAQB) by isBlur
 
-	![“I feel like my twenties are built on shifting sand”｜Paris Cinematic Short Film｜Fujifilm XH2S](https://img.youtube.com/vi/XzUJD4siy-Q/0.jpg)
+	!["I feel like my twenties are built on shifting sand"｜Paris Cinematic Short Film｜Fujifilm XH2S](https://img.youtube.com/vi/XzUJD4siy-Q/0.jpg)
 - [MaXXXine | Official Trailer HD | A24](https://www.youtube.com/watch?v=y0uS3t6nFgY&list=WL&index=120&pp=gAQBiAQB) by A24
 
 	![MaXXXine | Official Trailer HD | A24](https://img.youtube.com/vi/y0uS3t6nFgY/0.jpg)
@@ -1109,9 +1109,9 @@ kanban-plugin: board
 - [Stephen Fry reads Nick Cave's stirring letter about ChatGPT and human creativity](https://www.youtube.com/watch?v=iGJcF4bLKd4&list=WL&index=91&t=70s&pp=gAQBiAQB) by Letters Live
 
 	![Stephen Fry reads Nick Cave's stirring letter about ChatGPT and human creativity](https://img.youtube.com/vi/iGJcF4bLKd4/0.jpg)
-- [Webinar: Make Every Bet Count When You Can’t Do It All by Amplitude Product Evangelist, John Cutler](https://www.youtube.com/watch?v=Qa8_FBq1-pg&list=WL&index=170&pp=gAQBiAQB) by Product School
+- [Webinar: Make Every Bet Count When You Can't Do It All by Amplitude Product Evangelist, John Cutler](https://www.youtube.com/watch?v=Qa8_FBq1-pg&list=WL&index=170&pp=gAQBiAQB) by Product School
 
-	![Webinar: Make Every Bet Count When You Can’t Do It All by Amplitude Product Evangelist, John Cutler](https://img.youtube.com/vi/Qa8_FBq1-pg/0.jpg)
+	![Webinar: Make Every Bet Count When You Can't Do It All by Amplitude Product Evangelist, John Cutler](https://img.youtube.com/vi/Qa8_FBq1-pg/0.jpg)
 - [Documenting Django Code in 2022 with Eric Holscher - DjangoCon US 2022](https://www.youtube.com/watch?v=mqn0D4xat58&list=WL&index=56&t=1229s&pp=gAQBiAQB) by DjangoCon US
 
 	![Documenting Django Code in 2022 with Eric Holscher - DjangoCon US 2022](https://img.youtube.com/vi/mqn0D4xat58/0.jpg)
@@ -1391,9 +1391,9 @@ kanban-plugin: board
 - [Let it cook - Vibe Coding with VS Code - Episode 1: C# Sentiment Analysis & Swift iOS Apps](https://www.youtube.com/watch?v=Pv5DU1nwp6U&list=WL&index=62&pp=gAQBiAQB0gcJCQsKAYcqIYzv) by Visual Studio Code
 
 	![Let it cook - Vibe Coding with VS Code - Episode 1: C# Sentiment Analysis & Swift iOS Apps](https://img.youtube.com/vi/Pv5DU1nwp6U/0.jpg)
-- [🔴 Code in the Flow with VS Code’s GitHub Copilot Chat](https://www.youtube.com/watch?v=UqX2hCpgUJ0&list=WL&index=97&pp=gAQBiAQB) by Visual Studio Code
+- [🔴 Code in the Flow with VS Code's GitHub Copilot Chat](https://www.youtube.com/watch?v=UqX2hCpgUJ0&list=WL&index=97&pp=gAQBiAQB) by Visual Studio Code
 
-	![🔴 Code in the Flow with VS Code’s GitHub Copilot Chat](https://img.youtube.com/vi/UqX2hCpgUJ0/0.jpg)
+	![🔴 Code in the Flow with VS Code's GitHub Copilot Chat](https://img.youtube.com/vi/UqX2hCpgUJ0/0.jpg)
 - [VS Code Rewind: AI-Powered Coding: Unleashing Data and SQL Mastery with GPT Function Calling](https://www.youtube.com/watch?v=t7VuBktLdD0&list=WL&index=102&t=4s&pp=gAQBiAQB) by Visual Studio Code
 
 	![VS Code Rewind: AI-Powered Coding: Unleashing Data and SQL Mastery with GPT Function Calling](https://img.youtube.com/vi/t7VuBktLdD0/0.jpg)
@@ -1676,9 +1676,9 @@ kanban-plugin: board
 - [Why You Need to Keep Moisture Low this Winter](https://www.youtube.com/watch?v=NbtijHKy2Vo&list=PLMk4eMXzMeNJbVPN1S19srC09UB9K9s_-&index=13&pp=gAQBiAQB) by Charlie DIYte
 
 	![Why You Need to Keep Moisture Low this Winter](https://img.youtube.com/vi/NbtijHKy2Vo/0.jpg)
-- [Jonathan Pie: How Putin Weaponized London’s Greed | NYT Opinion](https://www.youtube.com/watch?v=YAblAQENQhE&list=PLMk4eMXzMeNJbVPN1S19srC09UB9K9s_-&index=15&pp=gAQBiAQB) by The New York Times
+- [Jonathan Pie: How Putin Weaponized London's Greed | NYT Opinion](https://www.youtube.com/watch?v=YAblAQENQhE&list=PLMk4eMXzMeNJbVPN1S19srC09UB9K9s_-&index=15&pp=gAQBiAQB) by The New York Times
 
-	![Jonathan Pie: How Putin Weaponized London’s Greed | NYT Opinion](https://img.youtube.com/vi/YAblAQENQhE/0.jpg)
+	![Jonathan Pie: How Putin Weaponized London's Greed | NYT Opinion](https://img.youtube.com/vi/YAblAQENQhE/0.jpg)
 - [The Truth about American Cities - Part 1 - Strong Towns [ST01(https://www.youtube.com/watch?v=y_SXXTBypIg&list=PLMk4eMXzMeNJbVPN1S19srC09UB9K9s_-&index=16&pp=gAQBiAQB) by Not Just Bikes
 
 	![The Truth about American Cities - Part 1 - Strong Towns [ST01(https://img.youtube.com/vi/y_SXXTBypIg/0.jpg)
@@ -1924,9 +1924,9 @@ kanban-plugin: board
 - [x] [I have too much time so I built an app (still unemployed lol)](https://www.youtube.com/watch?v=7Uxba1vYPBg&list=WL&index=95&t=34s&pp=gAQBiAQB) by Grace 🍊
 
 	![I have too much time so I built an app (still unemployed lol)](https://img.youtube.com/vi/7Uxba1vYPBg/0.jpg)
-- [x] [Marko’s Journey From Backend Engineer to YouTuber | @withmarko](https://www.youtube.com/watch?v=Vo4-6tEP1Ts&list=WL&index=64&t=52s&pp=gAQBiAQB) by Honeypot
+- [x] [Marko's Journey From Backend Engineer to YouTuber | @withmarko](https://www.youtube.com/watch?v=Vo4-6tEP1Ts&list=WL&index=64&t=52s&pp=gAQBiAQB) by Honeypot
 
-	![Marko’s Journey From Backend Engineer to YouTuber | @withmarko](https://img.youtube.com/vi/Vo4-6tEP1Ts/0.jpg)
+	![Marko's Journey From Backend Engineer to YouTuber | @withmarko](https://img.youtube.com/vi/Vo4-6tEP1Ts/0.jpg)
 - [x] [Amazing New VS Code Extension: Console Ninja](https://www.youtube.com/watch?v=bmKDT-yG2eE&list=PLMk4eMXzMeNIcsmOgC88J8YRRBTrBC0Ho&index=28&pp=gAQBiAQB) by Jack Herrington
 
 	![Amazing New VS Code Extension: Console Ninja](https://img.youtube.com/vi/bmKDT-yG2eE/0.jpg)

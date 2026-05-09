@@ -22,9 +22,9 @@
 ##  2024-03-07
 
 - Notify Accounts of Leaving
-    - Water: Notified Severn Trent that we’re moving on  2024-03-31  and paid an estimated final bill of £165.55
-    - Council: Notified Warwick District Council that we’re moving out on  2024-03-31  Ref: 816994
-- Cancelled direct debit for Warwick District Council as I’ve paid all required instalments
+    - Water: Notified Severn Trent that we're moving on  2024-03-31  and paid an estimated final bill of £165.55
+    - Council: Notified Warwick District Council that we're moving out on  2024-03-31  Ref: 816994
+- Cancelled direct debit for Warwick District Council as I've paid all required instalments
 
 ##  2023-09-11
 
@@ -46,7 +46,7 @@
         - Two bikes not present on arrival
     - 4 - Toilet (Downstairs)
         - 4.5 - Skirting not free of marks
-        - 4.2 - Door doesn’t close fully
+        - 4.2 - Door doesn't close fully
     - 5 - Lounge
         - 5.14 - Small stain on left arm
         - 5.18 - Small white paint marks

@@ -20,4 +20,4 @@
 
   > It is basically always the case that the long-term costs of keeping a system working reliably vastly exceed any inconveniences you encounter while building it. ([View Highlight](https://read.readwise.io/read/01hjrprrz05edmpbk1gapcekz7))
 
-- when you run your code in production, the [KISS](https://en.wikipedia.org/wiki/KISS_principle) mantra takes on a new dimension. It’s not just about code anymore; it’s about reducing the moving parts and understanding their failure modes. It’s about shipping stuff and ensuring it works even when it fails. ([View Highlight](https://read.readwise.io/read/01hjrpr7w56tgdyzkgchsr9r1y))
+- when you run your code in production, the [KISS](https://en.wikipedia.org/wiki/KISS_principle) mantra takes on a new dimension. It's not just about code anymore; it's about reducing the moving parts and understanding their failure modes. It's about shipping stuff and ensuring it works even when it fails. ([View Highlight](https://read.readwise.io/read/01hjrpr7w56tgdyzkgchsr9r1y))

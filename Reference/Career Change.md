@@ -29,14 +29,14 @@ Companies of interest
 | Production Team Size | 15                                                     | ?                            |
 | Agile Methodology    | 3 weeks on, 1 off                                      |                              |
 | Stack                | Full Stack                                             | Backend (mostly)             |
-| Red Flags            | HR sayings it’s busy. Me continuing to be a generalist |                              |
+| Red Flags            | HR sayings it's busy. Me continuing to be a generalist |                              |
 | Internal Mobility    |                                                        |                              |
 
 Pros of Kraken
 - I have friends at Kraken
-- There’s more room to grow professionally (Engineering Manager, Principle Engineer, Lead Engineer (again))
+- There's more room to grow professionally (Engineering Manager, Principle Engineer, Lead Engineer (again))
 - Possibility of IPO gains (small)
-- “Unlimited” holiday
+- "Unlimited" holiday
 
 
 Cons of Kraken
@@ -49,7 +49,7 @@ Pros of YunoJuno
 
 
 Cons of YunoJuno
-- VP of People said “It’s busy”
+- VP of People said "It's busy"
 - Darian also talked about keeping DORA metrics high
 
 # Tasks
@@ -59,7 +59,7 @@ Cons of YunoJuno
     - [x] Warm leads
     - [x] Career opportunities outside London
     - [x] Careers for software or people I admire (Pydantic, Linear etc.)
-        - [x] [https://www.granola.ai/](https://www.granola.ai/) “Trusted By” could inform list
+        - [x] [https://www.granola.ai/](https://www.granola.ai/) "Trusted By" could inform list
 - [x] Tell Jon my situation and send over my CV
 - [x] Purge work left overs
     - [x] Remove Work TickTick tasks
@@ -87,10 +87,10 @@ Cons of YunoJuno
     - Half in UK - Some in EU
     - 4 Product Engineers
     - 2 Data Engineers
-- Largely aren’t based in London (Nic suggested only she is there)
+- Largely aren't based in London (Nic suggested only she is there)
 - Still have company meet ups every quarter
 - Engineering team may meet up more regularly
-- Suggested that supporting the product is quite easy - possibly a testament to the quality of what’s being built
+- Suggested that supporting the product is quite easy - possibly a testament to the quality of what's being built
 - CTO is a proponent to building things intentionally
 - Company history
     - At some point an SQL notebook and over viable product
@@ -101,12 +101,12 @@ Cons of YunoJuno
     - MCPs
     - Agents
     - Canvas
-- They were specifically interested in engineers who’d dealt with data visualisations that were more complex than most
+- They were specifically interested in engineers who'd dealt with data visualisations that were more complex than most
 - Should hear back on next steps by EOD Friday
 - Red Flags
     - Something a little concerning was that people had recently left
     - Kubernetes
-    - They don’t have an office in London any more
+    - They don't have an office in London any more
 
 ## Questions for me
 
@@ -123,8 +123,8 @@ Cons of YunoJuno
         - Cut 75% of the workforce
         - I also wanted to make a change so it was convenient for me to leave
 - Expected Salary
-    - From benchmarks I’ve seen, yours sits towards the Expert level
-    - I’d say I’m positioned to expect the lower end of your salary expectations
+    - From benchmarks I've seen, yours sits towards the Expert level
+    - I'd say I'm positioned to expect the lower end of your salary expectations
 
 ## Do you have any questions for us?
 
@@ -135,9 +135,9 @@ Cons of YunoJuno
     - Pricing plans include Enterprise customers that can sometimes make contractual
 - Do you have an office in London that people come into regularly?
 - Do you have product roles?
-- Does a small and flat structure mean there aren’t teams as such?
+- Does a small and flat structure mean there aren't teams as such?
 - How do you support the product?
-- Are there any gaps in my application that you’ve noted that I can try answer now?
+- Are there any gaps in my application that you've noted that I can try answer now?
 - What would you save a successful first few months in this role would look like?
 
 ## What experience do I have?
@@ -170,7 +170,7 @@ Cons of YunoJuno
         - Apache Arrow is an in-memory columnar data format that is used in Spark to efficiently transfer data between JVM and Python processes
 - **DuckDB** - A database system
 - **Kubernetes**
-    - OpenShift - Red Hat’s enterprise grade Kubernetes offering
+    - OpenShift - Red Hat's enterprise grade Kubernetes offering
     - Extensive experience with Docker - which I expect could have some overlaps
 - SQL
     - Current Role
@@ -183,7 +183,7 @@ Cons of YunoJuno
 - Tackling deep technical challenges in data analytics
     - Enjoy deep diving into the vertical stack of an issue
     - Example: Debugging GPUs
-    - Example: Understanding why a UI isn’t as responsive as it could be - optimising queries
+    - Example: Understanding why a UI isn't as responsive as it could be - optimising queries
 - Have at least 4 years of professional experience shipping features as a full-stack engineer
 - Love inventing solutions to complex technical challenges
 - Are driven by a passion to create amazing user experiences
@@ -221,11 +221,11 @@ Cons of YunoJuno
 
 ##  2025-11-27
 
-- Reset laptop in the hopes that doesn’t leave any association with Piclo
+- Reset laptop in the hopes that doesn't leave any association with Piclo
 
 ##  2025-11-19
 
-- Advice from Josh to ask at the end of interviews: “Are there any gaps that you’ve noticed that you’d like me to try and address now?”
+- Advice from Josh to ask at the end of interviews: "Are there any gaps that you've noticed that you'd like me to try and address now?"
 
 ##  2025-11-18
 
@@ -245,28 +245,28 @@ Cons of YunoJuno
         - The first consisting of my ideal scenario
         - And the second of a lower bar requirement
     - Speak to David Seddon who did the Rust talk
-    - Generally there’s a quite period 15th Dec - 5th Jan
+    - Generally there's a quite period 15th Dec - 5th Jan
 
 ##  2025-07-27
 
 - Looking into my notice period
     - 1 month notice
-    - 1 additional week’s notice for each additional complete year after 4 years (i.e. in June 2026 my notice would be ~5 weeks)
+    - 1 additional week's notice for each additional complete year after 4 years (i.e. in June 2026 my notice would be ~5 weeks)
 
 ##  2025-03-24
 
 Call with Guy Kilbey
-- I said my target salary was £95k and Guy said “off record” that a more realistic expectation for early stage start-ups would be closer to £90k
+- I said my target salary was £95k and Guy said "off record" that a more realistic expectation for early stage start-ups would be closer to £90k
 
 ##  2025-03-02
 
 Call with Jon Gould
 - Upwards curve of employers who have more product market fit
-- I said I’m not interested in jumping at every opportunity
+- I said I'm not interested in jumping at every opportunity
 - Mentioned an interest in not necessarily being in a management role
 - Kraken Technology
     - Suggests talking to them directly
-    - Be clear about intentions from the start if I’m being cautious
+    - Be clear about intentions from the start if I'm being cautious
 
 # Timelines
 
@@ -298,7 +298,7 @@ Call with Jon Gould
     - **Bottom (lowest effort, lowest success): Cold applications**
         - Optimise your CV for **ATS (Applicant Tracking Systems)** by matching keywords and phrases from the job description.
         - Hiring managers use AI tools to screen CVs — use AI to optimise yours too.
-        - Don’t overdo it — once your CV is strong, additional tweaks give only marginal gains.
+        - Don't overdo it — once your CV is strong, additional tweaks give only marginal gains.
     - **Middle (moderate effort, higher success): Warm connections**
         - Reach out directly to **hiring managers** listed on job descriptions with short, personal messages expressing enthusiasm and interest.
         - **Recruiters** can be valuable for early role alerts and introductions (though quality varies).
@@ -308,7 +308,7 @@ Call with Jon Gould
         - Relationships help you get noticed, receive internal referrals, or learn about roles before they go public — but they take time and consistent effort.
 - **Protecting your mental health while job searching:**
     - Accept that the process may take longer than expected — be **cautiously optimistic**.
-    - Don’t spend all day applying; **schedule time blocks** for applications, networking, interview prep, and skill development — then stop.
+    - Don't spend all day applying; **schedule time blocks** for applications, networking, interview prep, and skill development — then stop.
     - Avoid burnout: maintain a **routine** that includes hobbies, social activities, outdoor time, and rest.
     - **Volunteer** in relevant communities — it builds skills, expands your network, and boosts your mood through helping others.
     - Recommended resource: *Never Search Alone* — a book that supports healthy job search mindset and community-based strategies.
@@ -344,13 +344,10 @@ Call with Jon Gould
 ## Arini
 
 - Application Status: Rejected
-
-
 - Tech is 1 y/o
 - Tech Debt is quite high
 - Gareth has been there for 5 or 6 months
     - ? Lack of focus / questionable decisions
-
 
 ## Axle Energy
 

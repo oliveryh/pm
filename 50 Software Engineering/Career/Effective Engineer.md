@@ -62,7 +62,7 @@ Having a small feedback loop and iterating allows you to respond to change quick
 - **Invest in Onboarding**
 - **Shared ownership of code** - Sharing ownership removes silos and encourages collaboration
 
-> *"You’re a staff engineer if you’re making a whole team better than it would be otherwise. You’re a principal engineer if you’re making the whole company better than it would be otherwise. And you’re distinguished if you’re improving the industry"*
+> *"You're a staff engineer if you're making a whole team better than it would be otherwise. You're a principal engineer if you're making the whole company better than it would be otherwise. And you're distinguished if you're improving the industry"*
 
 # Further Reading
 

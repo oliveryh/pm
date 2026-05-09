@@ -26,7 +26,7 @@ cover: "[[Media/Avon Street 1.png]]"
 
 ## Attic
 
-- [ ] Clear the attic at some point
+- Clear the attic at some point
 - There is light coming through one point in the roof although the entry point is small.
 - There are also signs of small nests (likely abandoned). Presumably from wasps
 
@@ -59,12 +59,13 @@ The purlin has a crack but appears to not move year-on-year
 
 - Cracks are appearing in the plaster around the bathroom door frame
 - Clean rust/limescale
-- [ ] Toilet seat buffer is broken
+- Toilet seat buffer is broken
 - Service boiler
 - Clean containers in top of bathroom drawer
 
 ## Bedroom
 
+- Signs of damp noticed in the corner of the main bedroom (2026-05-03) — monitor and investigate
 - [x] Buy plug splitter for socket near dresser
 - [ ] Mount bedroom sconces and hanging material
 - Radio alarm / Screen free solution
@@ -73,22 +74,21 @@ The purlin has a crack but appears to not move year-on-year
 - Black out blinds might make sleep easier (for Summer)
 - Top up soil for Aspidistra plant
 - Sand and revarnish side tables
+- [ ] Replace pyjama gift for smaller size
 
 ## Kitchen
 
-- [ ] Replace corner cupboard with pull out tray
-- [ ] Clean fridge
-- Kitchen corner sliding shelves
+- Replace corner cupboard with pull out drawers
 - Fridge WiFi could be connected to
 - Tiling backsplash
 - Oven hood display may be faulty
-- Don’t like electric hobs
+- Don't like electric hobs
 - All cupboards touching exterior walls appear to have some levels of damp
 
 ## Basement
 
-- Moisture levels could do with better monitoring. I’m not sure how much it costs to run the dehumidifier, but have generally been turning it on after a washing load
-- Things that shouldn’t be stored in the cellar
+- Moisture levels could do with better monitoring. I'm not sure how much it costs to run the dehumidifier, but have generally been turning it on after a washing load
+- Things that shouldn't be stored in the cellar
     - Materials (canvas bags)
     - Rubber (Racquet grips, shoe soles)
     - And more
@@ -99,7 +99,7 @@ The purlin has a crack but appears to not move year-on-year
 
 ## Living Room
 
-- [ ] Mount guitar holders
+- [ ] Mount guitar holder
 - [ ] Clean wood floor
 - [x] Clean sick off sofa
 - The TV needs connecting to terrestrial channels
@@ -113,7 +113,7 @@ The purlin has a crack but appears to not move year-on-year
 
 ## Dining Area
 
-- Lights in light fixtures aren’t dimmable - the ones we bought wouldn’t fit
+- Lights in light fixtures aren't dimmable - the ones we bought wouldn't fit
 - See if there is a way to change blutune Bluetooth device
 - Put up a curtain in front of the back door
 - Get draft excluder for back door as it still lets a high amount of heat escape
@@ -121,12 +121,12 @@ The purlin has a crack but appears to not move year-on-year
 ## Back Garden
 
 - The benches and wooden table need sanding down and revarnishing
-- Back door to house is very difficult to open reliably now. May just be water swelling but it’s very annoying
+- Back door to house is very difficult to open reliably now. May just be water swelling but it's very annoying
 - Repot plants
 
 ## Garden Room
 
-- [ ] Have some sort of ramp to get the harp in/out of studio
+- Have some sort of ramp to get the harp in/out of studio
 - Add shelves for music books
 
 ## Other
@@ -137,7 +137,7 @@ The purlin has a crack but appears to not move year-on-year
 - Painting
 - Wifi
     - Make this a router
-    - Some [localhost](http://localhost/) actions like cURL don’t work reliably
+    - Some [localhost](http://localhost/) actions like cURL don't work reliably
     - Possibly get repeaters
     - Use something like PiHole to do ad blocking network wide
 - Humidity and Temperature sensors
@@ -202,7 +202,7 @@ Sent to Sovereign Financial Planning today
 ##  2025-02-08
 
 - Fitted light fixture in hallway
-    - I was first concerned that I’d drilled into the ceiling wires, but after inspecting in the loft, that doesn’t appear to be the case
+    - I was first concerned that I'd drilled into the ceiling wires, but after inspecting in the loft, that doesn't appear to be the case
 
 ##  2025-01-03
 
@@ -236,7 +236,7 @@ Sent to Sovereign Financial Planning today
     - Suggested renting a tool to break up the path from CV Tools
     - Need proper ear and eye protection
     - Depending on depth of concrete, may need a skip to get rid of hardcore
-    - Suggested breaking up pieces as small as possible so it’s relatively easy to remove
+    - Suggested breaking up pieces as small as possible so it's relatively easy to remove
 
 ##  2024-12-31
 
@@ -247,7 +247,7 @@ Sent to Sovereign Financial Planning today
 ##  2024-10-10
 
 - Set up the Bosch EasyControl
-    - User Key is “romania”
+    - User Key is "romania"
 
 ##  2024-09-08
 
@@ -258,7 +258,7 @@ Sent to Sovereign Financial Planning today
 
 ##  2024-09-01
 
-- I connected the satellite channels but they’re still a little patchy and in a random order
+- I connected the satellite channels but they're still a little patchy and in a random order
 
 # Garden Room
 

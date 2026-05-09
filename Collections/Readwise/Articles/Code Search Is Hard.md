@@ -17,4 +17,4 @@
 
 ## Highlights
 
-- **Stemming**: this mostly [reverses conjugation](https://en.wikipedia.org/wiki/Grammatical_conjugation), turning a word like “running” into “run” before it is added to the index, and doing the same for search queries, so that you can search for “runs” and get a search result for a document with the term “running.” ([View Highlight](https://read.readwise.io/read/01hzqvqe38w6pt6d23ambcjvp8))
+- **Stemming**: this mostly [reverses conjugation](https://en.wikipedia.org/wiki/Grammatical_conjugation), turning a word like "running" into "run" before it is added to the index, and doing the same for search queries, so that you can search for "runs" and get a search result for a document with the term "running." ([View Highlight](https://read.readwise.io/read/01hzqvqe38w6pt6d23ambcjvp8))

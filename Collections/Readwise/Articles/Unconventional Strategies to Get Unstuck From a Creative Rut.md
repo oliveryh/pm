@@ -16,4 +16,4 @@
 
 ## Highlights
 
-- Or, as Picasso said, “Inspiration exists, but it has to find you working.”[*](https://libquotes.com/pablo-picasso/quote/lbx5g7f) ([View Highlight](https://read.readwise.io/read/01hqdt55hnjmtcjy59764mx3bx))
+- Or, as Picasso said, "Inspiration exists, but it has to find you working."[*](https://libquotes.com/pablo-picasso/quote/lbx5g7f) ([View Highlight](https://read.readwise.io/read/01hqdt55hnjmtcjy59764mx3bx))

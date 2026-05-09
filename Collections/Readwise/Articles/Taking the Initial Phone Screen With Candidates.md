@@ -18,5 +18,5 @@ Some time ago, I started taking on the initial phone call that
 
 ## Highlights
 
-- Going back to the numbers I shared above, from the 81 initial calls I did in 2022, we moved forward 51 candidates. There’s no specific trend for the rejections, the reasons vary a lot. But I would say that the most common reason *in my experience* (YMMV) is lack of interest in the company/product/position. ([View Highlight](https://read.readwise.io/read/01grjxnwcgaejnatqescvshj7z))
-- It’s really up to the hiring manager to attack whatever issues that could be slowing down hiring. ([View Highlight](https://read.readwise.io/read/01grjxr053a6v3a19d9q66eyxy))
+- Going back to the numbers I shared above, from the 81 initial calls I did in 2022, we moved forward 51 candidates. There's no specific trend for the rejections, the reasons vary a lot. But I would say that the most common reason *in my experience* (YMMV) is lack of interest in the company/product/position. ([View Highlight](https://read.readwise.io/read/01grjxnwcgaejnatqescvshj7z))
+- It's really up to the hiring manager to attack whatever issues that could be slowing down hiring. ([View Highlight](https://read.readwise.io/read/01grjxr053a6v3a19d9q66eyxy))

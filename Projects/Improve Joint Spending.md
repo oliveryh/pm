@@ -2,7 +2,8 @@
 status: Idea
 base: "[[Projects.base]]"
 start_date: 2026-04-18
-end_date: 
+end_date:
+Status: Backlog
 ---
 
 # Motivation

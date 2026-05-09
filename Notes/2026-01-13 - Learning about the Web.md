@@ -4,18 +4,18 @@
 
 Beginner → Intermediate (Great starting points)
 
-1. “How Browsers Work” by Tali Garsiel & Paul Irish (2011, still unbeatable)
+1. "How Browsers Work" by Tali Garsiel & Paul Irish (2011, still unbeatable)
     - Classic article that explains the browser internals in detail: parsing, CSSOM, render tree, layout, painting, compositing, etc.
     - Link: [https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
         (Also read the updated version on web.dev: [https://web.dev/howbrowserswork/](https://web.dev/howbrowserswork/))
-2. MDN Web Docs – “Web Technology for Developers” section
+2. MDN Web Docs – "Web Technology for Developers" section
     - The gold standard reference. Free and constantly updated.
     - Especially good sections:
         - HTTP [(https://developer.mozilla.org/en-US/docs/Web/HTTP)](https://developer.mozilla.org/en-US/docs/Web/HTTP)
         - JavaScript internals
         - Browser architecture
     - Just start here: [https://developer.mozilla.org/en-US/docs/Learn](https://developer.mozilla.org/en-US/docs/Learn)
-3. “Eloquent JavaScript” by Marijn Haverbeke (4th edition, 2024) – Free online
+3. "Eloquent JavaScript" by Marijn Haverbeke (4th edition, 2024) – Free online
     - One of the best books to truly understand JavaScript (not just syntax).
     - Covers the language, the browser platform, Node.js, and has excellent chapters on asynchronous programming and the event loop.
     - [https://eloquentjavascript.net/](https://eloquentjavascript.net/)
@@ -23,29 +23,29 @@ Beginner → Intermediate (Great starting points)
 Intermediate → Advanced (Deeper into how the Web platform really works)
 
 4. Web.dev by Google (free courses)
-    - “Browser rendering optimization”
-    - “Network fundamentals”
-    - “Web performance fundamentals”
+    - "Browser rendering optimization"
+    - "Network fundamentals"
+    - "Web performance fundamentals"
     - All free, very high quality: [https://web.dev/learn/](https://web.dev/learn/)
-5. “High Performance Browser Networking” by Ilya Grigorik (O’Reilly)
+5. "High Performance Browser Networking" by Ilya Grigorik (O'Reilly)
     - The bible of web networking. Covers TCP, UDP, TLS, HTTP/1.1 → HTTP/3, WebSockets, WebRTC, mobile networks, etc.
     - Free online: [https://hpbn.co/](https://hpbn.co/)
-6. “JavaScript: The Definitive Guide” by David Flanagan (7th edition)
+6. "JavaScript: The Definitive Guide" by David Flanagan (7th edition)
     - Still the most comprehensive single book on JavaScript and the browser platform.
-7. “You Don’t Know JS” (2nd edition) by Kyle Simpson – Free on GitHub
+7. "You Don't Know JS" (2nd edition) by Kyle Simpson – Free on GitHub
     - 6-book series that dives very deep into scope, closures, this, objects, async, ES6+, etc.
     - [https://github.com/getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 
 Advanced / Systems-Level (If you want to go really deep)
 
-8. “What Happens When You Type google.com into the Browser and Press Enter?”
+8. "What Happens When You Type google.com into the Browser and Press Enter?"
     - The famous systems-design-style explanation. Best version is still this one:
     - [https://github.com/alex/what-happens-when](https://github.com/alex/what-happens-when)
-9. “Web Browser Engineering” by Pavel Panchekha & Lindsey Kuper (2023–2024)
+9. "Web Browser Engineering" by Pavel Panchekha & Lindsey Kuper (2023–2024)
     - You literally build a toy web browser in Python (parser, layout engine, etc.).
     - Extremely good for understanding the fundamentals.
     - Free online book + code: [https://browser.engineering/](https://browser.engineering/)
-10. Lin Clark’s illustrated deep dives (CSS-Tricks / Mozilla)
+10. Lin Clark's illustrated deep dives (CSS-Tricks / Mozilla)
     - Amazing visual explanations of the event loop, WebAssembly, browser internals, etc.
     - Example: [https://www.youtube.com/watch?v=8aGhZQkoFbQ](https://www.youtube.com/watch?v=8aGhZQkoFbQ) (Event loop)
     - Her whole YouTube channel and illustrated posts on css-tricks.com
@@ -57,7 +57,7 @@ My personal recommended learning path (most effective order)
 3. web.dev courses (especially HTTP and performance)
 4. High Performance Browser Networking (Ilya Grigorik)
 5. Web Browser Engineering (build your own browser) ← this one is a game-changer
-6. You Don’t Know JS series for JS mastery
+6. You Don't Know JS series for JS mastery
 
 If you only have time for three resources:
 
@@ -65,7 +65,7 @@ If you only have time for three resources:
 - How Browsers Work + Web Browser Engineering (for real understanding)
 - High Performance Browser Networking
 
-These will give you a much deeper mental model than any bootcamp-style “learn React in 7 days” course.Enjoy the rabbit hole – the web platform is fascinating once you go below the framework layer!
+These will give you a much deeper mental model than any bootcamp-style "learn React in 7 days" course.Enjoy the rabbit hole – the web platform is fascinating once you go below the framework layer!
 
 # Notes
 
@@ -151,7 +151,7 @@ What happens during a TLS handshake?
 ?
 - Specify which version of TLS (TLS 1.0, 1.2, 1.3, etc.) they will use
 - Decide on which cipher suites (see below) they will use
-- Authenticate the identity of the server via the server’s public key and the SSL certificate authority’s digital signature
+- Authenticate the identity of the server via the server's public key and the SSL certificate authority's digital signature
 - Generate session keys in order to use symmetric encryption after the handshake is complete
 
 How does TLS affect page load performance?

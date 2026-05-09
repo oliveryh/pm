@@ -4,7 +4,7 @@ Status: Regular Usage
 Notes: ""
 ---
 
-- [ ] Consider selling
+- [ ] Sell
 
 # Set Up
 
@@ -14,7 +14,7 @@ Notes: ""
         - Go to [https://brew.sh/](https://brew.sh/) and follow installation instructions
     - iTerm (Requires Homebrew)
         - Install from [https://formulae.brew.sh/cask/iterm2](https://formulae.brew.sh/cask/iterm2)
-        - Configure “Natural Text Editing” from [https://gist.github.com/seachai/948ed1eeafa32ce03db6685edb879f71](https://gist.github.com/seachai/948ed1eeafa32ce03db6685edb879f71)
+        - Configure "Natural Text Editing" from [https://gist.github.com/seachai/948ed1eeafa32ce03db6685edb879f71](https://gist.github.com/seachai/948ed1eeafa32ce03db6685edb879f71)
     - pyenv (Requires Homebrew)
         - Install from [https://formulae.brew.sh/formula/pyenv](https://formulae.brew.sh/formula/pyenv)
         - Adding the following to `~/.zshrc`
@@ -53,13 +53,13 @@ eval "$(pyenv init -)"
     - gron
 - System Preferences
     - Keyboard
-        - Change the keyboard from “UK” to “UK - PC”
+        - Change the keyboard from "UK" to "UK - PC"
     - Trackpad Settings
         - Point & Click
-            - Set Tap to Click to “Tap with one finger”
-            - Set Secondary Click to “Click or tap with two fingers”
+            - Set Tap to Click to "Tap with one finger"
+            - Set Secondary Click to "Click or tap with two fingers"
         - Scroll & Zoom
-            - Set Trackpad direction to “Reverse” or Not-”Natural”
+            - Set Trackpad direction to "Reverse" or Not-"Natural"
 
 # Log
 

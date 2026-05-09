@@ -19,4 +19,4 @@ Yes, you should still learn to code*
 
 ## Highlights
 
-- Much of what AI tools generate needs to be validated. If you’re stuck accepting the output of AI tools at face value, you’ll be stuck dealing with their mistakes as well. If you can evaluate the appropriateness and correctness of their output, there’s probably going to be plenty of interesting work available to you. ([View Highlight](https://read.readwise.io/read/01gvtj2q41sfzdqtgvhe8540qx))
+- Much of what AI tools generate needs to be validated. If you're stuck accepting the output of AI tools at face value, you'll be stuck dealing with their mistakes as well. If you can evaluate the appropriateness and correctness of their output, there's probably going to be plenty of interesting work available to you. ([View Highlight](https://read.readwise.io/read/01gvtj2q41sfzdqtgvhe8540qx))

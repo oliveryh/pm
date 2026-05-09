@@ -17,4 +17,4 @@
 
 ## Highlights
 
-- There’s no better feeling than seeing a feat of engineering and shouting at yourself, “I want to build things like this!” ([View Highlight](https://read.readwise.io/read/01hqj8hvprazzx070m4y4hjxzy))
+- There's no better feeling than seeing a feat of engineering and shouting at yourself, "I want to build things like this!" ([View Highlight](https://read.readwise.io/read/01hqj8hvprazzx070m4y4hjxzy))

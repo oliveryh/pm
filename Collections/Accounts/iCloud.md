@@ -1,13 +1,16 @@
-Syncs::[[2022 Macbook Pro 13” M2 8GB]]
-Syncs::[[2020 Macbook Pro 13” i5 16GB]]
-Syncs::[[iPad Pro 12.7”]]
+Syncs::[[2022 Macbook Pro 13" M2 8GB]]
+Syncs::[[2020 Macbook Pro 13" i5 16GB]]
+Syncs::[[iPad Pro 12.7"]]
 Input::[[Collections/Accounts/Spotify|Spotify]]
 Input::[[Collections/Accounts/GitHub|GitHub]]
 
 # Actions
 
-- [ ] Check Chloe's iCloud usage limits
 # Log
+
+## 2026-04-30
+
+- Activated family iCloud usage on Chloe's iPhone
 
 ## 2026-04-20
 

@@ -24,7 +24,7 @@
   • [**live:**](https://taylor.town/constructive-lifestyle-design#live) prevent yourself from future suffering
   • Premise 2: [consciousness exists](https://en.wikipedia.org/wiki/Cogito,_ergo_sum); [entropy exists](https://en.wikipedia.org/wiki/Laws_of_thermodynamics); attention is scarce
   • [**thrive:**](https://taylor.town/constructive-lifestyle-design#thrive) maximize attention ([View Highlight](https://read.readwise.io/read/01h3d03d3njnacf2wpt8bqg4vw))
-- Don’t suffer. Thirst, hunger, sickness, cold, fatigue, etc. are not mysterious forces. ([View Highlight](https://read.readwise.io/read/01h3d03zweyrwycqc18n8gbg56))
+- Don't suffer. Thirst, hunger, sickness, cold, fatigue, etc. are not mysterious forces. ([View Highlight](https://read.readwise.io/read/01h3d03zweyrwycqc18n8gbg56))
 - Consensus favors the following advice:
   • drink a moderate amount of water
   • eat a moderate amount of nutritious foods

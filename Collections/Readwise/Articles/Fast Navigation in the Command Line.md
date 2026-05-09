@@ -16,4 +16,4 @@
 
 ## Highlights
 
-- “z” - a command line utility that tracks your most visited folders based on frequency and recency[(1)](http://karolis.koncevicius.lt/posts/fast_navigation_in_the_command_line/#cn:1). ([View Highlight](https://read.readwise.io/read/01gvfqv6wq4j49316eehr8d8kv))
+- "z" - a command line utility that tracks your most visited folders based on frequency and recency[(1)](http://karolis.koncevicius.lt/posts/fast_navigation_in_the_command_line/#cn:1). ([View Highlight](https://read.readwise.io/read/01gvfqv6wq4j49316eehr8d8kv))

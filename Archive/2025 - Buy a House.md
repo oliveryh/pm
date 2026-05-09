@@ -19,7 +19,7 @@ cover: "[[Media/2025 - Buy a House.jpeg]]"
 
 ####  2023-12-02
 
-- Received an email from Alistair saying our offer was effectively rejected but to contact Mark if we’re still interested
+- Received an email from Alistair saying our offer was effectively rejected but to contact Mark if we're still interested
 
 > Hi Oliver,
 > Apologies for not getting back sooner. I have put your offer to the vendor, unfortunately, although your position to proceed was good, the level of your offer was not at a level expected by the vendor.
@@ -61,7 +61,7 @@ cover: "[[Media/2025 - Buy a House.jpeg]]"
     - [x] Understand likelihood of getting a mortgage
 - [x] Text Claire about builders phone number
 - [x] Research other builders contacts
-- [x] Tell Godfrey Payton that we’re interested and would like a second viewing
+- [x] Tell Godfrey Payton that we're interested and would like a second viewing
     - [x] Need a ladder
 - [x] Legal questions
     - [x] Is there any covenant payment
@@ -116,13 +116,13 @@ Sources
 
 ##  2024-05-13
 
-- Today we were told that the Seller’s don’t have an accepted mortgage offer
+- Today we were told that the Seller's don't have an accepted mortgage offer
 
 **Plan**
 - Talk to Estate Agent
-    - I found out yesterday that the Seller’s don’t have a mortgage offer accepted. Were you aware of that?
-    - We are running out of time on our rental, and I want to make clear that we’re not prepared to go into another rental
-    - We want to know if they’d consider proceeding with the sale to us, irrespective of their purchase
+    - I found out yesterday that the Seller's don't have a mortgage offer accepted. Were you aware of that?
+    - We are running out of time on our rental, and I want to make clear that we're not prepared to go into another rental
+    - We want to know if they'd consider proceeding with the sale to us, irrespective of their purchase
 
 ##  2024-04-26
 
@@ -134,22 +134,22 @@ Sources
     - Said that sellers are looking get their mortgage offer sorted, and packing up their possessions
     - Planned to view the property on Friday at 4:45pm
 - Spoke to Joe from Stephen Rimmer
-    - Said that we don’t have to share our building insurance, but do have to have it in place around exchange time
+    - Said that we don't have to share our building insurance, but do have to have it in place around exchange time
     - Apparently exchange and completion can range from 3-5 working days
 
 ##  2024-04-25
 
 - Kicked off process to get Life Insurance sorted out with Vitality
-    - [x] There is an RPI clause which is “opt-out” - I should check exactly what that is
-- Even if I end my Health Insurance policy with Vitality, it shouldn’t impact my Life Insurance policy
+    - [x] There is an RPI clause which is "opt-out" - I should check exactly what that is
+- Even if I end my Health Insurance policy with Vitality, it shouldn't impact my Life Insurance policy
 
 ##  2024-04-24  - Solicitor Report
 
-- Received the solicitor’s report via post
+- Received the solicitor's report via post
 - Review Checklist
     - [x] Read through contract conditions
 - Questions
-    - Is the misspelt name “Christian” okay in the contract? Yes
+    - Is the misspelt name "Christian" okay in the contract? Yes
 - Decisions
     - [x] If we should own as Joint Tenants or Tenants in Common
         - Decided on Tenants in Common - £50 and then 50/50 split for remainder
@@ -161,27 +161,27 @@ Sources
 |Removal of internal wall between living room and dining room, Addition of 2 windows, Replacement boiler installation, Alterations to electrical installation |                                                                                                                                                   |
 | Additional Enquiries 5 - Boiler and Electrics untested |      |                               | Not started |                                                                                                                                                                                                                                                                              |                                                                                   Check if survey alluded to quality                                                                                    |                                                                                                                                                   |
 |                   Building Insurance                   |  9   |            Oliver             | Not started |                                                                                                          Ensure covers flooding. Make sure in place before exchange                                                                                                          |                                                                    Get building insurance. Note that a burglar alarm is not fitted.                                                                     |                                                                                                                                                   |
-|                    Completion Date                     |  9   | Dominic - Sovereign Financial |    Done     |                                                                                                                                                                                                                                                                              |                 Check with your Lender before returning the signed Contract to us ready for exchange, what date would be most beneficial from a financial point of view for completion                  |         Spoke with Dominic, nothing too concerning here. Basically, the later in the month that we complete, the less interest we’ll pay.         |
+|                    Completion Date                     |  9   | Dominic - Sovereign Financial |    Done     |                                                                                                                                                                                                                                                                              |                 Check with your Lender before returning the signed Contract to us ready for exchange, what date would be most beneficial from a financial point of view for completion                  |         Spoke with Dominic, nothing too concerning here. Basically, the later in the month that we complete, the less interest we'll pay.         |
 |                        Contract                        |      |     Roy - Stephen Rimmer      | Not started |                                                                                                      Mispelling of middle name. Mentions HSBC as opposed to Nationwide                                                                                                       |                                                                                Check if these contracts are still valid                                                                                 |                                                                                                                                                   |
 |                  Declaration of Trust                  |  11  |     Roy - Stephen Rimmer      | Not started |                                                                                     Believe this is only necessary if we do anything unusual (like have unequal shares on the property)                                                                                      |                                                                           Probably not needed assuming we go with 50/50 split                                                                           |                                                                                                                                                   |
 |                        Deposit                         |  2   |     Roy - Stephen Rimmer      | Not started |                                                                                                                                                                                                                                                                              |                                                                            Make payable 10% deposit to bank details provided                                                                            |                                                                                                                                                   |
 |                          EPC                           |      |                               |    Done     |                                                                                                                                                                                                                                                                              |                                                                Check how easy it is to get from D to C and requirement to make rentable                                                                 |                                                                                                                                                   |
 |                    Groundsure Rail                     |      |                               |    Done     |                                                                                                                                                                                                                                                                              |                                                                                    Check sound map for railway noise                                                                                    |                                                      Address appears to be in low noise area                                                      |
-|                    Identity Checks                     |  10  | Dominic - Sovereign Financial |    Done     |                                                                   If you are buying with the assistance of a mortgage, the Lender will need to be informed by us and agree to the third party contribution                                                                   |                                                           Check if he believes we’ve suitably notified everyone of third-party contributions.                                                           |                         Dominic said he’s “Not aware of our move” as this would likely muddy the waters of the mortgage.                          |
+|                    Identity Checks                     |  10  | Dominic - Sovereign Financial |    Done     |                                                                   If you are buying with the assistance of a mortgage, the Lender will need to be informed by us and agree to the third party contribution                                                                   |                                                           Check if he believes we've suitably notified everyone of third-party contributions.                                                           |                         Dominic said he's "Not aware of our move" as this would likely muddy the waters of the mortgage.                          |
 |                     Insolvency Act                     |      |     Roy - Stephen Rimmer      | Not started |                                                                                                                                                                                                                                                                              |                                                                             Check that misspelling of name is not an issue                                                                              |                                                                                                                                                   |
 |            Insolvency Act Indemnity Policy             |  3   |     Roy - Stephen Rimmer      | Not started |                                                                                                                                                                                                                                                                              |                                                                           Included £132 cost as part of completion statement                                                                            |                                                                                                                                                   |
 |           Joint Tenants vs Tenants in Common           |  10  |            Oliver             | Not started |                                                                                                                                                                                                                                                                              |                                                                                       Decide on these two options                                                                                       |                                                                                                                                                   |
-|      Life Insurance - Mortgage Protection Policy       |  9   | Dominic - Sovereign Financial |    Done     |                                                                                        This doesn’t appear to be required by the Lender. It is strongly recommended by Stephen Rimmer                                                                                        |                                                              Talk to Dominic to confirm it’s not a required condition. And also check if                                                                |                                               Not a required condition but is strongly recommended                                                |
-|                     Mortgage Deed                      |  10  |                               |    Done     |                                                                               Not sign contract until you have received a written copy of the mortgage offer and are happy with the conditions                                                                               |                                                  Check that deed is up-to-date with updated mortgage offer. Check that mortgage offer copy is in hand                                                   | Mortgage deed doesn’t appear to link specifically to the issued offer. I expect we can sign this without issue. Latest mortgage offer is in-hand. |
+|      Life Insurance - Mortgage Protection Policy       |  9   | Dominic - Sovereign Financial |    Done     |                                                                                        This doesn't appear to be required by the Lender. It is strongly recommended by Stephen Rimmer                                                                                        |                                                              Talk to Dominic to confirm it's not a required condition. And also check if                                                                |                                               Not a required condition but is strongly recommended                                                |
+|                     Mortgage Deed                      |  10  |                               |    Done     |                                                                               Not sign contract until you have received a written copy of the mortgage offer and are happy with the conditions                                                                               |                                                  Check that deed is up-to-date with updated mortgage offer. Check that mortgage offer copy is in hand                                                   | Mortgage deed doesn't appear to link specifically to the issued offer. I expect we can sign this without issue. Latest mortgage offer is in-hand. |
 |                        Planning                        |  6   |            Oliver             | Not started |                                                                                                                                                                                                                                                                              |                                                                     Inspect the councils website just before exchange of contracts                                                                      |                                                                                                                                                   |
-|             Price and Stamp Duty Land Tax              |  1   |                               | Not started |                                                                                                                                                                                                                                                                              |                            Complete the details highlighted under the purchasers section, sign where indicated in the “Declaration Section” and return with Signed Contract                             |                                                                                                                                                   |
+|             Price and Stamp Duty Land Tax              |  1   |                               | Not started |                                                                                                                                                                                                                                                                              |                            Complete the details highlighted under the purchasers section, sign where indicated in the "Declaration Section" and return with Signed Contract                             |                                                                                                                                                   |
 |         Regulated Local Authority Search - CIL         |      |                               | Not started |                                                                                                                                                                                                                                                                              |                                                                        Check how CIL affects us or if we have assumed liability                                                                         |                                                                                                                                                   |
 |         Regulated Local Authority Search - HS2         |      |                               |    Done     |                                                                                                                                                                                                                                                                              |                                                                                        Check how HS2 affects us                                                                                         |                       HS2 appears to be between Leamington Spa and Coventry so unlikely to be directly affected with noise                        |
-|    Rights, Restrictions, Stipulations and Covenants    |  4   |                               |    Done     |                                                                                                                                                                                                                                                                              |                                                             Conveyance dated 1/7/1960 relates to a right granted to use the rear accessway                                                              |                 Read on right that access is granted at rear accessway. Sellers state they haven’t had to contribute to this yet.                 |
-|                  Smoke Control Order                   |  6   |                               |    Done     |                                                           Prohibits residents from using solid fuel burning fires in their homes, unless “authorised fuel” is burnt or the fuel is burnt in an “exempt appliance”                                                            |                                           Understand what an “exempt appliance” and if this means we can’t have a wood burner. Note that website is incorrect                                           | Wood fired stoves are not banned in the UK but we should by a Defra approved “Exception Appliance” if we do eventually want to have a log burner. |
+|    Rights, Restrictions, Stipulations and Covenants    |  4   |                               |    Done     |                                                                                                                                                                                                                                                                              |                                                             Conveyance dated 1/7/1960 relates to a right granted to use the rear accessway                                                              |                 Read on right that access is granted at rear accessway. Sellers state they haven't had to contribute to this yet.                 |
+|                  Smoke Control Order                   |  6   |                               |    Done     |                                                           Prohibits residents from using solid fuel burning fires in their homes, unless "authorised fuel" is burnt or the fuel is burnt in an "exempt appliance"                                                            |                                           Understand what an "exempt appliance" and if this means we can't have a wood burner. Note that website is incorrect                                           | Wood fired stoves are not banned in the UK but we should by a Defra approved "Exception Appliance" if we do eventually want to have a log burner. |
 |                         Title                          |  3   |     Roy - Stephen Rimmer      | Not started |                                                                                                                                                                                                                                                                              |                                                         Included £150 cost to register title with Land Registry as part of completion statement                                                         |                                                                                                                                                   |
 |             Visit Property before Exchange             |  8   |      Gary - Charles Rose      | Not started |                                                                                                                                                                                                                                                                              |                                                                                     Arrange this with Estate Agent                                                                                      |                                                                                                                                                   |
-|                         Wills                          |  11  |     Roy - Stephen Rimmer      | Not started |                                                                                                                                                                                                                                                                              |                                                                                   Ask if this is a service he offers                                                                                    |                                  Spoke to Dominic but he didn’t say this was included at all with his services.                                   |
+|                         Wills                          |  11  |     Roy - Stephen Rimmer      | Not started |                                                                                                                                                                                                                                                                              |                                                                                   Ask if this is a service he offers                                                                                    |                                  Spoke to Dominic but he didn't say this was included at all with his services.                                   |
 |                       Wind Farm                        |      |                               |    Done     |                                                                                                                                                                                                                                                                              |                                                                                         Check if concern or not                                                                                         |                                                                                                                                                   |
 |           Works on Property Indemnity Policy           |  5   |            Oliver             | Not started | Removal of internal wall between living and dining room, replacement pitched roofs, altered wall opening, removal of chminey breast, replacement boiler and electrical alterations  have not been evidenced by Seller. Insurance has been taken out to cover absence of this |                                             Check through Home Buyers Survey to check that recommendations from Surveyor have all been covered by Insurance                                             |                                                                                                                                                   |
 
@@ -192,8 +192,8 @@ Sources
 
 ##  2024-04-12
 
-- Called Stephen Rimmer and talked to Roy’s secretary
-- Said that they’re at the “tail-end” of inquiries and hoping to have finished with these by end of next week
+- Called Stephen Rimmer and talked to Roy's secretary
+- Said that they're at the "tail-end" of inquiries and hoping to have finished with these by end of next week
 - [x] Call on  2024-04-19  to get a better sense of these
 - [x] Talk to Mark about possibly needing to extend stay
 
@@ -205,21 +205,21 @@ Sources
 
 ##  2024-03-06
 
-- Sent a message to Gary asking that the seller’s consider at £7.5k reduction in our offer to accommodate repairs
+- Sent a message to Gary asking that the seller's consider at £7.5k reduction in our offer to accommodate repairs
 - Sent this with snippets from the home buyers report
 
 ##  2024-03-04
 
 - Roy Bridge (Solicitor) Sent us an email detailing
     - The Land Registry entry
-    - Details about what’s included in the sale (fixtures, etc.)
+    - Details about what's included in the sale (fixtures, etc.)
 ![[55 Avon Street plan.pdf]]
 ![[55 Avon Street plan (1).pdf]]
 ![[Yerbury-Hodgson TA10.pdf]]
 
 ##  2024-02-20
 
-- Spoke to Dominic about the valuation. Nationwide would have performed a Desktop Valuation which means they wouldn’t have inspected the property. It doesn’t put the mortgage at risk but should they have inspected the property, they may not have granted the mortgage at the given asking price
+- Spoke to Dominic about the valuation. Nationwide would have performed a Desktop Valuation which means they wouldn't have inspected the property. It doesn't put the mortgage at risk but should they have inspected the property, they may not have granted the mortgage at the given asking price
 - He suggested reaching out to the Surveyor to ask what checks would be necessary before getting the valuations
 - Emailed Gary for available slots to carry out inspections
 - [x] Rita to countersign Chloe
@@ -229,9 +229,9 @@ Sources
 
 - Agreed that John will counter sign me, and Rita will counter sign Chloe
 - Emailed Tony about possible cost of repairs
-- Emailed Roy about the home buyers report if it’s of any help to him
-- Emailed Dominic about the necessity of buildings insurance and the likelihood that we’d be underinsured
-- Decided that we may want to only do the damp check if it’s clear that it’s originating from an issue in the roof
+- Emailed Roy about the home buyers report if it's of any help to him
+- Emailed Dominic about the necessity of buildings insurance and the likelihood that we'd be underinsured
+- Decided that we may want to only do the damp check if it's clear that it's originating from an issue in the roof
 - Damp Survey
     - Home Buyers Report people suggested a company called Specialist Xpress
     - Check-a-trade suggested a company called My House MOT
@@ -247,7 +247,7 @@ Sources
 
 - Notified that Grace and Tim (The sellers) had an offer accepted on an empty property
     - Believe this to be Kelvin Road, Leamington - Estate Agents Peter Clarke
-- Gary said earlier that they’re largely looking at properties they can renovate
+- Gary said earlier that they're largely looking at properties they can renovate
 
 ##  2024-01-29  - Change Mortgage to New Rate
 
@@ -255,9 +255,9 @@ Sources
 - I spoke to Dominic and we agreed to re-issue the mortgage at the lower rate
 - There would have only been a risk in doing so if my credit rating had massively dropped since the last mortgage was issued
 - I mentioned the Home Buyers Report
-    - Dominic stated it’s for your own use, and nothing disclosed on it would have been shared with the Solicitor unless I’ve done so
-    - He also mentioned that apparently it’s not normal for the valuation to be disclosed in the report
-    - Reassured us that if the bank believed it’s worth what we paid for, then we know the valuation of the property was at least what we paid for it
+    - Dominic stated it's for your own use, and nothing disclosed on it would have been shared with the Solicitor unless I've done so
+    - He also mentioned that apparently it's not normal for the valuation to be disclosed in the report
+    - Reassured us that if the bank believed it's worth what we paid for, then we know the valuation of the property was at least what we paid for it
 
 ##  2024-01-24  - Mortgage Rate Drops
 
@@ -283,9 +283,9 @@ I assume the inspector is aware of the offer accepted price. If we intend to con
 
 > I have heard from Grace yesterday, they have offered on a couple of properties, but not had an offer accepted just yet. I will let you know as soon as they do.
 
-- I then called Gary and asked if he could ask the Sellers to instruct a solicitor to signal that they’re still keen to move quickly
+- I then called Gary and asked if he could ask the Sellers to instruct a solicitor to signal that they're still keen to move quickly
 
-As of  2024-01-20  there is no confirmation / indication that he’s done that
+As of  2024-01-20  there is no confirmation / indication that he's done that
 
 ##  2024-01-12  - Mortgage Deed
 
@@ -298,8 +298,8 @@ As of  2024-01-20  there is no confirmation / indication that he’s done that
 
 > If there are any conditions to be satisfied before the mortgage advance is released, please deal with all of them fully before returning the mortgage deed to us signed
 
-- I’m not yet aware of *if* the property could be considered under/over insured
-- I’m not quite sure what conditions might be need to be satisfied
+- I'm not yet aware of *if* the property could be considered under/over insured
+- I'm not quite sure what conditions might be need to be satisfied
 
 ##  2024-01-05
 
@@ -330,7 +330,7 @@ As of  2024-01-20  there is no confirmation / indication that he’s done that
 
 ##  2023-12-17  - Notified Estate Agent about Solicitor
 
-- Emailed Gary at Charles Rose to notify him that we’ve found a solicitor
+- Emailed Gary at Charles Rose to notify him that we've found a solicitor
 
 > Hi Gary,
 > Thank you for the recommendations. After considering these two options against some others we'd received, we have decided to go with a solicitor called Roy Bridge from Stephen Rimmer LLP.
@@ -352,17 +352,17 @@ As of  2024-01-20  there is no confirmation / indication that he’s done that
 ##  2023-11-11  - Spoke to R. A. Bennet Estate Agent
 
 - Spoke to Charlie Turner about our interest in St. Lawrence Avenue
-    - Mentioned that it’d fallen through twice (details in House Log)
+    - Mentioned that it'd fallen through twice (details in House Log)
 - Setting up an initial call with Jason on  2023-11-07  to prepare for the initial call on  2023-11-08
 
 ##  2023-10-18
 
-- Called Dominic and confirmed that we’d like the 2 year fixed rate option
-- Questioned if we found something over £300k that we wouldn’t have an issue with the mortgage in principal being priced at that
+- Called Dominic and confirmed that we'd like the 2 year fixed rate option
+- Questioned if we found something over £300k that we wouldn't have an issue with the mortgage in principal being priced at that
     - No issue, the amount can be amended
 - Gone with Nationwide 2 year fixed with the option to guarantee the interest rate for 3 months
     - Within 3 months, if we find a better interest rate we can change to that
-    - After 3 months we’ll have to find a new lender
+    - After 3 months we'll have to find a new lender
     - This appears to have a £999 arrangement fee
 
 ##  2023-10-16
@@ -371,14 +371,14 @@ As of  2024-01-20  there is no confirmation / indication that he’s done that
 - Key Points
     - A credit loan of £500 paid off over the course of 3 years would not be a concern to the lenders
     - Most lenders offer a 10% overpayment allowance on the original or remaining amount of money. Amounts over this will incur a penalty. If we wanted to overpay then a variable rate or tracker mortgage would be preferred. He did state however that 10% of the amount we want to borrow is quite high (~£20k)
-    - The interest rate we get during the mortgage in principal isn’t guaranteed when you get the mortgage. However Nation Wide do offer a product where you can guarantee a particular rate for 3 months
+    - The interest rate we get during the mortgage in principal isn't guaranteed when you get the mortgage. However Nation Wide do offer a product where you can guarantee a particular rate for 3 months
     - Dominic also mentioned that Stamp Duty is only applied on the amount above £300k, so even if we went over £300k, then it may not be as hard hitting
 - Next Actions
     - Chloe and I will talk about the options
     - Review if we might want to buy over £300k depending on how hard hitting stamp duty is
     - Talk about the merits of 2 or 3 year fixed rates
         - If interest rates are likely to go down, 2 might be better
-        - If they’re likely to go up again before end of the term, then 3 years may be preferable
+        - If they're likely to go up again before end of the term, then 3 years may be preferable
 
 # Task List
 
@@ -535,7 +535,7 @@ We know that the kitchen is ~2 years old, so this is somewhat surprising and mig
 # Key Questions
 
 - Should I now share the report in it's entirety to the solicitor
-    - Dominic doesn’t seem to think so. It’s up to us what / how much we share
+    - Dominic doesn't seem to think so. It's up to us what / how much we share
 - Should we look at getting additional services involved
     - Property Care - More extensive check on potential damp within the property
     - Specialist - Checks to chimney flue and state of roof potential leak / repair cost
@@ -574,7 +574,7 @@ We know that the kitchen is ~2 years old, so this is somewhat surprising and mig
 
 # Breakdown of Issues for Builder
 
-Hi Tony, I’ll enclose some more details about the property to help with the inspection on Monday. Specifically, the full report (although I’ve taken out the most relevant sections below)
+Hi Tony, I'll enclose some more details about the property to help with the inspection on Monday. Specifically, the full report (although I've taken out the most relevant sections below)
 ![[Untitled 26.png]]
 
 ### Roof Structure - Weight
@@ -588,7 +588,7 @@ Hi Tony, I’ll enclose some more details about the property to help with the in
 - Do you believe this would require a structural engineer to assess the structure
 
 **Quotes**
-- Is there a price you could imagine this would cost with a contingency - or is it safer to get the structural engineer’s input
+- Is there a price you could imagine this would cost with a contingency - or is it safer to get the structural engineer's input
 
 ### Roof Structure - Condensation
 
@@ -638,7 +638,7 @@ Hi Tony, I’ll enclose some more details about the property to help with the in
 
 ### Use of Chimneys
 
-Ideally we’d like to make use of the front fireplace and chimney. It looks like there is evidence of damp linked some of the chimney stacks
+Ideally we'd like to make use of the front fireplace and chimney. It looks like there is evidence of damp linked some of the chimney stacks
 **Observations**
 **Questions**
 - What extent of water ingress affects the front chimney stack

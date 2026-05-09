@@ -20,9 +20,6 @@ Pulls::[[Collections/Accounts/TickTick|TickTick]]
 
 # Actions
 
-- [ ] Fix deployment
-
-
 # Reference
 
 Currently hosted at http://139.162.225.25/dashboards/
@@ -54,8 +51,8 @@ Currently hosted at http://139.162.225.25/dashboards/
 - [7 Colour E-Ink Display For Raspberry Pi](https://core-electronics.com.au/guides/colour-e-ink-display-raspberry-pi)
 - https://github.com/k0rventen/apple-health-grafanav
 - [How Is Felix Today?](https://howisfelix.today/?)
-- [How to read Hacker News threads with most recent comments first | Simon Willison’s TILs](https://til.simonwillison.net/hacker-news/recent-comments)
-- [Convert git log output to JSON using jq | Simon Willison’s TILs](https://til.simonwillison.net/jq/git-log-json)
+- [How to read Hacker News threads with most recent comments first | Simon Willison's TILs](https://til.simonwillison.net/hacker-news/recent-comments)
+- [Convert git log output to JSON using jq | Simon Willison's TILs](https://til.simonwillison.net/jq/git-log-json)
 - https://github.com/pingcap/ossinsight-lite
 - https://github.com/glanceapp/glance
 - [ossinsight-lite (pingcap) (378 ★)](https://github.com/pingcap/ossinsight-lite) - 🚧[WIP] Yet another customizable free GitHub stats dashboard based on TiDB Serverless
@@ -195,10 +192,14 @@ ORDER BY year DESC, count_year DESC
 
 # Log
 
+## 2026-04-27
+
+- Set up Linode server to use `uv` installed virtual env after Ubuntu upgrade
+
 ## 2025-02-01
 
 - I tried Basedash but it's too expensive
+
 ## 2024-09-14
 
 - I followed [this guide](https://www.digitalocean.com/community/tutorials/how-to-set-up-password-authentication-with-nginx-on-ubuntu-14-04) to add basic auth to the dashboard. This means it should be easier for me to start adding more sensitive information without accidentally exposing it.
-

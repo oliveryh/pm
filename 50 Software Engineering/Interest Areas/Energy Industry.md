@@ -20,12 +20,12 @@
 
 # Key Roles
 
-1.  Supplier (Bulb, Octopus, eon etc.)
-2.  Generation
-3.  Networks
-	1.  Transmission Network Operator - Carry electricity at high voltages for long distances
-	2.  Distribution Network Operator - Carry electricity at low voltages for local areas
-	3.  Electricity System Operator
+1. Supplier (Bulb, Octopus, eon etc.)
+2. Generation
+3. Networks
+	1. Transmission Network Operator - Carry electricity at high voltages for long distances
+	2. Distribution Network Operator - Carry electricity at low voltages for local areas
+	3. Electricity System Operator
 
 ## Transmission Network Operator (TNO)
 

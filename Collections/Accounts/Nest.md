@@ -105,7 +105,7 @@ We have a cap on Pensionable Earnings of £44,030 which aligns with what I was s
 
 - Confirmed that my constant employee contributions are there because we have a cap in Pensionable Earnings at £44,030
 - There is a 9 month period where I will have been on the Relief at Source arrangement
-- Finance team suggested I need to complete a Self Assessment to claim the tax relief on earnings taxable at 40% during the time we had a “Relief at Source” pension (ending 21/22 tax year)
+- Finance team suggested I need to complete a Self Assessment to claim the tax relief on earnings taxable at 40% during the time we had a "Relief at Source" pension (ending 21/22 tax year)
 	- 2026-04-06: I've likely missed the deadline so I'm assuming it's no longer possible
 
 ##   2024-04-14

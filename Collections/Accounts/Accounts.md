@@ -1,9 +1,8 @@
-
 # Audit Checklist
 
 - Make sure paper documents are turned off
 - Check that personal information is up to date
-- If I don’t use the account then either
+- If I don't use the account then either
     - Delete it
     - Redact personal information as best as possible
 

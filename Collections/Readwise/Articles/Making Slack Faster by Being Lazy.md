@@ -8,7 +8,7 @@
 - Full Title: Making Slack Faster by Being Lazy
 - Category: #articles
 - Document Tags: [[software engineering]]
-- Summary: Software performance is like a series of card tricks: Do less up front. Be really lazy. Prepare in the background. Be one step ahead of the user. Whether doing magic with cards or a browser, it doesn’t hurt to have an ace up your sleeve. ♠️ This two-part series is about our work refactoring part of the Slack desktop client …
+- Summary: Software performance is like a series of card tricks: Do less up front. Be really lazy. Prepare in the background. Be one step ahead of the user. Whether doing magic with cards or a browser, it doesn't hurt to have an ace up your sleeve. ♠️ This two-part series is about our work refactoring part of the Slack desktop client …
 - URL: https://slack.engineering/making-slack-faster-by-being-lazy/
 
 ## Full Document

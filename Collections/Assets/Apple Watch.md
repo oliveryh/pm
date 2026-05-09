@@ -7,8 +7,6 @@ Input::[[Exercise]]
 
 # Actions
 
-- [ ] Add work calendar to watch
-
 # Log
 
 ## 2026-04-26

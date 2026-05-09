@@ -9,11 +9,11 @@
 # General Tips
 
 - Things that you use for a fraction of your life (bed, shoes, computer setup if you're a programmer) are worth investing in
-- When buying things, time and money trade-off against each other. If you’re low on money, take more time to find deals. If you’re low on time, stop looking for great deals and just buy things quickly online.
+- When buying things, time and money trade-off against each other. If you're low on money, take more time to find deals. If you're low on time, stop looking for great deals and just buy things quickly online.
 
 # Other
 
-- There appears to be a trend online referring to a similar movement of “underconsumption core”
+- There appears to be a trend online referring to a similar movement of "underconsumption core"
 
 # Log
 

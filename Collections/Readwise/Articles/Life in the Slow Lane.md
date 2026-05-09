@@ -7,7 +7,7 @@
 - Author: [[Olivia Potts]]
 - Full Title: Life in the Slow Lane
 - Category: #articles
-- Summary: Olivia Potts | Longreads | November 2022 | 16 minutes (4,649 words) It’s six in the morning, and Robert Booth has already been on the road for three hours. Sitting alongside him in the cab of his lorry (the British term for a truck) is Louis, Robert’s small dog, a Jack Russell-chihuahua mix, and a washing-up bowl […]
+- Summary: Olivia Potts | Longreads | November 2022 | 16 minutes (4,649 words) It's six in the morning, and Robert Booth has already been on the road for three hours. Sitting alongside him in the cab of his lorry (the British term for a truck) is Louis, Robert's small dog, a Jack Russell-chihuahua mix, and a washing-up bowl […]
 - URL: https://longreads.com/2022/11/17/life-in-the-slow-lane/
 
 ## Full Document

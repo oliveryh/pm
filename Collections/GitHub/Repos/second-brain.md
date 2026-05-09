@@ -66,13 +66,13 @@ As well as notion, I'd taken a look at the following methods of implementation. 
 
 ## Thoughts on the Future of my PKM
 
-There’s no denying that a second brain can be useful, but more recently, it’s felt like yet another opportunity to hoard. Time and again, I find myself trying to reinvent versions of the same thing, which I’ll try to summarise below.
+There's no denying that a second brain can be useful, but more recently, it's felt like yet another opportunity to hoard. Time and again, I find myself trying to reinvent versions of the same thing, which I'll try to summarise below.
 
 - The ultimate use of a second brain is the ability to curate, organise, search for, and store data
 - I map real life concepts into objects that exist in databases
 - Sometimes those objects are files
-- There’s a balance to strike between putting everything in these databases vs using third party services
+- There's a balance to strike between putting everything in these databases vs using third party services
 	- Third party services may keep you locked in, but they may offer an ecosystem to connect with and benefit from
-	- Additionally, sometimes it’s just more efficient to allow someone else to offer a tool or utility when using their service that would be too hard to recreate yourself
+	- Additionally, sometimes it's just more efficient to allow someone else to offer a tool or utility when using their service that would be too hard to recreate yourself
 		- For example, I realised that TickTick had the feature set that I was attempting to build in Clearhabits
-	- An example of where I’ve migrated away from a third party is book. I was generally getting far too many recommendations to warrant being in the Goodreads ecosystem and just made a list of books I’d read in Obsidian
+	- An example of where I've migrated away from a third party is book. I was generally getting far too many recommendations to warrant being in the Goodreads ecosystem and just made a list of books I'd read in Obsidian

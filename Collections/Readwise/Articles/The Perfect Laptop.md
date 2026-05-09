@@ -16,7 +16,7 @@
 
 ## Highlights
 
-- There is a short list of laptops currently on the market that come as near as they can to “The Perfect Laptop”:
+- There is a short list of laptops currently on the market that come as near as they can to "The Perfect Laptop":
   • Apple M1 MacBook line (from Air to the lower end Pro)
   • [The Framework Laptop](https://frame.work/)
   • Lenovo ThinkPad X1 Nano Gen 2

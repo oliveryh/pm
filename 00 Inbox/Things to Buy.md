@@ -1,4 +1,0 @@
-- [ ] Vacuum bags for clothing
-- [x] 2026 calendar
-- [ ] Our place steaming basket
-- [ ] Desk mat

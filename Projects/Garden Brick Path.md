@@ -13,6 +13,18 @@ end_date: 2026-04-27
 
 # Actions
 
+# Issues
+
+## Garden landscaping spec
+
+- Depth of concrete is approximately 1 standard brick height (+ 1" in some parts).
+
+## Book skip
+
+## Clear garden
+
+## Clear skip
+
 # Log
 
 ## 2026-04-27

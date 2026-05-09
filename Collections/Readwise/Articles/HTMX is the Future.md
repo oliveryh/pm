@@ -23,7 +23,7 @@
   • Managing state on both the client and server
   • Frameworks, on top of libraries, on top of other libraries, on top of polyfills. [React even recommend using a framework on top of their tech](https://react.dev):
 
-  > React is a library. It lets you put components together, but it doesn’t prescribe how to do routing and data fetching. To build an entire app with React, we recommend a full-stack React framework.
+  > React is a library. It lets you put components together, but it doesn't prescribe how to do routing and data fetching. To build an entire app with React, we recommend a full-stack React framework.
   • By their nature, a fat client requires the client to execute a lot of JavaScript. If you have modern hardware, this is fine, but these applications will be unusable & slow for those on older hardware or in locations with slow and unreliable internet connections.
   • It is very easy to make an SPA incorrectly, where you need to use the right approach with hooks to avoid ending up with abysmal client-side performance.
   • Some SPA implementations of SPA throw away progressive enhancement (a notable and noble exception is [Remix](https://remix.run)). Therefore, you *must* have JavaScript turned on for most SPAs.

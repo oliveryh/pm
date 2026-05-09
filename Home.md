@@ -28,21 +28,31 @@ for (const p of pages) {
 ```dataviewjs
 const tasks = dv.pages().file.tasks.where(t => !t.completed && t.status !== "<" && t.status !== "?");
 const count = tasks.length;
+const p = dv.page("Notes/Open Tasks Over Time");
+const vals = [p.d0, p.d1, p.d2, p.d3].filter(v => v != null);
 
-dv.el("div", `
-  <div style="
-    display: inline-block;
-    background: var(--background-secondary);
-    border: 1px solid var(--background-modifier-border);
-    border-radius: 8px;
-    padding: 16px 24px;
-    min-width: 160px;
-    text-align: center;
-  ">
-    <div style="font-size: 2em; font-weight: 700; color: var(--text-normal);">${count}</div>
-    <div style="font-size: 0.85em; color: var(--text-muted); margin-top: 4px;">Open Tasks</div>
-  </div>
-`, { cls: "dataview" });
+const row = dv.el("div", "", { attr: { style: "display:flex; gap:8px; align-items:stretch; width:100%;" } });
+
+// Open Tasks — 1/4 width
+const countCard = row.createEl("div", { attr: { style: "flex:1; background:var(--background-secondary); border:1px solid var(--background-modifier-border); border-radius:8px; padding:12px 16px; text-align:center; display:flex; flex-direction:column; justify-content:center;" } });
+countCard.createEl("div", { text: String(count), attr: { style: "font-size:2em; font-weight:700; color:var(--text-normal); line-height:1;" } });
+countCard.createEl("div", { text: "Open Tasks", attr: { style: "font-size:0.75em; color:var(--text-muted); margin-top:4px;" } });
+
+// Task Trend — 3/4 width
+if (vals.length >= 2) {
+    const labels = ["T−1", "T−2", "T−3"];
+    const trendCard = row.createEl("div", { attr: { style: "flex:3; background:var(--background-secondary); border:1px solid var(--background-modifier-border); border-radius:8px; padding:12px 16px;" } });
+    trendCard.createEl("div", { text: "Task Trend", attr: { style: "font-size:0.75em; color:var(--text-muted); text-transform:uppercase; letter-spacing:0.05em; margin-bottom:8px; text-align:center;" } });
+    const deltas = trendCard.createEl("div", { attr: { style: "display:flex; justify-content:space-around;" } });
+    for (let i = 0; i < Math.min(3, vals.length - 1); i++) {
+        const delta = vals[i] - vals[i + 1];
+        const arrow = delta < 0 ? "↓" : delta > 0 ? "↑" : "–";
+        const color = delta < 0 ? "var(--color-green)" : delta > 0 ? "var(--color-red)" : "var(--text-muted)";
+        const col = deltas.createEl("div", { attr: { style: "text-align:center;" } });
+        col.createEl("div", { text: `${arrow}${Math.abs(delta)}`, attr: { style: `font-size:1.4em; font-weight:700; color:${color}; line-height:1;` } });
+        col.createEl("div", { text: labels[i], attr: { style: "font-size:0.72em; color:var(--text-muted); margin-top:4px;" } });
+    }
+}
 ```
 
 ```dataviewjs

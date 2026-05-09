@@ -1,3 +1,9 @@
+# Actions
+
+- [x] Clear up / leave Discord chats #next
+
+# Reference
+
 Communities
 
 - Convex
@@ -29,3 +35,9 @@ Communities
 - Obsidian
 - PINE64
 - Chowmein's Server
+
+# Log
+
+## 2026-05-04
+
+- Reduced servers down to software I actively use

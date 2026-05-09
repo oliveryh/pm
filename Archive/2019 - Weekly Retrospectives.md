@@ -4,10 +4,10 @@
 
 ## General Thoughts
 
-Normally I get quite easily distracted and drop my plans to work on something. With planning the week in full ahead of time, and only keeping actionable and scoped items in ClearHabits, I felt like I was making a lot more progress and was more relaxed. The general improvements I’d like to change
-- Easily add ebook reading that isn’t associated with a book. Add to ClearHabits manually starting in 2022
+Normally I get quite easily distracted and drop my plans to work on something. With planning the week in full ahead of time, and only keeping actionable and scoped items in ClearHabits, I felt like I was making a lot more progress and was more relaxed. The general improvements I'd like to change
+- Easily add ebook reading that isn't associated with a book. Add to ClearHabits manually starting in 2022
 - Not much exercise over the weekend. Probably good to have something planned here
-- Retrospective time isn’t currently scheduled
+- Retrospective time isn't currently scheduled
 - Slowly automatically track screen time. Or at least start with phone as this is common goal
 
 ## Next Sprint Focus

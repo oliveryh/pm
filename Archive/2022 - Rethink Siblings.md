@@ -78,4 +78,3 @@
 ## Tasks
 
 - https://www.futurelearn.com/courses/caring-psychosis-schizophrenia
-- [ ] Start counselling or therapy

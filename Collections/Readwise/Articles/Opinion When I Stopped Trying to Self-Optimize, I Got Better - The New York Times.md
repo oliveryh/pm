@@ -17,5 +17,5 @@
 
 ## Highlights
 
-- That moment got me thinking, and then researching. At some point, I framed this experience for myself in terms of simple arithmetic: When I added (determination, grit, self-confidence, desire), I failed. When I took away (the desire for success), my body moved with greater fluidity and naturalness. I improved. I enjoyed it more as well, which, as an athlete of 30 years, I didn’t think was possible.
+- That moment got me thinking, and then researching. At some point, I framed this experience for myself in terms of simple arithmetic: When I added (determination, grit, self-confidence, desire), I failed. When I took away (the desire for success), my body moved with greater fluidity and naturalness. I improved. I enjoyed it more as well, which, as an athlete of 30 years, I didn't think was possible.
   I discovered the power of subtraction. ([View Highlight](https://read.readwise.io/read/01hk0e3mhjzy03qgg0pm4ktj8p))

@@ -22,5 +22,5 @@
   • What structural change(s) (S) will make the next behavioral change (B) easier to implement?
   • Keep S and B in separate commits (or even separate PRs).
   • Create future behavior options by keeping a structure that supports change.
-  • Constantine’s Equivalence: cost(software) ~= coupling ([View Highlight](https://read.readwise.io/read/01j0dwjq0ng3cx9gyp5tsm6tpg))
+  • Constantine's Equivalence: cost(software) ~= coupling ([View Highlight](https://read.readwise.io/read/01j0dwjq0ng3cx9gyp5tsm6tpg))
 - This book is focused on the individual developer, and is the first in a series of three books. The next book will be about teams of software developers, and the third book will be about the cooperation between developers and non-developers. I really enjoyed Tidy First?, and I am looking forward to reading the next books in the series. ([View Highlight](https://read.readwise.io/read/01j0dwkrqy7xtyw7gbp84q9c2y))

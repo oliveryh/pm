@@ -16,4 +16,4 @@
 
 ## Highlights
 
-- Tim wasn’t delivering software; Tim was delivering a team that was delivering software. The entire team became more effective, more productive, more aligned, more idiomatic, more *fun*, because Tim was in the team. ([View Highlight](https://read.readwise.io/read/01hkbaj54p0fkz7ny6qvdtf52m))
+- Tim wasn't delivering software; Tim was delivering a team that was delivering software. The entire team became more effective, more productive, more aligned, more idiomatic, more *fun*, because Tim was in the team. ([View Highlight](https://read.readwise.io/read/01hkbaj54p0fkz7ny6qvdtf52m))

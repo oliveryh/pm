@@ -16,4 +16,4 @@
 
 ## Highlights
 
-- It’s good to copy-paste code a couple of times, rather than making a library function, just to get a handle on how it will be used. Once you make something a shared API, you make it harder to change. ([View Highlight](https://read.readwise.io/read/01jnxe0xbz46gaynyncpfdvjer))
+- It's good to copy-paste code a couple of times, rather than making a library function, just to get a handle on how it will be used. Once you make something a shared API, you make it harder to change. ([View Highlight](https://read.readwise.io/read/01jnxe0xbz46gaynyncpfdvjer))

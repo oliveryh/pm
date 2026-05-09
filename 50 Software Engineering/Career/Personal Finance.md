@@ -51,6 +51,6 @@ Use the [Monevator Comparison Table](http://monevator.com/compare-uk-cheapest-on
 - [Ask HN: How to start learning about investments?](https://news.ycombinator.com/item?id=29056262)
 - [ProjectionLab - Simulate your Financial Future](https://projectionlab.com/) ([HN Discussion](https://news.ycombinator.com/item?id=31083093))
 - Dad uses a personal finance app called "Snoop"
-- Zoe’s boyfriend Simon mentioned
+- Zoe's boyfriend Simon mentioned
 	- James Shack
 	- Phil Anderson

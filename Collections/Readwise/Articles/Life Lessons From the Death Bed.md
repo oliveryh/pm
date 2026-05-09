@@ -8,7 +8,7 @@
 - Full Title: Life Lessons From the Death Bed
 - Category: #articles
 - Document Tags: [[productivity]]
-- Summary: by Katie Zakrzewski “To your grave there’s no use taking any gold,You cannot use it when it’s time for hands to fold,When you leave this earth for a better home someday,The only thing y…
+- Summary: by Katie Zakrzewski "To your grave there's no use taking any gold,You cannot use it when it's time for hands to fold,When you leave this earth for a better home someday,The only thing y…
 - URL: https://isonomiaquarterly.com/archive/volume-1-issue-2/life-lessons-from-the-death-bed/
 
 ## Full Document
@@ -17,8 +17,8 @@
 
 ## Highlights
 
-- *“To your grave there’s no use taking any gold,*
-  *You cannot use it when it’s time for hands to fold,*
+- *"To your grave there's no use taking any gold,*
+  *You cannot use it when it's time for hands to fold,*
   *When you leave this earth for a better home someday,*
-  *The only thing you’ll take is what you gave away.”*
+  *The only thing you'll take is what you gave away."*
   *– Grandpa Jones* ([View Highlight](https://read.readwise.io/read/01kh9np8cvjdptpdxvwyv7a6d8))

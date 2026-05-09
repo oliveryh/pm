@@ -10,6 +10,10 @@
 
 # Log
 
+## 2026-05-01
+
+Noticing a recurring pattern: intense weeks leave everything piling up until Saturday — chores, planning, admin — by which point I'm exhausted and have no headroom to actually enjoy or plan the weekend. Not sure if it's just a volume problem (doing more tasks overall) or a distribution problem. Hypothesis: weekdays need to be less draining so there's energy left to chip away at things before Saturday. Worth thinking about how to protect weekday evenings or mornings for lighter tasks rather than letting them accumulate.
+
 ## 2026-04-21
 
 - Felt a lot more tired today; number of ongoing topics at work exploded again

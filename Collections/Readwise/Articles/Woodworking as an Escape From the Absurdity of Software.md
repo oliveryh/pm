@@ -17,5 +17,5 @@
 
 ## Highlights
 
-- I’m also vaguely aware that software dev as we know it is about to disappear soon, and I got tired of learning the newest thing just to have it replaced next year. I got tired of back pain and chronic finger pain from so many hours of sitting and typing, I’d rather have pain from work that also builds some muscle. ([View Highlight](https://read.readwise.io/read/01j1q2qxren9pzk8rt62rky2db))
+- I'm also vaguely aware that software dev as we know it is about to disappear soon, and I got tired of learning the newest thing just to have it replaced next year. I got tired of back pain and chronic finger pain from so many hours of sitting and typing, I'd rather have pain from work that also builds some muscle. ([View Highlight](https://read.readwise.io/read/01j1q2qxren9pzk8rt62rky2db))
 - And I got so tired of everything being online, immaterial, ephemeral and lonely, like indie development tends to be. ([View Highlight](https://read.readwise.io/read/01j1q2r0tz5z72vg6fypj22rvb))

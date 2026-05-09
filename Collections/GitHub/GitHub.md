@@ -73,20 +73,20 @@ Backed up repos to iCloud by running the following in a folder that's backed up 
     - Started with 34 repos - 15 Public, 19 Private | 25 Sources, 5 Forks, 4 Archived
     - Ended with 29 repos - 14 Public, 15 Private | 21 Sources, 4 Forks, 4 Archived
 - Ones to watch
-    - `control-centre` - I stopped using this recently. I wonder if it’s worth running locally again and getting a sense of how useful I’ll find it going forward
-        - It looks like Jazz.Tools might offer similar needs, apart from doing things locally on the computer it’s being run from
+    - `control-centre` - I stopped using this recently. I wonder if it's worth running locally again and getting a sense of how useful I'll find it going forward
+        - It looks like Jazz.Tools might offer similar needs, apart from doing things locally on the computer it's being run from
     - `production-metrics`
         - Having obsessed a little less over metrics recently, a lot of the code that used `datasette-dashboards` is largely obsolete/unused
         - There are some useful scripts dotted around in this repo because of the shared access to previously written clients
         - The tech stack is massively bloated having used the cookie cutter
     - `pledges` - Now that CS is no more, I could possibly take screenshots of this, add the tech stack, and make this a public archive - for posterity
-    - `blog` - Could be deleted except from the fact it probably has some old article content I’d rather transfer. Equally, I could screenshot and archive for posterity. It looks like `blog-archived` is the built equivalent of this, but the source with markdown may make more sense to keep.
+    - `blog` - Could be deleted except from the fact it probably has some old article content I'd rather transfer. Equally, I could screenshot and archive for posterity. It looks like `blog-archived` is the built equivalent of this, but the source with markdown may make more sense to keep.
     - `financials` - Some interesting data here that I should extract and save somewhere securely
     - `composure` and `battlestation` - Idea is to extract any useful functionality over to `nixos-config`
 - Delete Repos
     - `secrets` - Originally setup to store NixOS secrets, but never used
     - `tldraw-server` - An attempt at hosting a `tldraw` server
-    - `starter-fastapi-graphql` - There wasn’t very much in this starter code - and it was 5 years old
+    - `starter-fastapi-graphql` - There wasn't very much in this starter code - and it was 5 years old
     - `vue3-markdown-it` - Fork was archived, and not sure what I was using this for
     - `mitm` - Used to extract data from Everfit, but not much value in the repo itself
 - Archive Repos
@@ -105,16 +105,16 @@ Backed up repos to iCloud by running the following in a folder that's backed up 
     - Started with 41 repos - 22 Public, 19 Private | 25 Sources, 11 Forks, 5 Archived
     - Ended with 32 repos - 17 Public, 15 Private | 22 Sources, 7 Forks, 3 Archived
 - Ones to watch
-    - `datasette-dashboards` - My intention is to move away from Datasette Dashboards so this fork can probably be deleted once that’s done
+    - `datasette-dashboards` - My intention is to move away from Datasette Dashboards so this fork can probably be deleted once that's done
     - `datasette-auth-github` - Similar to the above, I may be able to move away from this repo
-    - `composure` and `battlestation` - There’s overlapping functionality and limited usage
+    - `composure` and `battlestation` - There's overlapping functionality and limited usage
     - `vue3-markdown-it` - This was probably installed as a dependency from some Obsidian plugin I abandoned
     - `Html2Epub` - This is linked to the now-archived repo `pandora`
 - Created Repos
     - `piclo-code-challenge` - Created my own copy of this as the original might get deleted by Piclo
 - Delete Repos
     - `obsidian-pandora-vue` - This was an obsidian vue plugin that was an early attempt to create something similar to Readwise Reader
-    - `narwhals` - This was forked. I’ll probably fork again to make my first open source contribution
+    - `narwhals` - This was forked. I'll probably fork again to make my first open source contribution
     - `obsidian-rss`
     - `open-ai-test`
     - `LoveIt`

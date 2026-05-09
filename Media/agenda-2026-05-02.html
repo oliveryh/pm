@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Daily Agenda — 2026-05-02</title>
+<style>
+  @page { size: A4; margin: 0; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    width: 210mm;
+    height: 297mm;
+    font-family: 'Courier New', Courier, monospace;
+    background: #fff;
+    color: #0b1e35;
+    font-size: 6.5pt;
+    overflow: hidden;
+  }
+
+  .page {
+    width: 210mm;
+    height: 297mm;
+    padding: 11mm;
+    position: relative;
+    background-image:
+      linear-gradient(rgba(80,120,180,0.06) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(80,120,180,0.06) 1px, transparent 1px);
+    background-size: 5mm 5mm;
+  }
+
+  /* Engineering drawing double border */
+  .border-outer { position:absolute; top:7mm; left:7mm; right:7mm; bottom:7mm; border:2px solid #0b1e35; }
+  .border-inner { position:absolute; top:9.5mm; left:9.5mm; right:9.5mm; bottom:9.5mm; border:0.5px solid #0b1e35; }
+
+  /* Corner registration marks */
+  .reg { position:absolute; width:5mm; height:5mm; }
+  .reg-tl { top:5.5mm; left:5.5mm; border-top:2px solid #0b1e35; border-left:2px solid #0b1e35; }
+  .reg-tr { top:5.5mm; right:5.5mm; border-top:2px solid #0b1e35; border-right:2px solid #0b1e35; }
+  .reg-bl { bottom:5.5mm; left:5.5mm; border-bottom:2px solid #0b1e35; border-left:2px solid #0b1e35; }
+  .reg-br { bottom:5.5mm; right:5.5mm; border-bottom:2px solid #0b1e35; border-right:2px solid #0b1e35; }
+
+  /* Tick marks along top border */
+  .ticks-top {
+    position:absolute; top:7mm; left:12mm; right:12mm;
+    display:flex; justify-content:space-around;
+  }
+  .tick { width:0.5px; height:2.5mm; background:#0b1e35; }
+
+  /* Main content area */
+  .content {
+    position:absolute;
+    top:13mm; left:13mm; right:13mm; bottom:38mm;
+  }
+
+  /* Document header */
+  .doc-header {
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-start;
+    border-bottom:1px solid #0b1e35;
+    padding-bottom:2.5mm;
+    margin-bottom:3mm;
+  }
+  .doc-title {
+    font-size:13pt;
+    font-weight:bold;
+    letter-spacing:0.25em;
+    text-transform:uppercase;
+    line-height:1;
+  }
+  .doc-subtitle {
+    font-size:5pt;
+    color:#3a5a80;
+    letter-spacing:0.12em;
+    margin-top:1.5mm;
+    text-transform:uppercase;
+  }
+  .doc-meta {
+    font-size:5.5pt;
+    text-align:right;
+    line-height:1.8;
+    color:#3a5a80;
+    text-transform:uppercase;
+    letter-spacing:0.05em;
+  }
+  .doc-meta strong { color:#0b1e35; }
+
+  /* Divider with zone label */
+  .divider {
+    display:flex;
+    align-items:center;
+    gap:2mm;
+    margin-bottom:2.5mm;
+    font-size:5pt;
+    color:#3a5a80;
+    text-transform:uppercase;
+    letter-spacing:0.1em;
+  }
+  .divider::after { content:''; flex:1; height:0.5px; background:#c0ccd8; }
+
+  /* Two-column layout */
+  .columns {
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:0 6mm;
+  }
+
+  /* Section block */
+  .section { margin-bottom:3.5mm; break-inside:avoid; }
+
+  .section-header {
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    background:#0b1e35;
+    color:#fff;
+    padding:1mm 2mm;
+    font-size:6pt;
+    letter-spacing:0.15em;
+    text-transform:uppercase;
+    margin-bottom:0.5mm;
+  }
+  .section-zone {
+    font-size:4.5pt;
+    opacity:0.6;
+    letter-spacing:0.05em;
+  }
+
+  /* Task rows */
+  .task {
+    display:flex;
+    align-items:center;
+    border-bottom:0.3px solid #d0dae4;
+    padding:1mm 1.5mm;
+    gap:2mm;
+  }
+  .task:last-child { border-bottom:0.5px solid #a0b0c0; }
+  .task-num {
+    font-size:5pt;
+    color:#8aa0b8;
+    flex-shrink:0;
+    width:4mm;
+    text-align:right;
+  }
+  .task-name { flex:1; line-height:1.3; }
+  .task-fields {
+    display:flex;
+    gap:3mm;
+    flex-shrink:0;
+    align-items:center;
+  }
+  .field {
+    display:flex;
+    align-items:center;
+    gap:1mm;
+    font-size:5pt;
+    color:#5a7a9a;
+    text-transform:uppercase;
+    letter-spacing:0.05em;
+  }
+  .field-line {
+    width:11mm;
+    border-bottom:0.5px solid #0b1e35;
+    height:3mm;
+  }
+
+  /* Title block (bottom right) */
+  .title-block {
+    position:absolute;
+    bottom:9.5mm; right:9.5mm;
+    width:90mm;
+    border:0.5px solid #0b1e35;
+    font-size:5.5pt;
+  }
+  .tb-row {
+    display:flex;
+    border-bottom:0.5px solid #0b1e35;
+    height:10mm;
+  }
+  .tb-row:last-child { border-bottom:none; height:8mm; }
+  .tb-cell {
+    flex:1;
+    padding:1mm 1.5mm;
+    border-right:0.5px solid #0b1e35;
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between;
+  }
+  .tb-cell:last-child { border-right:none; }
+  .tb-cell.wide { flex:2; }
+  .tb-label { font-size:4pt; color:#5a7a9a; text-transform:uppercase; letter-spacing:0.05em; }
+  .tb-value { font-size:7pt; font-weight:bold; }
+  .tb-small { font-size:5.5pt; }
+
+  /* Drawing number box (bottom left) */
+  .drw-num {
+    position:absolute;
+    bottom:9.5mm; left:9.5mm;
+    width:45mm; height:18mm;
+    border:0.5px solid #0b1e35;
+    display:flex; flex-direction:column;
+    padding:2mm;
+    font-size:4.5pt;
+    color:#5a7a9a;
+    text-transform:uppercase;
+    letter-spacing:0.05em;
+    justify-content:space-between;
+  }
+  .drw-num .big { font-size:9pt; font-weight:bold; color:#0b1e35; letter-spacing:0.1em; }
+
+  /* Column rule */
+  .col-rule {
+    position:absolute;
+    top:0; bottom:0;
+    left:50%;
+    width:0.5px;
+    background:#c0ccd8;
+    transform:translateX(-3mm);
+  }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <div class="border-outer"></div>
+  <div class="border-inner"></div>
+  <div class="reg reg-tl"></div>
+  <div class="reg reg-tr"></div>
+  <div class="reg reg-bl"></div>
+  <div class="reg reg-br"></div>
+
+  <div class="ticks-top">
+    <div class="tick"></div><div class="tick"></div><div class="tick"></div>
+    <div class="tick"></div><div class="tick"></div><div class="tick"></div>
+    <div class="tick"></div><div class="tick"></div><div class="tick"></div>
+  </div>
+
+  <div class="content">
+
+    <!-- Header -->
+    <div class="doc-header">
+      <div>
+        <div class="doc-title">Daily Operations Agenda</div>
+        <div class="doc-subtitle">Schedule of Works &mdash; Site: 55 Avon Street &mdash; Operative: O. Yerbury-Hodgson</div>
+      </div>
+      <div class="doc-meta">
+        Date: <strong>2026-05-02</strong><br>
+        Ref: <strong>AGD-20260502</strong><br>
+        Rev: <strong>A</strong><br>
+        Sheet: <strong>1 of 1</strong>
+      </div>
+    </div>
+
+    <!-- Field key -->
+    <div class="divider">Works Programme &mdash; All zones &mdash; Record start time (24h) and duration (min)</div>
+
+    <div class="columns" style="position:relative;">
+      <div class="col-rule"></div>
+
+      <!-- LEFT COLUMN -->
+      <div>
+
+        <!-- A: Harp Competition Prep -->
+        <div class="section">
+          <div class="section-header">A &mdash; Harp Competition Prep <span class="section-zone">Zone A / Ref HCP</span></div>
+          <div class="task"><div class="task-num">A1</div><div class="task-name">Book accommodation (Muswell Hill)</div><div class="task-fields"><div class="field">Start<div class="field-line"></div></div><div class="field">Dur<div class="field-line"></div></div></div></div>
+          <div class="task"><div class="task-num">A2</div><div class="task-name">Organise dinner</div><div class="task-fields"><div class="field">Start<div class="field-line"></div></div><div class="field">Dur<div class="field-line"></div></div></div></div>
+          <div class="task"><div class="task-num">A3</div><div class="task-name">Organise Teddy's food for the trip</div><div class="task-fields"><div class="field">Start<div class="field-line"></div></div><div class="field">Dur<div class="field-line"></div></div></div></div>
+          <div class="task"><div class="task-num">A4</div><div class="task-name">Share street group chat about Teddy</div><div class="task-fields"><div class="field">Start<div class="field-line"></div></div><div class="field">Dur<div class="field-line"></div></div></div></div>
+        </div>
+
+        <!-- B: Laundry Circuit -->
+        <div class="section">
+          <div class="section-header">B &mdash; Laundry Circuit <span class="section-zone">Zone B / Ref LDY</span></div>
+          <div class="task"><div class="task-num">B1</div><div class="task-name">Strip bedding &rarr; put straight in the wash</div><div class="task-fields"><div class="field">Start<div class="field-line"></div></div><div class="field">Dur<div class="field-line"></div></div></div></div>
+          <div class="task"><div class="task-num">B2</div><div class="task-name">Change bedding</div><div class="task-fields"><div class="field">Start<div class="field-line"></div></div><div class="field">Dur<div class="field-line"></div></div></div></div>
+          <div class="task"><div class="task-num">B3</div><div class="task-name">Laundry</div><div class="task-fields"><div class="field">Start<div class="field-line"></div></div><div class="field">Dur<div class="field-line"></div></div></div></div>
+          <div class="task"><div class="task-num">B4</div><div class="task-name">Air rooms</div><div class="task-fields"><div class="field">Start<div class="field-line"></div></div><div class="field">Dur<div class="field-line"></div></div></div></div>
+        </div>
+
+        <!-- C: Bathroom + Personal Care -->
+        <div class="section">
+          <div class="section-header">C &mdash; Bathroom + Personal Care <span class="section-zone">Zone C / Ref BPC</span></div>
+          <div class="task"><div class="task-num">C1</div><div class="task-name">Clean bathroom</div><div class="task-fields"><div class="field">Start<div class="field-line"></div></div><div class="field">Dur<div class="field-line"></div></div></div></div>
+          <div class="task"><div class="task-num">C2</div><div class="task-name">Shave</div><div class="task-fields"><div class="field">Start<div class="field-line"></div></div><div class="field">Dur<div class="field-line"></div></div></div></div>
+          <div class="task"><div class="task-num">C3</div><div class="task-name">Clip nails</div><div class="task-fields"><div class="field">Start<div class="field-line"></div></div><div class="field">Dur<div class="field-line"></div></div></div></div>
+          <div class="task"><div class="task-num">C4</div><div class="task-name">Trim</div><div class="task-fields"><div class="field">Start<div class="field-line"></div></div><div class="field">Dur<div class="field-line"></div></div></div></div>
+        </div>
+
+        <!-- D: Kitchen Deep Clean -->
+        <div class="section">
+          <div class="section-header">D &mdash; Kitchen Deep Clean <span class="section-zone">Zone D / Ref KDC</span></div>
+          <div class="task"><div class="task-num">D1</div><div class="task-name">Deep clean kitchen (fridge, surfaces, old food, dishwasher filter)</div><div class="task-fields"><div class="field">Start<div class="field-line"></div></div><div class="field">Dur<div class="field-line"></div></div></div></div>
+          <div class="task"><div class="task-num">D2</div><div class="task-name">Clean coffee machine</div><div class="task-fields"><div class="field">Start<div class="field-line"></div></div><div class="field">Dur<div class="field-line"></div></div></div></div>
+          <div class="task"><div class="task-num">D3</div><div class="task-name">Clean kitchen</div><div class="task-fields"><div class="field">Start<div class="field-line"></div></div><div class="field">Dur<div class="field-line"></div></div></div></div>
+          <div class="task"><div class="task-num">D4</div><div class="task-name">Clean bowls + refill dry food</div><div class="task-fields"><div class="field">Start<div class="field-line"></div></div><div class="field">Dur<div class="field-line"></div></div></div></div>
+        </div>
+
+      </div>
+
+      <!-- RIGHT COLUMN -->
+      <div>
+
+        <!-- E: Floors -->
+        <div class="section">
+          <div class="section-header">E &mdash; Floors <span class="section-zone">Zone E / Ref FLR</span></div>
+          <div class="task"><div class="task-num">E1</div><div class="task-name">Hoover</div><div class="task-fields"><div class="field">Start<div class="field-line"></div></div><div class="field">Dur<div class="field-line"></div></div></div></div>
+          <div class="task"><div class="task-num">E2</div><div class="task-name">Clean wood floor</div><div class="task-fields"><div class="field">Start<div class="field-line"></div></div><div class="field">Dur<div class="field-line"></div></div></div></div>
+          <div class="task"><div class="task-num">E3</div><div class="task-name">Mop porch tiling</div><div class="task-fields"><div class="field">Start<div class="field-line"></div></div><div class="field">Dur<div class="field-line"></div></div></div></div>
+        </div>
+
+        <!-- F: Garden + Outdoor -->
+        <div class="section">
+          <div class="section-header">F &mdash; Garden + Outdoor <span class="section-zone">Zone F / Ref GDN</span></div>
+          <div class="task"><div class="task-num">F1</div><div class="task-name">Water outdoor plants</div><div class="task-fields"><div class="field">Start<div class="field-line"></div></div><div class="field">Dur<div class="field-line"></div></div></div></div>
+          <div class="task"><div class="task-num">F2</div><div class="task-name">Water plants</div><div class="task-fields"><div class="field">Start<div class="field-line"></div></div><div class="field">Dur<div class="field-line"></div></div></div></div>
+          <div class="task"><div class="task-num">F3</div><div class="task-name">Collect garden waste into yellow bag</div><div class="task-fields"><div class="field">Start<div class="field-line"></div></div><div class="field">Dur<div class="field-line"></div></div></div></div>
+          <div class="task"><div class="task-num">F4</div><div class="task-name">Chop down the tree</div><div class="task-fields"><div class="field">Start<div class="field-line"></div></div><div class="field">Dur<div class="field-line"></div></div></div></div>
+          <div class="task"><div class="task-num">F5</div><div class="task-name">Pump car tyres</div><div class="task-fields"><div class="field">Start<div class="field-line"></div></div><div class="field">Dur<div class="field-line"></div></div></div></div>
+          <div class="task"><div class="task-num">F6</div><div class="task-name">Go to the tip</div><div class="task-fields"><div class="field">Start<div class="field-line"></div></div><div class="field">Dur<div class="field-line"></div></div></div></div>
+        </div>
+
+        <!-- G: Admin -->
+        <div class="section">
+          <div class="section-header">G &mdash; Admin <span class="section-zone">Zone G / Ref ADM</span></div>
+          <div class="task"><div class="task-num">G1</div><div class="task-name">Book time off</div><div class="task-fields"><div class="field">Start<div class="field-line"></div></div><div class="field">Dur<div class="field-line"></div></div></div></div>
+          <div class="task"><div class="task-num">G2</div><div class="task-name">Consider offer from Dom</div><div class="task-fields"><div class="field">Start<div class="field-line"></div></div><div class="field">Dur<div class="field-line"></div></div></div></div>
+          <div class="task"><div class="task-num">G3</div><div class="task-name">Update payslips</div><div class="task-fields"><div class="field">Start<div class="field-line"></div></div><div class="field">Dur<div class="field-line"></div></div></div></div>
+          <div class="task"><div class="task-num">G4</div><div class="task-name">Assess work benefits</div><div class="task-fields"><div class="field">Start<div class="field-line"></div></div><div class="field">Dur<div class="field-line"></div></div></div></div>
+          <div class="task"><div class="task-num">G5</div><div class="task-name">Update dashboards</div><div class="task-fields"><div class="field">Start<div class="field-line"></div></div><div class="field">Dur<div class="field-line"></div></div></div></div>
+          <div class="task"><div class="task-num">G6</div><div class="task-name">Clean email</div><div class="task-fields"><div class="field">Start<div class="field-line"></div></div><div class="field">Dur<div class="field-line"></div></div></div></div>
+          <div class="task"><div class="task-num">G7</div><div class="task-name">Clear up / leave Discord chats</div><div class="task-fields"><div class="field">Start<div class="field-line"></div></div><div class="field">Dur<div class="field-line"></div></div></div></div>
+          <div class="task"><div class="task-num">G8</div><div class="task-name">Message Diana</div><div class="task-fields"><div class="field">Start<div class="field-line"></div></div><div class="field">Dur<div class="field-line"></div></div></div></div>
+          <div class="task"><div class="task-num">G9</div><div class="task-name">Tidy</div><div class="task-fields"><div class="field">Start<div class="field-line"></div></div><div class="field">Dur<div class="field-line"></div></div></div></div>
+        </div>
+
+      </div>
+    </div>
+
+  </div><!-- /content -->
+
+  <!-- Drawing number (bottom left) -->
+  <div class="drw-num">
+    <div class="tb-label">Drawing No.</div>
+    <div class="big">AGD-20260502</div>
+    <div class="tb-label">Do Not Scale &mdash; All times in 24h format &mdash; Duration in minutes</div>
+  </div>
+
+  <!-- Title block (bottom right) -->
+  <div class="title-block">
+    <div class="tb-row">
+      <div class="tb-cell wide">
+        <div class="tb-label">Project</div>
+        <div class="tb-value">Daily Operations Agenda</div>
+      </div>
+      <div class="tb-cell">
+        <div class="tb-label">Date</div>
+        <div class="tb-value">2026-05-02</div>
+      </div>
+    </div>
+    <div class="tb-row">
+      <div class="tb-cell">
+        <div class="tb-label">Drawn by</div>
+        <div class="tb-small">O. Yerbury-Hodgson</div>
+      </div>
+      <div class="tb-cell">
+        <div class="tb-label">Scale</div>
+        <div class="tb-small">N/A</div>
+      </div>
+      <div class="tb-cell">
+        <div class="tb-label">Rev</div>
+        <div class="tb-small">A</div>
+      </div>
+      <div class="tb-cell">
+        <div class="tb-label">Sheet</div>
+        <div class="tb-small">1 of 1</div>
+      </div>
+    </div>
+  </div>
+
+</div>
+</body>
+</html>

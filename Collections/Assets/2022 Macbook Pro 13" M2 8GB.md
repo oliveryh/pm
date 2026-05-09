@@ -8,8 +8,6 @@ Market Value: 600
 
 # Tasks
 
-- [ ] Migrate day-to-day usage from [[2020 Macbook Pro 13” i5 16GB]]
-
 # Log
 
 ## 2026-04-07
@@ -23,7 +21,7 @@ Market Value: 600
 # Set Up (Non Nix Actions)
 
 - Add `127.0.0.1 [api.,admin.]lvh.me` to `/etc/hosts` file
-- Change Keyboard Layout > Input Sources to “British - PC”
+- Change Keyboard Layout > Input Sources to "British - PC"
 - Change Keyboard Layout > Keyboard Shortcuts > Keyboard > Move focus to next window = `Command + \`
 
 ![[image 2.png]]

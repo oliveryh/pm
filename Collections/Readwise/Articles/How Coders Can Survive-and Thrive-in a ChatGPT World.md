@@ -16,5 +16,5 @@
 
 ## Highlights
 
-- It can also be valuable to learn the basic concepts of [artificial intelligence](https://spectrum.ieee.org/topic/artificial-intelligence/) and machine learning, as well as get a sense of how large language models work and their strengths and weaknesses. You don’t need to dive deep, but having some general knowledge can give you important context about the results.
+- It can also be valuable to learn the basic concepts of [artificial intelligence](https://spectrum.ieee.org/topic/artificial-intelligence/) and machine learning, as well as get a sense of how large language models work and their strengths and weaknesses. You don't need to dive deep, but having some general knowledge can give you important context about the results.
   To help you get started, Abraham recommends the [OpenAI Cookbook](https://github.com/openai/openai-cookbook), which has sections on prompting libraries and tools, prompting guides, and video courses, while Vaithilingam suggests reading up on [the Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) to find out more about models and machine learning basics. ([View Highlight](https://read.readwise.io/read/01h5jc44k732xynhw50kdjw80s))

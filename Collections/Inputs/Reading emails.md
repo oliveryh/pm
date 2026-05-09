@@ -298,6 +298,7 @@ oxfam
 - [x] Unsubscribed Halo Waypoint
 - [x] Unsubscribed BOXPARK
 - [x] Unsubscribed Notion
+
 ## 2022-10-02
 
 **Counts**
@@ -352,4 +353,3 @@ Hollie                     ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇�
 - [x] Unregistered from Transport_for_London@email.tfl.gov.uk
 - [x] Changed github notifications to exclude dependabot
 - [x] Remove invitations from Linkedin Notifications
-

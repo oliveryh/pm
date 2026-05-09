@@ -1,8 +1,8 @@
 ---
-status: Active
+status: Completed
 base: "[[Projects.base]]"
 start_date: 2026-03-14
-end_date: 
+end_date: 2026-05-03
 ---
 
 # Motivation
@@ -118,19 +118,42 @@ sudo systemctl enable obsidian-sync && sudo systemctl start obsidian-sync
 ```bash
 # 5. tmux session (Ctrl+B D to detach, tmux attach -t vault to reattach)
 sudo apt install tmux && tmux new -s vault
-cd ~/vault && claude --remote-control  # scan QR in Claude mobile app
+cd ~/vault && claude --channels plugin:telegram@claude-plugins-official --remote-control
 ```
 
 To make Remote Control permanent: `/config` → "Enable Remote Control for all sessions" → true
 
-### Considerations
+### Telegram Channel Integration
 
-- Could use Telegram or WhatsApp to send messages to Claude as an alternative interface for capturing notes on mobile
+Claude is launched with two flags:
+
+| Flag | Purpose |
+|------|---------|
+| `--channels plugin:telegram@claude-plugins-official` | Loads the Telegram plugin, connecting Claude to a Telegram bot |
+| `--remote-control` | Allows external processes (e.g. Claude mobile app) to send commands to this session |
+
+The Telegram plugin runs a bot server alongside the Claude process. Messages sent to the Telegram bot arrive as channel events in the Claude session — Claude reads them, acts on the vault, and replies via the bot API.
+
+### Daily Context Reset
+
+Context accumulates over the day in the long-running session. A nightly cron job restarts Claude at 23:05 (5 minutes after the git backup) to clear it:
+
+```bash
+# scripts/restart-claude.sh
+tmux send-keys -t vault:0.0 C-c ""
+sleep 3
+tmux send-keys -t vault:0.0 "claude --channels plugin:telegram@claude-plugins-official --remote-control" Enter
+```
+
+Cron entry: `5 23 * * * /projects/pm/scripts/restart-claude.sh >> /tmp/claude-restart.log 2>&1`
+
+Memory files in `.claude/projects/` persist key facts across restarts so nothing important is lost.
 
 ### Usage Flow
 
-1. Open Claude mobile app → Remote Control session
-2. Claude writes `.md` files to `~/vault/` → `ob sync` pushes to Obsidian Sync → phone/desktop updates within seconds
+1. Send a message in Telegram → Claude receives it via the channel plugin
+2. Claude reads/writes `.md` files in `/projects/pm/` → Obsidian Sync pushes to all devices within seconds
+3. At 23:00 the vault is committed to Git; at 23:05 Claude restarts with a fresh context
 
 ## Daily GitHub Backups
 
@@ -156,6 +179,11 @@ Schedule via cron (11pm daily):
 - **Binary files** — attachments (images, PDFs) will bloat the repo over time; consider a `.gitignore` for `Media/` or use Git LFS
 
 # Log
+
+## 2026-05-01
+
+- Documented Telegram channel flags (`--channels`, `--remote-control`) and nightly context reset
+- Added `scripts/restart-claude.sh` and cron entry at 23:05 to restart Claude daily
 
 ## 2026-04-19
 

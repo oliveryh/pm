@@ -1,7 +1,7 @@
 # Essential vs Accidental Complexity
 
-- **Essential complexity** – This is the complexity that is wrapped up in the problem. You can’t solve the problem without tackling this complexity. This is also sometimes referred to as inherent complexity.
-- **Accidental complexity** – This is the complexity that comes along with the approach and tools that you use to solve a problem. This complexity isn’t part of the actual problem you’re solving, this is the complexity that you bring in with your solution. This is sometimes referred to as incidental complexity
+- **Essential complexity** – This is the complexity that is wrapped up in the problem. You can't solve the problem without tackling this complexity. This is also sometimes referred to as inherent complexity.
+- **Accidental complexity** – This is the complexity that comes along with the approach and tools that you use to solve a problem. This complexity isn't part of the actual problem you're solving, this is the complexity that you bring in with your solution. This is sometimes referred to as incidental complexity
 
 The real revolution in software over the last 20 years has been the reduction in the ratio of essential to accidently complexity. This in turn has increased the overlap of systems and integrations. Picking the right long-term technology is becoming a skill. [^build-software]
 

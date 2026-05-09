@@ -3,11 +3,13 @@
 ## Credit Suisse (2016–2021)
 
 ### 2016
+
 - [[payslip_2016_04.pdf]] (April)
 - [[payslip_2016_05.pdf]] (May)
 - [[payslip_2016_08.pdf]] (August)
 
 ### 2017
+
 - [[payslip_2017_02.pdf]] (February)
 - [[payslip_2017_06.pdf]] (June)
 - [[payslip_2017_07.pdf]] (July)
@@ -18,6 +20,7 @@
 - [[payslip_2017_12.pdf]] (December)
 
 ### 2018
+
 - [[payslip_2018_01.pdf]] (January)
 - [[payslip_2018_02.pdf]] (February)
 - [[payslip_2018_03.pdf]] (March)
@@ -32,6 +35,7 @@
 - [[payslip_2018_12.pdf]] (December)
 
 ### 2019
+
 - [[payslip_2019_01.pdf]] (January)
 - [[payslip_2019_02.pdf]] (February)
 - [[payslip_2019_03.pdf]] (March)
@@ -46,6 +50,7 @@
 - [[payslip_2019_12.pdf]] (December)
 
 ### 2020
+
 - [[payslip_2020_01.pdf]] (January)
 - [[payslip_2020_02.pdf]] (February)
 - [[payslip_2020_03.pdf]] (March)
@@ -60,6 +65,7 @@
 - [[payslip_2020_12.pdf]] (December)
 
 ### 2021
+
 - [[payslip_2021_01.pdf]] (January)
 - [[payslip_2021_02.pdf]] (February)
 - [[YERBURY-HODGSON.O. 2021 Payslips.pdf|2021 Combined Payslips]]
@@ -67,6 +73,7 @@
 ## Piclo Energy (2022–2025)
 
 ### 2022
+
 - [[payslip_2022_04.pdf]] (April)
 - [[payslip_2022_05.pdf]] (May)
 - [[payslip_2022_06.pdf]] (June)
@@ -78,6 +85,7 @@
 - [[payslip_2022_12.pdf]] (December)
 
 ### 2023
+
 - [[payslip_2023_01.pdf]] (January)
 - [[payslip_2023_02.pdf]] (February)
 - [[payslip_2023_03.pdf]] (March)
@@ -92,6 +100,7 @@
 - [[payslip_2023_12.pdf]] (December)
 
 ### 2024
+
 - [[payslip_2024_01.pdf]] (January)
 - [[payslip_2024_02.pdf]] (February)
 - [[payslip_2024_03.pdf]] (March)
@@ -106,6 +115,7 @@
 - [[payslip_2024_12.pdf]] (December)
 
 ### 2025
+
 - [[payslip_2025_01.pdf]] (January)
 - [[payslip_2025_02.pdf]] (February)
 - [[payslip_2025_03.pdf]] (March)
@@ -123,3 +133,4 @@
 
 - [[payslip_2026_02.pdf]] (February)
 - [[payslip_2026_03.pdf]] (March)
+- [[payslip_2026_04.pdf]] (April)

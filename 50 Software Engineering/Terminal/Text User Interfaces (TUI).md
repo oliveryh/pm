@@ -1,3 +1,56 @@
+# Tools
+
+## Development & APIs
+
+- [posting (darrenburns)](https://github.com/darrenburns/posting) - A modern API client that runs in the terminal
+- [kulala.nvim (mistweaverco)](https://github.com/mistweaverco/kulala.nvim) - Neovim API client
+
+## DevOps & Infrastructure
+
+- [lazygit](https://github.com/jesseduffield/lazygit) - Git command interface
+- [lazydocker](https://github.com/jesseduffield/lazydocker) - Docker management and monitoring
+- [k9s](https://github.com/derailed/k9s) - Kubernetes cluster navigation and management
+- [Flowrs (jvanbuel)](https://github.com/jvanbuel/flowrs) - Apache Airflow DAG monitoring and triggering
+
+## Database
+
+- [Harlequin](https://harlequin.sh/) - Terminal database query tool
+- [Rainfrog (achristmascarl)](https://github.com/achristmascarl/rainfrog) - Terminal database management
+
+## System
+
+- [btop](https://github.com/aristocratos/btop) - CPU, memory, and network resource monitor
+- [impala (pythops)](https://github.com/pythops/impala) - Linux WiFi management
+- [bluetui (pythops)](https://github.com/pythops/bluetui) - Bluetooth management
+- [caligula (ifd3f)](https://github.com/ifd3f/caligula) - Disk imaging and ISO burning
+
+## File Management
+
+- [yazi](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager
+- [lf (gokcehan)](https://github.com/gokcehan/lf) - Console file manager
+- [stu](https://github.com/lusingander/stu) - AWS S3 client
+
+## Communication & Social
+
+- [circumflex (bensadeh)](https://github.com/bensadeh/circumflex) - HackerNews terminal client
+- [Zulip Terminal](https://github.com/zulip/zulip-terminal) - Open-source team chat
+- [Newsboat](https://newsboat.org/) - RSS feed reader
+
+## Productivity & Finance
+
+- [Bagels (EnhancedJax)](https://github.com/EnhancedJax/Bagels) - Terminal expense tracker
+- [Ticker (achannarasappa)](https://github.com/achannarasappa/ticker) - Stock and crypto price tracker
+- [calcure (anufrievroman)](https://github.com/anufrievroman/calcure) - Calendar and task manager
+
+## Frameworks & Libraries
+
+- [Textual (Textualize)](https://github.com/Textualize/textual) - Python TUI framework
+- [Ratatui](https://github.com/ratatui-org/ratatui) - Rust TUI framework
+- [Bubbletea (charmbracelet)](https://github.com/charmbracelet/bubbletea) - Go TUI framework (Elm architecture)
+- [tview (rivo)](https://github.com/rivo/tview) - Go TUI widget library
+- [Gum (charmbracelet)](https://github.com/charmbracelet/gum) - Shell script styling tool
+- [Glamour (charmbracelet)](https://github.com/charmbracelet/glamour) - Markdown rendering for CLI
+
 # Resources
 
 - [rich (Textualize) (34.1k ★)](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal. ([article](https://www.willmcgugan.com/blog/tech/post/building-rich-terminal-dashboards/)) (created by [[Will McGugan]])

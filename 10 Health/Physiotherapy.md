@@ -4,8 +4,10 @@ Mobility is incredibly important especially in an age where a large proportion o
 
 # Resources
 
-- [Exercise Program](https://vitality.ascenti.co.uk/access/zhspnhsj)
+![[physio-exercises.pdf]]
+
 - [Antranik DotOrg](https://www.youtube.com/channel/UCodb1RGEv_kKrJn_a2XntJQ) - YouTuber focused on mobility and strength
+- [PostureGuy](https://www.youtube.com/@PostureGuy)
 
 # Tips
 
@@ -84,8 +86,6 @@ Similar process to the tuck, however at the extension, the head can them be curl
 - [Novel Movements for the Hand, Wrist, and Elbow](https://www.youtube.com/watch?v=-hlWgH3\_0NU)
 
 # Actions
-
-- [ ] Revisit the exercise guide given by the specialist
 
 # Logs
 

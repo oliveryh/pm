@@ -27,6 +27,6 @@ If I am a salesman or project coordinator that way of working can bring good eff
 
 - You can schedule your workday by dividing it into 30 min time slots, trying to find 2-3 periods lasting at least an hour each for deep work. ([View Highlight](https://read.readwise.io/read/01gw80ds2g0gkhsfjfc64yvw27))
 - The main guideline is that a deep work slot cannot be interrupted (no e-mail inbox checks, smartphone turned off or silenced, no Slack / WhatsApp / Messenger chatting) and should be focused on a single topic. ([View Highlight](https://read.readwise.io/read/01gw80dfpgjnffe2m1v7hvdq06))
-- Greg McKeown’s great book [Essentialism: The Disciplined Pursuit of Less](https://www.amazon.com/Essentialism-Disciplined-Pursuit-Greg-McKeown/dp/0804137382) ([View Highlight](https://read.readwise.io/read/01gw80ghvhygrf3pkyq9s0n2m3))
+- Greg McKeown's great book [Essentialism: The Disciplined Pursuit of Less](https://www.amazon.com/Essentialism-Disciplined-Pursuit-Greg-McKeown/dp/0804137382) ([View Highlight](https://read.readwise.io/read/01gw80ghvhygrf3pkyq9s0n2m3))
     - Note: I should probably read this book again.
 - preparing an agenda before a meeting and a summary after it. The agenda gives people an introduction to the topic, while the summary usually allows for avoiding follow-up meetings or calls with people that missed the event. ([View Highlight](https://read.readwise.io/read/01gw80kjw4y0qggh0dk3k0qqrc))

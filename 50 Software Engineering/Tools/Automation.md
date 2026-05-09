@@ -14,7 +14,7 @@
 - [input-remapper (sezanzeb) (1.7k ★)](https://github.com/sezanzeb/input-remapper) - 🎮 An easy to use tool to change the mapping of your input device buttons.
 - [Example Use Cases | Shortcat](https://shortcat.app/docs/example-use-cases)
 - [Ask HN: What do you automate in your workflow? | Hacker News](https://news.ycombinator.com/item?id=31700497)
-- [Vim-like “jump” cursor for Mac OS Window Management | Hacker News](https://news.ycombinator.com/item?id=35451046)
+- [Vim-like "jump" cursor for Mac OS Window Management | Hacker News](https://news.ycombinator.com/item?id=35451046)
 - [My Developer Setup in 2022<!-- --> | Dolev Hadar](https://dlvhdr.me/posts/dev-setup)
 - [Keyboard tricks from a macOS app dev — Alin Panaitiu](https://notes.alinpanaitiu.com/Keyboard%20tricks%20from%20a%20macOS%20app%20dev)
 - [YAML-based Workflows - Warp Documentation](https://docs.warp.dev/features/entry/yaml-workflows)

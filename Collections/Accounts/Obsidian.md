@@ -44,7 +44,7 @@ Alexander Obenaur has built a cross-reference navigation plugin that isn't a pub
 ## Sync Obsidian on iPhone
 
 - Used [this guide](https://meganesulli.com/blog/sync-obsidian-vault-iphone-ipad/) to sync with iPhone. The only issue was having to pay £20 to use [[Working Copy]], but I think there are alternatives that are free out there.
-- Be careful when setting up as it’s possible to accidentally wipe the entire repo.
+- Be careful when setting up as it's possible to accidentally wipe the entire repo.
 
 ## a-shell Alternative
 

@@ -1,3 +1,4 @@
+- [not-ship.com](https://not-ship.com)
 - [Galaxy Brain](https://galaxybrain.com/) - Second brain tool
 - [reflex (reflex-dev) (15.7k ★)](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - Video of migration from React to htmx

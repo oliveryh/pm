@@ -53,7 +53,7 @@ Resources and notes on building applications that work well offline and prioriti
 ## 2024-11-01
 
 - https://localfirstweb.dev/
+
 ## 2024-10-29
 
 - https://www.convex.dev/hackathons/tanstack
-

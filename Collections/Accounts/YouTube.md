@@ -2,9 +2,11 @@ Input::[[Favourite video]]
 
 # Tasks
 
-- [ ] Remove or consolidate zanderinwind23 account
-
 # Log
+
+## 2026-04-30
+
+- Deleted zanderinwind23 account and saved archive of public videos to [[iCloud]]
 
 ## 2025-11-21
 

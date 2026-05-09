@@ -16,8 +16,8 @@
 
 ## Highlights
 
-- What if the real skill isn’t technical mastery? Or better yet what if it’s emotional clarity?
+- What if the real skill isn't technical mastery? Or better yet what if it's emotional clarity?
   • Knowing which problems are worth your energy.
   • Knowing which projects are worth maintaining.
-  • Knowing when you’re building to help—and when you’re building to cope.
+  • Knowing when you're building to help—and when you're building to cope.
   • Knowing when to stop. ([View Highlight](https://read.readwise.io/read/01k29k01588zzq4a5zed313t77))

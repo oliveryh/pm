@@ -45,7 +45,7 @@
 
 - [Exhaustiveness Checking with Mypy | Haki Benita](https://hakibenita.com/python-mypy-exhaustive-checking)
 - [Python: better typed than you think | beepb00p](https://beepb00p.xyz/mypy-error-handling.html)
-- [Python’s “type hints” are a bit of a disappointment to me | Hacker News](https://news.ycombinator.com/item?id=31114554)
+- [Python's "type hints" are a bit of a disappointment to me | Hacker News](https://news.ycombinator.com/item?id=31114554)
 
 ## Modules
 
@@ -159,7 +159,7 @@ python3 -m virtualenv env
 
 ### Activating a Virtual Environment
 
-Before you can start installing or using packages in your virtualenv you’ll need to activate it. Activating a virtualenv will put the virtualenv-specific python and pip executables into your shell’s PATH.
+Before you can start installing or using packages in your virtualenv you'll need to activate it. Activating a virtualenv will put the virtualenv-specific python and pip executables into your shell's PATH.
 
 ```
 .\\env\\Scripts\\activate
@@ -178,7 +178,7 @@ Virtual Environment
 : A self-contained tree that contains a Python installation for a particular version of Python, plus additional packages.
 
 ```
-It allows you to create a “virtual” isolated Python installation and install packages into that virtual installation
+It allows you to create a "virtual" isolated Python installation and install packages into that virtual installation
 ```
 
 ## Scope
@@ -605,7 +605,7 @@ print(sentence) // prints 'April 19, 2018 fell on a Thursday and was the XXX day
 
 ### Special Methods
 
-The first thing to know about special methods is that they are meant to be called by the Python interpreter, and not by you. You don’t write my_object.__len__(). You write len(my_object) and, if my_object is an instance of a user-defined class, then Python calls the __len__ method you implemented.
+The first thing to know about special methods is that they are meant to be called by the Python interpreter, and not by you. You don't write my_object.__len__(). You write len(my_object) and, if my_object is an instance of a user-defined class, then Python calls the __len__ method you implemented.
 
 ### Collection API
 
@@ -713,8 +713,8 @@ The primary algorithm for garbage collection in Python is "Reference Counting"
 
 ## Chapter 19
 
-This chapter is about how to make Python deal with “lots of things at once.” This may involve concurrent or parallel programming—even academics who are keen on jargon disagree on how to use those terms. I will adopt Rob Pike’s informal defini‐ tions in this chapter’s epigraph, but note that I’ve found papers and books that claim to be about parallel computing but are mostly about concurrency.2
-Parallelism is a special case of concurrency, in Pike’s view. All parallel systems are concurrent, but not all concurrent systems are parallel. In the early 2000s we used single-core machines that handled 100 processes concurrently on GNU Linux. A modern laptop with 4 CPU cores is routinely running more than 200 processes at any given time under normal, casual use. To execute 200 tasks in parallel, you’d need 200 cores.
+This chapter is about how to make Python deal with "lots of things at once." This may involve concurrent or parallel programming—even academics who are keen on jargon disagree on how to use those terms. I will adopt Rob Pike's informal defini‐ tions in this chapter's epigraph, but note that I've found papers and books that claim to be about parallel computing but are mostly about concurrency.2
+Parallelism is a special case of concurrency, in Pike's view. All parallel systems are concurrent, but not all concurrent systems are parallel. In the early 2000s we used single-core machines that handled 100 processes concurrently on GNU Linux. A modern laptop with 4 CPU cores is routinely running more than 200 processes at any given time under normal, casual use. To execute 200 tasks in parallel, you'd need 200 cores.
 
 Starting a process is not cheap, so often you want to amortize the startup cost by making each thread or process into a "worker".
 
@@ -724,7 +724,7 @@ Starting a process is not cheap, so often you want to amortize the startup cost 
 
 ### Loops, Sentinals, and Poison Pills
 
-None is often used as a sentinel value, but it may be unsuitable if it can occur in the data stream. Calling object() is a common way to get a unique value to use as senti‐ nel. However, that does not work across processes because Python objects must be serialized for inter-process communication, and when you pickle.dump and pickle.load an instance of object, the unpickled instance is distinct from the origi‐ nal: it doesn’t compare equal. A good alternative to None is the Ellipsis built-in object (a.k.a. ...), which survives serialization without losing its identity.
+None is often used as a sentinel value, but it may be unsuitable if it can occur in the data stream. Calling object() is a common way to get a unique value to use as senti‐ nel. However, that does not work across processes because Python objects must be serialized for inter-process communication, and when you pickle.dump and pickle.load an instance of object, the unpickled instance is distinct from the origi‐ nal: it doesn't compare equal. A good alternative to None is the Ellipsis built-in object (a.k.a. ...), which survives serialization without losing its identity.
 
 ### Python in the Multicore World
 

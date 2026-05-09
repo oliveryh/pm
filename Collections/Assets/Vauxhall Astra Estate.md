@@ -9,12 +9,13 @@ Notes: |-
 
 # Various Issues
 
+- [ ] Service car #next
 - [ ] Chip in windscreen should be sealed via insurance
 - [ ] Engine splash cover should be replaced
 - [ ] Plastic at front is pulling down
 - [ ] Rattling left side mirror
 - [ ] Moss building up on exterior
-- [ ] Passenger side window control broken on driver’s side
+- [ ] Passenger side window control broken on driver's side
 - [ ] Rear windscreen wiper rubber is hanging off
 
 # Reference
@@ -67,7 +68,7 @@ Policy Number: XA20011898040
 ##  2025-08-16  - Washer spray not working
 
 - Investigated washer spray not working
-- Fuse was blown but replacement didn’t appear to fix the issue
+- Fuse was blown but replacement didn't appear to fix the issue
 
 ##  2025-05-27
 
@@ -88,7 +89,7 @@ Policy Number: XA20011898040
 
 ##  2024-12-30
 
-- Checked if reverse light wasn’t working
+- Checked if reverse light wasn't working
 - It turns on we have a reverse light on one side and a rear fog light on the drivers side so no maintenance needed
 
 ##  2024-12-19
@@ -97,7 +98,7 @@ Policy Number: XA20011898040
 
 ##  2024-10-21  - Aftercare tyre sensor replacement and full diagnostic
 
-- We had a strained conversation about why we were unhappy about the service. We couldn’t understand how we could go in with 3 working tyre monitor sensors working and reverse sensors working and come out with 1 sensor working and no reverse sensor working
+- We had a strained conversation about why we were unhappy about the service. We couldn't understand how we could go in with 3 working tyre monitor sensors working and reverse sensors working and come out with 1 sensor working and no reverse sensor working
 - Carl agreed to replace one sensor free of charge to smooth things over
 
 ![[CamScanner_10-23-2024_18.33.pdf|2024-10-21 - Second request to check TPMS, aftercare replacement of one pressure sensor]]

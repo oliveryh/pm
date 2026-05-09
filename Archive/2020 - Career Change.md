@@ -37,7 +37,7 @@
 ### Technologies
 
 - Core Language: Java, Python, and R
-- Master’s or Ph.D. in computer science, mathematics, or statistics
+- Master's or Ph.D. in computer science, mathematics, or statistics
 - Experience with vision processing, deep neural networks, Gaussian processes, and reinforcement learning
 - A solid understanding of both probability and statistics
 - A firm understanding of mathematics (including the role of algorithm theory in machine learning and complex algorithms that are needed to help machines learn and communicate)

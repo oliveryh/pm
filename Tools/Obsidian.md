@@ -1,12 +1,15 @@
 # Actions
 
-- [ ] Add longer term backup separate from GitHub
+- [ ] Add backup outside GitHub and Obsidian Sync
 - [ ] Improve secrets management
-- [ ] Investigate disabling certain plugins on mobile
-- [ ] Set up a scheduled task to reset Claude context daily
-- [ ] It looks like some things may not be getting synced `daily-commit.sh` script for example
+- [x] Fix broken link with Claude Code
+- [x] Set up a scheduled task to reset Claude context daily
 
 # Log
+
+## 2026-04-29
+
+- Add unsupported filetype to `ob sync` on remote server
 
 ## 2026-04-27
 
@@ -15,11 +18,11 @@
 ## 2026-04-26
 
 - Audited and compressed large Media files to stay under the 5 MB Obsidian Sync limit
-  - Installed `ghostscript` via Homebrew for PDF compression
-  - `55 Avon Contract.pdf`: 6.6 MB → 3.6 MB (gs `/ebook`)
-  - `LDNM Exercise Guide.pdf`: 7.7 MB → 2.6 MB (gs `/screen`)
-  - `2025 - Buy a House.jpeg`: 10 MB → 1.7 MB (resized to 3000px, sips quality 70)
-  - `dishoom cookbook.pdf`: moved to iCloud Drive (already heavily compressed, couldn't shrink further)
+	- Installed `ghostscript` via Homebrew for PDF compression
+	- `55 Avon Contract.pdf`: 6.6 MB → 3.6 MB (gs `/ebook`)
+	- `LDNM Exercise Guide.pdf`: 7.7 MB → 2.6 MB (gs `/screen`)
+	- `2025 - Buy a House.jpeg`: 10 MB → 1.7 MB (resized to 3000px, sips quality 70)
+	- `dishoom cookbook.pdf`: moved to iCloud Drive (already heavily compressed, couldn't shrink further)
 
 ## 2026-03-14
 

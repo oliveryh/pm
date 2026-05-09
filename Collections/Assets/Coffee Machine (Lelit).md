@@ -6,9 +6,6 @@ Notes: ""
 
 # Actions
 
-- [ ] Buy coffee machine detergent
-- [ ] Clean group head (by 2026-07-19)
-
 # Reference
 
 ## Descaling

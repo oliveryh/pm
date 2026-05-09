@@ -27,4 +27,4 @@
 
 - [JAAQ: The new mental health platform](https://www.jaaq.org/)
 - https://youtu.be/FkQ4iWloT_s?si=CCj5XMJLHIrrWdzi is a good video of 8 steps to get your life back on track. I think the simplicity of this one is good as it primarily focuses on the basic physical needs
-- https://www.linkedin.com/in/andyhix/ - Talks about a positive men’s mental health attitude in the workplace
+- https://www.linkedin.com/in/andyhix/ - Talks about a positive men's mental health attitude in the workplace

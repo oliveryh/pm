@@ -69,6 +69,7 @@ This is Oliver's personal knowledge management (PKM) vault, built in Obsidian. I
 | Script | Purpose |
 |--------|---------|
 | `__scripts__/sort_log_headings.py` | Sorts `## YYYY-MM-DD` entries under `# Log` sections newest-first. Run with `python3 __scripts__/sort_log_headings.py <file(s)>` |
+| `__scripts__/count_open_tasks.py` | Counts open tasks across vault per commit and updates `Notes/Open Tasks Over Time.md` with a Mermaid chart. Run with `python3 __scripts__/count_open_tasks.py` |
 
 ## Values & Context
 

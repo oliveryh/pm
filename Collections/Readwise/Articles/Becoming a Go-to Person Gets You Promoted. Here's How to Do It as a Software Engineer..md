@@ -16,7 +16,7 @@
 
 ## Highlights
 
-- Say you’ll do the thing. Do the thing. Say you did it. Follow this framework to keep people in the loop of the request they made and the progress.
-  1. Only doing “do the thing” is allowing your work to speak for itself, which unfortunately is not what will get you the most value in the business world. It also doesn’t help your team either since they’re not up to date. ([View Highlight](https://read.readwise.io/read/01hjkkevte1s2jre2t42gg7xev))
+- Say you'll do the thing. Do the thing. Say you did it. Follow this framework to keep people in the loop of the request they made and the progress.
+  1. Only doing "do the thing" is allowing your work to speak for itself, which unfortunately is not what will get you the most value in the business world. It also doesn't help your team either since they're not up to date. ([View Highlight](https://read.readwise.io/read/01hjkkevte1s2jre2t42gg7xev))
 - Solve unowned problems in a domain or technological area.
   1. I set up patterns for handling GraphQL N+1 queries then I ran a presentation explaining how to use those patterns to improve our performance ([View Highlight](https://read.readwise.io/read/01hjkkf8pxhatbjqeg5w22x9df))

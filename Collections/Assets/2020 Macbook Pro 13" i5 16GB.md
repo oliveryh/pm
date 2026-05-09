@@ -11,7 +11,7 @@ Market Value: 400
 
 # Actions
 
-- [ ] Consider selling
+- [ ] Sell
 
 # Log
 

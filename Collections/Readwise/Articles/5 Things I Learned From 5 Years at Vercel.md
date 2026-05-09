@@ -7,7 +7,7 @@
 - Author: [[leerob.com]]
 - Full Title: 5 Things I Learned From 5 Years at Vercel
 - Category: #articles
-- Summary: The author spent five years growing with Vercel, learning important lessons about hard work, leadership, and teamwork. They emphasize balancing passion with boundaries, pushing for speed, scaling through hiring, listening to the team, and being open to change. The experience was challenging but rewarding, fueled by curiosity and a strong belief in Vercel’s mission.
+- Summary: The author spent five years growing with Vercel, learning important lessons about hard work, leadership, and teamwork. They emphasize balancing passion with boundaries, pushing for speed, scaling through hiring, listening to the team, and being open to change. The experience was challenging but rewarding, fueled by curiosity and a strong belief in Vercel's mission.
 - URL: https://leerob.com/vercel
 
 ## Full Document

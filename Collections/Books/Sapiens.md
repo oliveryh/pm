@@ -49,7 +49,7 @@ Most scholars agree that animistic beliefs were common among ancient foragers. A
 
 Prior to the cognitive Revolution, humans of all species lived exclusively on the afro-asian landmass.
 
-Homo sapiens are responsible for the biggest ecological disaster. Upon exploring new lands such as Australia, The America’s and The Carribean, fauna that had thrived for millions of years died out within the short period that Homo Sapiens had arrived.
+Homo sapiens are responsible for the biggest ecological disaster. Upon exploring new lands such as Australia, The America's and The Carribean, fauna that had thrived for millions of years died out within the short period that Homo Sapiens had arrived.
 
 There are a few reasons this can be highlighted to be due to Homo Sapien behaviour and not due to Climate Change:
 

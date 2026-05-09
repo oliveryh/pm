@@ -2,12 +2,11 @@
 
 ---
 
-
 # Questions
 
 ## When
 
-- Don’t go 22nd August to 28th August because this is when the UTMB is running and it’ll hard to walk the trail
+- Don't go 22nd August to 28th August because this is when the UTMB is running and it'll hard to walk the trail
 
 ## How Much
 
@@ -48,7 +47,7 @@
 
 # Log
 
-## 2022-05-09 - Booked Flight  
+## 2022-05-09 - Booked Flight
 
 R4GJVY
 

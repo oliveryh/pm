@@ -1,7 +1,6 @@
 # Actions
 
-- [ ] Move away accounts that link to Outlook
-- [ ] Delete account
+- [ ] Migrate accounts away from outlook as primary email
 
 # Log
 

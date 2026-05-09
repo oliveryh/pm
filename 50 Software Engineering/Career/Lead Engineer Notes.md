@@ -11,6 +11,7 @@ Notes on technical leadership, team dynamics, mentorship, and strategic thinking
 ## 2025-09-11
 
 - Podcast discussing career pyramid and the management role: https://podcasts.apple.com/gb/podcast/the-pragmatic-engineer/id1769051199?i=1000725919628
+
 ## 2025-07-01
 
 - Chat with [[Andy Kilner]] over lunch:
@@ -85,4 +86,3 @@ Initial questions when considering moving into a tech lead role:
 - What do I lack
 	- Line Management skills
 	- Hiring skills
-

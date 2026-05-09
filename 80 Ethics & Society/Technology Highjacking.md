@@ -6,9 +6,9 @@ When we're given a choice or a "menu" we rarely ask what's *not on* the menu, or
 
 > The more choices technology gives us in nearly every domain of our lives (information, events, places to go, friends, dating, jobs) the more we assume that our phone is always the most empowering and useful menu to pick from.
 
-- "Who’s free tonight to hang out?" -> menu of most recent people who texted us (who we could ping).
-- "What’s happening in the world?" -> menu of news feed stories.
-- "Who’s single to go on a date?" -> menu of faces to swipe on Tinder (instead of local events with friends, or urban adventures nearby).
+- "Who's free tonight to hang out?" -> menu of most recent people who texted us (who we could ping).
+- "What's happening in the world?" -> menu of news feed stories.
+- "Who's single to go on a date?" -> menu of faces to swipe on Tinder (instead of local events with friends, or urban adventures nearby).
 
 # Slot Machine
 

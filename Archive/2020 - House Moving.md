@@ -34,7 +34,7 @@
 - Close to areas of interest (Shoreditch, Hackney)
 - If using a tube to commute, [sub-surface lines](http://www.squarewheels.org.uk/bike/LUbikes) are better
 - Walk home from work goes passed a reasonably good food shop
-- In choosing between living with 0-1 people vs 2 or more people, remember that ascertaining responsibility will no longer be instantaneous with more than one roommate (“whose dishes are these?”).
+- In choosing between living with 0-1 people vs 2 or more people, remember that ascertaining responsibility will no longer be instantaneous with more than one roommate ("whose dishes are these?").
 
 # House Search Methodology
 

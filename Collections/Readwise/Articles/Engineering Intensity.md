@@ -16,4 +16,4 @@
 
 ## Highlights
 
-- how software engineering is done. If you push too hard for a team you will burn them out. There are moments when the team needs to put more time and effort - and that’s okay. But most of the time it shouldn’t feel hard. ([View Highlight](https://read.readwise.io/read/01h4xx124evyr1bbwm3tas0rdp))
+- how software engineering is done. If you push too hard for a team you will burn them out. There are moments when the team needs to put more time and effort - and that's okay. But most of the time it shouldn't feel hard. ([View Highlight](https://read.readwise.io/read/01h4xx124evyr1bbwm3tas0rdp))

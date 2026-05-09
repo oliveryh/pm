@@ -17,4 +17,4 @@
 
 ## Highlights
 
-- As we’ve [written about before](https://headlineshq.substack.com/p/issue-no-010-we-vs-me), friendship and community are essential to our emotional well-being. The longest-ever longitudinal study on human life found that deep relationships hold, by far, the [strongest correlation with our health and happiness](https://www.theatlantic.com/ideas/archive/2023/01/harvard-happiness-study-relationships/672753/). ([View Highlight](https://read.readwise.io/read/01j0dwp5saq05rfk1hk3v2swjs))
+- As we've [written about before](https://headlineshq.substack.com/p/issue-no-010-we-vs-me), friendship and community are essential to our emotional well-being. The longest-ever longitudinal study on human life found that deep relationships hold, by far, the [strongest correlation with our health and happiness](https://www.theatlantic.com/ideas/archive/2023/01/harvard-happiness-study-relationships/672753/). ([View Highlight](https://read.readwise.io/read/01j0dwp5saq05rfk1hk3v2swjs))

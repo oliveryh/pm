@@ -16,5 +16,5 @@
 
 ## Highlights
 
-- The researchers said the UK should introduce policies to help people reduce the amount of meat they eat in order to meet the nation’s climate targets. Ministers have repeatedly said they will [not tell people what to consume](https://www.theguardian.com/environment/2021/oct/20/meat-tax-and-frequent-flyer-levy-advice-dropped-from-uk-net-zero-strategy), despite the precedent of, for example, taxes on high-sugar drinks. ([View Highlight](https://read.readwise.io/read/01h6gkh8rsb5gntkmvxyhxeprw))
+- The researchers said the UK should introduce policies to help people reduce the amount of meat they eat in order to meet the nation's climate targets. Ministers have repeatedly said they will [not tell people what to consume](https://www.theguardian.com/environment/2021/oct/20/meat-tax-and-frequent-flyer-levy-advice-dropped-from-uk-net-zero-strategy), despite the precedent of, for example, taxes on high-sugar drinks. ([View Highlight](https://read.readwise.io/read/01h6gkh8rsb5gntkmvxyhxeprw))
 - The study also showed that low-meat diets – less than 50g a day – had half the impact of high-meat diets on greenhouse gas emissions, water pollution and land use. However, the differences between low-meat, pescetarian and vegetarian diets were relatively small. ([View Highlight](https://read.readwise.io/read/01h6gkkn063sz4r4wsfwwn0w8d))

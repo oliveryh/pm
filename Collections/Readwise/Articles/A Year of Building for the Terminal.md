@@ -16,7 +16,7 @@
 
 ## Highlights
 
-- I built a tool called [Dunk](https://github.com/darrenburns/dunk). It’s a command line program which you can pipe your `git diff` output into, and it’ll convert it into something which I find much more readable. ([View Highlight](https://read.readwise.io/read/01gna6hp5zapn02wjf92f9kq4x))
+- I built a tool called [Dunk](https://github.com/darrenburns/dunk). It's a command line program which you can pipe your `git diff` output into, and it'll convert it into something which I find much more readable. ([View Highlight](https://read.readwise.io/read/01gna6hp5zapn02wjf92f9kq4x))
     - Note: It could be worth replacing my current git diff driver with this.
 - Developer console
   When developing terminal based applications, performing simple debugging using `print` can be difficult, since the terminal is in application mode.

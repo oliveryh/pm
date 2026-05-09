@@ -1,6 +1,5 @@
 # Log
 
-
 ## 2026-04-26
 
 - Met George and Jason
@@ -26,6 +25,7 @@
 ## 2025-12-16
 
 - Games club on Thursday that Maro mentioned from the tennis group
+
 ## 2025-11-30
 
 - Went to the Sunday Social tennis session at Victoria Park in Leamington
@@ -47,4 +47,3 @@
 ## 2024-08-21
 
 - Jack wants to play tennis after work sometime soon
-

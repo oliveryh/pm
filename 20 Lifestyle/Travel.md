@@ -14,9 +14,9 @@
 
 ## Driving
 
-- Avoid driving when it’s particularly windy or rainy
+- Avoid driving when it's particularly windy or rainy
 	- If unavoidable, then take more major routes
-- Use windscreen wipers if Lorrie’s are passing you and it’s wet
+- Use windscreen wipers if Lorrie's are passing you and it's wet
 - Trust road markings over satnav lanes
 - Make sure your phone is charged and the charging cable works
 - Check tyre pressure and windscreen wiper fluid levels before long trips
@@ -28,10 +28,11 @@
 
 ## 2025-11-27
 
-- Trying to do coding while offline is proving to be quite a frustrating process. I’m depending too much on the following:
+- Trying to do coding while offline is proving to be quite a frustrating process. I'm depending too much on the following:
 	- Data set up locally to do local development
 	- GitHub issue details being available
-	- Docs for various libraries that I’m using being available
+	- Docs for various libraries that I'm using being available
+
 ## 2025-09-14
 
 - Improved holiday experience checklist:
@@ -59,8 +60,8 @@
 ## 2025-04-08
 
 - Trying to do coding while offline is quite frustrating — too dependent on GitHub issue details, library docs, and locally available data
-- Avoid getting sandwich before train as you’ll feel bloated
-- Turnstiles at train station may not open for a later train time if it’s at least 1h away
+- Avoid getting sandwich before train as you'll feel bloated
+- Turnstiles at train station may not open for a later train time if it's at least 1h away
 - A 9pm train home is okay for a Django event if you want to stick around for less time
 
 ## 2025-03-07
@@ -77,4 +78,3 @@
 ## 2024-01-03
 
 - I'd quite like to find an offline map that's reliable — something like Organic Maps or OsmAnd
-

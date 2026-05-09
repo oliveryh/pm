@@ -1,1 +1,0 @@
-- [ ] Call Granny Marcia to thank her for the socks

@@ -16,6 +16,6 @@
 
 ## Highlights
 
-- Normally, it would’ve been a problem. But it’s not if you are using CRDT!
+- Normally, it would've been a problem. But it's not if you are using CRDT!
 
-  > CRDT is a collection of data types that all share a very nice property: they can always be merged. It’s not always the perfect merge, and not everything can be made into a CRDT, but IF you can put your data into a CRDT, you can be sure: all merges will go without conflicts. ([View Highlight](https://read.readwise.io/read/01j1mbjrmks2smys6xxbw2v5y2))
+  > CRDT is a collection of data types that all share a very nice property: they can always be merged. It's not always the perfect merge, and not everything can be made into a CRDT, but IF you can put your data into a CRDT, you can be sure: all merges will go without conflicts. ([View Highlight](https://read.readwise.io/read/01j1mbjrmks2smys6xxbw2v5y2))

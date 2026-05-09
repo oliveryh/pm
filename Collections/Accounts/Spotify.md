@@ -1,7 +1,6 @@
 # Actions
 
-- [ ] Consider migrating to Apple Music
-	- Chloe has bought Apple One with the intention of us switching to that. We should either both have Spotify or both have Apple Music but not pay for both
+- [[Migrate Spotify to Apple Music]]
 
 # Log
 

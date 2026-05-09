@@ -21,5 +21,5 @@ The trip helped me realize that I should be playing a more macro level game and 
 
 ## Highlights
 
-- As a creator of technology, it’s my responsibility to help steward the next generation to thrive in a world I helped invent. ([View Highlight](https://read.readwise.io/read/01gy72xa5xts9nfembsa9b6hmx))
-- Out of every one hundred men, ten shouldn’t even be there, eighty are just targets, nine are the real fighters, and we are lucky to have them, for they make the battle. Ah, but the one, one is a warrior, and he will bring the others back. Heraclitus ([View Highlight](https://read.readwise.io/read/01gy72ygp96yq38df0fcpkfmxf))
+- As a creator of technology, it's my responsibility to help steward the next generation to thrive in a world I helped invent. ([View Highlight](https://read.readwise.io/read/01gy72xa5xts9nfembsa9b6hmx))
+- Out of every one hundred men, ten shouldn't even be there, eighty are just targets, nine are the real fighters, and we are lucky to have them, for they make the battle. Ah, but the one, one is a warrior, and he will bring the others back. Heraclitus ([View Highlight](https://read.readwise.io/read/01gy72ygp96yq38df0fcpkfmxf))

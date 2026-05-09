@@ -16,4 +16,4 @@
 
 ## Highlights
 
-- See [The Value Flywheel Effect book](https://www.amazon.com/Value-Flywheel-Effect-Accelerate-Organization/dp/1950508579/) for more on serverless first, and read Sam Newman’s [Building Microservices: Desiging Fine-Grained Systems](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1492034029/) book to get the best practices on when and how to use the techniques to effectively build, manage and operate this way. ([View Highlight](https://read.readwise.io/read/01h2zp53z989s55fftrrn20ej4))
+- See [The Value Flywheel Effect book](https://www.amazon.com/Value-Flywheel-Effect-Accelerate-Organization/dp/1950508579/) for more on serverless first, and read Sam Newman's [Building Microservices: Desiging Fine-Grained Systems](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1492034029/) book to get the best practices on when and how to use the techniques to effectively build, manage and operate this way. ([View Highlight](https://read.readwise.io/read/01h2zp53z989s55fftrrn20ej4))

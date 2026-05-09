@@ -9,6 +9,7 @@
 ## 2025-10-12
 
 - Could get new recycling bin (next door may have one of ours)
+
 ## 2025-07-26
 
 - Should get PiHole added to the home network
@@ -34,4 +35,3 @@
 ## 2024-09-02
 
 - Deep cleaned the house — mind feels calmer after doing so. Clarity to think about the small things.
-

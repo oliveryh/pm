@@ -4,8 +4,6 @@
 
 # Tasks
 
-- [ ] Set up online account
-
 # Important Information
 
 - Reference Number: 0080126411
@@ -42,7 +40,7 @@
 
 ##  2023-02-27
 
-- Confirmed that I received ~£60 because I didn’t collect some lenses
+- Confirmed that I received ~£60 because I didn't collect some lenses
 - Put pause on payments
     - Next direct debit earliest  2023-08-28
     - Earliest next delivery  2023-10-08
@@ -59,7 +57,7 @@
 
 - Contact Lens Check
     - Blepharitis
-        - Suggested that current wipes aren’t medicated so aren’t as affective
+        - Suggested that current wipes aren't medicated so aren't as affective
         - Suggested buying Blephawipes / Blephagel
         - 2 x daily AM + PM
         - Reduced usage after a few weeks

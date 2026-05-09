@@ -16,8 +16,8 @@
 
 ## Highlights
 
-- you don’t remember everything you did
-  One thing I’m always struck by when it comes to performance review time is a feeling of “wait, what *did* I do in the last 6 months?“. This is a kind of demoralizing feeling and it’s usually not based in reality, more in “I forgot what cool stuff I actually did”.
+- you don't remember everything you did
+  One thing I'm always struck by when it comes to performance review time is a feeling of "wait, what *did* I do in the last 6 months?". This is a kind of demoralizing feeling and it's usually not based in reality, more in "I forgot what cool stuff I actually did".
   I invariably end up having to spend a bunch of time looking through my pull requests, tickets, launch emails, design documents, and more. I always end up finding small (and sometimes not-so-small) things that I completely forgot I did, like:
   • mentored an intern 5 months ago
   • did a small-but-important security project

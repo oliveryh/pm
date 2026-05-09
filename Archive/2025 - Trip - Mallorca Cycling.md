@@ -55,7 +55,7 @@ I could also easily create a dataview query of all incomplete tasks and check th
 - [x] Travel Insurance
 - [x] Book transport to/from airport
 - [x] Settle payments
-- [x] Email Car Hire that we’ll need an estate car where you can put the seats down
+- [x] Email Car Hire that we'll need an estate car where you can put the seats down
 
 # Cycling Locations
 

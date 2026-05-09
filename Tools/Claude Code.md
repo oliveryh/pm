@@ -1,12 +1,14 @@
-
 # Actions
 
 - [x] Try out Claude Channels
 - [x] See if there is a way to use Claude Code from mobile and edit [[pm]] with headless Obsidian Sync
 - [x] Fix permissions so Write and Edit on vault markdown files are auto-approved without prompting
-- [ ] Add Google Calendar skill
-- [ ] Update triage skill to use grep to search for tasks as otherwise context is lost
+
 # Log
+
+## 2026-05-01
+
+- Generated a printable A4 daily agenda from tomorrow's daily note, styled as an architectural/engineering schematic — double-line border, grid background, zone-coded task sections (A–G), fill-in START/DUR fields, and a title block. Saved as `Media/agenda-2026-05-02.html`.
 
 ## 2026-04-16
 

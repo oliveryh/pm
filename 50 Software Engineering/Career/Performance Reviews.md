@@ -43,7 +43,6 @@ High level biases to avoid
 - KM moved into the Flex Gateway team during 2024
 - Displays values: Simplicity, Adaptability
 - Working alongside a relatively senior team
-
 - Looking into the baseline expectations of Kayleigh, she's expected to perform consistently in familiar contexts
 - From what I can see, she's continued to perform well in unfamiliar contexts such as moving into the Flex Gateway team
 - She's also engaged with wider production discussions around Confirm Entry and Ongoing Qualification

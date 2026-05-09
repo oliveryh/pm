@@ -26,9 +26,9 @@ Policy Number: 3219595950
 - Called to notify about the addition of the garden room to the policy
 - Told them that we have added a garden room
     - Connected to mains
-    - Nothing of value stored inside (we don’t have contents insurance and the harp is insured separately
+    - Nothing of value stored inside (we don't have contents insurance and the harp is insured separately
 - They said this comes under the building insurance
-- They also stressed there’s currently no contents insurance
+- They also stressed there's currently no contents insurance
 
 ##  2025-05-04
 

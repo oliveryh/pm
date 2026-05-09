@@ -8,7 +8,7 @@
 - Full Title: Is It Too Late to Keep Global Warming Below 1.5 °C? The Challenge in 7 Charts
 - Category: #articles
 - Document Tags: [[energy]]
-- Summary: Chances are rapidly disappearing to limit Earth’s temperature rise to the globally agreed mark, but researchers say there are some positive signs of progress.
+- Summary: Chances are rapidly disappearing to limit Earth's temperature rise to the globally agreed mark, but researchers say there are some positive signs of progress.
 - URL: https://www.nature.com/immersive/d41586-023-03601-6/index.html
 
 ## Full Document

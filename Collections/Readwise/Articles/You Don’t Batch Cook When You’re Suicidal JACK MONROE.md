@@ -1,11 +1,11 @@
-# You Don’t Batch Cook When You’re Suicidal | JACK MONROE
+# You Don't Batch Cook When You're Suicidal | JACK MONROE
 
 ![rw-book-cover](https://i0.wp.com/cookingonabootstrap.com/wp-content/uploads/2013/12/20131231-011100.jpg?fit=640%2C767&ssl=1)
 
 ## Metadata
 
 - Author: [[COOKING ON A BOOTSTRAP]]
-- Full Title: You Don’t Batch Cook When You’re Suicidal | JACK MONROE
+- Full Title: You Don't Batch Cook When You're Suicidal | JACK MONROE
 - Category: #articles
 - Document Tags: [[wellbeing]]
 - Summary: than oven chips. It disappeared from my site when it crashed late last year, but for posterity I have reposted it in its unedited entirety]
@@ -13,7 +13,7 @@
 
 ## Full Document
 
-[[Full Document Contents/Articles/You Don’t Batch Cook When You’re Suicidal JACK MONROE.md|See full document content →]]
+[[Full Document Contents/Articles/You Don't Batch Cook When You're Suicidal JACK MONROE.md|See full document content →]]
 
 ## Highlights
 

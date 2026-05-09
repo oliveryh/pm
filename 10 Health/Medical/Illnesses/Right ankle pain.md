@@ -49,7 +49,7 @@ Insurance Company: Vitality
 ##  2025-07-31  - Specialist Physiotherapist Session 2
 
 - Notes from Ruth
-    - I’ve emailed the exercise programme – remember to elevate the heel with the lunge as shown in the video below.  Also if the single leg wall calf raises feel to hard then just up the reps of the double leg ones – or mix and match
+    - I've emailed the exercise programme – remember to elevate the heel with the lunge as shown in the video below.  Also if the single leg wall calf raises feel to hard then just up the reps of the double leg ones – or mix and match
     - Keep remembering to relax the foot and to trust it
     - Try an elasticated ankle support for longer walks whilst on holiday to give the brain some reassurance and prevent any protective tightening in the muscles
 - Made progress on mobility
@@ -60,16 +60,16 @@ Insurance Company: Vitality
 
 - Went to see Ruth Elvis at Spire Parkway Hospital in Solihull for an initial consultation
 - Suggestions from her
-    - Don’t worry too much about high impact exercises
-        - The XRay and MRI suggest that there isn’t much damage to the ligaments, so it would be unlike to cause further damage
-    - Suggested on days when I’m doing longer walks, to anticipate the pain and ice the foot
+    - Don't worry too much about high impact exercises
+        - The XRay and MRI suggest that there isn't much damage to the ligaments, so it would be unlike to cause further damage
+    - Suggested on days when I'm doing longer walks, to anticipate the pain and ice the foot
         - This gives the foot a different stimulation to focus on
-    - Bulge on foot is too far away from the site you’d normally expect an impingement
+    - Bulge on foot is too far away from the site you'd normally expect an impingement
     - Try to not be scared pushing myself occasionally
 - Diagnosis
     - We did various mobility tests and it was clear that mobility on my right side was impaired
     - Likely due to a tight/immobile muscles supporting the ankle
-    - The body has the ability to shorten various muscles to try to “protect” the ankle, and this lack of mobility now may be working against me
+    - The body has the ability to shorten various muscles to try to "protect" the ankle, and this lack of mobility now may be working against me
 - She also asked me to try understand where the pain originates from
 
 
@@ -99,10 +99,10 @@ Received summary from Consultant about diagnosis
 ##  2025-06-24
 
 ![[Spire Medical Phyisotherapy Referral.pdf]]
-- Had a back and forth with my health insurance company and Spire medical Centre to understand if they’d cover the physio therapy that I was referred to from the consultant
+- Had a back and forth with my health insurance company and Spire medical Centre to understand if they'd cover the physio therapy that I was referred to from the consultant
 - The name of the specific physiotherapist was Ruth Harrison (maiden name Elvis)
-- As long as the sessions are billed as a department then Vitality said they’d cover £35 per session
-- They said they’d cover up to 5 sessions before needing re-approving
+- As long as the sessions are billed as a department then Vitality said they'd cover £35 per session
+- They said they'd cover up to 5 sessions before needing re-approving
 - The cost breakdown of the sessions are
     - £80 Initial Consultation
     - £52 per session after that
@@ -113,9 +113,9 @@ Received summary from Consultant about diagnosis
 - Had second consultant meeting with specialist
 - Stated that in X Ray my mid bone structure was pointing downwards
 - Suggested avoiding high impact movement without specialist shoes
-- Referred me to physiotherapist to “learn how to walk again”
+- Referred me to physiotherapist to "learn how to walk again"
 - Believes no surgery intervention is needed but stresses that without physiotherapy the problem will only worsen
-- I handed in the physiotherapy note into the reception and they said they’d give me a call
+- I handed in the physiotherapy note into the reception and they said they'd give me a call
 - The specialist suggest a specific physiotherapist
 
 ##  2025-06-17

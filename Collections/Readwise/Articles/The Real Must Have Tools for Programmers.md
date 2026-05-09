@@ -8,7 +8,7 @@
 - Full Title: The Real "Must Have" Tools for Programmers
 - Category: #articles
 - Summary: Forget programs. The most important productivity tool for programming is your mind. And the next best set of software development tools are ones that take care of you.
-It isn’t about Git. Or Docker. Or testing frameworks. These are all useful tools. I use them daily. But they are not the most important software development tools.
+It isn't about Git. Or Docker. Or testing frameworks. These are all useful tools. I use them daily. But they are not the most important software development tools.
 Your wellbeing is, in fact, the most important factor in your ability to write good software.
 - URL: https://jamesdunne.dev/posts/must-have-programming-tools/
 

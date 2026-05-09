@@ -33,6 +33,10 @@ I store recipes in [[Collections/Accounts/Thymer|Thymer]] that I make regularly
 
 # Log
 
+## 2026-04-29
+
+- Recipe to try: https://youtube.com/shorts/uvO_N7RLaEM
+
 ## 2025-04-30
 
 - Good [naan recipe](https://www.youtube.com/watch?v=5u1yaZMP5uA&pp=ygUVWWVhc3QgZnJlZSBuYWFuIGJyZWFk)
@@ -52,7 +56,7 @@ I store recipes in [[Collections/Accounts/Thymer|Thymer]] that I make regularly
 
 ## 2024-09-14
 
-- I was also looking ways to bulk cook. Perhaps some freezable breakfast burritos that use the protein wraps we’ve bought.
+- I was also looking ways to bulk cook. Perhaps some freezable breakfast burritos that use the protein wraps we've bought.
 
 ## 2024-07-23
 

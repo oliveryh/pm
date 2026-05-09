@@ -17,5 +17,5 @@
 
 ## Highlights
 
-- Medieval students called the moment at which casual learners fail the pons asinorum, or “bridge of asses.” The term was inspired by Proposition 5 of Euclid’s Elements I, the first truly difficult idea in the book. Those who crossed the bridge would go on to master geometry; ([View Highlight](https://read.readwise.io/read/01hfbq4hdx6s89yjqhvphrxwgv))
+- Medieval students called the moment at which casual learners fail the pons asinorum, or "bridge of asses." The term was inspired by Proposition 5 of Euclid's Elements I, the first truly difficult idea in the book. Those who crossed the bridge would go on to master geometry; ([View Highlight](https://read.readwise.io/read/01hfbq4hdx6s89yjqhvphrxwgv))
 - The world of computing, I came to learn, is vast but organized almost geologically, as if deposited in layers. From the Web browser down to the transistor, each sub-area or system is built atop some other, older sub-area or system, the layers dense but legible. ([View Highlight](https://read.readwise.io/read/01hfbq9q8yaewt220vc36ed0tx))

@@ -1,7 +1,5 @@
-
 # Actions
 
-- [ ] Consider fixed rate again in May
 # Log
 
 ## 2026-04-06

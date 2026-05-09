@@ -9,6 +9,7 @@ I created a reproduction repo https://github.com/oliveryh/jazz-tools-local-issue
 This will have been the second thing I added to the account root schema, so I needed to do a partial migration.
 
 https://jazz.tools/docs/react/schemas/accounts-and-migrations#undefined
+
 ## 2025-03-30
 
 There appears to be a good example of workers in https://github.com/Unicorn-Poo
@@ -47,4 +48,3 @@ After getting the project set up, I could get the improved formatting in VSCode 
 ```
 
 I realised that until I have TLS on my Linode server, I may not be able use the Jazz Tools cloud as it's a Secure Websocket
-

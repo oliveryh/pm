@@ -1,7 +1,5 @@
 # Actions
 
-- [ ] Investigate Kraken female health benefit for Chloe
-
 # Events & Entertainment
 
 ## Gigs

@@ -1,4 +1,4 @@
-OP probably doesn’t need these, but I’m gonna drop them here for anyone else who relates to this post:
+OP probably doesn't need these, but I'm gonna drop them here for anyone else who relates to this post:
 
 [https://english.emmaclit.com/2017/05/20/you-shouldve-asked/](https://english.emmaclit.com/2017/05/20/you-shouldve-asked/)
 

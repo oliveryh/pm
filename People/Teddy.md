@@ -2,10 +2,9 @@ Teddy is a cat.
 
 # Actions
 
-- [ ] Clip nails
 - [ ] Buy break-away collar
 - [ ] Confirm transfer of Microchip transfer
-- [ ] Share street group chat about Teddy
+- [ ] Share street group chat about Teddy #next
 - [ ] Note down specific vaccines from Vets
 
 # Reference
@@ -35,6 +34,14 @@ Teddy is a cat.
 
 # Log
 
+## 2026-24-28
+
+- Bought nail clippers but read online that for outdoor cats you should really clip their nails - I'll ask the vet
+
+## 2026-04-30
+
+- Noticed something on his stomach — possibly a skin tag, worth monitoring and mentioning at next vet visit
+
 ## 2026-04-26
 
 - Reduced food intake to 2 portions per day (down from 3)
@@ -57,7 +64,7 @@ Teddy is a cat.
 ## 2026-03-25
 
 - Feeder appears to dispense 7g per unit
-- I’ve set up 3 portions of 3 units each day to start with
+- I've set up 3 portions of 3 units each day to start with
 
 ## 2026-03-24
 

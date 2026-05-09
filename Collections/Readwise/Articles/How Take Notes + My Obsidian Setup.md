@@ -8,7 +8,7 @@
 - Full Title: How Take Notes + My Obsidian Setup
 - Category: #articles
 - Document Tags: [[tools for thought]]
-- Summary: Sebastian De Deyne shares his experience using Obsidian as a minimalist and customizable note-taking tool. He organizes his notes using a "Now, Next, Notes" system and focuses on maintaining a clear structure to aid his workflow. De Deyne emphasizes that Obsidian’s simplicity and extensibility allow him to tailor the app to his needs without unnecessary complexity.
+- Summary: Sebastian De Deyne shares his experience using Obsidian as a minimalist and customizable note-taking tool. He organizes his notes using a "Now, Next, Notes" system and focuses on maintaining a clear structure to aid his workflow. De Deyne emphasizes that Obsidian's simplicity and extensibility allow him to tailor the app to his needs without unnecessary complexity.
 - URL: https://sebastiandedeyne.com/how-take-notes-my-obsidian-setup
 
 ## Full Document

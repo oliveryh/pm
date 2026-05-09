@@ -19,7 +19,7 @@ Vitality Status: Silver
 
 Vitality offer a reward where you pay an upfront cost and then each month payment is offset depending on the number of points you earn. The contract length is 36 months
 
-Vitality’s Monthly Contributions for an Apple Watch Series 9
+Vitality's Monthly Contributions for an Apple Watch Series 9
 
 | Points | Contribution (£) |
 | --- | --- |
@@ -50,19 +50,19 @@ To earn Vitality Points, you can look at [How to Earn Points](https://members.vi
 - 4 days a week of 7k walks = 3 * 4 * 4 = 48 points
 - 1 gym session a week = 5 * 1 * 4 = 20
 
-So that’s 68 points a month. So I’ll be paying £7 a month for 36 months = £252. Alongside the initial cost of £39, that totals 252+39 = £291 (The RRP is apparently £419).
+So that's 68 points a month. So I'll be paying £7 a month for 36 months = £252. Alongside the initial cost of £39, that totals 252+39 = £291 (The RRP is apparently £419).
 
 ## High Effort Month
 
 - 4 days a week of 10k walks = 5 * 4 * 4 = 80 points
 - 3 gym sessions or 30 minute exercise a week = 5 * 3 * 4 = 60
 
-So that’s 140 points a month. So I’ll be paying £2 a month for 36 months = £72. Alongside the initial cost of £39, that totals 72+39 = £111
+So that's 140 points a month. So I'll be paying £2 a month for 36 months = £72. Alongside the initial cost of £39, that totals 72+39 = £111
 
 ## Terms and Conditions
 
 [Terms and Conditions](https://members.vitality.co.uk/identity/login/member/Wso2IdentityServer?returnUrl=%2Fpartners-and-rewards%2Fapple-watch%2Fterms-and-conditions)
-If I leave early (because I’ve left Piclo), then Vitality will no longer make contributions to the Lender on my behalf, so I’d effectively be paying off the loan. ([source](https://www.vitality.co.uk/rewards/partners/active-rewards/apple-watch/apple-watch-terms/#:~:text=we%20will%20no%20longer%20make%20any%20contributions%20to%20the%20Lender%20on%20your%20behalf%3B))
+If I leave early (because I've left Piclo), then Vitality will no longer make contributions to the Lender on my behalf, so I'd effectively be paying off the loan. ([source](https://www.vitality.co.uk/rewards/partners/active-rewards/apple-watch/apple-watch-terms/#:~:text=we%20will%20no%20longer%20make%20any%20contributions%20to%20the%20Lender%20on%20your%20behalf%3B))
 
 ## Tips from Colleagues
 

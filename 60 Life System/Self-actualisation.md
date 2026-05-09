@@ -26,15 +26,15 @@ https://medium.com/@belinda.rowse/odyssey-planning-re-framing-the-five-year-plan
 
 # General Tips
 
-- Keep your identity small. “I’m not the kind of person who does things like that” is not an explanation, it’s a trap. It prevents nerds from working out and men from dancing.
-- Sometimes unsolvable questions like “what is my purpose?” and “why should I exist?” lose their force upon lifestyle fixes. In other words, seeing friends regularly and getting enough sleep can go a long way to solving existentialism.
+- Keep your identity small. "I'm not the kind of person who does things like that" is not an explanation, it's a trap. It prevents nerds from working out and men from dancing.
+- Sometimes unsolvable questions like "what is my purpose?" and "why should I exist?" lose their force upon lifestyle fixes. In other words, seeing friends regularly and getting enough sleep can go a long way to solving existentialism.
 - In your current profession many people will say that managing people is the only way to progress. Management is not a promotion, it is a change of profession [^charity-wtf]
 
 [^charity-wtf]: https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/
 
 # Being in the right job
 
-You don’t have to love your job. Jobs can be many things, but they’re also a way to make money. Many people live fine lives in okay jobs by using the money they make on things they care about.
+You don't have to love your job. Jobs can be many things, but they're also a way to make money. Many people live fine lives in okay jobs by using the money they make on things they care about.
 
 This idea is also repeated in the Effective Altruism community for making change. They say that you should work in a high earning job so you can best supplement charitable organisations. Something that may be better serving than joining an NGO.
 
@@ -58,9 +58,9 @@ https://stephango.com/40-questions
 
 # Mental Airtime
 
-The YouTuber “Better Ideas” talks about a concept of [Mental Air Time](https://www.youtube.com/watch?v=fvRDBpEliEU&list=WL&index=156&t=301s&pp=gAQBiAQB) whereby we struggle to concentrate in situations because we’re aware that we’re not the best version of ourself.
+The YouTuber "Better Ideas" talks about a concept of [Mental Air Time](https://www.youtube.com/watch?v=fvRDBpEliEU&list=WL&index=156&t=301s&pp=gAQBiAQB) whereby we struggle to concentrate in situations because we're aware that we're not the best version of ourself.
 
-Since this thought is irrational, it requires a more emotional response as opposed to a rational narrative. The suggestion is to “submit” and trust that your future self has your best interests in hand. 
+Since this thought is irrational, it requires a more emotional response as opposed to a rational narrative. The suggestion is to "submit" and trust that your future self has your best interests in hand. 
 
 # Change
 
@@ -78,7 +78,7 @@ Fasting allows our body to reset and be attuned to the effects of particular foo
 
 Resume virtues bring you to the marketplace while eulogy virtues are the ones people speak about at your funeral.
 
-> Character is defined by how deeply rooted you are. Have you developed deep connections that hold you up in times of challenge and push you toward the good? In the realm of the intellect, a person of character has achieved a settled philosophy about fundamental things. In the realm of emotion, she is embedded in a web of unconditional loves. In the realm of action, she is committed to tasks that can’t be completed in a single lifetime. Her capacity for empathetic understanding expanded. She lived in a state of steady, devoted love with Lewes, the kind of second love that comes after a person is older, scarred a bit and enmeshed in responsibilities. people on the road to inner light do not find their vocations by asking, what do I want from life? They ask, what is life asking of me? How can I match my intrinsic talent with one of the world’s deep needs? [^moral-bucket-list]
+> Character is defined by how deeply rooted you are. Have you developed deep connections that hold you up in times of challenge and push you toward the good? In the realm of the intellect, a person of character has achieved a settled philosophy about fundamental things. In the realm of emotion, she is embedded in a web of unconditional loves. In the realm of action, she is committed to tasks that can't be completed in a single lifetime. Her capacity for empathetic understanding expanded. She lived in a state of steady, devoted love with Lewes, the kind of second love that comes after a person is older, scarred a bit and enmeshed in responsibilities. people on the road to inner light do not find their vocations by asking, what do I want from life? They ask, what is life asking of me? How can I match my intrinsic talent with one of the world's deep needs? [^moral-bucket-list]
 
 As Paul Tillich put it, suffering introduces you to yourself and reminds you that you are not the person you thought you were.
 [^moral-bucket-list]: https://www.nytimes.com/2015/04/12/opinion/sunday/david-brooks-the-moral-bucket-list.html

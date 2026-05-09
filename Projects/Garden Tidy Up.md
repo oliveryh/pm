@@ -8,8 +8,8 @@ end_date:
 # Actions
 
 - [x] Move garden furniture around
-- [ ] Chop down the tree
+- [x] Chop down the tree
+- [x] Collect garden waste into yellow bag
+- [ ] Go to the tip #next
 - [ ] Get rid of the old planters
-- [ ] Go to the tip
 - [ ] Sell one of the bikes
-- [ ] Plan putting down grass seed (meadow seed recommended — sow now or in October)

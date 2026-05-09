@@ -16,6 +16,6 @@
 
 ## Highlights
 
-- refer to the book “The Effective Engineer” by Edmond Lau [¹]. This book provides valuable tips and strategies for optimizing your work and achieving your goals most effectively. ([View Highlight](https://read.readwise.io/read/01hwa07eb15648vp97g2sdyejp))
+- refer to the book "The Effective Engineer" by Edmond Lau [¹]. This book provides valuable tips and strategies for optimizing your work and achieving your goals most effectively. ([View Highlight](https://read.readwise.io/read/01hwa07eb15648vp97g2sdyejp))
 - Physical activities during your break can also help improve blood flow and reduce stress levels. Additionally, you can use this time to have a healthy snack or drink water to hydrate yourself. ([View Highlight](https://read.readwise.io/read/01hwa0gvzdydy9d5kcvrkh884n))
 - It is recommended to schedule short breaks, around 30 minutes, every 90 minutes throughout the day (i.e., 3:1 ratio). This will help you recharge and refocus, increasing productivity and better overall well-being. By taking regular breaks, you can avoid burnout and stay motivated throughout your workday. ([View Highlight](https://read.readwise.io/read/01hwa0h27dg7f32aat1ypsdken))

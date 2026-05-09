@@ -6,7 +6,7 @@ Notes: General service
 
 # Reference
 
-- Tires take 28” 700C SV15 Schwalbe inner tubes
+- Tires take 28" 700C SV15 Schwalbe inner tubes
 
 # Log
 

@@ -16,4 +16,4 @@
 
 ## Highlights
 
-- **If you’re a manager or senior contributor, set an example by prioritizing your own learning.** Busy as you might be, do your best to set aside regular time for learning and practicing new skills. Let your direct reports know what you’re doing and report back on what you’ve learned. You want them to recognize that learning is simply what you do at your organization. ([View Highlight](https://read.readwise.io/read/01j1abwk9mj8ff3zf10mx2xmsv))
+- **If you're a manager or senior contributor, set an example by prioritizing your own learning.** Busy as you might be, do your best to set aside regular time for learning and practicing new skills. Let your direct reports know what you're doing and report back on what you've learned. You want them to recognize that learning is simply what you do at your organization. ([View Highlight](https://read.readwise.io/read/01j1abwk9mj8ff3zf10mx2xmsv))
